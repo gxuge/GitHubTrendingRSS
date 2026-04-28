@@ -18,7 +18,7 @@ if [ ! -d "$OUTPUT_PATH" ]; then
     exit 1
 fi
 
-GIT_REPO_URL="https://mshibanami:${GITHUB_TOKEN}@github.com/mshibanami/GitHubTrendingRSS.git"
+GIT_REPO_URL="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
 
 cd "$OUTPUT_PATH"
 
