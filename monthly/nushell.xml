@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Nushell Monthly Trending</title>
+    <description>Monthly Trending of Nushell in GitHub</description>
+    <pubDate>Sat, 05 Sep 2026 05:32:35 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>omerxx/dotfiles</title>
+      <link>https://github.com/omerxx/dotfiles</link>
+      <description>&lt;p&gt;My dotfiles synced from localhost and remote machines&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f930de4c7490ba31dfdbdd07087576745496fe32f8b73a4ebffefa1a33bb8a42/omerxx/dotfiles" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Standard ML Daily Trending</title>
+    <description>Daily Trending of Standard ML in GitHub</description>
+    <pubDate>Sat, 05 Sep 2026 05:15:56 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>GoldenCheetah/GoldenCheetah</title>
+      <link>https://github.com/GoldenCheetah/GoldenCheetah</link>
+      <description>&lt;p&gt;Performance Software for Cyclists, Runners, Triathletes and Coaches&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/77a8ff0b3c57e39c0e7ff92544032c09f07bd9cf97bcaccb2278318fb8660866/GoldenCheetah/GoldenCheetah" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

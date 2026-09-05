@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub MLIR Daily Trending</title>
+    <description>Daily Trending of MLIR in GitHub</description>
+    <pubDate>Sat, 05 Sep 2026 05:13:30 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>triton-lang/triton</title>
+      <link>https://github.com/triton-lang/triton</link>
+      <description>&lt;p&gt;Development repository for the Triton language and compiler&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/045e0a471a1d559feed4e6243d3118a71bf0fd3047dc00ec3025c2d0d3111ce7/triton-lang/triton" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>triton-lang/triton-ascend</title>
+      <link>https://github.com/triton-lang/triton-ascend</link>
+      <description>&lt;p&gt;Triton language and compiler for Ascend NPU&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/0222e79275990720244c95e639ad9d132f96c458e91c73d0b8b25646d08458a6/triton-lang/triton-ascend" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

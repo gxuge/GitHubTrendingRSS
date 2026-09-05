@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub DM Weekly Trending</title>
+    <description>Weekly Trending of DM in GitHub</description>
+    <pubDate>Sat, 05 Sep 2026 05:19:06 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>goonstation/goonstation</title>
+      <link>https://github.com/goonstation/goonstation</link>
+      <description>&lt;p&gt;Repository for the Goonstation branch of SS13&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/252047483/60d91085-571f-4606-894c-6cd6ba10d32f" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ParadiseSS13/Paradise</title>
+      <link>https://github.com/ParadiseSS13/Paradise</link>
+      <description>&lt;p&gt;Paradise Station&#39;s GitHub main repository.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/27286452/52982532-d312-41ed-bb05-262684a47b6f" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>cmss13-devs/cmss13</title>
+      <link>https://github.com/cmss13-devs/cmss13</link>
+      <description>&lt;p&gt;Contains the code for CM-SS13&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4ff5efa60190ff99d343f110ccbcd78c63ae2000de924ac717b4f064b69fde89/cmss13-devs/cmss13" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>tgstation/tgstation</title>
+      <link>https://github.com/tgstation/tgstation</link>
+      <description>&lt;p&gt;The /tg/station branch of SS13.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1c499b8023e740f830fc0cf73e16576f24424e3daca0ae924bd26d6571a21d1d/tgstation/tgstation" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Aurorastation/Aurora.3</title>
+      <link>https://github.com/Aurorastation/Aurora.3</link>
+      <description>&lt;p&gt;The code for Aurorastation&#39;s new base, forked from Baystation12.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/42579199/c63bf346-bc81-41ed-90eb-767973123bb5" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>vgstation-coders/vgstation13</title>
+      <link>https://github.com/vgstation-coders/vgstation13</link>
+      <description>&lt;p&gt;Butts&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/6be70e045b0929ff1617d5a7485c612fa24a1b062a5813e11b9a0926f77f407a/vgstation-coders/vgstation13" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

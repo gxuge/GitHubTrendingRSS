@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub ReScript Monthly Trending</title>
+    <description>Monthly Trending of ReScript in GitHub</description>
+    <pubDate>Sat, 05 Sep 2026 05:34:06 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>enviodev/hyperindex</title>
+      <link>https://github.com/enviodev/hyperindex</link>
+      <description>&lt;p&gt;🚢 Ultra-Fast Multichain Indexer&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/8e5fb030cce0372f03406744696eda203aa26a7a4fb56789c5e0f86f45ad8f9c/enviodev/hyperindex" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

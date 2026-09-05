@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub OpenSCAD Weekly Trending</title>
+    <description>Weekly Trending of OpenSCAD in GitHub</description>
+    <pubDate>Sat, 05 Sep 2026 05:23:30 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>BelfrySCAD/BOSL2</title>
+      <link>https://github.com/BelfrySCAD/BOSL2</link>
+      <description>&lt;p&gt;The Belfry OpenScad Library, v2.0. An OpenSCAD library of shapes, masks, and manipulators to make working with OpenSCAD easier. BETA&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/182187489/7f60f080-3992-11eb-9baf-22e99510b07f" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>VoronDesign/VoronUsers</title>
+      <link>https://github.com/VoronDesign/VoronUsers</link>
+      <description>&lt;p&gt;Voron Community mods&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/221797941/34357c9f-33a6-4cde-ab43-28ef14d78bd1" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>wuphilipp/gello_mechanical</title>
+      <link>https://github.com/wuphilipp/gello_mechanical</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ce40b7de9772ee32f151354695559a14b9769d23bf8e8dcc2f5bcaf2bf9d9523/wuphilipp/gello_mechanical" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

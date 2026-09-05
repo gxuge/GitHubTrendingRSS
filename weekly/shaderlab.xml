@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub ShaderLab Weekly Trending</title>
+    <description>Weekly Trending of ShaderLab in GitHub</description>
+    <pubDate>Sat, 05 Sep 2026 05:25:18 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>shinyflvre/Mate-Engine</title>
+      <link>https://github.com/shinyflvre/Mate-Engine</link>
+      <description>&lt;p&gt;A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/723f3a5ef94d9509ba5df001c51fdfacc6a841daf5b4f20875810be8b2836127/shinyflvre/Mate-Engine" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>mob-sakai/SoftMaskForUGUI</title>
+      <link>https://github.com/mob-sakai/SoftMaskForUGUI</link>
+      <description>&lt;p&gt;Enhance Unity UI (uGUI) with advanced soft-masking features to create more visually appealing effects!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/158311266/63a7f38b-3ba2-4234-9af7-9e1284558caa" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>lilxyzw/lilToon</title>
+      <link>https://github.com/lilxyzw/lilToon</link>
+      <description>&lt;p&gt;Feature-rich shaders for avatars&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/324557639/7550db80-e187-11eb-82fc-2fdf68574dc1" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

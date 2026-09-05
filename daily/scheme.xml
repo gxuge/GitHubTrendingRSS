@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Scheme Daily Trending</title>
+    <description>Daily Trending of Scheme in GitHub</description>
+    <pubDate>Sat, 05 Sep 2026 05:15:33 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>MoganLab/mogan</title>
+      <link>https://github.com/MoganLab/mogan</link>
+      <description>&lt;p&gt;Mogan STEM Suite (based on GNU TeXmacs): Enjoy exploring science and technology!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/439616675/9fd37ad4-ceb7-43e3-a0f0-831e0781a7ba" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

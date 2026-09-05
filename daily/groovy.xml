@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Groovy Daily Trending</title>
+    <description>Daily Trending of Groovy in GitHub</description>
+    <pubDate>Sat, 05 Sep 2026 05:11:39 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>rundeck/rundeck</title>
+      <link>https://github.com/rundeck/rundeck</link>
+      <description>&lt;p&gt;Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/bf8107c5c57095cfdbffddb48694bb75a3c6e9fc1f2a0eab51b1514746ceb10c/rundeck/rundeck" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

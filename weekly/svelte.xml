@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Svelte Weekly Trending</title>
+    <description>Weekly Trending of Svelte in GitHub</description>
+    <pubDate>Sat, 05 Sep 2026 05:25:44 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>imputnet/cobalt</title>
+      <link>https://github.com/imputnet/cobalt</link>
+      <description>&lt;p&gt;best way to save what you love&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/673419b2b1fac542a84cc009401336079e0839326c6a0d67a25437165d1b966e/imputnet/cobalt" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>VERT-sh/VERT</title>
+      <link>https://github.com/VERT-sh/VERT</link>
+      <description>&lt;p&gt;The next-generation file converter. Open source, fully local* and free forever.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/25268bb6ef9bbcfc24dfd36accf19e08eb53ef20459edeae9a0146e0e6a01d4a/VERT-sh/VERT" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>open-webui/desktop</title>
+      <link>https://github.com/open-webui/desktop</link>
+      <description>&lt;p&gt;Open WebUI Desktop 🌐&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/85553fa26b1929294f84504c7cbc257c7684469298f6aa0fa2334fb5d2a6c786/open-webui/desktop" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>laanlabs/openPlan3D</title>
+      <link>https://github.com/laanlabs/openPlan3D</link>
+      <description>&lt;p&gt;Open source 2D/3D floor plan editor built with SvelteKit and Three.js&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5066bc2dcb9ef97dac3ea035380b1f1b4314dd209244f1a056f33edd018d806a/laanlabs/openPlan3D" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>PuruVJ/macos-web</title>
+      <link>https://github.com/PuruVJ/macos-web</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/79b47d9ba0fa4bea636f145d5834b0da51a20b44510c0141020cd5a70a05cc76/PuruVJ/macos-web" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>seanmorley15/AdventureLog</title>
+      <link>https://github.com/seanmorley15/AdventureLog</link>
+      <description>&lt;p&gt;Self-hostable travel tracker and trip planner.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/779449791/d2c92e75-cc4a-41a2-92a1-bb7f60cfa4a7" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>jikan-me/website</title>
+      <link>https://github.com/jikan-me/website</link>
+      <description>&lt;p&gt;Website source for Jikan.moe&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d0f0b5ce937777160b945efd59d6b6efdc929327cc69b62c94f9d01223d8e37a/jikan-me/website" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>aukspot/dles</title>
+      <link>https://github.com/aukspot/dles</link>
+      <description>&lt;p&gt;A curated collection of over 700 daily web games.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b2d0501b6b6c04f24d9192fd6acbc794442ed60fdb88cbda5b4576eedc530a6a/aukspot/dles" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

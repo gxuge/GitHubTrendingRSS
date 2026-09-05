@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub CoffeeScript Weekly Trending</title>
+    <description>Weekly Trending of CoffeeScript in GitHub</description>
+    <pubDate>Sat, 05 Sep 2026 05:18:38 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>FelisCatus/SwitchyOmega</title>
+      <link>https://github.com/FelisCatus/SwitchyOmega</link>
+      <description>&lt;p&gt;No longer maintained, see pinned issues&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a2d27003636c271022b82cd15fb0beaa46667db64a23a747b46c1dcdf800764e/FelisCatus/SwitchyOmega" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

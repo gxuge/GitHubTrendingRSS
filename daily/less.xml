@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Less Daily Trending</title>
+    <description>Daily Trending of Less in GitHub</description>
+    <pubDate>Sat, 05 Sep 2026 05:13:00 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Remix-Design/RemixIcon</title>
+      <link>https://github.com/Remix-Design/RemixIcon</link>
+      <description>&lt;p&gt;Open source neutral style icon system&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/161979323/ce941d00-7ee3-11e9-8ed2-6a3770b22cd8" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

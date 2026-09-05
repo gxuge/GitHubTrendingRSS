@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Thrift Weekly Trending</title>
+    <description>Weekly Trending of Thrift in GitHub</description>
+    <pubDate>Sat, 05 Sep 2026 05:26:00 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>apache/parquet-format</title>
+      <link>https://github.com/apache/parquet-format</link>
+      <description>&lt;p&gt;Apache Parquet Format&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/64355fdd752fd7f3343a591c4e81441ed0b5dc63ffffc19d27f631c606e3ebcb/apache/parquet-format" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

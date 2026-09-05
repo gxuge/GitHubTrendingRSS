@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub YAML Weekly Trending</title>
+    <description>Weekly Trending of YAML in GitHub</description>
+    <pubDate>Sat, 05 Sep 2026 05:26:46 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>GTFOBins/GTFOBins.github.io</title>
+      <link>https://github.com/GTFOBins/GTFOBins.github.io</link>
+      <description>&lt;p&gt;GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/25268bb6ef9bbcfc24dfd36accf19e08eb53ef20459edeae9a0146e0e6a01d4a/GTFOBins/GTFOBins.github.io" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>stashapp/CommunityScrapers</title>
+      <link>https://github.com/stashapp/CommunityScrapers</link>
+      <description>&lt;p&gt;This is a public repository containing scrapers created by the Stash Community.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b2764dbeea3c4e5c970bdf9c7f2e7b0346c35d13ba8007c9bc7686891d47a26a/stashapp/CommunityScrapers" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>aquaproj/aqua-registry</title>
+      <link>https://github.com/aquaproj/aqua-registry</link>
+      <description>&lt;p&gt;aqua&#39;s Standard Registry&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/402281482/35e14ecb-b2c8-4dd6-9000-85d9e18c4a0e" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>usnistgov/macos_security</title>
+      <link>https://github.com/usnistgov/macos_security</link>
+      <description>&lt;p&gt;macOS Security Compliance Project&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/138155a93a079d00cf59d0b4d188a445d611c38f058f4422983ae808ce238328/usnistgov/macos_security" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

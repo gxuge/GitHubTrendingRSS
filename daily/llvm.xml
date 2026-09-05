@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub LLVM Daily Trending</title>
+    <description>Daily Trending of LLVM in GitHub</description>
+    <pubDate>Sat, 05 Sep 2026 05:13:05 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>llvm/llvm-project</title>
+      <link>https://github.com/llvm/llvm-project</link>
+      <description>&lt;p&gt;The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1e585e24cf6da3902218d9cfc0051934195d6a925854969f31da4c4dfd74f290/llvm/llvm-project" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

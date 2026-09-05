@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Julia Daily Trending</title>
+    <description>Daily Trending of Julia in GitHub</description>
+    <pubDate>Sat, 05 Sep 2026 05:12:36 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>JuliaLang/julia</title>
+      <link>https://github.com/JuliaLang/julia</link>
+      <description>&lt;p&gt;The Julia Programming Language&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1644196/ddfc1e00-6638-11e9-9b80-0fe7b9aedd72" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

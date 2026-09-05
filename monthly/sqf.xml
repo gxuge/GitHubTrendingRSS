@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub SQF Monthly Trending</title>
+    <description>Monthly Trending of SQF in GitHub</description>
+    <pubDate>Sat, 05 Sep 2026 05:34:56 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>acemod/ACE3</title>
+      <link>https://github.com/acemod/ACE3</link>
+      <description>&lt;p&gt;Open-source realism mod for Arma 3&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e02dac30d431fae7cb3e63f4bd49787c1365e128af8d3e171e9445b1ae70b117/acemod/ACE3" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>
