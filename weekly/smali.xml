@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Smali Weekly Trending</title>
+    <description>Weekly Trending of Smali in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:49:52 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>vtosters/lite</title>
+      <link>https://github.com/vtosters/lite</link>
+      <description>&lt;p&gt;Модифицированный клиент VK&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/bdf99c1aa7272a87aba3c78450b6e328f4e2e25d20f5efffb15621708236193a/vtosters/lite" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Producdevity/gamehub-lite</title>
+      <link>https://github.com/Producdevity/gamehub-lite</link>
+      <description>&lt;p&gt;GameHub Lite is a community-maintained modified version of GameHub for education purposes&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/23c9687fc356de909061be7cb6683f16d62e3a218e1db8b91f9eb326656631a5/Producdevity/gamehub-lite" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>The412Banner/BannerHub</title>
+      <link>https://github.com/The412Banner/BannerHub</link>
+      <description>&lt;p&gt;GameHub ReVanced — extended with GOG, Epic &amp; Amazon game libraries, Component Manager, Winlator HUD, per-game controls &amp; configs, and more. Built via apktool smali patching.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/53168f115286b7ee26a55e5f53b26af7593616843b08a1c7710b7b9a6c0af483/The412Banner/BannerHub" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>AhMyth/AhMyth-Android-RAT</title>
+      <link>https://github.com/AhMyth/AhMyth-Android-RAT</link>
+      <description>&lt;p&gt;Android Remote Administration Tool&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/fb191fae3d9f9449676652833c8c289b80aa961d16495f024baf7940bc1ac1cb/AhMyth/AhMyth-Android-RAT" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>LittleSurvival/copymanga-copy20</title>
+      <link>https://github.com/LittleSurvival/copymanga-copy20</link>
+      <description>&lt;p&gt;Mihon/Tachiyomi系列 拷貝漫畫等中文資源的書源 相關社群見readme&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5dcaf2cbff1ffe290e5746161547df676fd035a8bd439d792b7bf53a7a167635/LittleSurvival/copymanga-copy20" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

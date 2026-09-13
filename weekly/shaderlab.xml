@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub ShaderLab Weekly Trending</title>
+    <description>Weekly Trending of ShaderLab in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:49:34 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>shinyflvre/Mate-Engine</title>
+      <link>https://github.com/shinyflvre/Mate-Engine</link>
+      <description>&lt;p&gt;A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/2e03987d24def5b86b7011178eb920f0136e1ef8cb6568dc423cb90c9766a94f/shinyflvre/Mate-Engine" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>lilxyzw/lilToon</title>
+      <link>https://github.com/lilxyzw/lilToon</link>
+      <description>&lt;p&gt;Feature-rich shaders for avatars&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/324557639/7550db80-e187-11eb-82fc-2fdf68574dc1" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>poiyomi/PoiyomiToonShader</title>
+      <link>https://github.com/poiyomi/PoiyomiToonShader</link>
+      <description>&lt;p&gt;A feature rich toon shader for unity and VR Chat&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/0aca1468cf4984d294c498559eca3337fd892d7be763d3d90a5b761150a4b65c/poiyomi/PoiyomiToonShader" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

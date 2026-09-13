@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Fluent Daily Trending</title>
+    <description>Daily Trending of Fluent in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:35:45 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>qarmin/czkawka</title>
+      <link>https://github.com/qarmin/czkawka</link>
+      <description>&lt;p&gt;Multi functional app to find duplicates, empty folders, similar images etc.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/292065578/2ed04e00-408a-11eb-9b04-a8e493beaffa" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>inaturalist/iNaturalistReactNative</title>
+      <link>https://github.com/inaturalist/iNaturalistReactNative</link>
+      <description>&lt;p&gt;Cross-platform version of the iNat mobile app&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a9d62bcdfd7ec2e1f510c3fdb836345923ad140c333a93221810e620869243a1/inaturalist/iNaturalistReactNative" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

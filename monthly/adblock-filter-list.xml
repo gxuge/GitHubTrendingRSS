@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Adblock Filter List Monthly Trending</title>
+    <description>Monthly Trending of Adblock Filter List in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:51:44 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>easylist/easylist</title>
+      <link>https://github.com/easylist/easylist</link>
+      <description>&lt;p&gt;EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy&#39;s Social/Annoyances/Notifications Blocking List)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/55d1b056384bc8a4767db80ff975267ee3bbc0c9db0c3d535647fd434b742fb3/easylist/easylist" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>AdguardTeam/AdguardFilters</title>
+      <link>https://github.com/AdguardTeam/AdguardFilters</link>
+      <description>&lt;p&gt;AdGuard Content Blocking Filters&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c5069ab6b9034d9ba492ba38da645ce59b041d08f095bde4a59ef7c6a6bd00e9/AdguardTeam/AdguardFilters" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>uBlockOrigin/uAssets</title>
+      <link>https://github.com/uBlockOrigin/uAssets</link>
+      <description>&lt;p&gt;Filter lists for uBlock Origin &amp; uBlock Origin Lite&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e60904bb96e79cf439e2022fe85ea22b4bbf11d8c6ddc9f7753cd2a2b3b4a6eb/uBlockOrigin/uAssets" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Stevoisiak/Stevos-AI-Blocklist</title>
+      <link>https://github.com/Stevoisiak/Stevos-AI-Blocklist</link>
+      <description>&lt;p&gt;A filter list that hides website features which use Generative AI &amp; content labeled as AI Generated.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1b031e9da0608298a6fd9ebdd6548333e2942bb6fd218fe03646cdc4285ba26b/Stevoisiak/Stevos-AI-Blocklist" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>MajkiIT/polish-ads-filter</title>
+      <link>https://github.com/MajkiIT/polish-ads-filter</link>
+      <description>&lt;p&gt;CertyficateIT - Oficjalne polskie filtry do Adblock, uBlock Origin, Adguard&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ac3242eea7935037d0367ac72034e98222b4e035e78a98730b9ca9d0cdcc200b/MajkiIT/polish-ads-filter" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>AdguardTeam/AdGuardSDNSFilter</title>
+      <link>https://github.com/AdguardTeam/AdGuardSDNSFilter</link>
+      <description>&lt;p&gt;AdGuard DNS filter&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/65b7dbfa86afbeb27e040a6485a8650badcb432cc19d9b21a21ad6e49adc3989/AdguardTeam/AdGuardSDNSFilter" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Less Monthly Trending</title>
+    <description>Monthly Trending of Less in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:56:59 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Remix-Design/RemixIcon</title>
+      <link>https://github.com/Remix-Design/RemixIcon</link>
+      <description>&lt;p&gt;Open source neutral style icon system&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/161979323/ce941d00-7ee3-11e9-8ed2-6a3770b22cd8" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>jerrykuku/luci-theme-argon</title>
+      <link>https://github.com/jerrykuku/luci-theme-argon</link>
+      <description>&lt;p&gt;Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos. It also supports automatic and manual switching between light and dark modes.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f3ecb2bb6861dcba6bdd44cf68ffc308658f81416cf2ef42430e5a6ba533daea/jerrykuku/luci-theme-argon" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>catppuccin/userstyles</title>
+      <link>https://github.com/catppuccin/userstyles</link>
+      <description>&lt;p&gt;🖌 Soothing pastel userstyles&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7365a43d9d3b154c980904e022719cb729b23d4a8fd5b2fc0104b7b414212d88/catppuccin/userstyles" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

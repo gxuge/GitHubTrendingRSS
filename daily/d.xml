@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub D Daily Trending</title>
+    <description>Daily Trending of D in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:34:34 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>dlang/dmd</title>
+      <link>https://github.com/dlang/dmd</link>
+      <description>&lt;p&gt;dmd D Programming Language compiler&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c3ba5a9d91eedd740e09a1ff2a5ebf0a03584cc86b5c1fdbd9fb7af8a102a8de/dlang/dmd" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Dadoum/Sideloader</title>
+      <link>https://github.com/Dadoum/Sideloader</link>
+      <description>&lt;p&gt;Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/74bcee466e63c6c848fc040f94f9514f3f3ce91a932b7f5236681a90b3a52273/Dadoum/Sideloader" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Dadoum/Provision</title>
+      <link>https://github.com/Dadoum/Provision</link>
+      <description>&lt;p&gt;Set of tools interracting with Apple servers. Don&#39;t hesitate to leave a star if you appreciate it.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7603596f07b3841965f8ae9589b323cd1dfc26f9d4bfd21d9cb74533eb04f892/Dadoum/Provision" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

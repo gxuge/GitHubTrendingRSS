@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub D Weekly Trending</title>
+    <description>Weekly Trending of D in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:43:55 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>abraunegg/onedrive</title>
+      <link>https://github.com/abraunegg/onedrive</link>
+      <description>&lt;p&gt;OneDrive Client for Linux&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/3a794e3cf4d1728accf5f99abe14a14de9f3be63c697dca5d053779e12f689bb/abraunegg/onedrive" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Dadoum/anisette-v3-server</title>
+      <link>https://github.com/Dadoum/anisette-v3-server</link>
+      <description>&lt;p&gt;sidestore&#39;s anisette-v3 compatible server&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/266857cbcddf8c175d3b52726495a9f67a81c7c8adce4f1bcfdddaa6a303856f/Dadoum/anisette-v3-server" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Dadoum/Sideloader</title>
+      <link>https://github.com/Dadoum/Sideloader</link>
+      <description>&lt;p&gt;Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/74bcee466e63c6c848fc040f94f9514f3f3ce91a932b7f5236681a90b3a52273/Dadoum/Sideloader" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Pascal Monthly Trending</title>
+    <description>Monthly Trending of Pascal in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:58:26 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>stascorp/rdpwrap</title>
+      <link>https://github.com/stascorp/rdpwrap</link>
+      <description>&lt;p&gt;RDP Wrapper Library&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/fd675449bac21795c2b2a7841c88db47e1cffe2abdf7993cfa7b80f9578b035c/stascorp/rdpwrap" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>doublecmd/doublecmd</title>
+      <link>https://github.com/doublecmd/doublecmd</link>
+      <description>&lt;p&gt;Double Commander is a free cross platform open source file manager with two panels side by side.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/feb6bc119c3c2416ce73bbfca523b1c4bb96f2cf5fab3e491a168bfa528e311f/doublecmd/doublecmd" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>cheat-engine/cheat-engine</title>
+      <link>https://github.com/cheat-engine/cheat-engine</link>
+      <description>&lt;p&gt;Cheat Engine. A development environment focused on modding&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d7b1e025c2a892b9fa69f80b8584144c4a22ddf852beedc284133e96e6dff37a/cheat-engine/cheat-engine" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>peazip/PeaZip</title>
+      <link>https://github.com/peazip/PeaZip</link>
+      <description>&lt;p&gt;Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a5632f73b31323fa38e4e7a0c93f5ab2b3bcab3a279bd5eb6925d9f7e4465e91/peazip/PeaZip" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Embarcadero/Dev-Cpp</title>
+      <link>https://github.com/Embarcadero/Dev-Cpp</link>
+      <description>&lt;p&gt;A fast, portable, simple, and free C/C++ IDE&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/154e0e81c10472665e4d3bb23450b3e9fec9026d8a22a075d312393aa7c635eb/Embarcadero/Dev-Cpp" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>jrsoftware/issrc</title>
+      <link>https://github.com/jrsoftware/issrc</link>
+      <description>&lt;p&gt;Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizations of all sizes to reliably deploy software to millions of PCs worldwide.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ca2154a51147a72193be522a54be18248d6a67fef0cb485c59ae7ec153f9063f/jrsoftware/issrc" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>benjamimgois/goverlay</title>
+      <link>https://github.com/benjamimgois/goverlay</link>
+      <description>&lt;p&gt;Goverlay is an easy graphical interface to configure linux gaming applications&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c2adee331396e83e897505c4a3984ea9a4f24c8e5991232e9c379423aefcdc9d/benjamimgois/goverlay" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>FrankBijnen/ExifToolGui</title>
+      <link>https://github.com/FrankBijnen/ExifToolGui</link>
+      <description>&lt;p&gt;A GUI for ExifTool&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1103c46e63bef455138c4dadce98b49d47566734604e1be229f7c2833a749b44/FrankBijnen/ExifToolGui" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>TES5Edit/TES5Edit</title>
+      <link>https://github.com/TES5Edit/TES5Edit</link>
+      <description>&lt;p&gt;xEdit by Elminster; Updated and maintained by Sharlikran, Zilav, and Hlp&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7436a9df5338e2b0eadc55f1623082e1fd463d9785ad4646e1248cccb082d2b2/TES5Edit/TES5Edit" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>UltraStar-Deluxe/USDX</title>
+      <link>https://github.com/UltraStar-Deluxe/USDX</link>
+      <description>&lt;p&gt;The free and open source karaoke singing game UltraStar Deluxe, inspired by Sony SingStar™&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/87015ce17a83b385fc34907280f6ab6b918f3cf494d92686b799c83538f58a4a/UltraStar-Deluxe/USDX" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>HeidiSQL/HeidiSQL</title>
+      <link>https://github.com/HeidiSQL/HeidiSQL</link>
+      <description>&lt;p&gt;A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/109230350/7eeb8788-9e68-4ed3-8180-cd2f4c451a60" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>nofeletru/UsbAsp-flash</title>
+      <link>https://github.com/nofeletru/UsbAsp-flash</link>
+      <description>&lt;p&gt;Program allow you to program flash memory on the protocols spi, I2C, MicroWire. Supports CH341a, CH347, UsbAsp, AVRISP(LUFA), Arduino, FT232H.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/56bcaedc6a650b3734865ee120aa19bd822a8d7488425fda1657f59ec2bd5dc2/nofeletru/UsbAsp-flash" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>lmbelo/pyscripter</title>
+      <link>https://github.com/lmbelo/pyscripter</link>
+      <description>&lt;p&gt;Pyscripter is a feature-rich but lightweight Python IDE&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/41313736/d3621c1f-1445-4b0a-add3-ba3a7dd91f3e" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>nodemcu/nodemcu-flasher</title>
+      <link>https://github.com/nodemcu/nodemcu-flasher</link>
+      <description>&lt;p&gt;A firmware Flash tool for nodemcu&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e58befcd19af42f1ac94ba0b6eff2fe03ebe61d3b3b7fe3a4c3b5d9cb0f620f8/nodemcu/nodemcu-flasher" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Runixe786/MD3-Windows</title>
+      <link>https://github.com/Runixe786/MD3-Windows</link>
+      <description>&lt;p&gt;Material you widgets for your windows desktop, adaptable with wallpaper colors with both light &amp; dark modes&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/56516126f3863e2ce312233af1df58efc8cd280f6bc149408863c32676a72335/Runixe786/MD3-Windows" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>keymanapp/keyman</title>
+      <link>https://github.com/keymanapp/keyman</link>
+      <description>&lt;p&gt;Keyman cross platform input methods system running on Android, iOS, Linux, macOS, Windows and mobile and desktop web&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/26063183/17fe8b00-b210-11ea-855c-302ae0068ead" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>transmission-remote-gui/transgui</title>
+      <link>https://github.com/transmission-remote-gui/transgui</link>
+      <description>&lt;p&gt;🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/32189655/64b32980-a756-11e9-9bd1-89110eed7c55" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>FMXExpress/PasClaw</title>
+      <link>https://github.com/FMXExpress/PasClaw</link>
+      <description>&lt;p&gt;Ultra-lightweight native AI agent framework written entirely in Object Pascal for Delphi and Free Pascal, designed for performance, portability, and extensibility.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/cce3ad6866ded84c69c5916c917f5e2312c470543fcf3a5df87d1e1557a0486c/FMXExpress/PasClaw" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>danieleteti/delphimvcframework</title>
+      <link>https://github.com/danieleteti/delphimvcframework</link>
+      <description>&lt;p&gt;DMVCFramework (for short) is a popular and powerful framework for Web API and Web Applications in Delphi. Supports RESTful and JSON-RPC WEB APIs development.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/36435897/06d26780-df79-11e9-887e-8164d98f29e8" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

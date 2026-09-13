@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Smarty Weekly Trending</title>
+    <description>Weekly Trending of Smarty in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:49:51 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>sidpalas/devops-directive-kubernetes-course</title>
+      <link>https://github.com/sidpalas/devops-directive-kubernetes-course</link>
+      <description>&lt;p&gt;This is the companion repo for the DevOps Directive &quot;Kubernetes: Beginner to Pro&quot; course!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b054839cd5bec691872eed380b583c411a26bff8ad4246f545d971759e26ebf0/sidpalas/devops-directive-kubernetes-course" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

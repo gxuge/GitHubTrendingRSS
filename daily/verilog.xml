@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Verilog Daily Trending</title>
+    <description>Daily Trending of Verilog in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:41:58 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>The-OpenROAD-Project/OpenROAD</title>
+      <link>https://github.com/The-OpenROAD-Project/OpenROAD</link>
+      <description>&lt;p&gt;OpenROAD&#39;s unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1d953f41af9844bb1599245829a679a61d7ed2df16d9135897eb24794ab3d0cc/The-OpenROAD-Project/OpenROAD" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>analogdevicesinc/hdl</title>
+      <link>https://github.com/analogdevicesinc/hdl</link>
+      <description>&lt;p&gt;HDL libraries and projects&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/2f458f20b856b77b68c7901d60dfe8487813e82c08d879a0b20eb4dd0cc9eec2/analogdevicesinc/hdl" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>YosysHQ/picorv32</title>
+      <link>https://github.com/YosysHQ/picorv32</link>
+      <description>&lt;p&gt;PicoRV32 - A Size-Optimized RISC-V CPU&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4d845cc5e4b6235e4990843ef8f9402579e34eeee95fd2705549bc608bc7c808/YosysHQ/picorv32" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>The-OpenROAD-Project/OpenROAD-flow-scripts</title>
+      <link>https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts</link>
+      <description>&lt;p&gt;OpenROAD&#39;s scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/79b174c7b724a95684057ccab28af4d47220747b62ebb3021eb991680f10f4da/The-OpenROAD-Project/OpenROAD-flow-scripts" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>EttusResearch/uhd</title>
+      <link>https://github.com/EttusResearch/uhd</link>
+      <description>&lt;p&gt;The USRP™ Hardware Driver Repository&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/63bdcfdbe27009aa3ac0f0024e5747813ab550bfb0099ac200483e165cad9bf3/EttusResearch/uhd" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

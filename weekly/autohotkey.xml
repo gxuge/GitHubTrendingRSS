@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub AutoHotkey Weekly Trending</title>
+    <description>Weekly Trending of AutoHotkey in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:42:56 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>NatroTeam/NatroMacro</title>
+      <link>https://github.com/NatroTeam/NatroMacro</link>
+      <description>&lt;p&gt;A Bee Swarm Simulator macro for Windows&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9d8ff078597ceefa2c7d0b9774eb5ae554877fceca3fd7f53f7d2d970ae5be4b/NatroTeam/NatroMacro" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>abgox/InputTip</title>
+      <link>https://github.com/abgox/InputTip</link>
+      <description>&lt;p&gt;规则驱动的输入法状态管理器 · 即时 · 强大 · 高效&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/639987638/af1ed9d7-24a4-4ce4-9e72-8e3e600a22c7" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>CemuUser8/mouse2joystick_custom_CEMU</title>
+      <link>https://github.com/CemuUser8/mouse2joystick_custom_CEMU</link>
+      <description>&lt;p&gt;An AutoHotkey Script to allow the use of Mouse and Keyboard control in CEMU. This uses vJoy and provides several additional features over regular keyboard control, like: the ability to control the camera with the mouse, toggle walking speed, in BotW use MouseWheel to change weapons, a separate Toggle key for ZL useful for locking onto a target …&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ae9d8cf9bb2a0e39fe40237376f8ebb8aeeda3cc0a079474b5438a2a3546f029/CemuUser8/mouse2joystick_custom_CEMU" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

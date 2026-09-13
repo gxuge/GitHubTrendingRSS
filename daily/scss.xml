@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub SCSS Daily Trending</title>
+    <description>Daily Trending of SCSS in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:40:56 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>academicpages/academicpages.github.io</title>
+      <link>https://github.com/academicpages/academicpages.github.io</link>
+      <description>&lt;p&gt;Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/68287594/bce2bcb5-5e26-4440-912e-f984db7088a5" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>material-components/material-web</title>
+      <link>https://github.com/material-components/material-web</link>
+      <description>&lt;p&gt;Material Design Web Components&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/be682a87c80d135fdbfa5bc84acc9dcd3714e5f5114aeb2c421cfa643e1c05da/material-components/material-web" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>just-the-docs/just-the-docs</title>
+      <link>https://github.com/just-the-docs/just-the-docs</link>
+      <description>&lt;p&gt;A modern, high customizable, responsive Jekyll theme for documentation with built-in search.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/0890375ec0a658ca2571894fd91c624adb3967b3181d97f3eb9e698aa233b275/just-the-docs/just-the-docs" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>vinceliuice/MacTahoe-gtk-theme</title>
+      <link>https://github.com/vinceliuice/MacTahoe-gtk-theme</link>
+      <description>&lt;p&gt;MacOS Tahoe theme for gtk desktops&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/0daab3064ac12e56b2e063d23155486d53bb7530365574621be452fc32af3b91/vinceliuice/MacTahoe-gtk-theme" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>pidcodes/pidcodes.github.com</title>
+      <link>https://github.com/pidcodes/pidcodes.github.com</link>
+      <description>&lt;p&gt;Website for pid.codes&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/95d977bd96dbbdc029152c979f5436558374d1fe4a163c34df318736ea77abd3/pidcodes/pidcodes.github.com" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>uswds/uswds</title>
+      <link>https://github.com/uswds/uswds</link>
+      <description>&lt;p&gt;The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/04db5af4d71de3f8f263dd7cfff0f42bc3cb0450e322af475b23b4e0382d331c/uswds/uswds" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>jekyll/minima</title>
+      <link>https://github.com/jekyll/minima</link>
+      <description>&lt;p&gt;Minima is a one-size-fits-all Jekyll theme for writers.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a07992e2c5dab190d91cc726ffc2ebb2ab102e0627c046cce84b455c0bdbf291/jekyll/minima" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>conventional-commits/conventionalcommits.org</title>
+      <link>https://github.com/conventional-commits/conventionalcommits.org</link>
+      <description>&lt;p&gt;The conventional commits specification&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b26409c02a0315e3a1e86af6500af88bd85f8309750c31ea0197afb7574dceaa/conventional-commits/conventionalcommits.org" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>opensearch-project/documentation-website</title>
+      <link>https://github.com/opensearch-project/documentation-website</link>
+      <description>&lt;p&gt;The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/bec4cd5627142f5e9e2d42bd6299b0e2588973eb7e00891a135234d0ed0d32cc/opensearch-project/documentation-website" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>mahonzhan/awesome-coding-plan</title>
+      <link>https://github.com/mahonzhan/awesome-coding-plan</link>
+      <description>&lt;p&gt;各厂家 Coding Plan 实际价值对比&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5f3ae11274104ba55a75c9bd2266acbf3c01a0120fc81e44fd638af3c543261a/mahonzhan/awesome-coding-plan" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>chaselambda/makefiletutorial</title>
+      <link>https://github.com/chaselambda/makefiletutorial</link>
+      <description>&lt;p&gt;Learn make by example&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/231b890cd5f3cffb55eb25d90d11c50eefaa5895264af5c0f3a286db1ab0a4be/chaselambda/makefiletutorial" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>mpa139/allanlab</title>
+      <link>https://github.com/mpa139/allanlab</link>
+      <description>&lt;p&gt;Allan Lab website&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4f356db40bdb3e5d2a3c551d9c7cc6b73e463e24bb3933fa2d8924589a9ae937/mpa139/allanlab" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>nordtheme/nord</title>
+      <link>https://github.com/nordtheme/nord</link>
+      <description>&lt;p&gt;An arctic, north-bluish color palette.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/67354143/7df80a00-6156-11e9-8698-a95efdedc658" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>swisspost/design-system</title>
+      <link>https://github.com/swisspost/design-system</link>
+      <description>&lt;p&gt;Patterns, components and guidance for a consistent and inclusive user experience across the web platform.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/462625774/12db6241-3121-4171-9712-6ad46759f39b" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>black7375/Firefox-UI-Fix</title>
+      <link>https://github.com/black7375/Firefox-UI-Fix</link>
+      <description>&lt;p&gt;🦊 I respect proton UI and aim to improve it.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/361647128/be26a080-c34e-11eb-921d-92a96a6b2fad" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>IanLunn/Hover</title>
+      <link>https://github.com/IanLunn/Hover</link>
+      <description>&lt;p&gt;A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5439093a720fac9395c2592242e5d85f77a6814d75a7e8f94c04da2b83fa9190/IanLunn/Hover" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

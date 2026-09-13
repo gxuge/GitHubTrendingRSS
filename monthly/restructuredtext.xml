@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub reStructuredText Monthly Trending</title>
+    <description>Monthly Trending of reStructuredText in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:59:45 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>odoo/documentation</title>
+      <link>https://github.com/odoo/documentation</link>
+      <description>&lt;p&gt;Odoo documentation sources&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/38825372/7e97a880-cb19-11e9-8548-dda98bd6e8bd" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>godotengine/godot-docs</title>
+      <link>https://github.com/godotengine/godot-docs</link>
+      <description>&lt;p&gt;Godot Engine official documentation&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/cd169d41e63998fc6ed594bce036ceb60bb19ab20b86f8e477571ac5b5a7410a/godotengine/godot-docs" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>python/peps</title>
+      <link>https://github.com/python/peps</link>
+      <description>&lt;p&gt;Python Enhancement Proposals&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/65829c7728157f50ddbc9018adc589f7efa2c8cfb7ddd156fdb891573a09462c/python/peps" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

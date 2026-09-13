@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Zig Monthly Trending</title>
+    <description>Monthly Trending of Zig in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 06:01:56 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ddalcu/mlx-serve</title>
+      <link>https://github.com/ddalcu/mlx-serve</link>
+      <description>&lt;p&gt;Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Includes MLX Core macOS app with chat, agent mode, and tool calling.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1e90e5fe49cc6349079fb824a6d897e23e92367ffcc13a2e4b38a46709d8ff46/ddalcu/mlx-serve" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>lightpanda-io/browser</title>
+      <link>https://github.com/lightpanda-io/browser</link>
+      <description>&lt;p&gt;Lightpanda: the headless browser designed for AI and automation&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/faede0f7feff0141377d7da1040cf77a48dc2b6d19a3448ceb1341914a935592/lightpanda-io/browser" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ghostty-org/ghostty</title>
+      <link>https://github.com/ghostty-org/ghostty</link>
+      <description>&lt;p&gt;👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/2128f92c483f1ed6ee52e8784185adc4d8db0e8568d0ae13f92494ecd2da81db/ghostty-org/ghostty" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Loongphy/codex-auth</title>
+      <link>https://github.com/Loongphy/codex-auth</link>
+      <description>&lt;p&gt;A CLI tool to switch and manage Codex accounts&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1c8cdbb202e6025ed9093d396a9c1a33fe6eb79f14186939f390b791c8227fa0/Loongphy/codex-auth" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>tigerbeetle/tigerbeetle</title>
+      <link>https://github.com/tigerbeetle/tigerbeetle</link>
+      <description>&lt;p&gt;The financial transactions database designed for mission critical safety and performance.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b87303f244c01759788ccbdc0cc6b4d11eb08854c29cdeff5917075714181ad7/tigerbeetle/tigerbeetle" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>sleep3r/mtproto.zig</title>
+      <link>https://github.com/sleep3r/mtproto.zig</link>
+      <description>&lt;p&gt;Keep the people you love connected — a tiny self-hosted Telegram proxy that hides in plain HTTPS&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1195159291/3f44a95d-dc97-4536-9800-9ec545457238" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>roc-lang/roc</title>
+      <link>https://github.com/roc-lang/roc</link>
+      <description>&lt;p&gt;A fast, friendly, functional language.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/35e22a36c68b560e795882add51b3b49ab10ab851dfc5822f501e411f470a897/roc-lang/roc" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Seafoam-Labs/Shelly-ALPM</title>
+      <link>https://github.com/Seafoam-Labs/Shelly-ALPM</link>
+      <description>&lt;p&gt;Pacman alternative for ArchLinux, designed with you in mind.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1129876754/c6545096-6b92-4327-9c46-494aa3428bc6" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ziglang/zig</title>
+      <link>https://github.com/ziglang/zig</link>
+      <description>&lt;p&gt;Moved to Codeberg&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/58b269e63b0a835d3e054c76bd36e0b86ebb67580bf6bd01003f98da0f291e99/ziglang/zig" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>tonybanters/oxwm</title>
+      <link>https://github.com/tonybanters/oxwm</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c681b202e3379f3aefd253fd34ccf9424a3963ce354179f923723841f4beb19d/tonybanters/oxwm" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>zml/zml</title>
+      <link>https://github.com/zml/zml</link>
+      <description>&lt;p&gt;Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/42903954b2673fce62b705e8cdc71c91d6c42f23bfa3180781a649b07158051d/zml/zml" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>nullclaw/nullclaw</title>
+      <link>https://github.com/nullclaw/nullclaw</link>
+      <description>&lt;p&gt;Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9faca2fa495191f49525a6c247cd9265394b8ee2a48c2f7106c7f1f7d09c6be4/nullclaw/nullclaw" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>zigtools/zls</title>
+      <link>https://github.com/zigtools/zls</link>
+      <description>&lt;p&gt;A language server for Zig supporting developers with features like autocomplete and goto definition&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f3ae41e7a22a2aaaf3300df67c0079caea1527cc645029908d2e8deead4866ae/zigtools/zls" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>jstrieb/github-stats</title>
+      <link>https://github.com/jstrieb/github-stats</link>
+      <description>&lt;p&gt;Better GitHub statistics images for your profile, with stats from private repos too&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/de7170fad7f9278335d03823a8c5984d350abec5e3a83b765d3ca9df5e1713eb/jstrieb/github-stats" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>PixelGuys/Cubyz</title>
+      <link>https://github.com/PixelGuys/Cubyz</link>
+      <description>&lt;p&gt;Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/169060349/4347171a-b3b5-4fe6-962e-08e10ebfa03a" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>neurosnap/zmx</title>
+      <link>https://github.com/neurosnap/zmx</link>
+      <description>&lt;p&gt;Session attach/detach for the terminal&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d5574b94c3b87ffcfd2b8a3c67d9ff5b5809ac53c67250026ccc637921729acb/neurosnap/zmx" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>rockorager/libvaxis</title>
+      <link>https://github.com/rockorager/libvaxis</link>
+      <description>&lt;p&gt;a modern tui library written in zig&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/745759402/a8105e45-c7b0-475f-8b88-22b5b85e4bb3" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

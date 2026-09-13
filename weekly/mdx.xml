@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub MDX Weekly Trending</title>
+    <description>Weekly Trending of MDX in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:47:13 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>enactic/openarm</title>
+      <link>https://github.com/enactic/openarm</link>
+      <description>&lt;p&gt;A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9fd456ce9ea792ba812767153a72c5641b61bd250efa7c909ea58d7e17df50ca/enactic/openarm" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>twbs/bootstrap</title>
+      <link>https://github.com/twbs/bootstrap</link>
+      <description>&lt;p&gt;The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/2126244/e4760ecf-91fe-4225-b714-4672676f8b92" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>FailproofAI/failproofai</title>
+      <link>https://github.com/FailproofAI/failproofai</link>
+      <description>&lt;p&gt;Observability and enforcement for AI agent harnesses. Capture every run and runtime reliability with policy enforcement. 40 built-in policies, a local dashboard, no account required with a generous free cloud plan&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/0a428642d0fa85e253736f4e01a3dc6dfaa2ed37ef85fd03569a75b48eb48e70/FailproofAI/failproofai" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>cloudflare/cloudflare-docs</title>
+      <link>https://github.com/cloudflare/cloudflare-docs</link>
+      <description>&lt;p&gt;Cloudflare’s documentation&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e365f386d0a4ba559704b159b7683faf17f87194d62fa39adc3ab816b57d0d82/cloudflare/cloudflare-docs" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>adongwanai/AgentGuide</title>
+      <link>https://github.com/adongwanai/AgentGuide</link>
+      <description>&lt;p&gt;https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/3ca9ab1df56053c9e1f853f54c5066497d85dadde825f15be1b70391274f0af5/adongwanai/AgentGuide" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>dair-ai/Prompt-Engineering-Guide</title>
+      <link>https://github.com/dair-ai/Prompt-Engineering-Guide</link>
+      <description>&lt;p&gt;🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/8c01cf6d67489609904bd1f829fabbf79d802d49fdec3922517fbbaeeb7ff866/dair-ai/Prompt-Engineering-Guide" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>huggingface/course</title>
+      <link>https://github.com/huggingface/course</link>
+      <description>&lt;p&gt;The Hugging Face course on Transformers&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/cc15685d17f1e324b5fb87028637cd16427ba374b80d915030aedf78fd774bef/huggingface/course" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>hashicorp/web-unified-docs</title>
+      <link>https://github.com/hashicorp/web-unified-docs</link>
+      <description>&lt;p&gt;Hashicorp Unified Docs&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/59ec0be33b94959dfe6b1cfb8fdbb58835183abc498e3e6bee6eed5a4dff7349/hashicorp/web-unified-docs" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>expressjs/expressjs.com</title>
+      <link>https://github.com/expressjs/expressjs.com</link>
+      <description>&lt;p&gt;The Express.js Website&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1c9a5ba40ad8cc366504ee0ed30747d16f986eda8acec85348776fcac181dcd5/expressjs/expressjs.com" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>stellar/stellar-docs</title>
+      <link>https://github.com/stellar/stellar-docs</link>
+      <description>&lt;p&gt;Documentation for Stellar&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e5f626496bae14ac14540a77cd12b736904cbbac246028fd138584f32461be10/stellar/stellar-docs" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>newrelic/docs-website</title>
+      <link>https://github.com/newrelic/docs-website</link>
+      <description>&lt;p&gt;Source code for @newrelic docs. We welcome pull requests and questions on our docs!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1735e363a77c4838e38aaf204c96a15494ed982e18b99f018c614f32f7ee9fef/newrelic/docs-website" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>esphome/esphome.io</title>
+      <link>https://github.com/esphome/esphome.io</link>
+      <description>&lt;p&gt;Source for esphome.io documentation files.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/133223461/496a7a00-81fb-11e9-9ccf-f2ede545c14f" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>react/react-native-website</title>
+      <link>https://github.com/react/react-native-website</link>
+      <description>&lt;p&gt;The React Native website and docs&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/94b190a27ea622ebbdac1182ab0b0d9aced6443b3b74e269f0d21c24b524c8f4/react/react-native-website" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>buchidonggua/dg-ai-notes</title>
+      <link>https://github.com/buchidonggua/dg-ai-notes</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/33affc4d6c9c227a36ae73165e950f86c325de4ebc0a71627b27dc294c51e203/buchidonggua/dg-ai-notes" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Comfy-Org/docs</title>
+      <link>https://github.com/Comfy-Org/docs</link>
+      <description>&lt;p&gt;Documentation for ComfyUI&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b616bf16f0705ee7a04d40eff2c56979699e806107afb2b5d410ebb69c7bccc1/Comfy-Org/docs" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>jellyfin/jellyfin.org</title>
+      <link>https://github.com/jellyfin/jellyfin.org</link>
+      <description>&lt;p&gt;Jellyfin Project website, blog, and user documentation&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/0c87ceffe26e465c55ca84c6987c0e7adbee04de652f07b67e04011fdd3946ef/jellyfin/jellyfin.org" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>LibreChat-AI/librechat.ai</title>
+      <link>https://github.com/LibreChat-AI/librechat.ai</link>
+      <description>&lt;p&gt;Official documentation, blog, and changelog for LibreChat. Built with Next.js and Fumadocs. Live at librechat.ai&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7f3769ac85d76442d55611e1f724e647d1c2c7960998d282cc0a204e589bd0c4/LibreChat-AI/librechat.ai" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>wasp-lang/open-saas</title>
+      <link>https://github.com/wasp-lang/open-saas</link>
+      <description>&lt;p&gt;A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/726082384/cb0cc916-1ca4-4264-b497-3d2f7fb81ca8" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>modelcontextprotocol/ext-skills</title>
+      <link>https://github.com/modelcontextprotocol/ext-skills</link>
+      <description>&lt;p&gt;Experimental exploration of skills discovery and distribution through MCP primitives. Maintained by the Skills Over MCP Working Group.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1efcccd48393eb1cb408a348509f8b4934a8f7959160f4eab07af2a4ac009f30/modelcontextprotocol/ext-skills" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>all-contributors/allcontributors.org</title>
+      <link>https://github.com/all-contributors/allcontributors.org</link>
+      <description>&lt;p&gt;✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/257314dbcdd88ddf3e24c4d58825dc6e488625c1ba6d544511542e7f010907a9/all-contributors/allcontributors.org" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>react-native-elements/react-native-elements</title>
+      <link>https://github.com/react-native-elements/react-native-elements</link>
+      <description>&lt;p&gt;Cross-Platform React Native UI Toolkit&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/67709808/2a37c4bc-ba60-4f06-8356-d0cc63a31558" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>solana-foundation/solana-com</title>
+      <link>https://github.com/solana-foundation/solana-com</link>
+      <description>&lt;p&gt;The solana.com website.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/af50bc0fe2e1886196498d3d3aedf0b222ccb493d964a1ebcc736dc41e9b91b8/solana-foundation/solana-com" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub CMake Daily Trending</title>
+    <description>Daily Trending of CMake in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:34:14 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>microsoft/vcpkg</title>
+      <link>https://github.com/microsoft/vcpkg</link>
+      <description>&lt;p&gt;C++ Library Manager for Windows, Linux, and MacOS&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d506ec387633e6b35eac3338e7019d5089806dc1c31926e63d69a37a5790c4d7/microsoft/vcpkg" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ecmwf/ecbuild</title>
+      <link>https://github.com/ecmwf/ecbuild</link>
+      <description>&lt;p&gt;A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4763d5acea6fc4dc732029678a4e38622f6a6a94f88ffe7216d4e6df041897de/ecmwf/ecbuild" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>shinchiro/mpv-winbuild-cmake</title>
+      <link>https://github.com/shinchiro/mpv-winbuild-cmake</link>
+      <description>&lt;p&gt;CMake-based MinGW-w64 Cross Toolchain&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7db455501fe4c607e623ee69d859ef3c4d86f5b48a74ed648bea9c7ffdf78f5e/shinchiro/mpv-winbuild-cmake" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>minecraft-linux/mcpelauncher-manifest</title>
+      <link>https://github.com/minecraft-linux/mcpelauncher-manifest</link>
+      <description>&lt;p&gt;The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/6a892c063243700ad79b3b3bc89439730d6059550bc2d38f890602a8fd938344/minecraft-linux/mcpelauncher-manifest" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

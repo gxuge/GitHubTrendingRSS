@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Cython Daily Trending</title>
+    <description>Daily Trending of Cython in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:34:32 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>MagicStack/uvloop</title>
+      <link>https://github.com/MagicStack/uvloop</link>
+      <description>&lt;p&gt;Ultra fast asyncio event loop.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/feab30b88b060263a3ffab68678e3905d64c2e697b103569694564408fdaab6e/MagicStack/uvloop" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>TA-Lib/ta-lib-python</title>
+      <link>https://github.com/TA-Lib/ta-lib-python</link>
+      <description>&lt;p&gt;Python wrapper for TA-Lib (http://ta-lib.org/).&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d517d2ad200e826b9b049aabf1ef84cb59456984ce184e676845320ebdc06dc6/TA-Lib/ta-lib-python" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

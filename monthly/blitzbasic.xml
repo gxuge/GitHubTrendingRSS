@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub BlitzBasic Monthly Trending</title>
+    <description>Monthly Trending of BlitzBasic in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:52:08 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Regalis11/scpcb</title>
+      <link>https://github.com/Regalis11/scpcb</link>
+      <description>&lt;p&gt;SCP - Containment Breach&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/36d5a85bc44cca01c248f795ce7390362c6da8db34f275949ca48c31a3772260/Regalis11/scpcb" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

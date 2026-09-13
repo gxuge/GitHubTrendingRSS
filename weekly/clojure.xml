@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Clojure Weekly Trending</title>
+    <description>Weekly Trending of Clojure in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:43:36 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>penpot/penpot</title>
+      <link>https://github.com/penpot/penpot</link>
+      <description>&lt;p&gt;Penpot: The open-source design platform for Product teams that need scalable collaboration.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/48769241/1e3fb75a-13e6-4d77-a658-e70e17fb1c6f" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>logseq/logseq</title>
+      <link>https://github.com/logseq/logseq</link>
+      <description>&lt;p&gt;A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/266231149/4a33065f-481b-4da7-bb7e-f7946055c0bc" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>metabase/metabase</title>
+      <link>https://github.com/metabase/metabase</link>
+      <description>&lt;p&gt;The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/dbef2c896344d8ff9de0117757eeffd3754a6bfc9da9065e20ab09a1eb48a6d3/metabase/metabase" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>tonsky/FiraCode</title>
+      <link>https://github.com/tonsky/FiraCode</link>
+      <description>&lt;p&gt;Free monospaced font with programming ligatures&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/26500787/bf313080-6b02-11ea-9cd5-c3dca880736d" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>logseq/og</title>
+      <link>https://github.com/logseq/og</link>
+      <description>&lt;p&gt;Logseq og (file version)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f53d403e8713890d3c947efa5dc1c6fdcf6f78e9e469f7acfb41bf25774ce82a/logseq/og" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>clojure/clojurescript</title>
+      <link>https://github.com/clojure/clojurescript</link>
+      <description>&lt;p&gt;Clojure to JS compiler&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d9ebda56f0febb8c867feb6106be0ac6e975928280a3061d7a51327b9f2fdbc5/clojure/clojurescript" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>unclebob/swarm-forge</title>
+      <link>https://github.com/unclebob/swarm-forge</link>
+      <description>&lt;p&gt;A simple tool for coordinating several AI agents.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/92366a861aade140452cb1c3b4f3c38d069a88ba4e7855b41bb31be2b19713c4/unclebob/swarm-forge" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

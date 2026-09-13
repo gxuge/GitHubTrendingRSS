@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub HCL Monthly Trending</title>
+    <description>Monthly Trending of HCL in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:55:20 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>techiescamp/devops-projects</title>
+      <link>https://github.com/techiescamp/devops-projects</link>
+      <description>&lt;p&gt;DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/75e2146656748b8b091a0e04393a11969a0bc0a3c9a8c0751dcc71cc7fde089d/techiescamp/devops-projects" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>DataDog/serverless-sample-app</title>
+      <link>https://github.com/DataDog/serverless-sample-app</link>
+      <description>&lt;p&gt;Explore Datadog&#39;s serverless observability features with this sample app.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ab2e10e349dbe2dfa05bb7fa7db1637bebc76bd96cc7b986916d3e5bb76c1064/DataDog/serverless-sample-app" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>github-aws-runners/terraform-aws-github-runner</title>
+      <link>https://github.com/github-aws-runners/terraform-aws-github-runner</link>
+      <description>&lt;p&gt;Terraform module for scalable GitHub action runners on AWS&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/10c353c028cf31fb5d1439e10f21744394a840db59bc25e4ed661d8d44cb893c/github-aws-runners/terraform-aws-github-runner" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>semgrep/semgrep-rules</title>
+      <link>https://github.com/semgrep/semgrep-rules</link>
+      <description>&lt;p&gt;Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5bd83b63f6780aaa4e20b3d637fe607c8d21b1ba988ac7bf7baab16e8540a635/semgrep/semgrep-rules" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>GoogleCloudPlatform/cloud-foundation-fabric</title>
+      <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
+      <description>&lt;p&gt;End-to-end modular samples and landing zones toolkit for Terraform on GCP.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/184825074/292e60ff-b50a-4caa-befe-5e72bfb5adfc" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Azure/terraform-azurerm-avm-res-keyvault-vault</title>
+      <link>https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault</link>
+      <description>&lt;p&gt;Terraform Azure Verified Resource Module for Key Vault&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f3997078c5bde53d8b52e110a292456b78319b9d99e12f34563ec36a598c2013/Azure/terraform-azurerm-avm-res-keyvault-vault" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Azure/terraform-azurerm-avm-res-storage-storageaccount</title>
+      <link>https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount</link>
+      <description>&lt;p&gt;Terraform Azure Verified Resource Module for Storage Account&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/23addd16668abf1fc2e37c48a045b6a6d6355d2bd6d7e8330596255a0dbc24b2/Azure/terraform-azurerm-avm-res-storage-storageaccount" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Azure/terraform-azurerm-naming</title>
+      <link>https://github.com/Azure/terraform-azurerm-naming</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5ab471592acf8d2b76467ff317c99482cef5533137f67057a5769d542433829c/Azure/terraform-azurerm-naming" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>terraform-aws-modules/terraform-aws-vpc</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
+      <description>&lt;p&gt;Terraform module to create AWS VPC resources 🇺🇦&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/bf86afb2cdc523687019bc086ff9b2799ce03a27d4b67c14dd6eea935c3edf7d/terraform-aws-modules/terraform-aws-vpc" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>okd-project/okd</title>
+      <link>https://github.com/okd-project/okd</link>
+      <description>&lt;p&gt;The self-managing, auto-upgrading, Kubernetes distribution for everyone&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/222003131/0f89ac20-6e23-4573-81c1-1b5e9491b109" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ministryofjustice/modernisation-platform-environments</title>
+      <link>https://github.com/ministryofjustice/modernisation-platform-environments</link>
+      <description>&lt;p&gt;Modernisation platform environments • This repository is defined and managed in Terraform&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4ad6791c06f27228bd5c756a089187d1577e58adc1682c0c1385b5628628f2c6/ministryofjustice/modernisation-platform-environments" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>RaJiska/terraform-aws-fck-nat</title>
+      <link>https://github.com/RaJiska/terraform-aws-fck-nat</link>
+      <description>&lt;p&gt;Terraform module for fck-nat&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5e0389a2aadba6b4a4a07fb8c612f0184b3c56e7387e51b27b47de2200515946/RaJiska/terraform-aws-fck-nat" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

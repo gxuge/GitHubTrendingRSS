@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub CMake Monthly Trending</title>
+    <description>Monthly Trending of CMake in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:52:53 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>microsoft/vcpkg</title>
+      <link>https://github.com/microsoft/vcpkg</link>
+      <description>&lt;p&gt;C++ Library Manager for Windows, Linux, and MacOS&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d506ec387633e6b35eac3338e7019d5089806dc1c31926e63d69a37a5790c4d7/microsoft/vcpkg" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>shinchiro/mpv-winbuild-cmake</title>
+      <link>https://github.com/shinchiro/mpv-winbuild-cmake</link>
+      <description>&lt;p&gt;CMake-based MinGW-w64 Cross Toolchain&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7db455501fe4c607e623ee69d859ef3c4d86f5b48a74ed648bea9c7ffdf78f5e/shinchiro/mpv-winbuild-cmake" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>minecraft-linux/mcpelauncher-manifest</title>
+      <link>https://github.com/minecraft-linux/mcpelauncher-manifest</link>
+      <description>&lt;p&gt;The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/6a892c063243700ad79b3b3bc89439730d6059550bc2d38f890602a8fd938344/minecraft-linux/mcpelauncher-manifest" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>OpenMoonRay/openmoonray</title>
+      <link>https://github.com/OpenMoonRay/openmoonray</link>
+      <description>&lt;p&gt;MoonRay is an open-source, award-winning, state-of-the-art production path tracing renderer, initially developed at DreamWorks and an active member project of the Academy Software Foundation.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/614103096/64b0f99e-c624-4365-a191-538b26f6507e" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>KiCad/kicad-footprints</title>
+      <link>https://github.com/KiCad/kicad-footprints</link>
+      <description>&lt;p&gt;Official KiCad Footprint Libraries for Kicad version 5&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/71a1f2bb51fbc1ddbcc946516a6bd4c56f3e2d13df7be7e743983a769bfe62be/KiCad/kicad-footprints" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>steinbergmedia/vst3sdk</title>
+      <link>https://github.com/steinbergmedia/vst3sdk</link>
+      <description>&lt;p&gt;VST 3 Plug-In SDK&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/83790078/1e560480-6a5c-11e9-9ab6-f792d054cf84" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>corrosion-rs/corrosion</title>
+      <link>https://github.com/corrosion-rs/corrosion</link>
+      <description>&lt;p&gt;Marrying Rust and CMake - Easy Rust and C/C++ Integration!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e8e0cfa6cf51fbdb291b46920425ccbdc6d57e3aedf38009baaa52ff8358fe4c/corrosion-rs/corrosion" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>arsenm/sanitizers-cmake</title>
+      <link>https://github.com/arsenm/sanitizers-cmake</link>
+      <description>&lt;p&gt;CMake modules to help use sanitizers&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/6c233231051a3c1cfaa76bd630883e06e03ac851232cd1864b322bf30379ed03/arsenm/sanitizers-cmake" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>TheLartians/PackageProject.cmake</title>
+      <link>https://github.com/TheLartians/PackageProject.cmake</link>
+      <description>&lt;p&gt;🏛️ Help other developers use your project. A CMake script for packaging C/C++ projects for simple project installation while employing best-practices for maximum compatibility.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4b58ee294f6c572c425cb94271ae3ec839333f39459761e2fe5754882d44c37d/TheLartians/PackageProject.cmake" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Andersama/obs-asio</title>
+      <link>https://github.com/Andersama/obs-asio</link>
+      <description>&lt;p&gt;ASIO plugin for OBS-Studio&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d4d660f0453eea6720c2846ad787c09e843e81fab64c8fe47fa74739a591356f/Andersama/obs-asio" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ecmwf/ecbuild</title>
+      <link>https://github.com/ecmwf/ecbuild</link>
+      <description>&lt;p&gt;A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4763d5acea6fc4dc732029678a4e38622f6a6a94f88ffe7216d4e6df041897de/ecmwf/ecbuild" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>KiCad/kicad-symbols</title>
+      <link>https://github.com/KiCad/kicad-symbols</link>
+      <description>&lt;p&gt;Official KiCad schematic symbol libraries for Kicad 5&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5a0c94c8759eabb73f63106104f9d043e1cd4fed201387942c89f9965e8330ff/KiCad/kicad-symbols" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ament/ament_cmake</title>
+      <link>https://github.com/ament/ament_cmake</link>
+      <description>&lt;p&gt;Supporting CMake packages for working with ament&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/320ff19e1a9f11aef0a634fdd6d670a6d4337ee9812b9f0aa6fe7aee0ee8b29a/ament/ament_cmake" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>vector-of-bool/cmrc</title>
+      <link>https://github.com/vector-of-bool/cmrc</link>
+      <description>&lt;p&gt;A Resource Compiler in a Single CMake Script&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9bd0aac520cf6273c20727c8bbf4e8545f434da4170cf42d20144b5137bbad83/vector-of-bool/cmrc" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub UnrealScript Daily Trending</title>
+    <description>Daily Trending of UnrealScript in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:41:54 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>long-war-2/lwotc</title>
+      <link>https://github.com/long-war-2/lwotc</link>
+      <description>&lt;p&gt;Port of Long War 2 to XCOM 2&#39;s War of the Chosen expansion&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d237326f082fbd83137259608242fc7d5bbb80de34fc3ea3a9ac67cb989e2050/long-war-2/lwotc" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

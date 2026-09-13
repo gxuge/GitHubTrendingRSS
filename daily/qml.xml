@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub QML Daily Trending</title>
+    <description>Daily Trending of QML in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:40:13 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ilyamiro/serpantinum</title>
+      <link>https://github.com/ilyamiro/serpantinum</link>
+      <description>&lt;p&gt;A shell for wayland compositors&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1942b0e3a06cbc4e1ce9ce0e671c0dd49e6b59caf79cac88615808e506a1b7e8/ilyamiro/serpantinum" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Swordfish90/cool-retro-term</title>
+      <link>https://github.com/Swordfish90/cool-retro-term</link>
+      <description>&lt;p&gt;A good looking terminal emulator which mimics the old cathode display...&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/572c66f6756702c4e0e4bcf75109ccf2834a2e0a23d719a67b8c0e26c236fc36/Swordfish90/cool-retro-term" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Keyitdev/sddm-astronaut-theme</title>
+      <link>https://github.com/Keyitdev/sddm-astronaut-theme</link>
+      <description>&lt;p&gt;Series of modern looking themes for SDDM.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/452794936/35e90742-b7e3-47f6-8d27-73ddad7ef658" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>end-4/dots-hyprland</title>
+      <link>https://github.com/end-4/dots-hyprland</link>
+      <description>&lt;p&gt;Usability-first dotfiles&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/583820372/55988d08-a8db-421a-8761-f6e98ea89ce3" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>noctalia-dev/legacy-v4-plugins</title>
+      <link>https://github.com/noctalia-dev/legacy-v4-plugins</link>
+      <description>&lt;p&gt;Noctalia&#39;s official plugins&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/93ac14707c4bff4150b4361ce18c48e41504981f99a5d00d26b53643dfacf834/noctalia-dev/legacy-v4-plugins" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>AvengeMedia/DankMaterialShell</title>
+      <link>https://github.com/AvengeMedia/DankMaterialShell</link>
+      <description>&lt;p&gt;Desktop shell for wayland compositors built with Quickshell &amp; GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f4ed74e069d68f9b1bbaf296d9454c775db8c98bd51e04e2647771293039d15d/AvengeMedia/DankMaterialShell" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>barry-ran/QuickDesk</title>
+      <link>https://github.com/barry-ran/QuickDesk</link>
+      <description>&lt;p&gt;QuickDesk is the first AI-native remote desktop — an open-source, free application with a built-in MCP (Model Context Protocol) Server that lets any AI agent see and control remote computers.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4c91ccbca2621396d11b9d01ed06e6a2a64e719d3c8d1a2b42cc091685e13bea/barry-ran/QuickDesk" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Darkkal44/qylock</title>
+      <link>https://github.com/Darkkal44/qylock</link>
+      <description>&lt;p&gt;A cozy collection of sddm-themes &amp; quickshell lockscreen setups.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1173234772/be27bd02-cc1f-4b65-b387-0e0fd0ad5514" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>luisbocanegra/plasma-panel-colorizer</title>
+      <link>https://github.com/luisbocanegra/plasma-panel-colorizer</link>
+      <description>&lt;p&gt;Latte-Dock and WM status bar customization for the KDE Plasma panels&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/759731847/eef3783f-9933-4e90-8685-ef5f1065210d" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>pctrade/end4-pC</title>
+      <link>https://github.com/pctrade/end4-pC</link>
+      <description>&lt;p&gt;Custom end4&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/6613fab363dd60f9c74173a16cb1a06428c3f6d37568b40cead16b6fab0f74d2/pctrade/end4-pC" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>TheQtCompanyRnD/agent-skills</title>
+      <link>https://github.com/TheQtCompanyRnD/agent-skills</link>
+      <description>&lt;p&gt;Official Qt AI engineering skills for Claude Code, Codex, Copilot, Gemini,and other AI coding tools&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/18ed3ff7fa4ece108ad877ed3c3e616742b4f452743c737b87c68729ad77edad/TheQtCompanyRnD/agent-skills" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

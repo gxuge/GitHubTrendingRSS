@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub VBScript Daily Trending</title>
+    <description>Daily Trending of VBScript in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:41:57 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>LegendsUnchained/vpx-standalone-alp4k</title>
+      <link>https://github.com/LegendsUnchained/vpx-standalone-alp4k</link>
+      <description>&lt;p&gt;Settings and configs for VPX Standalone on the AtGames ALP 4K Pinball&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d5c6e1a3b58c441264c68f8f78f6f4c8cfa5499c7106e04ec9fca4a442ec0635/LegendsUnchained/vpx-standalone-alp4k" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Da2dalus/The-MALWARE-Repo</title>
+      <link>https://github.com/Da2dalus/The-MALWARE-Repo</link>
+      <description>&lt;p&gt;A repository full of malware samples.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/271970028/2f632b80-aff8-11ea-8ba8-bcd0dc908b66" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>abbodi1406/vcredist</title>
+      <link>https://github.com/abbodi1406/vcredist</link>
+      <description>&lt;p&gt;AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/11202ab3ff3b65a9a25acbdfd8284ebaf18d5f62e421ca7e71ebd62898f0a47c/abbodi1406/vcredist" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>pyenv-win/pyenv-win</title>
+      <link>https://github.com/pyenv-win/pyenv-win</link>
+      <description>&lt;p&gt;pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It&#39;s simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d0090df5744ff118f628161a92b6a1bd083e011d5abc3f6169c9ca1789acc886/pyenv-win/pyenv-win" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

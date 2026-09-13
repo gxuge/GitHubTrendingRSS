@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Makefile Monthly Trending</title>
+    <description>Monthly Trending of Makefile in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:57:21 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>mindsdb/mindshub</title>
+      <link>https://github.com/mindsdb/mindshub</link>
+      <description>&lt;p&gt;The unified workspace where open-source models get things done for you.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/37a24c7955fbe367a907b985c6f22de9a8e0e8a6f99939041318e413cd8e9e71/mindsdb/mindshub" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>openwrt/packages</title>
+      <link>https://github.com/openwrt/packages</link>
+      <description>&lt;p&gt;Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/06757d9ef7a66094cc2286d0b4219e6299a2d3fc01db3178429e5bcbd2090b7f/openwrt/packages" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ROCKNIX/distribution</title>
+      <link>https://github.com/ROCKNIX/distribution</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/460a823844e0e89c9271c74187caecdde54e84df55f1a678ad078262d2be277d/ROCKNIX/distribution" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>golang-standards/project-layout</title>
+      <link>https://github.com/golang-standards/project-layout</link>
+      <description>&lt;p&gt;Standard Go Project Layout&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/aee357c43cc7b60d01fb1ce78f5cd882780a1499764b87d0110c3eb42a8928fe/golang-standards/project-layout" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>foostan/crkbd</title>
+      <link>https://github.com/foostan/crkbd</link>
+      <description>&lt;p&gt;Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/db6244688807a04731af28418e80478248a4caf7a6aa38e143b3f8445abdb84a/foostan/crkbd" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>dbt-labs/dbt-utils</title>
+      <link>https://github.com/dbt-labs/dbt-utils</link>
+      <description>&lt;p&gt;Utility functions for dbt projects.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/cd49b7fe1e66e316610ace75b7ccccbbef4e242f229c990c76fa8954430bb2fd/dbt-labs/dbt-utils" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>cncf/people</title>
+      <link>https://github.com/cncf/people</link>
+      <description>&lt;p&gt;Stores the data that will populate the various people listings on cncf.io&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/123ba4aee2e06bec00ab93a3906965f7cc20598bbc9405323ed6f9c4f4f51494/cncf/people" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>geneontology/go-ontology</title>
+      <link>https://github.com/geneontology/go-ontology</link>
+      <description>&lt;p&gt;Source ontology files for the Gene Ontology&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/37750722/d90ca416-78f8-49c5-8480-ebb9f2c91dfb" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>InteractiveAdvertisingBureau/openrtb2.x</title>
+      <link>https://github.com/InteractiveAdvertisingBureau/openrtb2.x</link>
+      <description>&lt;p&gt;OpenRTB 2.x specification, from 2.6 onward&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/8738834acc2a5758734cc4ea3fe9b5a107facccbb58c85f728895ef931501e6c/InteractiveAdvertisingBureau/openrtb2.x" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>PartialVolume/shredos.x86_64</title>
+      <link>https://github.com/PartialVolume/shredos.x86_64</link>
+      <description>&lt;p&gt;Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/255172530/c8fe290e-86ee-491b-ada6-5b805115c9a0" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>awesome-selfhosted/awesome-selfhosted-data</title>
+      <link>https://github.com/awesome-selfhosted/awesome-selfhosted-data</link>
+      <description>&lt;p&gt;machine-readable data for https://awesome-selfhosted.net&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/2273c2ebd0bdfa091fc241c4beeee7a8cb927fb2602e8cb77710bf65b5559bd6/awesome-selfhosted/awesome-selfhosted-data" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>motioneye-project/motioneyeos</title>
+      <link>https://github.com/motioneye-project/motioneyeos</link>
+      <description>&lt;p&gt;A Video Surveillance OS For Single-board Computers&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/197f0c75e5a2f25aa2ae40a19202fbdfb6d5e7e14bdcbad23a5509bc465c0d3c/motioneye-project/motioneyeos" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>SiftScience/sift-ios</title>
+      <link>https://github.com/SiftScience/sift-ios</link>
+      <description>&lt;p&gt;Sift iOS SDK&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9cb988e9b9518baac9e0e4c5d8830ba0b87a1f8ae6a926329d73cd95c3fcaac3/SiftScience/sift-ios" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>mozilla/addons</title>
+      <link>https://github.com/mozilla/addons</link>
+      <description>&lt;p&gt;☂ Umbrella repository for Mozilla Addons ✨&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/78c7b9a10c3d3852dc24b4737d3e5ffc5df516edec6e8c7bc881bb67c7f3498f/mozilla/addons" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>adriannovegil/awesome-observability</title>
+      <link>https://github.com/adriannovegil/awesome-observability</link>
+      <description>&lt;p&gt;Awesome observability page&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/3e5201e2f1f5ebd83dac4f0913fd427609f34d361b93c60ba3b61b1535e79414/adriannovegil/awesome-observability" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>HaveAGitGat/Tdarr</title>
+      <link>https://github.com/HaveAGitGat/Tdarr</link>
+      <description>&lt;p&gt;Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux &amp; Docker)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/208294915/c94da600-a0eb-11eb-935a-cef889856b8d" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>WerWolv/Tesla-Menu</title>
+      <link>https://github.com/WerWolv/Tesla-Menu</link>
+      <description>&lt;p&gt;The Nintendo Switch overlay menu&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ecd2f09e4ab10a91cf0ea45d7a91585ca94707d139e6ba0e7237647e0d7a26a0/WerWolv/Tesla-Menu" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>itchio/itch.io</title>
+      <link>https://github.com/itchio/itch.io</link>
+      <description>&lt;p&gt;🐛 Public itch.io issues tracker and documentation - use support instead for private information!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f9af26b899b3bc5a8e42efa0cdca12a3d4ef1618eed60669846d119869fbb491/itchio/itch.io" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Ysurac/openmptcprouter</title>
+      <link>https://github.com/Ysurac/openmptcprouter</link>
+      <description>&lt;p&gt;OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/508fe6eed72839f0ef78e807c0f227a6c8cd23b40ed78d53ceddbd05204ddd30/Ysurac/openmptcprouter" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

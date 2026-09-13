@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub BitBake Weekly Trending</title>
+    <description>Weekly Trending of BitBake in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:43:05 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>qualcomm-linux/meta-qcom</title>
+      <link>https://github.com/qualcomm-linux/meta-qcom</link>
+      <description>&lt;p&gt;OpenEmbedded/Yocto Project BSP layer for Qualcomm based platforms&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ed15bb8dbff97f9680292f9caf67cf0f150b903e5a288b56c96afa719e54a515/qualcomm-linux/meta-qcom" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>openembedded/meta-openembedded</title>
+      <link>https://github.com/openembedded/meta-openembedded</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f7eaeb31d0e4325a9e49d52bbf982c0352b2124ee8c88dd6a3b4ed334de449b7/openembedded/meta-openembedded" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>openbmc/openbmc</title>
+      <link>https://github.com/openbmc/openbmc</link>
+      <description>&lt;p&gt;OpenBMC Distribution&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/86651d1b7ad27d97566618b9e151b959e544a6431cf454461f84a3ac225bf068/openbmc/openbmc" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>balena-os/meta-balena</title>
+      <link>https://github.com/balena-os/meta-balena</link>
+      <description>&lt;p&gt;A collection of Yocto layers used to build balenaOS images&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a37e561485c8d60d1f86c5239b8a2a08a330a0c5ffc81f8afa17df388d07873a/balena-os/meta-balena" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

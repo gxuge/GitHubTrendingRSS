@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Lean Daily Trending</title>
+    <description>Daily Trending of Lean in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:38:02 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>leanprover/lean4</title>
+      <link>https://github.com/leanprover/lean4</link>
+      <description>&lt;p&gt;Lean 4 programming language and theorem prover&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/07b69e1966fe08593d82741f7c378c8d5b2cd41375de79fed53fd30ba03368d8/leanprover/lean4" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>sunblaze-ucb/vero</title>
+      <link>https://github.com/sunblaze-ucb/vero</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/fc593d3268ae3da4155b829c3967d69fcfb75b5dec232e88a45338eea7be656d/sunblaze-ucb/vero" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>leanprover-community/mathlib4</title>
+      <link>https://github.com/leanprover-community/mathlib4</link>
+      <description>&lt;p&gt;The math library of Lean 4&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1dc5a2f4ec6d73bda388c14f178b80aefe17a1bc9d06e6210df955dddeafff99/leanprover-community/mathlib4" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>leanprover-community/physlib</title>
+      <link>https://github.com/leanprover-community/physlib</link>
+      <description>&lt;p&gt;A project to digitalise results from physics into Lean.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c75abd0c72e1ac68223b932fcfc67f8b1b2db987b546f9e08b84d58d135cd469/leanprover-community/physlib" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>leanprover/cslib</title>
+      <link>https://github.com/leanprover/cslib</link>
+      <description>&lt;p&gt;The Lean Computer Science Library (CSLib)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/eb9c0b1ab9e4a4ea22bf28b85b34d8b2c1dcc6b8eaf7784cae5b0aabfd82c51e/leanprover/cslib" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>google-deepmind/formal-conjectures</title>
+      <link>https://github.com/google-deepmind/formal-conjectures</link>
+      <description>&lt;p&gt;A collection of formalized statements of conjectures in Lean.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/448105472c68ae0cb85091eb081936c1bb5c1beea1596dc258909d50b1d80767/google-deepmind/formal-conjectures" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>leanprover/comparator</title>
+      <link>https://github.com/leanprover/comparator</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/bed4b595590a5b6d8911a131652baa3534f9f84462045f815422aacdb452dbb3/leanprover/comparator" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

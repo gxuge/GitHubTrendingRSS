@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Scheme Monthly Trending</title>
+    <description>Monthly Trending of Scheme in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 06:00:14 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>cisco/ChezScheme</title>
+      <link>https://github.com/cisco/ChezScheme</link>
+      <description>&lt;p&gt;Chez Scheme&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f00eeda044c232b769116ef156cd5ccc4bff6df842f503dde3f514bd07aeefee/cisco/ChezScheme" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

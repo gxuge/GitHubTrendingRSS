@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Clojure Daily Trending</title>
+    <description>Daily Trending of Clojure in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:34:12 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>metabase/metabase</title>
+      <link>https://github.com/metabase/metabase</link>
+      <description>&lt;p&gt;The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/dbef2c896344d8ff9de0117757eeffd3754a6bfc9da9065e20ab09a1eb48a6d3/metabase/metabase" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>penpot/penpot</title>
+      <link>https://github.com/penpot/penpot</link>
+      <description>&lt;p&gt;Penpot: The open-source design platform for Product teams that need scalable collaboration.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/48769241/1e3fb75a-13e6-4d77-a658-e70e17fb1c6f" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>logseq/logseq</title>
+      <link>https://github.com/logseq/logseq</link>
+      <description>&lt;p&gt;A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/266231149/4a33065f-481b-4da7-bb7e-f7946055c0bc" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>functional-koans/clojure-koans</title>
+      <link>https://github.com/functional-koans/clojure-koans</link>
+      <description>&lt;p&gt;A set of exercises for learning Clojure&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f64927995390ae5cdeb44d6f476923ea137edf3a8b7a95e037e2d7756f772ecc/functional-koans/clojure-koans" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>logseq/og</title>
+      <link>https://github.com/logseq/og</link>
+      <description>&lt;p&gt;Logseq og (file version)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f53d403e8713890d3c947efa5dc1c6fdcf6f78e9e469f7acfb41bf25774ce82a/logseq/og" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>tonsky/FiraCode</title>
+      <link>https://github.com/tonsky/FiraCode</link>
+      <description>&lt;p&gt;Free monospaced font with programming ligatures&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/26500787/bf313080-6b02-11ea-9cd5-c3dca880736d" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

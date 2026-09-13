@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Objective-C++ Daily Trending</title>
+    <description>Daily Trending of Objective-C++ in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:39:09 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>callstack/liquid-glass</title>
+      <link>https://github.com/callstack/liquid-glass</link>
+      <description>&lt;p&gt;Liquid Glass in React Native&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/758abc97df6f95479ee3b950579da8df930795011ec6be7ae25e45ee5eafdac9/callstack/liquid-glass" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>northpolesec/santa</title>
+      <link>https://github.com/northpolesec/santa</link>
+      <description>&lt;p&gt;A binary and file access authorization system for macOS.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/865403475/ba87cb0d-43e1-4562-8185-65d9f10a6e41" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

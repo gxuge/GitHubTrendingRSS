@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Fortran Daily Trending</title>
+    <description>Daily Trending of Fortran in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:35:47 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>E3SM-Project/E3SM</title>
+      <link>https://github.com/E3SM-Project/E3SM</link>
+      <description>&lt;p&gt;Energy Exascale Earth System Model source code. NOTE: use &quot;maint&quot; branches for your work. Head of master is not validated.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/16ae0d8769f3fe6446d699712b65ebb1f8abf3412b72c285d20a53d2f0c46b8e/E3SM-Project/E3SM" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>wrf-model/WRF</title>
+      <link>https://github.com/wrf-model/WRF</link>
+      <description>&lt;p&gt;The official repository for the Weather Research and Forecasting (WRF) model&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/32133c9da9d0ad1029a135154c9f07705b6de338498096f1077928da99d83ea8/wrf-model/WRF" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ElmerCSC/elmerfem</title>
+      <link>https://github.com/ElmerCSC/elmerfem</link>
+      <description>&lt;p&gt;Official git repository of Elmer FEM software&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b0b2a217a089f6bb5a5ad63e7f76e902c891d1c35ff878a397edd5e32612a3b7/ElmerCSC/elmerfem" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>firemodels/fds</title>
+      <link>https://github.com/firemodels/fds</link>
+      <description>&lt;p&gt;Fire Dynamics Simulator&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d447ca0421efbb926b71afe8f57a89a59c5aef17e9e080cd950d1d6de834ddd4/firemodels/fds" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>MetOffice/lfric_apps</title>
+      <link>https://github.com/MetOffice/lfric_apps</link>
+      <description>&lt;p&gt;LFRic Applications&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/398808eeb96eb1c3b35a017a17294caf33ffee49ea903884fdd36a5f0379beff/MetOffice/lfric_apps" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>MetOffice/lfric_core</title>
+      <link>https://github.com/MetOffice/lfric_core</link>
+      <description>&lt;p&gt;LFRic Infrastructure&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9286655df1ff35c3359ccaac2979d50ff6bfc98d03c2b3a6dd8594b1ee0f5ac3/MetOffice/lfric_core" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>OpenFAST/openfast</title>
+      <link>https://github.com/OpenFAST/openfast</link>
+      <description>&lt;p&gt;Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/61a111508d44a542e590e19dca7dc4d59e981b0445315bbefc4b05b4d87a7090/OpenFAST/openfast" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>MetOffice/jules</title>
+      <link>https://github.com/MetOffice/jules</link>
+      <description>&lt;p&gt;The Joint UK Land Environment Simulator&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/24db37c54f36e22b8d57d61723dc6bf6b0963810058be2a07c5f7957b988b5da/MetOffice/jules" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>MFlowCode/MFC</title>
+      <link>https://github.com/MFlowCode/MFC</link>
+      <description>&lt;p&gt;Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist | 200T grid points on 43K+ GPUs&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/198475661/b7e3edbe-e0d8-4d91-90d9-15fb90155d66" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>NGEET/fates</title>
+      <link>https://github.com/NGEET/fates</link>
+      <description>&lt;p&gt;repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/57b38c40acb2f78a5b4434dd9f4137d6a808f2cd54090868e042c9151223ba88/NGEET/fates" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>MCSclimate/MCT</title>
+      <link>https://github.com/MCSclimate/MCT</link>
+      <description>&lt;p&gt;Model Coupling Tookit&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/8146051f87d90a5b4d6e7562bb7511cefe16aacb6186dcfd8c78f0a2f8321d27/MCSclimate/MCT" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>OpenRadioss/OpenRadioss</title>
+      <link>https://github.com/OpenRadioss/OpenRadioss</link>
+      <description>&lt;p&gt;OpenRadioss is a powerful, industry-proven finite element solver for dynamic event analysis&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/06d70fbb5ad548995dba6362d0f1474ffddc8b21d31c60ed6e421d5cb404340e/OpenRadioss/OpenRadioss" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

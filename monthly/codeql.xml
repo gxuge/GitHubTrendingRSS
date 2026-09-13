@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub CodeQL Monthly Trending</title>
+    <description>Monthly Trending of CodeQL in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:52:52 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>github/codeql</title>
+      <link>https://github.com/github/codeql</link>
+      <description>&lt;p&gt;CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1d8a4e7a4fa4ccaf268d416b1093cb9ca09dd57b81a5e5663e81366d8ee78f45/github/codeql" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>github/codeql-coding-standards</title>
+      <link>https://github.com/github/codeql-coding-standards</link>
+      <description>&lt;p&gt;This repository contains CodeQL queries and libraries which support various Coding Standards.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e9905ddca7a22e50fdf3dcaf2fa5563d6987740e15c7843ec9c13aa5b85a3acd/github/codeql-coding-standards" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

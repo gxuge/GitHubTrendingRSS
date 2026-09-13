@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub YAML Daily Trending</title>
+    <description>Daily Trending of YAML in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:42:17 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>web-platform-dx/web-features</title>
+      <link>https://github.com/web-platform-dx/web-features</link>
+      <description>&lt;p&gt;Exploring how to present Web platform features adoptability&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b02049d434ee7dedcb1116c0109c46d3a41a19e810d06c583fa387b364d12347/web-platform-dx/web-features" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>usnistgov/macos_security</title>
+      <link>https://github.com/usnistgov/macos_security</link>
+      <description>&lt;p&gt;macOS Security Compliance Project&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a42a3ef748478fc34f3d2062c5a77891149314af2af23d1651ee45194944993a/usnistgov/macos_security" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>sublime-security/sublime-rules</title>
+      <link>https://github.com/sublime-security/sublime-rules</link>
+      <description>&lt;p&gt;Sublime rules for email attack detection, prevention, and threat hunting.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4371bf8d2204b34074d390c2be92845d1cc9f96a78437a6d3a2f2a68c6a0c054/sublime-security/sublime-rules" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>tyriis/home-ops</title>
+      <link>https://github.com/tyriis/home-ops</link>
+      <description>&lt;p&gt;IaC for my HomeLab kubernetes cluster resources with Flux&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9f22dbfda96f82e13aaefc546974b418b53ed0d8bacdf9c24a6acc50f8f81264/tyriis/home-ops" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>aquaproj/aqua-registry</title>
+      <link>https://github.com/aquaproj/aqua-registry</link>
+      <description>&lt;p&gt;aqua&#39;s Standard Registry&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/402281482/35e14ecb-b2c8-4dd6-9000-85d9e18c4a0e" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>KSP-CKAN/NetKAN</title>
+      <link>https://github.com/KSP-CKAN/NetKAN</link>
+      <description>&lt;p&gt;Metadata files used by the NetKAN/CKAN indexer for KSP&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f82b38a35ddadc13b1cfacfa8bc5c320d678342dda6cfad6b0764e8686e8dfbf/KSP-CKAN/NetKAN" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

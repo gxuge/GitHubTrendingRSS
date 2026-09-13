@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub BitBake Daily Trending</title>
+    <description>Daily Trending of BitBake in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:33:29 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>qualcomm-linux/meta-qcom</title>
+      <link>https://github.com/qualcomm-linux/meta-qcom</link>
+      <description>&lt;p&gt;OpenEmbedded/Yocto Project BSP layer for Qualcomm based platforms&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ed15bb8dbff97f9680292f9caf67cf0f150b903e5a288b56c96afa719e54a515/qualcomm-linux/meta-qcom" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>openbmc/openbmc</title>
+      <link>https://github.com/openbmc/openbmc</link>
+      <description>&lt;p&gt;OpenBMC Distribution&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/86651d1b7ad27d97566618b9e151b959e544a6431cf454461f84a3ac225bf068/openbmc/openbmc" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>sbabic/meta-swupdate</title>
+      <link>https://github.com/sbabic/meta-swupdate</link>
+      <description>&lt;p&gt;Yocto receipes to generate a swupdate rootfilesystem as initrd&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b1b970c4f86eb051d7e462f6a00b197590cfcc3a202342d0572108b10771df4a/sbabic/meta-swupdate" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Freescale/meta-freescale</title>
+      <link>https://github.com/Freescale/meta-freescale</link>
+      <description>&lt;p&gt;Layer containing NXP hardware support metadata&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9dc8dbb3a8483871cc49b92bb8c93717dff4d0361f6447d1272a413e1c5602bb/Freescale/meta-freescale" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>nxp-imx/meta-imx</title>
+      <link>https://github.com/nxp-imx/meta-imx</link>
+      <description>&lt;p&gt;i.MX Yocto Project i.MX BSP Layer&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/aa0b7ddd69ef49e86af17371a1266efbddc98a69866bb4fa17bfe8f5957bdcf4/nxp-imx/meta-imx" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>openembedded/meta-openembedded</title>
+      <link>https://github.com/openembedded/meta-openembedded</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f7eaeb31d0e4325a9e49d52bbf982c0352b2124ee8c88dd6a3b4ed334de449b7/openembedded/meta-openembedded" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>aws4embeddedlinux/meta-aws</title>
+      <link>https://github.com/aws4embeddedlinux/meta-aws</link>
+      <description>&lt;p&gt;The metadata layer for baking AWS device software to Embedded Linux distributions built by the Yocto Project build system.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d9462c21bfdd77fd56cf2d049874206199f8798624164b481ff92f8d6b4594e8/aws4embeddedlinux/meta-aws" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>rauc/meta-rauc</title>
+      <link>https://github.com/rauc/meta-rauc</link>
+      <description>&lt;p&gt;Yocto/Open Embedded meta layer for RAUC, the embedded Linux update framework&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/72722405/1a2ec680-2324-11eb-82da-506cad777cfb" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Freescale/meta-freescale-3rdparty</title>
+      <link>https://github.com/Freescale/meta-freescale-3rdparty</link>
+      <description>&lt;p&gt;OpenEmbedded/Yocto BSP layer for Freescale&#39;s ARM based platforms&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/0ea2c77714f6a05ef1be2334bcd0ab51d50b5471f1b2eae43c791be38cc9e9ff/Freescale/meta-freescale-3rdparty" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>meta-qt5/meta-qt5</title>
+      <link>https://github.com/meta-qt5/meta-qt5</link>
+      <description>&lt;p&gt;QT5 layer for openembedded&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ef49e2ab4a586ec20c09c79c204051b263942c73c37894bb4dceaebc6babedc5/meta-qt5/meta-qt5" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>OE4T/meta-tegra</title>
+      <link>https://github.com/OE4T/meta-tegra</link>
+      <description>&lt;p&gt;BSP layer for NVIDIA Jetson platforms, based on L4T&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/90fc0a07464176c0a34f6cd98d5b1bb999b27caf9ce581b0c8967d7000b2086c/OE4T/meta-tegra" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

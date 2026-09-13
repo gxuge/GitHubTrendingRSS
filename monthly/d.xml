@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub D Monthly Trending</title>
+    <description>Monthly Trending of D in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:53:16 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>abraunegg/onedrive</title>
+      <link>https://github.com/abraunegg/onedrive</link>
+      <description>&lt;p&gt;OneDrive Client for Linux&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/3a794e3cf4d1728accf5f99abe14a14de9f3be63c697dca5d053779e12f689bb/abraunegg/onedrive" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Dadoum/anisette-v3-server</title>
+      <link>https://github.com/Dadoum/anisette-v3-server</link>
+      <description>&lt;p&gt;sidestore&#39;s anisette-v3 compatible server&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/266857cbcddf8c175d3b52726495a9f67a81c7c8adce4f1bcfdddaa6a303856f/Dadoum/anisette-v3-server" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Dadoum/Sideloader</title>
+      <link>https://github.com/Dadoum/Sideloader</link>
+      <description>&lt;p&gt;Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/74bcee466e63c6c848fc040f94f9514f3f3ce91a932b7f5236681a90b3a52273/Dadoum/Sideloader" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>dlang/phobos</title>
+      <link>https://github.com/dlang/phobos</link>
+      <description>&lt;p&gt;The standard library of the D programming language&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/eeca121c9ebd88d915bfc8f798ff43b6615586b787c74a088d5f7fddf5d25113/dlang/phobos" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>gnunn1/tilix</title>
+      <link>https://github.com/gnunn1/tilix</link>
+      <description>&lt;p&gt;A tiling terminal emulator for Linux using GTK+ 3&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1a1cfd037152b0dc3f4482b2fe1ca2efdd3e638eada1ae6c0c45b16278fc603f/gnunn1/tilix" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>dlang/dmd</title>
+      <link>https://github.com/dlang/dmd</link>
+      <description>&lt;p&gt;dmd D Programming Language compiler&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c3ba5a9d91eedd740e09a1ff2a5ebf0a03584cc86b5c1fdbd9fb7af8a102a8de/dlang/dmd" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

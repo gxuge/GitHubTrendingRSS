@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Vala Monthly Trending</title>
+    <description>Monthly Trending of Vala in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 06:01:29 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>alainm23/planify</title>
+      <link>https://github.com/alainm23/planify</link>
+      <description>&lt;p&gt;Task manager with Todoist, Nextcloud &amp; CalDAV support designed for GNOME&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/154173536/28a8522e-d0b4-4b03-9115-c2b41713e49d" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>tkashkin/GameHub</title>
+      <link>https://github.com/tkashkin/GameHub</link>
+      <description>&lt;p&gt;All your games in one place&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/135071605/bdd10b00-6d6c-11e9-97f1-d7bf54be19ce" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>linuxmint/timeshift</title>
+      <link>https://github.com/linuxmint/timeshift</link>
+      <description>&lt;p&gt;System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/faafc67d10f0828c70714deb879a636e017d873087437a12adacd868419bccc8/linuxmint/timeshift" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>BuddiesOfBudgie/budgie-desktop</title>
+      <link>https://github.com/BuddiesOfBudgie/budgie-desktop</link>
+      <description>&lt;p&gt;Budgie Desktop is a familiar, modern desktop environment.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/443727811/99f78445-1653-4449-8e3b-f8a9dc98f274" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>frida/frida-core</title>
+      <link>https://github.com/frida/frida-core</link>
+      <description>&lt;p&gt;Frida core library&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ca84390929c1f333a96df8161ff56909a81984cb12598ca7b620925fd568f7a0/frida/frida-core" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>kem-a/AppManager</title>
+      <link>https://github.com/kem-a/AppManager</link>
+      <description>&lt;p&gt;MacOS style AppImage installer and management application&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f64706b83f2da1f0164764cd92c7e0ec12e2433fa183b34f52382dfd5026c2c8/kem-a/AppManager" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>christianloopp/komorebi</title>
+      <link>https://github.com/christianloopp/komorebi</link>
+      <description>&lt;p&gt;A beautiful and customizable wallpapers manager for Linux&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a7f73e003b897e69674d23bf886c240cab04954e96b9275d94ef82d3b72893a4/christianloopp/komorebi" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Vysp3r/ProtonPlus</title>
+      <link>https://github.com/Vysp3r/ProtonPlus</link>
+      <description>&lt;p&gt;A modern compatibility tools manager&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/736f4d01cb08132c2a505022786a341a7ef3a128d74f18a845408018df81b2a2/Vysp3r/ProtonPlus" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

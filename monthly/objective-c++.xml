@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Objective-C++ Monthly Trending</title>
+    <description>Monthly Trending of Objective-C++ in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:58:04 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>KhronosGroup/MoltenVK</title>
+      <link>https://github.com/KhronosGroup/MoltenVK</link>
+      <description>&lt;p&gt;MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple&#39;s Metal graphics framework, enabling Vulkan applications to run on macOS, iOS and tvOS.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5027972df942fbd8e341a4e025013c83311b937122c057129d72a0607ee7e832/KhronosGroup/MoltenVK" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>sbmpost/AutoRaise</title>
+      <link>https://github.com/sbmpost/AutoRaise</link>
+      <description>&lt;p&gt;AutoRaise (and focus) a window when hovering over it with the mouse&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/6c1bc52b92312e1c3ba48b9877cc724e18c2825bc4c58f88fed86f113e17a628/sbmpost/AutoRaise" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>callstack/liquid-glass</title>
+      <link>https://github.com/callstack/liquid-glass</link>
+      <description>&lt;p&gt;Liquid Glass in React Native&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/758abc97df6f95479ee3b950579da8df930795011ec6be7ae25e45ee5eafdac9/callstack/liquid-glass" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>thusvill/LiveWallpaperMacOS</title>
+      <link>https://github.com/thusvill/LiveWallpaperMacOS</link>
+      <description>&lt;p&gt;This is a Opensource Live wallpaper solution for MacOS&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5766aea73680f10aded3c3da2aa7846a2c66919821badb43585ac03a0553ad89/thusvill/LiveWallpaperMacOS" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

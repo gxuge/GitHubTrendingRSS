@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Nix Monthly Trending</title>
+    <description>Monthly Trending of Nix in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:57:54 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>numtide/llm-agents.nix</title>
+      <link>https://github.com/numtide/llm-agents.nix</link>
+      <description>&lt;p&gt;Nix packages for AI coding agents and development tools. Automatically updated daily.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1022026685/54e22701-d429-43e1-9d5b-13544b7d3607" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>NixOS/nixpkgs</title>
+      <link>https://github.com/NixOS/nixpkgs</link>
+      <description>&lt;p&gt;Nix Packages collection &amp; NixOS&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/4542716/db161f80-7b49-11e9-9814-cf4d7cae408c" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>nix-community/home-manager</title>
+      <link>https://github.com/nix-community/home-manager</link>
+      <description>&lt;p&gt;Manage a user environment using Nix [maintainer=@khaneliman, @rycee]&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/78938149/bd7773f5-21d0-4653-b380-d3476697dfc4" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>NixOS/nixos-hardware</title>
+      <link>https://github.com/NixOS/nixos-hardware</link>
+      <description>&lt;p&gt;A collection of NixOS modules covering hardware quirks.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/557ca523649eebe08451429c0608d0c7640ba938d14b40910de97a02ad5bf0ad/NixOS/nixos-hardware" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>supabase/postgres</title>
+      <link>https://github.com/supabase/postgres</link>
+      <description>&lt;p&gt;Unmodified Postgres with some useful extensions&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/254578428/e6939080-9b79-11ea-84f8-8f6bf3c317cd" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>nix-darwin/nix-darwin</title>
+      <link>https://github.com/nix-darwin/nix-darwin</link>
+      <description>&lt;p&gt;Manage your macOS using Nix&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7b9c806ada4ae8a0a97dcc1a8ac7a1f2b5b8c6aea5e5457aa10a30d7138f91e9/nix-darwin/nix-darwin" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>microvm-nix/microvm.nix</title>
+      <link>https://github.com/microvm-nix/microvm.nix</link>
+      <description>&lt;p&gt;NixOS MicroVMs&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/379762392/436f3d5a-6e44-429f-8aa4-88ec1decd884" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>nix-community/disko</title>
+      <link>https://github.com/nix-community/disko</link>
+      <description>&lt;p&gt;Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/168824926/8b6a10f6-6e63-40c0-84f4-eb48ce8a4639" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Mic92/sops-nix</title>
+      <link>https://github.com/Mic92/sops-nix</link>
+      <description>&lt;p&gt;Atomic secret provisioning for NixOS based on sops&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7a3c83de2d202a7ea205081bc79924f0594bfb6839fdcc8ae3a16c6aa546958d/Mic92/sops-nix" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>nix-community/nixvim</title>
+      <link>https://github.com/nix-community/nixvim</link>
+      <description>&lt;p&gt;Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman]&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/325421844/ecb73f47-cb89-4ee0-a0fd-9743c2f3569a" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>cloud-gouv/securix</title>
+      <link>https://github.com/cloud-gouv/securix</link>
+      <description>&lt;p&gt;SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/0cf20e6e5ed36c0c69a6622eba2710774d6f7fc29ac51587e5cd09eff13c11f5/cloud-gouv/securix" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>nix-community/stylix</title>
+      <link>https://github.com/nix-community/stylix</link>
+      <description>&lt;p&gt;Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b5114c9adf16014a8a52fe8e132a4a2fd0616646ea357cbd641b957c3ba18e69/nix-community/stylix" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>chaotic-cx/nyx</title>
+      <link>https://github.com/chaotic-cx/nyx</link>
+      <description>&lt;p&gt;Nix flake for &quot;too much bleeding-edge&quot; and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/bc3d582c7adfcadcf86f642c68383abce6c8fb4cfe8e3cb645e84581f70364a6/chaotic-cx/nyx" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>nix-community/NixOS-WSL</title>
+      <link>https://github.com/nix-community/NixOS-WSL</link>
+      <description>&lt;p&gt;NixOS on WSL [maintainer=@nzbr]&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/74930767944abee5d4fe97bb16d5a9a7c03cb571fb87b499e2a1a1563dcf2cd5/nix-community/NixOS-WSL" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

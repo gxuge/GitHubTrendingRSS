@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Modelica Weekly Trending</title>
+    <description>Weekly Trending of Modelica in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:47:20 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>OpenModelica/OpenModelica</title>
+      <link>https://github.com/OpenModelica/OpenModelica</link>
+      <description>&lt;p&gt;OpenModelica is an open-source Modelica-based modeling and simulation environment intended for industrial and academic usage.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c31b825d68cc71ae265246a9239e637ac8e475be9686bfe540caff0af7bd70cd/OpenModelica/OpenModelica" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

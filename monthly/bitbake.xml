@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub BitBake Monthly Trending</title>
+    <description>Monthly Trending of BitBake in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:52:09 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>OE4T/meta-tegra</title>
+      <link>https://github.com/OE4T/meta-tegra</link>
+      <description>&lt;p&gt;BSP layer for NVIDIA Jetson platforms, based on L4T&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/90fc0a07464176c0a34f6cd98d5b1bb999b27caf9ce581b0c8967d7000b2086c/OE4T/meta-tegra" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Freescale/meta-freescale</title>
+      <link>https://github.com/Freescale/meta-freescale</link>
+      <description>&lt;p&gt;Layer containing NXP hardware support metadata&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9dc8dbb3a8483871cc49b92bb8c93717dff4d0361f6447d1272a413e1c5602bb/Freescale/meta-freescale" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>meta-flutter/meta-flutter</title>
+      <link>https://github.com/meta-flutter/meta-flutter</link>
+      <description>&lt;p&gt;Yocto/OpenEmbedded layer for Flutter on embedded Linux. Builds the Flutter SDK, engine and Dart SDK from source, four embedders (ivi-homescreen, flutter-auto, flutter-pi, flutter-elinux) and application recipes. Branches for master, wrynose, scarthgap, kirkstone and dunfell.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c608d90fa39e44c8fefb8f2cb3026f565d048308b610ee517c5ab9ad689cf535/meta-flutter/meta-flutter" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>nxp-imx/meta-imx</title>
+      <link>https://github.com/nxp-imx/meta-imx</link>
+      <description>&lt;p&gt;i.MX Yocto Project i.MX BSP Layer&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/aa0b7ddd69ef49e86af17371a1266efbddc98a69866bb4fa17bfe8f5957bdcf4/nxp-imx/meta-imx" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>openbmc/openbmc</title>
+      <link>https://github.com/openbmc/openbmc</link>
+      <description>&lt;p&gt;OpenBMC Distribution&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/86651d1b7ad27d97566618b9e151b959e544a6431cf454461f84a3ac225bf068/openbmc/openbmc" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>rauc/meta-rauc</title>
+      <link>https://github.com/rauc/meta-rauc</link>
+      <description>&lt;p&gt;Yocto/Open Embedded meta layer for RAUC, the embedded Linux update framework&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/72722405/1a2ec680-2324-11eb-82da-506cad777cfb" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>meta-qt5/meta-qt5</title>
+      <link>https://github.com/meta-qt5/meta-qt5</link>
+      <description>&lt;p&gt;QT5 layer for openembedded&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ef49e2ab4a586ec20c09c79c204051b263942c73c37894bb4dceaebc6babedc5/meta-qt5/meta-qt5" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>qualcomm-linux/meta-qcom</title>
+      <link>https://github.com/qualcomm-linux/meta-qcom</link>
+      <description>&lt;p&gt;OpenEmbedded/Yocto Project BSP layer for Qualcomm based platforms&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ed15bb8dbff97f9680292f9caf67cf0f150b903e5a288b56c96afa719e54a515/qualcomm-linux/meta-qcom" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>OpenCentauri/cosmos</title>
+      <link>https://github.com/OpenCentauri/cosmos</link>
+      <description>&lt;p&gt;Yocto Linux project to build a complete mainline Linux-based firmware for the Centauri Carbon printer&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/015f9f6d576541510e24e9f7e84eb16becc3360adbda705261fbd086ea390663/OpenCentauri/cosmos" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>openembedded/meta-openembedded</title>
+      <link>https://github.com/openembedded/meta-openembedded</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f7eaeb31d0e4325a9e49d52bbf982c0352b2124ee8c88dd6a3b4ed334de449b7/openembedded/meta-openembedded" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>aws4embeddedlinux/meta-aws</title>
+      <link>https://github.com/aws4embeddedlinux/meta-aws</link>
+      <description>&lt;p&gt;The metadata layer for baking AWS device software to Embedded Linux distributions built by the Yocto Project build system.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d9462c21bfdd77fd56cf2d049874206199f8798624164b481ff92f8d6b4594e8/aws4embeddedlinux/meta-aws" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Freescale/meta-freescale-3rdparty</title>
+      <link>https://github.com/Freescale/meta-freescale-3rdparty</link>
+      <description>&lt;p&gt;OpenEmbedded/Yocto BSP layer for Freescale&#39;s ARM based platforms&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/0ea2c77714f6a05ef1be2334bcd0ab51d50b5471f1b2eae43c791be38cc9e9ff/Freescale/meta-freescale-3rdparty" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Xilinx/meta-xilinx</title>
+      <link>https://github.com/Xilinx/meta-xilinx</link>
+      <description>&lt;p&gt;Collection of Yocto Project layers to enable AMD Xilinx products&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/dd1950c63baf5792bfad2f61f9275e4c2c7b36a3755e2aab52183a9b520a65f0/Xilinx/meta-xilinx" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ros/meta-ros</title>
+      <link>https://github.com/ros/meta-ros</link>
+      <description>&lt;p&gt;OpenEmbedded Layers for ROS 1 and ROS 2&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9bed12dfa14f13c16ccb0fe042e3e77c0956034076b40d296694bbf222fc88fc/ros/meta-ros" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

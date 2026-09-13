@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Standard ML Monthly Trending</title>
+    <description>Monthly Trending of Standard ML in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 06:00:37 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>GoldenCheetah/GoldenCheetah</title>
+      <link>https://github.com/GoldenCheetah/GoldenCheetah</link>
+      <description>&lt;p&gt;Performance Software for Cyclists, Runners, Triathletes and Coaches&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/152073c9e420e2e2d02d4002cd017055face2703cd3d90fd30be06f19be04d8b/GoldenCheetah/GoldenCheetah" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>CakeML/cakeml</title>
+      <link>https://github.com/CakeML/cakeml</link>
+      <description>&lt;p&gt;CakeML: A Verified Implementation of ML&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e345e2f4255379da14d807f61f1496abccf256677e93453db68b2791fbe4990c/CakeML/cakeml" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

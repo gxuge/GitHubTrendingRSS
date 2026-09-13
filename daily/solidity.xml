@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Solidity Daily Trending</title>
+    <description>Daily Trending of Solidity in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:41:11 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>OpenZeppelin/openzeppelin-contracts</title>
+      <link>https://github.com/OpenZeppelin/openzeppelin-contracts</link>
+      <description>&lt;p&gt;OpenZeppelin Contracts is a library for secure smart contract development.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a660e937259b732d097de9a5bfbde1e8cea05aadb602910dcea99ef1008d6c92/OpenZeppelin/openzeppelin-contracts" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>foundry-rs/forge-std</title>
+      <link>https://github.com/foundry-rs/forge-std</link>
+      <description>&lt;p&gt;A collection of helpful contracts and libraries for use with Forge and Foundry&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e45e4f346435004ab04a1f26128dd6c19ce5d2ccb9936ac41cdfa5ce1010fd12/foundry-rs/forge-std" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>a16z/erc4626-tests</title>
+      <link>https://github.com/a16z/erc4626-tests</link>
+      <description>&lt;p&gt;ERC4626 Property Tests&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a5a919c1ca70c079c2d045f0bc8ce45acbee1a8f0bfa01f74c63123578dc864e/a16z/erc4626-tests" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>dapphub/ds-test</title>
+      <link>https://github.com/dapphub/ds-test</link>
+      <description>&lt;p&gt;Assertions, equality checks and other test helpers&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/770631cbb602e5f441df38ed5691170efa31f9f7d7d6966757fa0b72ba0d0ae6/dapphub/ds-test" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>OpenZeppelin/openzeppelin-foundry-upgrades</title>
+      <link>https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades</link>
+      <description>&lt;p&gt;Foundry library for deploying and managing upgradeable contracts&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/61d2f272023e3e7a977413743d28b1aa1aa5a7b63cbc1af726b9695e9df78f96/OpenZeppelin/openzeppelin-foundry-upgrades" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Vectorized/solady</title>
+      <link>https://github.com/Vectorized/solady</link>
+      <description>&lt;p&gt;Optimized Solidity snippets.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/064031e276e88a2bc88b510d086fa917963a05376063ec5bfe8d38edbd7ee6f4/Vectorized/solady" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>morpho-org/vault-v2</title>
+      <link>https://github.com/morpho-org/vault-v2</link>
+      <description>&lt;p&gt;Morpho&#39;s non-custodial vault protocol&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/91f1baef4113890c9d307cd2190408e55719fa5260e3a1ea47f65439ab3509e2/morpho-org/vault-v2" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ProjectOpenSea/seaport</title>
+      <link>https://github.com/ProjectOpenSea/seaport</link>
+      <description>&lt;p&gt;Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/3f8a57e6d593520fbf5fb882e1cd685ce73127df26df125e89de30cca2496fff/ProjectOpenSea/seaport" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>transmissions11/solmate</title>
+      <link>https://github.com/transmissions11/solmate</link>
+      <description>&lt;p&gt;Modern, opinionated, and gas optimized building blocks for smart contract development.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/43ccc44086b68914a45a3bf43beacd9014735acad158139b4c013ea8fef5fdcb/transmissions11/solmate" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Uniswap/permit2</title>
+      <link>https://github.com/Uniswap/permit2</link>
+      <description>&lt;p&gt;🔑🔑🔑 next generation token approvals mechanism&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7e791731e8098abd3f102b0f227b605cfd97a85f3f36907805ad1a410256a99f/Uniswap/permit2" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

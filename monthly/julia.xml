@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Julia Monthly Trending</title>
+    <description>Monthly Trending of Julia in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:56:28 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>JuliaRegistries/General</title>
+      <link>https://github.com/JuliaRegistries/General</link>
+      <description>&lt;p&gt;The official registry of general Julia packages&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/23c721b495ef77c639f9461dca2d3693b58d8ea25b02a6a262f194bbe2fc5e73/JuliaRegistries/General" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>FluxML/Flux.jl</title>
+      <link>https://github.com/FluxML/Flux.jl</link>
+      <description>&lt;p&gt;Relax! Flux is the ML library that doesn&#39;t make you tensor&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/55262614/503a4ecb-71e5-45b5-a02e-f9db4eb53901" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>CliMA/Oceananigans.jl</title>
+      <link>https://github.com/CliMA/Oceananigans.jl</link>
+      <description>&lt;p&gt;🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/152878952/f3efa380-e869-11ea-8c3b-660146a6dd40" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>CliMA/ClimaCore.jl</title>
+      <link>https://github.com/CliMA/ClimaCore.jl</link>
+      <description>&lt;p&gt;GPU-capable dynamical core for the CliMA Earth System Model: spectral-element and finite-difference discretization tools&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7cf227dd1a85f95bae9f4810bf991d068bec0e4381ab86752ae1f1c2064c16d0/CliMA/ClimaCore.jl" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>MakieOrg/Makie.jl</title>
+      <link>https://github.com/MakieOrg/Makie.jl</link>
+      <description>&lt;p&gt;Interactive data visualizations and plotting in Julia&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/104806923/4a19d9ed-7862-44c5-899b-c576d00084b6" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>JuliaLang/julia</title>
+      <link>https://github.com/JuliaLang/julia</link>
+      <description>&lt;p&gt;The Julia Programming Language&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1644196/ddfc1e00-6638-11e9-9b80-0fe7b9aedd72" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>EnzymeAD/Enzyme.jl</title>
+      <link>https://github.com/EnzymeAD/Enzyme.jl</link>
+      <description>&lt;p&gt;Julia bindings for the Enzyme automatic differentiator&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f546b1fb0c97f7f8329876a708bbb3a45810d6491615f0dcd037aed96bfcc07e/EnzymeAD/Enzyme.jl" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>SciML/ModelingToolkit.jl</title>
+      <link>https://github.com/SciML/ModelingToolkit.jl</link>
+      <description>&lt;p&gt;An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/792d7b9f1d4e4ecb8ca9b5e1cf708fd4a8455b2f5888cce2362598010e862e3e/SciML/ModelingToolkit.jl" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>SciML/OrdinaryDiffEq.jl</title>
+      <link>https://github.com/SciML/OrdinaryDiffEq.jl</link>
+      <description>&lt;p&gt;High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/dccf8e2aefc5d047b0b4a3a0e4c625c90b739d68e95259916694f047d1e714d9/SciML/OrdinaryDiffEq.jl" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>trixi-framework/Trixi.jl</title>
+      <link>https://github.com/trixi-framework/Trixi.jl</link>
+      <description>&lt;p&gt;Trixi.jl: Adaptive high-order numerical simulations of conservation laws in Julia&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f02ee40f47a7848916427817aa931560b7d157a998fcc0fc4138d45b3d9961ca/trixi-framework/Trixi.jl" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>jump-dev/MathOptInterface.jl</title>
+      <link>https://github.com/jump-dev/MathOptInterface.jl</link>
+      <description>&lt;p&gt;A data structure for mathematical optimization problems&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/05a6930bdc379e046f59fa58db58dfbab362c12631e860f94f40917a327f7a99/jump-dev/MathOptInterface.jl" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

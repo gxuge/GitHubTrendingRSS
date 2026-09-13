@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Vue Monthly Trending</title>
+    <description>Monthly Trending of Vue in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 06:01:37 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>zyronon/TypeWords</title>
+      <link>https://github.com/zyronon/TypeWords</link>
+      <description>&lt;p&gt;Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5de92290e39641d69e34617180dd6a982a1df2ccabbf14aa969fc472752b8b5a/zyronon/TypeWords" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>requarks/wiki</title>
+      <link>https://github.com/requarks/wiki</link>
+      <description>&lt;p&gt;Wiki.js | Next Generation Open Source Wiki&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/65848095/7655d480-b066-11e9-991b-81088c474331" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>FreeTubeApp/FreeTube</title>
+      <link>https://github.com/FreeTubeApp/FreeTube</link>
+      <description>&lt;p&gt;An Open Source YouTube app for privacy&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5e422d080341631ac4a9f2afd4fa20bed27652445ba30c7af60d673f740daf26/FreeTubeApp/FreeTube" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>qier222/YesPlayMusic</title>
+      <link>https://github.com/qier222/YesPlayMusic</link>
+      <description>&lt;p&gt;高颜值的第三方网易云播放器，支持 Windows / macOS / Linux&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/302603001/8b9ebc00-1233-11eb-850d-d82f805bba62" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Smaug6739/Alexandrie</title>
+      <link>https://github.com/Smaug6739/Alexandrie</link>
+      <description>&lt;p&gt;📚 The open-source, offline-first Notion, Obsidian &amp; Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/527121729/756d6e13-538d-43e9-b37d-80abcf1ad823" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>vbenjs/vue-vben-admin</title>
+      <link>https://github.com/vbenjs/vue-vben-admin</link>
+      <description>&lt;p&gt;A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It&#39;s fast!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/8e052cb98eb1e9730a1da904587fde67bc019542c9ed1601fa4f140aeaa73826/vbenjs/vue-vben-admin" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>RikkaApps/websites</title>
+      <link>https://github.com/RikkaApps/websites</link>
+      <description>&lt;p&gt;Websites for Rikka apps.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d13f54448eeb99bf0f791966064befa396143181e759f3999a563f066da3bd8f/RikkaApps/websites" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>algerkong/AlgerMusicPlayer</title>
+      <link>https://github.com/algerkong/AlgerMusicPlayer</link>
+      <description>&lt;p&gt;一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/710867462/68542489-4e39-45df-8d44-63fdcae77aed" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>advplyr/audiobookshelf-app</title>
+      <link>https://github.com/advplyr/audiobookshelf-app</link>
+      <description>&lt;p&gt;Mobile application for Audiobookshelf&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/56ab6565b3de93cfec4df6af4a4d8210fa590833e3cabd14af623ce9e1d01d39/advplyr/audiobookshelf-app" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>julyx10/lap</title>
+      <link>https://github.com/julyx10/lap</link>
+      <description>&lt;p&gt;An offline-first photo manager for large local libraries&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5312ff50083c1db72009733a9d6cbf4f85edc29d0ccc58d2a96e5f908eb1e662/julyx10/lap" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>imsyy/yt-dlp-gui</title>
+      <link>https://github.com/imsyy/yt-dlp-gui</link>
+      <description>&lt;p&gt;A modern cross-platform GUI for yt-dlp. Download videos from YouTube, Bilibili, TikTok and 1000+ sites. Built with Tauri + Vue.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/817d90349b291474303e203343ed949bfe56346a5cd5def8905bced7e4b1fc0a/imsyy/yt-dlp-gui" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>PanJiaChen/vue-element-admin</title>
+      <link>https://github.com/PanJiaChen/vue-element-admin</link>
+      <description>&lt;p&gt;🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/88464704/5279d680-7e0a-11e9-9dfb-76463086bda3" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>inovector/mixpost</title>
+      <link>https://github.com/inovector/mixpost</link>
+      <description>&lt;p&gt;📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f1b32c5747af21bc4f178bb3ffc6e0eee7a0f6614f16919c2ba96234efb6b88c/inovector/mixpost" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>hefengxian/my-ielts</title>
+      <link>https://github.com/hefengxian/my-ielts</link>
+      <description>&lt;p&gt;雅思词汇真经、雅思语法、听力 179、阅读 538 同义替换等。Everything during preparing for my IELTS exam.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/fb80c7845c7cae3108abcab00bb53fb5308762af9adef1134b287af17496a665/hefengxian/my-ielts" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Daymychen/art-design-pro</title>
+      <link>https://github.com/Daymychen/art-design-pro</link>
+      <description>&lt;p&gt;A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ffee17ade5fcd8be589e745a0b34bcb369296f8774f6c025379ccaabbd96bcb1/Daymychen/art-design-pro" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>markterence/discord-quest-completer</title>
+      <link>https://github.com/markterence/discord-quest-completer</link>
+      <description>&lt;p&gt;A Windows desktop application to complete quests on Discord without installing the full actual games.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/80915447932c4c2d1d585514a9f4f9a927aa054373c7487336aa82702526125a/markterence/discord-quest-completer" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>HuLaSpark/HuLa</title>
+      <link>https://github.com/HuLaSpark/HuLa</link>
+      <description>&lt;p&gt;🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/743770309/f9a947fc-ef2c-4a91-acef-36315a589364" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>frappe/helpdesk</title>
+      <link>https://github.com/frappe/helpdesk</link>
+      <description>&lt;p&gt;Modern, Streamlined, Free and Open Source Customer Service Software&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/419635982/817f2750-a9db-4170-9f1b-eb031573ed62" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>keleus/BewlyCat</title>
+      <link>https://github.com/keleus/BewlyCat</link>
+      <description>&lt;p&gt;BewlyCat——基于BewlyBewly开发的Bilibili拓展&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7422ddd426f0463528fc75fc4eaabb08d6ad38ffecb8ed29775332c18358d417/keleus/BewlyCat" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>FoggedLens/deflock</title>
+      <link>https://github.com/FoggedLens/deflock</link>
+      <description>&lt;p&gt;Crowdsourced tool for locating and reporting ALPRs&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/6cedc952f834861cec0ff4eda7daa5a1189574ad571f95683c3c5a964729ca7e/FoggedLens/deflock" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>CorentinTh/it-tools</title>
+      <link>https://github.com/CorentinTh/it-tools</link>
+      <description>&lt;p&gt;Collection of handy online tools for developers, with great UX.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/401c05ed31996ce1954527708736b44bebbbab347ce5e78d8de4826927dc6e93/CorentinTh/it-tools" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

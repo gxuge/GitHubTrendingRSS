@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Fluent Weekly Trending</title>
+    <description>Weekly Trending of Fluent in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:44:42 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>qarmin/czkawka</title>
+      <link>https://github.com/qarmin/czkawka</link>
+      <description>&lt;p&gt;Multi functional app to find duplicates, empty folders, similar images etc.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/292065578/2ed04e00-408a-11eb-9b04-a8e493beaffa" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>SlimeVR/SlimeVR-Server</title>
+      <link>https://github.com/SlimeVR/SlimeVR-Server</link>
+      <description>&lt;p&gt;Server app for SlimeVR ecosystem&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d6245edb126da97fb59bc1395d61668b5b353fa734e7939096cc5f1638006df7/SlimeVR/SlimeVR-Server" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>janeczku/calibre-web</title>
+      <link>https://github.com/janeczku/calibre-web</link>
+      <description>&lt;p&gt;📚 Web app for browsing, reading and downloading eBooks stored in a Calibre database&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/36c164d81465dbc466f86f6dca4b76433392e32311ca0e68698c26b397fb0e09/janeczku/calibre-web" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

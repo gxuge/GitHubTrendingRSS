@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub WebAssembly Weekly Trending</title>
+    <description>Weekly Trending of WebAssembly in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:51:02 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>AssemblyScript/assemblyscript</title>
+      <link>https://github.com/AssemblyScript/assemblyscript</link>
+      <description>&lt;p&gt;A TypeScript-like language for WebAssembly.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/105138356/2a853280-b6f0-11ea-897b-a9b7b4898a85" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>WebAssembly/binaryen</title>
+      <link>https://github.com/WebAssembly/binaryen</link>
+      <description>&lt;p&gt;Optimizer and compiler/toolchain library for WebAssembly&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/63e37dd9aa0182f1151bc7be8793e3632a2167d70d970c5cb1d4fc970a36dc9a/WebAssembly/binaryen" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

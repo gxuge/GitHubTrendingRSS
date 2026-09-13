@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub OCaml Weekly Trending</title>
+    <description>Weekly Trending of OCaml in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:47:48 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>opengrep/opengrep</title>
+      <link>https://github.com/opengrep/opengrep</link>
+      <description>&lt;p&gt;🔎 Static code analysis engine to find security issues in code.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c921eaaac428f6faeeea7e4aa984ee17e588f0783c185074888e3c1bc4fb9219/opengrep/opengrep" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>rocq-prover/rocq</title>
+      <link>https://github.com/rocq-prover/rocq</link>
+      <description>&lt;p&gt;The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e372d3453e6736294d02dcb6d68065f0b11484120970316a17a67b5e87262c7a/rocq-prover/rocq" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>MinaProtocol/mina</title>
+      <link>https://github.com/MinaProtocol/mina</link>
+      <description>&lt;p&gt;Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7ea4ddde32e75c41079a078817d23b0adba3dc5a13050148563e38e651ba0b41/MinaProtocol/mina" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>oxcaml/oxcaml</title>
+      <link>https://github.com/oxcaml/oxcaml</link>
+      <description>&lt;p&gt;OCaml - Oxidized!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/cbb16e7e6ee292f49605def84f626108059ed3233b3b41f76875bdbe40c07048/oxcaml/oxcaml" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>AeneasVerif/aeneas</title>
+      <link>https://github.com/AeneasVerif/aeneas</link>
+      <description>&lt;p&gt;A verification toolchain for Rust programs&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5ffcf6ef31bc71a2244deb6bbdb1a987c8dfc41821f7f8c43e25101daf051908/AeneasVerif/aeneas" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ocaml/ocaml</title>
+      <link>https://github.com/ocaml/ocaml</link>
+      <description>&lt;p&gt;The core OCaml system: compilers, runtime system, base libraries&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/6786166/88c78500-1ad7-11eb-850f-1f6a1a012d47" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>facebook/infer</title>
+      <link>https://github.com/facebook/infer</link>
+      <description>&lt;p&gt;A static analyzer for Java, C, C++, and Objective-C&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/54d1a5045bf7d6f7cd932d78579900376703b1a6911b4c2fa8fe9f4c6c9fa479/facebook/infer" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

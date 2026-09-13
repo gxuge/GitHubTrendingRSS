@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Elixir Daily Trending</title>
+    <description>Daily Trending of Elixir in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:35:24 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>blockscout/blockscout</title>
+      <link>https://github.com/blockscout/blockscout</link>
+      <description>&lt;p&gt;Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/117294980/0488e951-ebff-446f-8af0-a61c74c1dcfc" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>openai/symphony</title>
+      <link>https://github.com/openai/symphony</link>
+      <description>&lt;p&gt;Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4ca7261860b615983eb12556bf19c0df972764acd42a15fafde96fe4cb4706b3/openai/symphony" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>phoenixframework/phoenix</title>
+      <link>https://github.com/phoenixframework/phoenix</link>
+      <description>&lt;p&gt;Peace of mind from prototype to production&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ce0d2ea7588dbf36e1033d5fff04167d016125d1fe3fd099dd88b8a4cc6ef14c/phoenixframework/phoenix" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>elixir-lang/elixir</title>
+      <link>https://github.com/elixir-lang/elixir</link>
+      <description>&lt;p&gt;Simple from zero to scale&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/61014365eb56af8ab9ce53e135177bf6caa2c8b6a4947bb99c42868dc419f3c9/elixir-lang/elixir" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>algora-io/algora</title>
+      <link>https://github.com/algora-io/algora</link>
+      <description>&lt;p&gt;Hire the top 1% OSS engineers&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/870119998/479ba5ef-7016-47ab-8f20-26c2508dd8ca" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>teslamate-org/teslamate</title>
+      <link>https://github.com/teslamate-org/teslamate</link>
+      <description>&lt;p&gt;A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/99d93660ba8a30b3cb35048f910d4654fc4793256bdd7fbc07c90acf49d4c1e3/teslamate-org/teslamate" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Spectral-Finance/lux</title>
+      <link>https://github.com/Spectral-Finance/lux</link>
+      <description>&lt;p&gt;Lux is an open-source framework for building multi-agent, swarmed intelligence built by Spectral Labs. With Beams, Prisms, Lenses, and Signals, it orchestrates AI-driven workflows to create truly autonomous organizations.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9000fe3bd54ea58b2817c52d7243aff3a35154ff4f02b5003a107bc6dab9d876/Spectral-Finance/lux" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>supabase/realtime</title>
+      <link>https://github.com/supabase/realtime</link>
+      <description>&lt;p&gt;Broadcast, Presence, and Postgres Changes via WebSockets&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d453e78f81fea7ffb46603d9aa4fe53d0ee8a4fd51317b4f361ba34ee453146e/supabase/realtime" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>wintermeyer/vutuv</title>
+      <link>https://github.com/wintermeyer/vutuv</link>
+      <description>&lt;p&gt;vutuv is a social network. Think of it as a fast, secure and less annoying open-source alternative for LinkedIn, Facebook and X.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/936d01585b306766c9523a4aac98061c0450aca4ae2e5a9589ae74833617a60e/wintermeyer/vutuv" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>kieraneglin/pinchflat</title>
+      <link>https://github.com/kieraneglin/pinchflat</link>
+      <description>&lt;p&gt;Your next YouTube media manager&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/55ccea25f1cd4c0fbf769449b011643c72697dbb75b3e2f5f617aa232b2d046d/kieraneglin/pinchflat" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>firezone/firezone</title>
+      <link>https://github.com/firezone/firezone</link>
+      <description>&lt;p&gt;Blazing-fast remote access&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/257787813/1bb07df7-3658-4e08-a9ee-779bf25db07c" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

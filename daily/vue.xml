@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Vue Daily Trending</title>
+    <description>Daily Trending of Vue in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:42:02 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Jelosus2/BD2-L2D-Viewer</title>
+      <link>https://github.com/Jelosus2/BD2-L2D-Viewer</link>
+      <description>&lt;p&gt;Brown Dust 2 Live 2D Viewer&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/3a57bb6e8c641c0fedfb60af54d054409e51fcd0de34f4584401c94dc98a2e81/Jelosus2/BD2-L2D-Viewer" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>requarks/wiki</title>
+      <link>https://github.com/requarks/wiki</link>
+      <description>&lt;p&gt;Wiki.js | Next Generation Open Source Wiki&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/65848095/7655d480-b066-11e9-991b-81088c474331" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>RikkaApps/websites</title>
+      <link>https://github.com/RikkaApps/websites</link>
+      <description>&lt;p&gt;Websites for Rikka apps.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4441408775d022893a4f011b5ec25b69de619e405c1bc309e5cb2ada8d4b41d0/RikkaApps/websites" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>lissy93/dashy</title>
+      <link>https://github.com/lissy93/dashy</link>
+      <description>&lt;p&gt;🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/343078060/82f850a2-b1af-4e9f-9245-c92700d74856" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>algerkong/AlgerMusicPlayer</title>
+      <link>https://github.com/algerkong/AlgerMusicPlayer</link>
+      <description>&lt;p&gt;一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/710867462/68542489-4e39-45df-8d44-63fdcae77aed" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>vbenjs/vue-vben-admin</title>
+      <link>https://github.com/vbenjs/vue-vben-admin</link>
+      <description>&lt;p&gt;A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It&#39;s fast!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/8e052cb98eb1e9730a1da904587fde67bc019542c9ed1601fa4f140aeaa73826/vbenjs/vue-vben-admin" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Gzh0821/pvzg_site</title>
+      <link>https://github.com/Gzh0821/pvzg_site</link>
+      <description>&lt;p&gt;PvZ2 Gardendless Official Website | A rewritten Plants vs Zombies 2 PC port&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4714baaa290d529d0ce657587f87e8376a0948b9b99925f446e86ccd8266216b/Gzh0821/pvzg_site" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>primefaces/primevue</title>
+      <link>https://github.com/primefaces/primevue</link>
+      <description>&lt;p&gt;Next Generation Vue UI Component Library&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/679ec14eb043f8b5715d32731ab714c6ab8625cbd74994fe82e313fcdebc2c00/primefaces/primevue" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>frappe/crm</title>
+      <link>https://github.com/frappe/crm</link>
+      <description>&lt;p&gt;Fully featured, open source CRM&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/668199241/68f0649e-ca3f-49c2-b9f3-8c939d177997" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>advplyr/audiobookshelf-app</title>
+      <link>https://github.com/advplyr/audiobookshelf-app</link>
+      <description>&lt;p&gt;Mobile application for Audiobookshelf&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/56ab6565b3de93cfec4df6af4a4d8210fa590833e3cabd14af623ce9e1d01d39/advplyr/audiobookshelf-app" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>FreeTubeApp/FreeTube</title>
+      <link>https://github.com/FreeTubeApp/FreeTube</link>
+      <description>&lt;p&gt;An Open Source YouTube app for privacy&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5e422d080341631ac4a9f2afd4fa20bed27652445ba30c7af60d673f740daf26/FreeTubeApp/FreeTube" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>crmeb/CRMEB</title>
+      <link>https://github.com/crmeb/CRMEB</link>
+      <description>&lt;p&gt;🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/74a951dbbdcedfc5f6e8800c83411f4ba2bb9bb35a2f42c0da0f3083ad04470e/crmeb/CRMEB" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>wu529778790/panhub.shenzjd.com</title>
+      <link>https://github.com/wu529778790/panhub.shenzjd.com</link>
+      <description>&lt;p&gt;PanHub 网盘聚合搜索 · Netdisk Search Aggregator。一个搜索框聚合夸克/阿里云盘/百度/115/迅雷等网盘资源，多源聚合去重、智能排序、插件熔断隔离。零数据库轻量部署，支持 Docker / Vercel / Cloudflare。Aggregate netdisk links into one search.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/48bf7b7f98a7b447a4120f153099532ef4653c93e505059d70d9409a122ada6f/wu529778790/panhub.shenzjd.com" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Daymychen/art-design-pro</title>
+      <link>https://github.com/Daymychen/art-design-pro</link>
+      <description>&lt;p&gt;A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ffee17ade5fcd8be589e745a0b34bcb369296f8774f6c025379ccaabbd96bcb1/Daymychen/art-design-pro" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>inovector/mixpost</title>
+      <link>https://github.com/inovector/mixpost</link>
+      <description>&lt;p&gt;📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f1b32c5747af21bc4f178bb3ffc6e0eee7a0f6614f16919c2ba96234efb6b88c/inovector/mixpost" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>bruhnn/BD2ModManager</title>
+      <link>https://github.com/bruhnn/BD2ModManager</link>
+      <description>&lt;p&gt;Brown Dust 2 Mod Manager to help you manage mods.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/86d379e0320b4d693a1c61aaad97000796cbc0a8bba76652ffe507695fbda6ce/bruhnn/BD2ModManager" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>zyronon/douyin</title>
+      <link>https://github.com/zyronon/douyin</link>
+      <description>&lt;p&gt;Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 . Imitate TikTok ，Vue Best practices on Mobile&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d70d12736969231f461ca193273c05379ad5307c169fc62509c1d19260a0d60f/zyronon/douyin" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ElemeFE/element</title>
+      <link>https://github.com/ElemeFE/element</link>
+      <description>&lt;p&gt;A Vue.js 2.0 UI Toolkit for Web&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/581755e6b4d2a4d2fe5927611346385c7cdb7462479de6af90dfdf0b412afd7f/ElemeFE/element" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>qier222/YesPlayMusic</title>
+      <link>https://github.com/qier222/YesPlayMusic</link>
+      <description>&lt;p&gt;高颜值的第三方网易云播放器，支持 Windows / macOS / Linux&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/302603001/8b9ebc00-1233-11eb-850d-d82f805bba62" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

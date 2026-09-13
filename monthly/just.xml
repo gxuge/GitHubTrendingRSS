@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Just Monthly Trending</title>
+    <description>Monthly Trending of Just in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:56:30 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ublue-os/bazzite</title>
+      <link>https://github.com/ublue-os/bazzite</link>
+      <description>&lt;p&gt;Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/599731589/294e506b-42c8-4ab1-b9d0-9b9f67857146" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>pop-os/cosmic-epoch</title>
+      <link>https://github.com/pop-os/cosmic-epoch</link>
+      <description>&lt;p&gt;Next generation Cosmic desktop environment&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c42ad0fc1f12b864fb8dea7aad931e8353de02c444678d81e8b22d48e39ffe49/pop-os/cosmic-epoch" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ublue-os/image-template</title>
+      <link>https://github.com/ublue-os/image-template</link>
+      <description>&lt;p&gt;Build your own custom Universal Blue Image!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/fdefaad757b88c9b31f8fdf24abe7c83df218110f8c55108bc7d26e24437885f/ublue-os/image-template" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ublue-os/main</title>
+      <link>https://github.com/ublue-os/main</link>
+      <description>&lt;p&gt;OCI base images of Fedora with batteries included&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/2f92b70e6626b74189cd9c0c833c1246468627a8a290cc6ba3518b19b9bea4eb/ublue-os/main" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub TSQL Monthly Trending</title>
+    <description>Monthly Trending of TSQL in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 06:01:13 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>microsoft/fhir-server</title>
+      <link>https://github.com/microsoft/fhir-server</link>
+      <description>&lt;p&gt;A service that implements the FHIR standard&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f4fb86e09b05453c42ed96e20c9a484a8816385fcfa1ba13d51e35a12547deb7/microsoft/fhir-server" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>lerocha/chinook-database</title>
+      <link>https://github.com/lerocha/chinook-database</link>
+      <description>&lt;p&gt;Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4b55312d0159de9363bbf98aee3bea1b5bdff9540a19d3eda598206a0bae873f/lerocha/chinook-database" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

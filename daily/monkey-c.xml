@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Monkey C Daily Trending</title>
+    <description>Daily Trending of Monkey C in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:38:48 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ludw/segment34mk3</title>
+      <link>https://github.com/ludw/segment34mk3</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/3e2b683b58c914e01e05be23f04686d15e5aa91749692d6e5826a3d68d4cd166/ludw/segment34mk3" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

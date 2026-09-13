@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub F* Monthly Trending</title>
+    <description>Monthly Trending of F* in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:54:28 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>FStarLang/FStar</title>
+      <link>https://github.com/FStarLang/FStar</link>
+      <description>&lt;p&gt;A Proof-oriented Programming Language&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f6143eb7f65682aef3b25f88e03e4f95394d936090778996ff9ba98a1e404460/FStarLang/FStar" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

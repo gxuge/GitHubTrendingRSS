@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Pawn Weekly Trending</title>
+    <description>Weekly Trending of Pawn in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:47:59 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>namazso/PawnIO.Modules</title>
+      <link>https://github.com/namazso/PawnIO.Modules</link>
+      <description>&lt;p&gt;Modules for use with PawnIO&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/76211b9c04f871d47da01a024fa30b7eb279087d9a3395d5b56c7475b2d2f302/namazso/PawnIO.Modules" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

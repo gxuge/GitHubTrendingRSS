@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Ren'Py Daily Trending</title>
+    <description>Daily Trending of Ren'Py in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:40:25 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Monika-After-Story/MonikaModDev</title>
+      <link>https://github.com/Monika-After-Story/MonikaModDev</link>
+      <description>&lt;p&gt;DDLC fan mod to extend Monika&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/006230801caf24db0150dc3c046e5142e241f924634923481e28a9739ed0fc90/Monika-After-Story/MonikaModDev" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>CensoredUsername/unrpyc</title>
+      <link>https://github.com/CensoredUsername/unrpyc</link>
+      <description>&lt;p&gt;A ren&#39;py script decompiler&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/6f65ede2712db6c4c28717262ff486ad34f6bd4680a63803d51108345da8abdc/CensoredUsername/unrpyc" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

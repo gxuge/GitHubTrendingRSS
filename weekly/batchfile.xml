@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Batchfile Weekly Trending</title>
+    <description>Weekly Trending of Batchfile in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:42:59 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Flowseal/zapret-discord-youtube</title>
+      <link>https://github.com/Flowseal/zapret-discord-youtube</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ec2d9d2f119017ea70ae0ba7b54c896e35d3532f38e7f6c829317b96cb62734d/Flowseal/zapret-discord-youtube" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Atlas-OS/Atlas</title>
+      <link>https://github.com/Atlas-OS/Atlas</link>
+      <description>&lt;p&gt;🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/336920522/bc626da4-3fdb-477b-b069-7bc9920eb983" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>shlima/keneetic-antifilter</title>
+      <link>https://github.com/shlima/keneetic-antifilter</link>
+      <description>&lt;p&gt;Правила маршрутизации youtube, instagram, chatgpt для роутеров keenetic&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e5b6fd65793f494cd43cfcd8add77bea69fbc89d77ae6c962492d248847cb43e/shlima/keneetic-antifilter" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>RockBlack-VPN/ip-address</title>
+      <link>https://github.com/RockBlack-VPN/ip-address</link>
+      <description>&lt;p&gt;ip address - Youtube, Instagtam, Twitter, Netflix&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/20bc0e7097512f169f98e689ac5f8bacf469f016d162979fcac09bd7b9628a72/RockBlack-VPN/ip-address" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>awesome-windows11/windows11</title>
+      <link>https://github.com/awesome-windows11/windows11</link>
+      <description>&lt;p&gt;🌎 Windows 11 Settings, Tweaks, Scripts&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/378635800/fdca41d1-ca7e-4940-abaa-392c6887f68a" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>xxmichibxx/Batch-CIA-3DS-Decryptor-Redux</title>
+      <link>https://github.com/xxmichibxx/Batch-CIA-3DS-Decryptor-Redux</link>
+      <description>&lt;p&gt;Decrypting Nintendo 3DS games and applications (.3ds, .cia)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7fe077b5caa83bd5d8bfeb819147d3b493a87fe1779d71568e0f18557abbe920/xxmichibxx/Batch-CIA-3DS-Decryptor-Redux" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

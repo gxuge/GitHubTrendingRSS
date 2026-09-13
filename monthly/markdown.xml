@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Markdown Monthly Trending</title>
+    <description>Monthly Trending of Markdown in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:57:22 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>jakubkrehel/skills</title>
+      <link>https://github.com/jakubkrehel/skills</link>
+      <description>&lt;p&gt;A collection of agent skills that help you build great interfaces.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1296300799/4f899c3b-4198-45f4-8063-2823d01a4185" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>microsoft/vscode-docs</title>
+      <link>https://github.com/microsoft/vscode-docs</link>
+      <description>&lt;p&gt;Public documentation for Visual Studio Code&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c84465b719da2dc0fc33b0f1e059eafbdc1b41e500579f21e7ed604e462aeaa4/microsoft/vscode-docs" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>OAI/OpenAPI-Specification</title>
+      <link>https://github.com/OAI/OpenAPI-Specification</link>
+      <description>&lt;p&gt;The OpenAPI Specification Repository&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e5c1061e75e9c72bd042e105d391ccd0852350b397fc4b8d865f4b1e66636364/OAI/OpenAPI-Specification" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>mdn/content</title>
+      <link>https://github.com/mdn/content</link>
+      <description>&lt;p&gt;The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/295774370/817919b9-83c2-4744-993e-c6075116b2a0" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>DigitalPlatDev/FreeDomain</title>
+      <link>https://github.com/DigitalPlatDev/FreeDomain</link>
+      <description>&lt;p&gt;Free domain registration and practical DNS learning resources for everyone.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/0ac7ed7be828d0aca06121b049f21392cc1baff545441d1b302077cad95a8165/DigitalPlatDev/FreeDomain" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>MicrosoftDocs/azure-docs</title>
+      <link>https://github.com/MicrosoftDocs/azure-docs</link>
+      <description>&lt;p&gt;Open source documentation of Microsoft Azure&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/55c5323f7ce434cd503491979518308ca04aa47ede216fd600294c14950c4363/MicrosoftDocs/azure-docs" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>jaywcjlove/linux-command</title>
+      <link>https://github.com/jaywcjlove/linux-command</link>
+      <description>&lt;p&gt;Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/73561650/d1a18600-3e58-11eb-9617-d0a3a29f2df3" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>swiftlang/swift-evolution</title>
+      <link>https://github.com/swiftlang/swift-evolution</link>
+      <description>&lt;p&gt;This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/8ca04b484034b37e8516544d8e87b3bccb04b472e8b3ddedd25f83b4bec5d93a/swiftlang/swift-evolution" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>tldr-pages/tldr</title>
+      <link>https://github.com/tldr-pages/tldr</link>
+      <description>&lt;p&gt;Collaborative cheatsheets for console commands 📚.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/15019962/aa6a8d00-b4a3-11ea-92f4-5cca1da75be2" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>docker/docs</title>
+      <link>https://github.com/docker/docs</link>
+      <description>&lt;p&gt;Source repo for Docker&#39;s Documentation&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/65772720/91494de2-e2c0-4647-a04f-a91e2389b6ac" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>rust-lang/rfcs</title>
+      <link>https://github.com/rust-lang/rfcs</link>
+      <description>&lt;p&gt;RFCs for changes to Rust&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/71323ae28af2ba55098770a3745cbfc670875cbe287a5ac840352bbcc723d4d7/rust-lang/rfcs" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ellisonleao/magictools</title>
+      <link>https://github.com/ellisonleao/magictools</link>
+      <description>&lt;p&gt;🎮 📝 A list of Game Development resources to make magic happen.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/21958186/a6629580-667b-11e9-9661-5e680a5f3039" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>adr/madr</title>
+      <link>https://github.com/adr/madr</link>
+      <description>&lt;p&gt;Markdown Architectural Decision Records&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/578269650da3bb8500f04e612cb3592d35152613bfe6e9e96f8ac5a25a7faab9/adr/madr" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>mdn/translated-content</title>
+      <link>https://github.com/mdn/translated-content</link>
+      <description>&lt;p&gt;7 community-maintained translations of MDN Web Docs in ES, FR, JA, KO, PT-BR, RU, and ZH, to learn and contribute in your native language.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/319742187/27917e46-ee17-4fcf-843c-63c5bed1ef82" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

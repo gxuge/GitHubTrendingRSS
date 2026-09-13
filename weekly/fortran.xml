@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Fortran Weekly Trending</title>
+    <description>Weekly Trending of Fortran in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:44:43 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>E3SM-Project/E3SM</title>
+      <link>https://github.com/E3SM-Project/E3SM</link>
+      <description>&lt;p&gt;Energy Exascale Earth System Model source code. NOTE: use &quot;maint&quot; branches for your work. Head of master is not validated.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/16ae0d8769f3fe6446d699712b65ebb1f8abf3412b72c285d20a53d2f0c46b8e/E3SM-Project/E3SM" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>OpenFAST/openfast</title>
+      <link>https://github.com/OpenFAST/openfast</link>
+      <description>&lt;p&gt;Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/61a111508d44a542e590e19dca7dc4d59e981b0445315bbefc4b05b4d87a7090/OpenFAST/openfast" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>wrf-model/WRF</title>
+      <link>https://github.com/wrf-model/WRF</link>
+      <description>&lt;p&gt;The official repository for the Weather Research and Forecasting (WRF) model&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/32133c9da9d0ad1029a135154c9f07705b6de338498096f1077928da99d83ea8/wrf-model/WRF" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>firemodels/fds</title>
+      <link>https://github.com/firemodels/fds</link>
+      <description>&lt;p&gt;Fire Dynamics Simulator&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d447ca0421efbb926b71afe8f57a89a59c5aef17e9e080cd950d1d6de834ddd4/firemodels/fds" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ElmerCSC/elmerfem</title>
+      <link>https://github.com/ElmerCSC/elmerfem</link>
+      <description>&lt;p&gt;Official git repository of Elmer FEM software&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b0b2a217a089f6bb5a5ad63e7f76e902c891d1c35ff878a397edd5e32612a3b7/ElmerCSC/elmerfem" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>cp2k/cp2k</title>
+      <link>https://github.com/cp2k/cp2k</link>
+      <description>&lt;p&gt;Quantum chemistry and solid state physics software package&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/817e0de8f23061172b3d131a1e42433c0d22d06c5880fdf4d9b3facc9eff50e1/cp2k/cp2k" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>JuliaPackaging/Yggdrasil</title>
+      <link>https://github.com/JuliaPackaging/Yggdrasil</link>
+      <description>&lt;p&gt;Collection of builder repositories for BinaryBuilder.jl&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/43317d25a130a59b60bdad6be23beeb36af6763de09ac237a361ef6e3d8d293b/JuliaPackaging/Yggdrasil" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>MetOffice/jules</title>
+      <link>https://github.com/MetOffice/jules</link>
+      <description>&lt;p&gt;The Joint UK Land Environment Simulator&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/24db37c54f36e22b8d57d61723dc6bf6b0963810058be2a07c5f7957b988b5da/MetOffice/jules" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

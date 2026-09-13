@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub MATLAB Monthly Trending</title>
+    <description>Monthly Trending of MATLAB in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:57:25 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>matlab/matlab-agentic-toolkit</title>
+      <link>https://github.com/matlab/matlab-agentic-toolkit</link>
+      <description>&lt;p&gt;The MATLAB Agentic Toolkit brings trusted MATLAB capabilities to AI agents, making engineering and scientific workflows agent-ready.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/3ce5106302427efc5c21d01199e6568e8236fe23e38b4301c95125df18bfba42/matlab/matlab-agentic-toolkit" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>fieldtrip/fieldtrip</title>
+      <link>https://github.com/fieldtrip/fieldtrip</link>
+      <description>&lt;p&gt;The MATLAB toolbox for MEG, EEG and iEEG analysis&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ff828ef8618234b61f943809d14aef2ec4ac0f6d5263462a0d0d6200ba9dcab0/fieldtrip/fieldtrip" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>TadasBaltrusaitis/OpenFace</title>
+      <link>https://github.com/TadasBaltrusaitis/OpenFace</link>
+      <description>&lt;p&gt;OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/40e8b2b15d824594d9bc7cdb834039eb9a001aa90d1c68b8e0733613c5199a25/TadasBaltrusaitis/OpenFace" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

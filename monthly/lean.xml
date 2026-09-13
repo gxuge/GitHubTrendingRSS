@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Lean Monthly Trending</title>
+    <description>Monthly Trending of Lean in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:56:57 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>leanprover/lean4</title>
+      <link>https://github.com/leanprover/lean4</link>
+      <description>&lt;p&gt;Lean 4 programming language and theorem prover&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/6f394518cfd3cf895da8424d3df41e5d8f59e1d393881343d9caee836819c041/leanprover/lean4" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>leanprover-community/mathlib4</title>
+      <link>https://github.com/leanprover-community/mathlib4</link>
+      <description>&lt;p&gt;The math library of Lean 4&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1dc5a2f4ec6d73bda388c14f178b80aefe17a1bc9d06e6210df955dddeafff99/leanprover-community/mathlib4" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>google-deepmind/formal-conjectures</title>
+      <link>https://github.com/google-deepmind/formal-conjectures</link>
+      <description>&lt;p&gt;A collection of formalized statements of conjectures in Lean.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/448105472c68ae0cb85091eb081936c1bb5c1beea1596dc258909d50b1d80767/google-deepmind/formal-conjectures" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>leanprover/cslib</title>
+      <link>https://github.com/leanprover/cslib</link>
+      <description>&lt;p&gt;The Lean Computer Science Library (CSLib)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/eb9c0b1ab9e4a4ea22bf28b85b34d8b2c1dcc6b8eaf7784cae5b0aabfd82c51e/leanprover/cslib" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>LionSR/TNLean</title>
+      <link>https://github.com/LionSR/TNLean</link>
+      <description>&lt;p&gt;Tensor-network theory, formalized in Lean 4: the fundamental theorem of matrix product states, canonical forms, parent Hamiltonians, matrix-product density operators, and projected entangled pair states, building on the QICLean quantum-information library&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/67944e79b76f3e3580e5acb37012d42adfaebde1192b37b4d7112535b44ed3cb/LionSR/TNLean" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>leanprover-community/physlib</title>
+      <link>https://github.com/leanprover-community/physlib</link>
+      <description>&lt;p&gt;A project to digitalise results from physics into Lean.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c75abd0c72e1ac68223b932fcfc67f8b1b2db987b546f9e08b84d58d135cd469/leanprover-community/physlib" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>leanprover-community/import-graph</title>
+      <link>https://github.com/leanprover-community/import-graph</link>
+      <description>&lt;p&gt;Tool to analyse the import structure of lean projects.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/dc395616963da16ac01be485aafd924f47c73f7c59b5eac72a695546fb4cba0b/leanprover-community/import-graph" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>leanprover-community/quote4</title>
+      <link>https://github.com/leanprover-community/quote4</link>
+      <description>&lt;p&gt;Intuitive, type-safe expression quotations for Lean 4.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/de3c9e1455ed2f2400bfe4064db3f1e6562b56778e853aa53b9fa04659a3ad24/leanprover-community/quote4" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>leanprover-community/plausible</title>
+      <link>https://github.com/leanprover-community/plausible</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d4d478550996565534f71b292a5834c540ebd6b575b5d6bd191da15ac8b3b75d/leanprover-community/plausible" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>leanprover-community/LeanSearchClient</title>
+      <link>https://github.com/leanprover-community/LeanSearchClient</link>
+      <description>&lt;p&gt;Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/bf00943b07bccf17ad27fbb8a9a9b5676a151db868acef7100112560c8d24e2d/leanprover-community/LeanSearchClient" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>leanprover-community/aesop</title>
+      <link>https://github.com/leanprover-community/aesop</link>
+      <description>&lt;p&gt;White-box automation for Lean 4&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4d4418c807258d9301ec48a5e60727d42501afb29b45fc891522160784f98949/leanprover-community/aesop" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>leanprover-community/ProofWidgets4</title>
+      <link>https://github.com/leanprover-community/ProofWidgets4</link>
+      <description>&lt;p&gt;Helper toolkit for creating your own Lean 4 UserWidgets&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4b07c0f79fff3e0b94285a4d0f4cac13dae3633bacacaf5fd0c556abb7bc75fc/leanprover-community/ProofWidgets4" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>leanprover/lean4-cli</title>
+      <link>https://github.com/leanprover/lean4-cli</link>
+      <description>&lt;p&gt;A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/61a9d89438807405588fb655cc47d7277c98f557fdf2fbe1398751848e879cc3/leanprover/lean4-cli" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>leanprover-community/batteries</title>
+      <link>https://github.com/leanprover-community/batteries</link>
+      <description>&lt;p&gt;The &quot;batteries included&quot; extended library for the Lean programming language and theorem prover&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c4631c663af2ec34940e932a21efb359220b225024f7b24779026f222cd4c14e/leanprover-community/batteries" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

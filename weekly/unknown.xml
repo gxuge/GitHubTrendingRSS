@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Unknown languages Weekly Trending</title>
+    <description>Weekly Trending of Unknown languages in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:42:23 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>liquidslr/system-design-notes</title>
+      <link>https://github.com/liquidslr/system-design-notes</link>
+      <description>&lt;p&gt;Notes of the book System Desgin Interview - An Insider&#39;s Guide&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c8158d5a8155a3e7b095567508c16d6eb789290c0b4b1c8344c38f6ee5e434ad/liquidslr/system-design-notes" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>punkpeye/awesome-mcp-servers</title>
+      <link>https://github.com/punkpeye/awesome-mcp-servers</link>
+      <description>&lt;p&gt;A collection of MCP servers.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e36c5e8bbdd871c8e396bdf1c72407b62009263306a0b5c7338c2776ce16ccd6/punkpeye/awesome-mcp-servers" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>mlabonne/llm-course</title>
+      <link>https://github.com/mlabonne/llm-course</link>
+      <description>&lt;p&gt;Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/212b50883b59622569fb8ce5d5e318047cba7c1fb9a185b289dc2523bf97ad62/mlabonne/llm-course" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ombharatiya/ai-system-design-guide</title>
+      <link>https://github.com/ombharatiya/ai-system-design-guide</link>
+      <description>&lt;p&gt;AI system design guide for engineers building production AI systems and evals.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/554d384188325302b34a9f1c9302d79b4334760c3296fef43961a96393c9406a/ombharatiya/ai-system-design-guide" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>andyrewlee/awesome-agent-orchestrators</title>
+      <link>https://github.com/andyrewlee/awesome-agent-orchestrators</link>
+      <description>&lt;p&gt;List of agent orchestrators&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/830afe116423feed359cd6d7a875fcdbb921cb8afd8fc0ab9d6b231d87af9685/andyrewlee/awesome-agent-orchestrators" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>multica-ai/andrej-karpathy-skills</title>
+      <link>https://github.com/multica-ai/andrej-karpathy-skills</link>
+      <description>&lt;p&gt;A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/663a0c589ae211c48e5ce3a6c4e039b5202cb61b45c9e9b63979e9619782e218/multica-ai/andrej-karpathy-skills" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>google/material-design-icons</title>
+      <link>https://github.com/google/material-design-icons</link>
+      <description>&lt;p&gt;Material Design icons by Google (Material Symbols)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/17bd495bae7d0603e818cc93461c52512b9e9a79ca22c45abc3a0ca529d81ed1/google/material-design-icons" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Johnshall/Shadowrocket-ADBlock-Rules-Forever</title>
+      <link>https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever</link>
+      <description>&lt;p&gt;提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/625ab4dde0e98277da4ee88db621ad3d7d49bcfc38130cdbf72a74b6fb7a6b73/Johnshall/Shadowrocket-ADBlock-Rules-Forever" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>0voice/expert_readed_books</title>
+      <link>https://github.com/0voice/expert_readed_books</link>
+      <description>&lt;p&gt;2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/38c008058022084e1a11993bf70ba1eaf7a30ce2bc7608cc969bc9196d2a0f5f/0voice/expert_readed_books" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

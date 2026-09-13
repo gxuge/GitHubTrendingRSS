@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Solidity Monthly Trending</title>
+    <description>Monthly Trending of Solidity in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 06:00:32 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Uniswap/v4-core</title>
+      <link>https://github.com/Uniswap/v4-core</link>
+      <description>&lt;p&gt;🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/0f79f7bf092297fe0310e2b65542f47acd2d2737d4275d47224d95cb22cbed69/Uniswap/v4-core" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>1inch/swap-vm</title>
+      <link>https://github.com/1inch/swap-vm</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/87ba8d704a7afa5f9a6afea11941a9d3f98dcee766c98d17854e99eb299c4ab0/1inch/swap-vm" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>jk-labs-inc/confetti</title>
+      <link>https://github.com/jk-labs-inc/confetti</link>
+      <description>&lt;p&gt;Vote. Rally. Earn.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/3911b06366f017308d7ebb019f82e7fa7a69ee6557be51a6033178f95253ff7e/jk-labs-inc/confetti" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>across-protocol/contracts</title>
+      <link>https://github.com/across-protocol/contracts</link>
+      <description>&lt;p&gt;Smart contracts for Across protocol&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/63e26491d99e06cb940ba7accde17d1202a219c779d34b22b477bd89961fee4c/across-protocol/contracts" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

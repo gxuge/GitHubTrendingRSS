@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Unknown languages Daily Trending</title>
+    <description>Daily Trending of Unknown languages in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:32:36 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>VoltAgent/awesome-agent-skills</title>
+      <link>https://github.com/VoltAgent/awesome-agent-skills</link>
+      <description>&lt;p&gt;A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/28ca7a40597d3bfe29ff06b8f935a21fff8987ec90ed3991a99572dc113cdcf9/VoltAgent/awesome-agent-skills" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>knowledgefxg/learning-english</title>
+      <link>https://github.com/knowledgefxg/learning-english</link>
+      <description>&lt;p&gt;精选优质英语学习资源合集，专注于听说读写等核心技能的提升。包含语法、词汇和媒体资源，助您更好地学习英语。&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/fb5a1bf4d33362bcc61caf6636dd8301b2ac8555f078379c09899fd6a50f1d1f/knowledgefxg/learning-english" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>mlabonne/llm-course</title>
+      <link>https://github.com/mlabonne/llm-course</link>
+      <description>&lt;p&gt;Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/56b0988e95f5e26c31dc7b555bb3710e06a015b1e9a9b8324bb01b262314d00e/mlabonne/llm-course" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>liquidslr/system-design-notes</title>
+      <link>https://github.com/liquidslr/system-design-notes</link>
+      <description>&lt;p&gt;Notes of the book System Desgin Interview - An Insider&#39;s Guide&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ddb44e3714207830b1f002053ec93063f8578c81612f3d4984e4d0ca2efc9b85/liquidslr/system-design-notes" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>google/material-design-icons</title>
+      <link>https://github.com/google/material-design-icons</link>
+      <description>&lt;p&gt;Material Design icons by Google (Material Symbols)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/17bd495bae7d0603e818cc93461c52512b9e9a79ca22c45abc3a0ca529d81ed1/google/material-design-icons" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>microsoft/winget-pkgs</title>
+      <link>https://github.com/microsoft/winget-pkgs</link>
+      <description>&lt;p&gt;The Microsoft community Windows Package Manager manifest repository&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/91208cd287e2a2ffa3952e10042d7e8cf3fa4d6d0a95a688927cd4a8b8964217/microsoft/winget-pkgs" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>0xk1h0/ChatGPT_DAN</title>
+      <link>https://github.com/0xk1h0/ChatGPT_DAN</link>
+      <description>&lt;p&gt;ChatGPT DAN, Jailbreaks prompt&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5c5f20753b36ce6661db4325acfafe70e8c2a44f09b18f48b82e775304c0bcd6/0xk1h0/ChatGPT_DAN" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Au1rxx/free-vpn-subscriptions</title>
+      <link>https://github.com/Au1rxx/free-vpn-subscriptions</link>
+      <description>&lt;p&gt;Free Clash, sing-box, and V2Ray subscription feed with live node status and setup guides&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9121da91ab36ae7e5a3ff07f3f0050e7ea0fef03bb7c6af2ebf534072b045f73/Au1rxx/free-vpn-subscriptions" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ombharatiya/ai-system-design-guide</title>
+      <link>https://github.com/ombharatiya/ai-system-design-guide</link>
+      <description>&lt;p&gt;AI system design guide for engineers building production AI systems and evals.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/554d384188325302b34a9f1c9302d79b4334760c3296fef43961a96393c9406a/ombharatiya/ai-system-design-guide" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

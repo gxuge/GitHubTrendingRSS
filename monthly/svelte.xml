@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Svelte Monthly Trending</title>
+    <description>Monthly Trending of Svelte in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 06:00:43 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>imputnet/cobalt</title>
+      <link>https://github.com/imputnet/cobalt</link>
+      <description>&lt;p&gt;best way to save what you love&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/143909acd65a4ad8dab3aa429bb843e418fe637c64a66eecdac57625d7c3a2fe/imputnet/cobalt" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>VERT-sh/VERT</title>
+      <link>https://github.com/VERT-sh/VERT</link>
+      <description>&lt;p&gt;The next-generation file converter. Open source, fully local* and free forever.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/faede0f7feff0141377d7da1040cf77a48dc2b6d19a3448ceb1341914a935592/VERT-sh/VERT" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>open-webui/desktop</title>
+      <link>https://github.com/open-webui/desktop</link>
+      <description>&lt;p&gt;Open WebUI Desktop 🌐&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/970125c0aea86ea619cf157952a1cf0befb11732e762ca415fc81291c8a13e75/open-webui/desktop" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>seanmorley15/AdventureLog</title>
+      <link>https://github.com/seanmorley15/AdventureLog</link>
+      <description>&lt;p&gt;Self-hostable travel tracker and trip planner.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/779449791/d2c92e75-cc4a-41a2-92a1-bb7f60cfa4a7" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>brave/leo</title>
+      <link>https://github.com/brave/leo</link>
+      <description>&lt;p&gt;Design tokens for the Brave&#39;s design system known as Leo&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/23ee5b64c8e903e3840896498fc94befe87a1ff7527017180ce16fe333d69c2c/brave/leo" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>RaidOwl/homelab-hub</title>
+      <link>https://github.com/RaidOwl/homelab-hub</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/401c05ed31996ce1954527708736b44bebbbab347ce5e78d8de4826927dc6e93/RaidOwl/homelab-hub" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ReVanced/revanced-website</title>
+      <link>https://github.com/ReVanced/revanced-website</link>
+      <description>&lt;p&gt;🌐 Website for ReVanced&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/514729065/7db46969-de62-491c-943e-d115090847d8" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>PuruVJ/macos-web</title>
+      <link>https://github.com/PuruVJ/macos-web</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/215fe59c9722e918bc374e7e0961f8635007b954550075668194420db7568e3e/PuruVJ/macos-web" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>jikan-me/website</title>
+      <link>https://github.com/jikan-me/website</link>
+      <description>&lt;p&gt;Website source for Jikan.moe&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d0f0b5ce937777160b945efd59d6b6efdc929327cc69b62c94f9d01223d8e37a/jikan-me/website" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>dora-team/dora.dev</title>
+      <link>https://github.com/dora-team/dora.dev</link>
+      <description>&lt;p&gt;Public-facing knowledge site: https://dora.dev&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/da72067d62fbbf8d727d2340b4de06a23586aa74a6f6f33566911eef3a75c9a4/dora-team/dora.dev" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>bryanroscoe/shield_optimizer</title>
+      <link>https://github.com/bryanroscoe/shield_optimizer</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e1e15b4d99fca57b313086d477e3b28e540464e23ce8b727b0742687055a70e8/bryanroscoe/shield_optimizer" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>mawoka-myblock/ClassQuiz</title>
+      <link>https://github.com/mawoka-myblock/ClassQuiz</link>
+      <description>&lt;p&gt;ClassQuiz is a quiz-application like Kahoot!, but open-source.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e1160ea7d22de8321c26a981175986d955232f98a57081aa19de31269a02194b/mawoka-myblock/ClassQuiz" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>satisfactorymodding/SatisfactoryModManager</title>
+      <link>https://github.com/satisfactorymodding/SatisfactoryModManager</link>
+      <description>&lt;p&gt;A mod manager for easy installation of mods and modloader for Satisfactory&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4954dcd2837606349e95c6338c7a7e9d255c1d92c68c97af770cd943b494e4b9/satisfactorymodding/SatisfactoryModManager" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

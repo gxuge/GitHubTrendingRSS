@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Blade Monthly Trending</title>
+    <description>Monthly Trending of Blade in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:52:08 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>grocy/grocy</title>
+      <link>https://github.com/grocy/grocy</link>
+      <description>&lt;p&gt;ERP beyond your fridge - Grocy is a web-based self-hosted groceries &amp; household management solution for your home&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c38eb09345ba2621528dc31eb3c00a0a2ad9535914cbba9220476f4f251d69dd/grocy/grocy" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>laravel/laravel</title>
+      <link>https://github.com/laravel/laravel</link>
+      <description>&lt;p&gt;Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9095109b2fc0201ed6e2aed89afb9480672ef787fce48928f2d32a0cddd36342/laravel/laravel" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

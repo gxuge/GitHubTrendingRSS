@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub LLVM Monthly Trending</title>
+    <description>Monthly Trending of LLVM in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:57:06 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>llvm/llvm-project</title>
+      <link>https://github.com/llvm/llvm-project</link>
+      <description>&lt;p&gt;The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d5abc331c0868eab2398ea4282fcd840db887c50334073edf1b63fed2727af80/llvm/llvm-project" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>arm/arm-toolchain</title>
+      <link>https://github.com/arm/arm-toolchain</link>
+      <description>&lt;p&gt;A project dedicated to building LLVM toolchain for Arm and AArch64 embedded targets and AArch64 native Linux development.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/823f735c3d1d744e015384a4bccf980a73469b93fcff544ef2fad29ae5ca12e3/arm/arm-toolchain" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>EnzymeAD/Enzyme</title>
+      <link>https://github.com/EnzymeAD/Enzyme</link>
+      <description>&lt;p&gt;High-performance automatic differentiation of LLVM and MLIR.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/172835975/2624d300-fc67-11ea-97b2-827d0bb6c433" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>intel/llvm</title>
+      <link>https://github.com/intel/llvm</link>
+      <description>&lt;p&gt;Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/704b86549286a222f9ec182a188fc45b0ee004213251fc675b6c7e3136a0be39/intel/llvm" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

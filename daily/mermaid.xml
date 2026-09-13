@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Mermaid Daily Trending</title>
+    <description>Daily Trending of Mermaid in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:38:40 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>MicrosoftDocs/power-automate-docs</title>
+      <link>https://github.com/MicrosoftDocs/power-automate-docs</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/3e424cfc436d456ac7a363cd59a9dc1ba6b5dcc44ce626a1edb9eddc15363807/MicrosoftDocs/power-automate-docs" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>dotnet/EntityFramework.Docs</title>
+      <link>https://github.com/dotnet/EntityFramework.Docs</link>
+      <description>&lt;p&gt;Documentation for Entity Framework Core and Entity Framework 6&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/25920a74db95a6c94ed403b3c96b0d238dd69f766a6e7e5d5e30c525fbc50da8/dotnet/EntityFramework.Docs" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>MicrosoftDocs/azure-ai-docs</title>
+      <link>https://github.com/MicrosoftDocs/azure-ai-docs</link>
+      <description>&lt;p&gt;Open Source Azure AI documentation including, azure ai, azure studio, machine learning, genomics, open-datasets, and search&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a309dd57ebadcf480012c9efd74a987e768b1f3ce5fedb9191aae2231c72dab0/MicrosoftDocs/azure-ai-docs" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Inno Setup Daily Trending</title>
+    <description>Daily Trending of Inno Setup in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:37:02 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>CnCNet/cncnet-yr-client-package</title>
+      <link>https://github.com/CnCNet/cncnet-yr-client-package</link>
+      <description>&lt;p&gt;The official CnCNet Yuri&#39;s Revenge package for online.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/205018725/cfad84db-61d4-45f8-9e40-d979e190f42f" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Astro Daily Trending</title>
+    <description>Daily Trending of Astro in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:33:16 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>tabler/tabler</title>
+      <link>https://github.com/tabler/tabler</link>
+      <description>&lt;p&gt;Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/119811010/cb23c4bd-c14e-4afe-b71f-afb8b7e114c8" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>hilmanski/freeStuffDev</title>
+      <link>https://github.com/hilmanski/freeStuffDev</link>
+      <description>&lt;p&gt;Complete list of free stuff for developer&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f0342d6656b6ba4ef068ffbe748462abd4d68a2694b6a387a7b0cfd1f264f202/hilmanski/freeStuffDev" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>music-assistant/music-assistant.io</title>
+      <link>https://github.com/music-assistant/music-assistant.io</link>
+      <description>&lt;p&gt;Documentation repo for Music Assistant&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e36fee987e73b7373dfa3faace6132b3afbe7e70a5933194b6878636c4fae90c/music-assistant/music-assistant.io" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>saicaca/fuwari</title>
+      <link>https://github.com/saicaca/fuwari</link>
+      <description>&lt;p&gt;✨A static blog template built with Astro.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/706723945/52d1f5a2-9f95-436c-a85f-dd94fe550afa" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>skills/agentic-workflows-that-read-the-room</title>
+      <link>https://github.com/skills/agentic-workflows-that-read-the-room</link>
+      <description>&lt;p&gt;This is a GitHub Skills exercise on how to get started with Agentic Workflows where we will create simple use case to show the power of an Agentic Workflow&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ffaf4fb7d283e7db14fd7d656021b0141c080afb395084c3e42a184f48f5e1ea/skills/agentic-workflows-that-read-the-room" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>CuteLeaf/Firefly</title>
+      <link>https://github.com/CuteLeaf/Firefly</link>
+      <description>&lt;p&gt;🍀Firefly, fresh and aesthetic Astro blog theme template.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1074250582/e8d5b2c1-80f9-4e34-ba18-525563852ec3" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub YARA Monthly Trending</title>
+    <description>Monthly Trending of YARA in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 06:01:54 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Neo23x0/signature-base</title>
+      <link>https://github.com/Neo23x0/signature-base</link>
+      <description>&lt;p&gt;YARA signature and IOC database for my scanners and tools&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/24136ee98e5bb1bf884e8472bd7767bfaa011f1ce0a780841df64f22a48effd1/Neo23x0/signature-base" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>elastic/protections-artifacts</title>
+      <link>https://github.com/elastic/protections-artifacts</link>
+      <description>&lt;p&gt;Elastic Security detection content for Endpoint&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9b25139d85accb6caeb878e50e8f760019b58b5f66a739f97175607cab84b9af/elastic/protections-artifacts" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>magicsword-io/LOLDrivers</title>
+      <link>https://github.com/magicsword-io/LOLDrivers</link>
+      <description>&lt;p&gt;Living Off The Land Drivers&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/600482495/dd9023ee-afef-4eac-838b-b45a63e38bc5" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>mthcht/awesome-lists</title>
+      <link>https://github.com/mthcht/awesome-lists</link>
+      <description>&lt;p&gt;Awesome Security lists for SOC/CERT/CTI&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/576895240/7eef5e20-85eb-4e1c-8439-4fa944cf680a" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Yara-Rules/rules</title>
+      <link>https://github.com/Yara-Rules/rules</link>
+      <description>&lt;p&gt;Repository of yara rules&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/33764615/58e9f500-36f0-11ea-87aa-a83c5b70c5bb" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

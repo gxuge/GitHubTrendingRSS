@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Makefile Weekly Trending</title>
+    <description>Weekly Trending of Makefile in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:47:07 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ROCKNIX/distribution</title>
+      <link>https://github.com/ROCKNIX/distribution</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/460a823844e0e89c9271c74187caecdde54e84df55f1a678ad078262d2be277d/ROCKNIX/distribution" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>openwrt/packages</title>
+      <link>https://github.com/openwrt/packages</link>
+      <description>&lt;p&gt;Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/06757d9ef7a66094cc2286d0b4219e6299a2d3fc01db3178429e5bcbd2090b7f/openwrt/packages" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>uber-go/guide</title>
+      <link>https://github.com/uber-go/guide</link>
+      <description>&lt;p&gt;The Uber Go Style Guide.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/cc77af60a11d1d610618f1fb8daf10d1fbf61348afc1c4b4f2536e6c9e20d1e2/uber-go/guide" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>foostan/crkbd</title>
+      <link>https://github.com/foostan/crkbd</link>
+      <description>&lt;p&gt;Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/db6244688807a04731af28418e80478248a4caf7a6aa38e143b3f8445abdb84a/foostan/crkbd" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>PartialVolume/shredos.x86_64</title>
+      <link>https://github.com/PartialVolume/shredos.x86_64</link>
+      <description>&lt;p&gt;Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/255172530/c8fe290e-86ee-491b-ada6-5b805115c9a0" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>open-telemetry/opentelemetry-proto</title>
+      <link>https://github.com/open-telemetry/opentelemetry-proto</link>
+      <description>&lt;p&gt;OpenTelemetry protocol (OTLP) specification and Protobuf definitions&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/74a63e3901ca4a0fd3691651e166ad4f797e217004389b19008dfae7e2ecf022/open-telemetry/opentelemetry-proto" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>freebsd/freebsd-ports</title>
+      <link>https://github.com/freebsd/freebsd-ports</link>
+      <description>&lt;p&gt;FreeBSD ports tree (read-only mirror)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/05957950876965d33cdcaef53432ab01ce98c475769826126e1b365873050634/freebsd/freebsd-ports" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>golang-standards/project-layout</title>
+      <link>https://github.com/golang-standards/project-layout</link>
+      <description>&lt;p&gt;Standard Go Project Layout&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/aee357c43cc7b60d01fb1ce78f5cd882780a1499764b87d0110c3eb42a8928fe/golang-standards/project-layout" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>open-telemetry/opentelemetry-proto-go</title>
+      <link>https://github.com/open-telemetry/opentelemetry-proto-go</link>
+      <description>&lt;p&gt;Generated code for OpenTelemetry protobuf data model&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/15adaac80d50dec6ec522b791e9682ca28d1f81de403ded16378ad19c1b1d1af/open-telemetry/opentelemetry-proto-go" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>HaveAGitGat/Tdarr</title>
+      <link>https://github.com/HaveAGitGat/Tdarr</link>
+      <description>&lt;p&gt;Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux &amp; Docker)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/208294915/c94da600-a0eb-11eb-935a-cef889856b8d" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>liberationfonts/liberation-fonts</title>
+      <link>https://github.com/liberationfonts/liberation-fonts</link>
+      <description>&lt;p&gt;The Liberation(tm) Fonts is a font family which aims at metric compatibility with Arial, Times New Roman, and Courier New.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4515e698b5ed879d1125a9d9f667e599eb3c74fa2d38707e107ed7cb233e0000/liberationfonts/liberation-fonts" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>deepseek-ai/DeepSeek-LLM</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-LLM</link>
+      <description>&lt;p&gt;DeepSeek LLM: Let there be answers&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9e409de1b4180df09962f49121d7dcc431b60980311e84d2e05b6eed3ad0bc7c/deepseek-ai/DeepSeek-LLM" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>mozilla/addons</title>
+      <link>https://github.com/mozilla/addons</link>
+      <description>&lt;p&gt;☂ Umbrella repository for Mozilla Addons ✨&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/78c7b9a10c3d3852dc24b4737d3e5ffc5df516edec6e8c7bc881bb67c7f3498f/mozilla/addons" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>jobbole/awesome-python-cn</title>
+      <link>https://github.com/jobbole/awesome-python-cn</link>
+      <description>&lt;p&gt;Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/3dbf59fe1fd67a6608966ac6c833c4aa636bacd7051e0c4d799720a2a7df6882/jobbole/awesome-python-cn" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>itchio/itch.io</title>
+      <link>https://github.com/itchio/itch.io</link>
+      <description>&lt;p&gt;🐛 Public itch.io issues tracker and documentation - use support instead for private information!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f9af26b899b3bc5a8e42efa0cdca12a3d4ef1618eed60669846d119869fbb491/itchio/itch.io" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

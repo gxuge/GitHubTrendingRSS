@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub GLSL Daily Trending</title>
+    <description>Daily Trending of GLSL in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:36:03 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>cizia64/CrossMix-OS</title>
+      <link>https://github.com/cizia64/CrossMix-OS</link>
+      <description>&lt;p&gt;Enhanced OS for the TrimUI Smart Pro&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/dac1cf12a8d1ca1ae1633eb0c145d6077e535466bfd6ee43c95bbf9b80789b95/cizia64/CrossMix-OS" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>dyphire/mpv-config</title>
+      <link>https://github.com/dyphire/mpv-config</link>
+      <description>&lt;p&gt;本项目为 windows 下 mpv 播放器的配置文件 (This project is the configuration file of mpv player on Windows)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ebee2ad948320b4cb67995cca4715e6f55245ad3cd42f1ab5b34b744424f26b8/dyphire/mpv-config" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>sixthsurge/photon</title>
+      <link>https://github.com/sixthsurge/photon</link>
+      <description>&lt;p&gt;A gameplay-focused shader pack for Minecraft&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1a25c9a8ec7c38cb902bf9356fddb210361eef7494010fed3c1880a114a525da/sixthsurge/photon" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>bambosan/mirai</title>
+      <link>https://github.com/bambosan/mirai</link>
+      <description>&lt;p&gt;A Vibrant Visual Shader for MCBE&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b6365ef8627e3a332a6acbfc907f9e8229c2afb4e3d2711565827f35b662f4b7/bambosan/mirai" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>KhronosGroup/SPIRV-Cross</title>
+      <link>https://github.com/KhronosGroup/SPIRV-Cross</link>
+      <description>&lt;p&gt;SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/2a4ea88a7b4a0e4cdff2e3b72ed07d0b65b1bc60d9a1e0ddf6bdc23d5bdec964/KhronosGroup/SPIRV-Cross" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

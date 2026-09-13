@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Batchfile Daily Trending</title>
+    <description>Daily Trending of Batchfile in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:33:23 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Flowseal/zapret-discord-youtube</title>
+      <link>https://github.com/Flowseal/zapret-discord-youtube</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ec2d9d2f119017ea70ae0ba7b54c896e35d3532f38e7f6c829317b96cb62734d/Flowseal/zapret-discord-youtube" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>enhorse/java-interview</title>
+      <link>https://github.com/enhorse/java-interview</link>
+      <description>&lt;p&gt;Вопросы и ответы к интервью Java разработчика&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4b0221e80d51a490ccc2fb83e6cb3ab94dba5b1fa5f023525eb4a32f3d54e835/enhorse/java-interview" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>RockBlack-VPN/ip-address</title>
+      <link>https://github.com/RockBlack-VPN/ip-address</link>
+      <description>&lt;p&gt;ip address - Youtube, Instagtam, Twitter, Netflix&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/20bc0e7097512f169f98e689ac5f8bacf469f016d162979fcac09bd7b9628a72/RockBlack-VPN/ip-address" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>awesome-windows11/windows11</title>
+      <link>https://github.com/awesome-windows11/windows11</link>
+      <description>&lt;p&gt;🌎 Windows 11 Settings, Tweaks, Scripts&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/378635800/fdca41d1-ca7e-4940-abaa-392c6887f68a" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>SillyTavern/SillyTavern-Launcher</title>
+      <link>https://github.com/SillyTavern/SillyTavern-Launcher</link>
+      <description>&lt;p&gt;Launcher scripts for SillyTavern and ST-Extras.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5334830a313df55109369f173bbb27a44d7493e3f036e87c79cdc727757350fa/SillyTavern/SillyTavern-Launcher" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>xxmichibxx/Batch-CIA-3DS-Decryptor-Redux</title>
+      <link>https://github.com/xxmichibxx/Batch-CIA-3DS-Decryptor-Redux</link>
+      <description>&lt;p&gt;Decrypting Nintendo 3DS games and applications (.3ds, .cia)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7fe077b5caa83bd5d8bfeb819147d3b493a87fe1779d71568e0f18557abbe920/xxmichibxx/Batch-CIA-3DS-Decryptor-Redux" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

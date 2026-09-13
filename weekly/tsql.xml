@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub TSQL Weekly Trending</title>
+    <description>Weekly Trending of TSQL in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:50:33 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>lerocha/chinook-database</title>
+      <link>https://github.com/lerocha/chinook-database</link>
+      <description>&lt;p&gt;Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4b55312d0159de9363bbf98aee3bea1b5bdff9540a19d3eda598206a0bae873f/lerocha/chinook-database" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>cisagov/cset</title>
+      <link>https://github.com/cisagov/cset</link>
+      <description>&lt;p&gt;Cybersecurity Evaluation Tool&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/34127f1603ecc0cf0c369ac9514b6042018e1f7c27206e7340eb666e2559bddb/cisagov/cset" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

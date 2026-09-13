@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub EJS Daily Trending</title>
+    <description>Daily Trending of EJS in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:35:23 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>github/haikus-for-codespaces</title>
+      <link>https://github.com/github/haikus-for-codespaces</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/2b081f96002d0cf1847d10f3af708550b54bc1fff3f9aea5784e8831aabb0e87/github/haikus-for-codespaces" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>docker/multi-container-app</title>
+      <link>https://github.com/docker/multi-container-app</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/004fff5c1240ad16bacdcb12849c58fdb6d9cf3f1733bf4070c9e69656d6e7f7/docker/multi-container-app" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

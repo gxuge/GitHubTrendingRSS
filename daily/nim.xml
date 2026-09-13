@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Nim Daily Trending</title>
+    <description>Daily Trending of Nim in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:39:01 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>nim-lang/Nim</title>
+      <link>https://github.com/nim-lang/Nim</link>
+      <description>&lt;p&gt;Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/842037/cf468f00-88a5-11e9-8d1a-d5fba75d3eb5" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>zedeus/nitter</title>
+      <link>https://github.com/zedeus/nitter</link>
+      <description>&lt;p&gt;Alternative Twitter front-end&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/286d1f634ff50fa1d0839568844feea54c9bcdf00fb53fdb417493d5ebf104ec/zedeus/nitter" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>logos-messaging/logos-delivery</title>
+      <link>https://github.com/logos-messaging/logos-delivery</link>
+      <description>&lt;p&gt;Logos Messaging protocols implemented in Nim&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b1eba26b0f852572f2a48b1b6dcbabfdc2ed0c3ed50053619b3f684e1f0c3d4e/logos-messaging/logos-delivery" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>vacp2p/nim-libp2p</title>
+      <link>https://github.com/vacp2p/nim-libp2p</link>
+      <description>&lt;p&gt;libp2p implementation in Nim&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/158147798/ffb6ee7c-4b3a-496f-aa16-27cdcc3e647e" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>status-im/nimbus-eth2</title>
+      <link>https://github.com/status-im/nimbus-eth2</link>
+      <description>&lt;p&gt;Nim implementation of the Ethereum Beacon Chain&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/72e32214cf94e5f9328e5838e9bb592f63469f0a2b0d1894fc82641405d661f4/status-im/nimbus-eth2" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

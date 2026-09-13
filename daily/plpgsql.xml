@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub PLpgSQL Daily Trending</title>
+    <description>Daily Trending of PLpgSQL in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:39:47 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>qiantongtech/qData</title>
+      <link>https://github.com/qiantongtech/qData</link>
+      <description>&lt;p&gt;qData is an open-source data governance and data development platform that integrates ETL, data development, metadata management, data quality, data assets, API services, and AI-powered data Q&amp;A.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/00b9df661b4cae685edc8f68ca767068ecd0babae70d41c12699638e0c929a82/qiantongtech/qData" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>pgpartman/pg_partman</title>
+      <link>https://github.com/pgpartman/pg_partman</link>
+      <description>&lt;p&gt;Partition management extension for PostgreSQL&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/63ffa6e9241ed50e09ece4747873c18c39d5ef8cfc6963ccaedd25e80a325177/pgpartman/pg_partman" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>guchengwuyue/yshop-drink</title>
+      <link>https://github.com/guchengwuyue/yshop-drink</link>
+      <description>&lt;p&gt;yshop意象点餐(扫码点餐)系统，在线点餐(外卖与自取)小程序模式，支持多门店模式，支持saas多租户模式，基础技术Java17+sprringboot3+vue3+uniapp(vue3)（支持H5、微信小程序） 采用当前流行技术组合的前后端分离点餐系统： SpringBoot3、Spring Security OAuth2、MybatisPlus、SpringSecurity、jwt、redis、Vue3的前后端分离的系统&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/6c2d5209047d29d992fd56d29e1ec64b2d1d13f805adb1c821e7ea188026b952/guchengwuyue/yshop-drink" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>openmaptiles/openmaptiles</title>
+      <link>https://github.com/openmaptiles/openmaptiles</link>
+      <description>&lt;p&gt;OpenMapTiles Vector Tile Schema Implementation&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b138b1fe97e99f75093cbe5c83b92ef9884fd182ab76f7d331415a3e72acc97c/openmaptiles/openmaptiles" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

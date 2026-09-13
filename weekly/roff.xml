@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Roff Weekly Trending</title>
+    <description>Weekly Trending of Roff in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:49:11 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>TapXWorld/ChinaTextbook</title>
+      <link>https://github.com/TapXWorld/ChinaTextbook</link>
+      <description>&lt;p&gt;所有小初高、大学PDF教材。&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9f481fe193162d37c78195910936c8abe7db34ecc7429ca22a43611a5170b106/TapXWorld/ChinaTextbook" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

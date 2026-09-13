@@ -1,0 +1,1419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Swift Daily Trending</title>
+    <description>Daily Trending of Swift in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:41:24 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>abue-ammar/tinycast</title>
+      <link>https://github.com/abue-ammar/tinycast</link>
+      <description>&lt;p&gt;Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Tinycast&lt;/h1&gt; 
+&lt;p&gt;&lt;strong&gt;A tiny, fully native macOS launcher. One hotkey, everything you reach for all day, under 100 MB of RAM.&lt;/strong&gt;&lt;/p&gt; 
+&lt;p align=&quot;center&quot;&gt; &lt;a href=&quot;https://github.com/abue-ammar/tinycast/releases/latest&quot;&gt; &lt;img alt=&quot;Latest release&quot; src=&quot;https://img.shields.io/github/v/release/abue-ammar/tinycast?sort=semver&amp;amp;style=flat&amp;amp;label=release&amp;amp;color=1F6FEB&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://github.com/abue-ammar/tinycast/actions/workflows/ci.yml&quot;&gt; &lt;img alt=&quot;CI status&quot; src=&quot;https://img.shields.io/github/actions/workflow/status/abue-ammar/tinycast/ci.yml?branch=main&amp;amp;style=flat&amp;amp;label=CI&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;Swift 6.0&quot; src=&quot;https://img.shields.io/badge/Swift-6.0-F05138?style=flat&amp;amp;logo=swift&amp;amp;logoColor=white&quot; /&gt; &lt;img alt=&quot;macOS 15 or later&quot; src=&quot;https://img.shields.io/badge/macOS-15%2B-000000?style=flat&amp;amp;logo=apple&amp;amp;logoColor=white&quot; /&gt; &lt;a href=&quot;https://raw.githubusercontent.com/abue-ammar/tinycast/main/LICENSE&quot;&gt; &lt;img alt=&quot;License: AGPL-3.0&quot; src=&quot;https://img.shields.io/badge/License-AGPL--3.0-3DA639?style=flat&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://discord.gg/v2Eeb4QQy3&quot;&gt; &lt;img alt=&quot;Join the Tinycast Discord&quot; src=&quot;https://img.shields.io/badge/Discord-Join-5865F2?style=flat&amp;amp;logo=discord&amp;amp;logoColor=white&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://buy.polar.sh/polar_cl_NDVFC20DKQpLcNawsh97QzbARBXD3WNn8v35R0mbJmT&quot;&gt; &lt;img alt=&quot;Support Tinycast&quot; src=&quot;https://img.shields.io/badge/Support-Tip%20the%20dev-EA4AAA?style=flat&amp;amp;logo=polar&amp;amp;logoColor=white&quot; /&gt;&lt;/a&gt; &lt;/p&gt; 
+&lt;p&gt;SwiftUI and AppKit, &lt;strong&gt;zero third-party dependencies&lt;/strong&gt;, no Electron and no telemetry. It also &lt;strong&gt;runs real Raycast extensions&lt;/strong&gt;, rendered as native SwiftUI. Free, open source, and staying that way.&lt;/p&gt; 
+&lt;p&gt;For anything private, email &lt;a href=&quot;mailto:iabueammar@gmail.com&quot;&gt;iabueammar@gmail.com&lt;/a&gt;.&lt;/p&gt; 
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;https://raw.githubusercontent.com/abue-ammar/tinycast/main/docs/screenshot.png&quot; alt=&quot;Tinycast command palette&quot; width=&quot;720&quot; /&gt; &lt;/p&gt; 
+&lt;h2&gt;Support&lt;/h2&gt; 
+&lt;p&gt;Tinycast is &lt;strong&gt;free, and it stays that way&lt;/strong&gt;. If it earns a place in your daily flow, a one-off tip helps keep it actively maintained. GitHub Sponsors isn&#39;t available in my country, so please support here:&lt;/p&gt; 
+&lt;p align=&quot;center&quot;&gt; &lt;a href=&quot;https://buy.polar.sh/polar_cl_NDVFC20DKQpLcNawsh97QzbARBXD3WNn8v35R0mbJmT&quot;&gt; &lt;img alt=&quot;Support Tinycast&quot; width=&quot;188&quot; height=&quot;44&quot; src=&quot;https://raw.githubusercontent.com/abue-ammar/tinycast/main/docs/support-button.svg?sanitize=true&quot; /&gt;&lt;/a&gt;&lt;br /&gt; &lt;sub&gt;Payments are handled securely by &lt;a href=&quot;https://polar.sh&quot;&gt;Polar.sh&lt;/a&gt;.&lt;/sub&gt; &lt;/p&gt; 
+&lt;h2&gt;Features&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;strong&gt;App launcher&lt;/strong&gt; — fuzzy-search and launch anything, pin favorites, see what&#39;s running, quit an app or every app at once.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Global hotkey&lt;/strong&gt; — one shortcut summons the palette from anywhere.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Per-app hotkeys&lt;/strong&gt; — bind a key to an app; press it to toggle (focus/hide).&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Search Files&lt;/strong&gt; — open files and folders from the folders you choose, through Spotlight, with no index of our own.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Clipboard history&lt;/strong&gt; — text and images, searchable, pasted back into the app you were using.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Calculator&lt;/strong&gt; — do math, unit, live currency and crypto conversions inline, right in the palette.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Quicklinks&lt;/strong&gt; — turn a URL, search, file or deeplink into a command, with placeholders for typed input, the clipboard or the date.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Snippets&lt;/strong&gt; — reusable Markdown templates with dynamic placeholders, arguments, nested references and optional keyword expansion.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Custom commands&lt;/strong&gt; — run named shell commands through fuzzy search or their own global hotkeys.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Window management&lt;/strong&gt; — 34 Rectangle-style actions: halves, quarters, thirds, sizing, nudging, display moves, fullscreen and Spaces.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;System actions&lt;/strong&gt; — lock, sleep, restart, empty trash, toggle appearance, Bluetooth, mute, hidden files, and more.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Calendar and meetings&lt;/strong&gt; — your next meeting on the empty palette and in the menu bar, one key to join it, or let it join itself.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Notes&lt;/strong&gt; — an unlimited collection of plain Markdown files in one floating editor, searchable from the palette.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Emoji picker&lt;/strong&gt; — a searchable emoji grid, one keystroke away.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;AI chat&lt;/strong&gt; — use your own key or an installed AI account, chat from the palette. Off out of the box, like every AI feature.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Quick Actions&lt;/strong&gt; — fix grammar, rewrite, translate or summarize the selected text in any app.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Raycast extensions&lt;/strong&gt; — run the ones you already have natively, rendered as SwiftUI.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Backup and import&lt;/strong&gt; — export your settings to a file, or import your setup from Raycast.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;Install&lt;/h2&gt; 
+&lt;p&gt;First, add the tap:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-sh&quot;&gt;brew trust --tap abue-ammar/tinycast   # required for third-party taps
+brew tap abue-ammar/tinycast
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Then run the one line that matches your Mac:&lt;/p&gt; 
+&lt;table&gt; 
+ &lt;thead&gt; 
+  &lt;tr&gt; 
+   &lt;th&gt;Your Mac&lt;/th&gt; 
+   &lt;th&gt;Install&lt;/th&gt; 
+  &lt;/tr&gt; 
+ &lt;/thead&gt; 
+ &lt;tbody&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Apple silicon, macOS 26 or newer&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;brew install --cask tinycast&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Intel, macOS 26&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;brew install --cask tinycast-universal&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;macOS 15 Sequoia&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;brew install --cask tinycast-sequoia&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+ &lt;/tbody&gt; 
+&lt;/table&gt; 
+&lt;p&gt;Not sure which you have? &lt;strong&gt;Apple menu → About This Mac.&lt;/strong&gt; Homebrew checks too, and refuses the wrong one.&lt;/p&gt; 
+&lt;p&gt;Want early builds? &lt;code&gt;brew install --cask tinycast@beta&lt;/code&gt; puts &lt;code&gt;Tinycast Beta.app&lt;/code&gt; beside the stable app, with its own settings and permissions. Apple silicon, macOS 26+.&lt;/p&gt; 
+&lt;p&gt;Homebrew clears the macOS quarantine flag on every install and update, so there is nothing else to run. Downloading a DMG from &lt;a href=&quot;https://github.com/abue-ammar/tinycast/releases&quot;&gt;Releases&lt;/a&gt; instead? Tinycast is self-signed, so clear the flag once: &lt;code&gt;xattr -dr com.apple.quarantine &quot;/Applications/Tinycast.app&quot;&lt;/code&gt;.&lt;/p&gt; 
+&lt;h2&gt;Permissions&lt;/h2&gt; 
+&lt;p&gt;&lt;strong&gt;Accessibility&lt;/strong&gt; — needed when Tinycast pastes or expands text into another app, and the only permission snippet keyword expansion needs. You&#39;re prompted when you first use a feature that needs it; grant access in &lt;strong&gt;System Settings → Privacy &amp;amp; Security → Accessibility&lt;/strong&gt;. Snippets ship disabled, and keystrokes are matched locally, never stored and never sent anywhere.&lt;/p&gt; 
+&lt;h2&gt;Using it&lt;/h2&gt; 
+&lt;ol&gt; 
+ &lt;li&gt;Open &lt;strong&gt;Settings → General&lt;/strong&gt; and record a global shortcut to summon Tinycast.&lt;/li&gt; 
+ &lt;li&gt;Press it anywhere → the palette floats in. Type to filter, &lt;strong&gt;↵&lt;/strong&gt; to launch.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Tab&lt;/strong&gt; switches between Apps and Clipboard; &lt;strong&gt;↑/↓&lt;/strong&gt; move, &lt;strong&gt;Esc&lt;/strong&gt; dismisses.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Settings → Shortcuts&lt;/strong&gt; — search an app or custom command and record a global shortcut.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Settings → Snippets&lt;/strong&gt; — enable the feature, then create templates with expansion keywords.&lt;/li&gt; 
+&lt;/ol&gt; 
+&lt;h2&gt;Building from source&lt;/h2&gt; 
+&lt;p&gt;See &lt;strong&gt;&lt;a href=&quot;https://raw.githubusercontent.com/abue-ammar/tinycast/main/docs/development.md&quot;&gt;docs/development.md&lt;/a&gt;&lt;/strong&gt; for the toolchain, build, packaging, release and website workflows. &lt;strong&gt;&lt;a href=&quot;https://raw.githubusercontent.com/abue-ammar/tinycast/main/docs/README.md&quot;&gt;docs/&lt;/a&gt;&lt;/strong&gt; indexes everything else — architecture, engineering standards, the design system and one document per feature.&lt;/p&gt; 
+&lt;h2&gt;Contributing&lt;/h2&gt; 
+&lt;div class=&quot;markdown-alert markdown-alert-important&quot;&gt;
+ &lt;p class=&quot;markdown-alert-title&quot;&gt;
+  &lt;svg class=&quot;octicon octicon-report mr-2&quot; viewbox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;
+   &lt;path d=&quot;M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0 1 14.25 13H8.06l-2.573 2.573A1.458 1.458 0 0 1 3 14.543V13H1.75A1.75 1.75 0 0 1 0 11.25Zm1.75-.25a.25.25 0 0 0-.25.25v9.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-9.5a.25.25 0 0 0-.25-.25Zm7 2.25v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 9a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z&quot;&gt;&lt;/path&gt;
+  &lt;/svg&gt;Important&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;Open an issue before you write code — this is mandatory.&lt;/strong&gt; Get the bug or the feature agreed on first; discussing it in the issue (or on &lt;a href=&quot;https://discord.gg/v2Eeb4QQy3&quot;&gt;Discord&lt;/a&gt;) is strongly encouraged. A PR that doesn&#39;t close an issue marked &lt;code&gt;approved&lt;/code&gt; is closed automatically however good the patch is, and the work is wasted. Docs-only fixes are the one exception.&lt;/p&gt; 
+ &lt;p&gt;Tinycast&#39;s feature set is deliberately closed, and &quot;another launcher has it&quot; is not a reason on its own. Ask whether a feature is wanted before you ask for it.&lt;/p&gt; 
+&lt;/div&gt; 
+&lt;p&gt;Read &lt;strong&gt;&lt;a href=&quot;https://raw.githubusercontent.com/abue-ammar/tinycast/main/CONTRIBUTING.md&quot;&gt;CONTRIBUTING.md&lt;/a&gt;&lt;/strong&gt; first — it covers the memory budget every PR is held to, the before/after video requirement for visual changes, and why features get declined. Every PR fills in the &lt;strong&gt;&lt;a href=&quot;https://raw.githubusercontent.com/abue-ammar/tinycast/main/.github/PULL_REQUEST_TEMPLATE.md&quot;&gt;pull request template&lt;/a&gt;&lt;/strong&gt;. Security issues go through &lt;a href=&quot;https://raw.githubusercontent.com/abue-ammar/tinycast/main/SECURITY.md&quot;&gt;SECURITY.md&lt;/a&gt;, not the issue tracker.&lt;/p&gt; 
+&lt;p&gt;Questions, ideas, or just want to follow along? &lt;strong&gt;&lt;a href=&quot;https://discord.gg/v2Eeb4QQy3&quot;&gt;Join the Discord&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt; 
+&lt;h2&gt;License&lt;/h2&gt; 
+&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/abue-ammar/tinycast/main/LICENSE&quot;&gt;AGPL-3.0&lt;/a&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/6d051fa0665bbaa88ec2872a157bda6103521ac8e814449d11f598bc48627b2b/abue-ammar/tinycast" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>osaurus-ai/osaurus</title>
+      <link>https://github.com/osaurus-ai/osaurus</link>
+      <description>&lt;p&gt;Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.&lt;/p&gt;&lt;hr&gt;&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;1920&quot; height=&quot;1080&quot; alt=&quot;osaurus-techcrunch-1&quot; src=&quot;https://github.com/user-attachments/assets/d7905005-71fe-41ba-b69f-e8968af29b5c&quot; /&gt; &lt;/p&gt; 
+&lt;h1 align=&quot;center&quot;&gt;Osaurus&lt;/h1&gt; 
+&lt;p align=&quot;center&quot;&gt; &lt;strong&gt;Own your AI.&lt;/strong&gt;&lt;br /&gt; Agents, memory, tools, and identity that live on your Mac. Built purely in Swift. Fully offline. Open source. &lt;/p&gt; 
+&lt;p align=&quot;center&quot;&gt; &lt;a href=&quot;https://trendshift.io/repositories/22454?utm_source=repository-badge&amp;amp;utm_medium=badge&amp;amp;utm_campaign=badge-repository-22454&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;img src=&quot;https://trendshift.io/api/badge/repositories/22454&quot; alt=&quot;osaurus-ai%2Fosaurus | Trendshift&quot; width=&quot;250&quot; height=&quot;55&quot; /&gt;&lt;/a&gt; &lt;/p&gt; 
+&lt;p align=&quot;center&quot;&gt; &lt;a href=&quot;https://github.com/osaurus-ai/osaurus/releases/latest&quot;&gt;&lt;img src=&quot;https://img.shields.io/github/v/release/osaurus-ai/osaurus?sort=semver&quot; alt=&quot;Release&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://github.com/osaurus-ai/osaurus/releases&quot;&gt;&lt;img src=&quot;https://img.shields.io/github/downloads/osaurus-ai/osaurus/total&quot; alt=&quot;Downloads&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://github.com/osaurus-ai/osaurus/raw/main/LICENSE&quot;&gt;&lt;img src=&quot;https://img.shields.io/github/license/osaurus-ai/osaurus&quot; alt=&quot;License&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://github.com/osaurus-ai/osaurus/stargazers&quot;&gt;&lt;img src=&quot;https://img.shields.io/github/stars/osaurus-ai/osaurus?style=social&quot; alt=&quot;Stars&quot; /&gt;&lt;/a&gt; &lt;/p&gt; 
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;https://img.shields.io/badge/Platform-macOS%20(Apple%20Silicon)-black?logo=apple&quot; alt=&quot;Platform&quot; /&gt; &lt;img src=&quot;https://img.shields.io/badge/OpenAI%20API-compatible-0A7CFF&quot; alt=&quot;OpenAI API&quot; /&gt; &lt;img src=&quot;https://img.shields.io/badge/Anthropic%20API-compatible-0A7CFF&quot; alt=&quot;Anthropic API&quot; /&gt; &lt;img src=&quot;https://img.shields.io/badge/Ollama%20API-compatible-0A7CFF&quot; alt=&quot;Ollama API&quot; /&gt; &lt;img src=&quot;https://img.shields.io/badge/MCP-server-0A7CFF&quot; alt=&quot;MCP Server&quot; /&gt; &lt;img src=&quot;https://img.shields.io/badge/Apple%20Foundation%20Models-supported-0A7CFF&quot; alt=&quot;Foundation Models&quot; /&gt; &lt;a href=&quot;https://huggingface.co/OsaurusAI&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-OsaurusAI-FFD21E&quot; alt=&quot;Hugging Face&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;https://img.shields.io/badge/PRs-welcome-brightgreen&quot; alt=&quot;PRs Welcome&quot; /&gt; &lt;/p&gt; 
+&lt;p align=&quot;center&quot;&gt; &lt;a href=&quot;https://github.com/osaurus-ai/osaurus/releases/latest/download/Osaurus.dmg&quot;&gt;Download for Mac&lt;/a&gt; · &lt;a href=&quot;https://docs.osaurus.ai&quot;&gt;Docs&lt;/a&gt; · &lt;a href=&quot;https://huggingface.co/OsaurusAI&quot;&gt;Models&lt;/a&gt; · &lt;a href=&quot;https://discord.gg/osaurus&quot;&gt;Discord&lt;/a&gt; · &lt;a href=&quot;https://x.com/OsaurusAI&quot;&gt;Twitter&lt;/a&gt; · &lt;a href=&quot;https://github.com/osaurus-ai/osaurus-tools&quot;&gt;Plugin Registry&lt;/a&gt; &lt;/p&gt; 
+&lt;hr /&gt; 
+&lt;h2&gt;Inference is all you need. Everything else can be owned by you.&lt;/h2&gt; 
+&lt;p&gt;Models are getting cheaper and more interchangeable by the day. What&#39;s irreplaceable is the layer around them -- your context, your memory, your tools, your identity. Others keep that layer on their servers. Osaurus keeps it on your machine.&lt;/p&gt; 
+&lt;p&gt;Osaurus is the AI harness for macOS. It sits between you and any model -- local or cloud -- and provides the continuity that makes AI personal: agents that remember, execute autonomously, run real code, and stay reachable from anywhere. The models are interchangeable. The harness is what compounds.&lt;/p&gt; 
+&lt;p&gt;Works fully offline with local models. Connect to any cloud provider when you want more power. Nothing leaves your Mac unless you choose.&lt;/p&gt; 
+&lt;p&gt;Native Swift on Apple Silicon. No Electron. No compromises. MIT licensed.&lt;/p&gt; 
+&lt;h2&gt;Install&lt;/h2&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;brew install --cask osaurus
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Or download the latest &lt;code&gt;.dmg&lt;/code&gt; from &lt;a href=&quot;https://github.com/osaurus-ai/osaurus/releases/latest&quot;&gt;Releases&lt;/a&gt;. After installing, launch from Spotlight (&lt;code&gt;⌘ Space&lt;/code&gt; → &quot;Osaurus&quot;) or the CLI:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;osaurus ui       # Open the chat UI
+osaurus serve    # Start the server
+osaurus status   # Check status
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;blockquote&gt; 
+ &lt;p&gt;Requires macOS 15.5+ and Apple Silicon.&lt;/p&gt; 
+&lt;/blockquote&gt; 
+&lt;h2&gt;Agents&lt;/h2&gt; 
+&lt;p&gt;Agents are the core of Osaurus. Each one gets its own prompts, memory, and visual theme -- a research assistant, a coding partner, a file organizer, whatever you need. Tools and skills are automatically selected via RAG search based on the task at hand -- no manual configuration needed. Everything else in the harness exists to make agents smarter, faster, and more capable over time.&lt;/p&gt; 
+&lt;p&gt;Agents can also opt into a private local database and a single self-scheduled next run -- see &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/AGENT_DB.md&quot;&gt;Agent DB &amp;amp; Self-Scheduling&lt;/a&gt;. Local storage is plaintext by default (protected by FileVault) with opt-in SQLCipher encryption -- see &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/STORAGE.md&quot;&gt;Storage&lt;/a&gt;.&lt;/p&gt; 
+&lt;h3&gt;Agent Loop&lt;/h3&gt; 
+&lt;p&gt;Custom agents run an agent loop. Pick a working folder and the agent gets file, search, and git tools. Toggle the sandbox and it gets shell access in an isolated sandbox. The model writes a markdown todo list, executes against it, and closes out with a verified summary -- all in the same chat window. The built-in Orchestrator is the exception: it has no working folder, sandbox, browser, or computer use. For filesystem work, create or switch to a custom agent, then pick the folder there. See the &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/AGENT_LOOP.md&quot;&gt;Agent Loop Guide&lt;/a&gt; and &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/ORCHESTRATOR.md&quot;&gt;Orchestrator Guide&lt;/a&gt;.&lt;/p&gt; 
+&lt;h3&gt;Sandbox&lt;/h3&gt; 
+&lt;p&gt;Agents execute code in an isolated Linux VM powered by Apple&#39;s &lt;a href=&quot;https://developer.apple.com/documentation/containerization&quot;&gt;Containerization&lt;/a&gt; framework. Full dev environment -- shell, Python, Node.js, compilers, package managers -- with zero risk to your Mac.&lt;/p&gt; 
+&lt;p&gt;Each agent gets its own Linux user and home directory. The VM connects back to Osaurus (inference, memory, secrets) via a vsock bridge -- sandboxed but not disconnected. Extend with simple JSON plugin recipes, no Xcode or code signing required.&lt;/p&gt; 
+&lt;pre&gt;&lt;code&gt;┌────────────────┐       ┌────────────────────────────┐
+│    Osaurus     │       │   Linux VM (Alpine)        │
+│                │       │                            │
+│  Sandbox Mgr ──┼───────┤→ /workspace  (VirtioFS)    │
+│  Host API   ←──┼─vsock─┤→ osaurus-host bridge       │
+│                │       │                            │
+│                │       │  agent-alice  (Linux user) │
+│                │       │  agent-bob    (Linux user) │
+└────────────────┘       └────────────────────────────┘
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;blockquote&gt; 
+ &lt;p&gt;The Linux VM requires macOS 26+ (Tahoe). On earlier versions Osaurus falls back to a native macOS Seatbelt sandbox: commands run on your Mac under &lt;code&gt;sandbox-exec&lt;/code&gt; confinement, with writes limited to the sandbox workspace, &lt;code&gt;pip&lt;/code&gt;/&lt;code&gt;npm&lt;/code&gt; installs (no &lt;code&gt;apk&lt;/code&gt;), and all-or-nothing network access instead of per-domain allowlists. See the &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/SANDBOX.md&quot;&gt;Sandbox Guide&lt;/a&gt; for configuration, built-in tools, and plugin authoring.&lt;/p&gt; 
+&lt;/blockquote&gt; 
+&lt;h3&gt;Memory&lt;/h3&gt; 
+&lt;p&gt;Three layers -- identity, pinned facts, and per-session episodes -- plus a transcript fallback. Agents distill conversations once at session end (not on every turn), score what matters by salience, and surface at most one compact slice per request based on what you&#39;re actually asking. A background consolidator decays, merges, and evicts so memory stays sharp instead of bloating. Most turns inject ~800 tokens or less; many inject zero. See the &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/MEMORY.md&quot;&gt;Memory Guide&lt;/a&gt;.&lt;/p&gt; 
+&lt;h3&gt;Privacy Filter&lt;/h3&gt; 
+&lt;p&gt;When you send to a cloud model, an on-device classifier — OpenAI&#39;s &lt;code&gt;openai/privacy-filter&lt;/code&gt; (Apache-2.0, 1.5B params / 50M active sparse-MoE), served via the MLX conversion &lt;code&gt;mlx-community/openai-privacy-filter-bf16&lt;/code&gt; (~2.8 GB) — detects names, emails, phones, URLs, addresses, dates, account numbers, and free-form secrets, alongside deterministic regex for SSN, credit cards, IBAN, AWS keys, GitHub tokens, and your own custom patterns. Each detection is shown in a review sheet with a scrubbed preview before sending; approved entities are swapped for stable &lt;code&gt;[PERSON_1]&lt;/code&gt; / &lt;code&gt;[EMAIL_2]&lt;/code&gt; placeholders, and streaming replies are unscrubbed back on the fly so the chat reads naturally. &lt;strong&gt;Fail-closed&lt;/strong&gt;: if the post-scrub scan finds anything that leaked, the send is blocked. Verify wire-level redaction in the &lt;strong&gt;Insights&lt;/strong&gt; panel — it captures the exact bytes the cloud saw. See the &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/PRIVACY_FILTER.md&quot;&gt;Privacy Filter Guide&lt;/a&gt;.&lt;/p&gt; 
+&lt;h3&gt;Identity&lt;/h3&gt; 
+&lt;p&gt;Every participant -- human, agent, device -- gets a secp256k1 cryptographic address. Authority flows from your master key (iCloud Keychain) down to each agent in a verifiable chain of trust. Create portable access keys (&lt;code&gt;osk-v1&lt;/code&gt;), scope per-agent, revoke anytime. See &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/IDENTITY.md&quot;&gt;Identity docs&lt;/a&gt;.&lt;/p&gt; 
+&lt;h3&gt;Relay&lt;/h3&gt; 
+&lt;p&gt;Expose agents to the internet via secure WebSocket tunnels through &lt;code&gt;agent.osaurus.ai&lt;/code&gt;. Unique URL per agent based on its crypto address. No port forwarding, no ngrok, no configuration.&lt;/p&gt; 
+&lt;h3&gt;Secure Channel&lt;/h3&gt; 
+&lt;p&gt;When two Osaurus agents talk -- across your LAN or across the world through the relay -- the conversation is &lt;strong&gt;end-to-end encrypted&lt;/strong&gt;: a forward-secret X25519 handshake authenticated by each agent&#39;s crypto identity, with every request, streamed token, and access key sealed in ChaCha20-Poly1305. The relay becomes a blind pipe that forwards ciphertext it cannot open; a man-in-the-middle cannot complete a handshake; replayed or truncated traffic is detected and refused; and there is no plaintext fallback an attacker can force. Zero configuration -- pairing is all it takes. See the &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/SECURE_CHANNEL.md&quot;&gt;Secure Channel docs&lt;/a&gt;.&lt;/p&gt; 
+&lt;h3&gt;Orchestrator&lt;/h3&gt; 
+&lt;p&gt;The built-in Osaurus agent is the default Orchestrator. New chat windows open on it unless you start a chat on a custom agent. Ask it anything about the app and it answers from live state; ask it to change a setting and it plans the change, shows an approval card, and applies only after you confirm. It also delegates work: spawn your custom agents and allowed local/cloud models as subagents -- in parallel, within budgets you set -- and get their results woven back into the conversation. It deliberately does no hands-on work itself -- no sandbox, working folder, browser, or computer use; those belong to custom agents -- which keeps it safe and predictable. The chat composer does not offer a working-folder chip on the Orchestrator; picking a folder there would not grant file tools. For filesystem work, create or switch to a custom agent, then pick the working folder on that agent. Rename the Orchestrator, give it a persona, and control exactly what it may delegate to in Settings → Orchestrator. See the &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/ORCHESTRATOR.md&quot;&gt;Orchestrator Guide&lt;/a&gt;.&lt;/p&gt; 
+&lt;h3&gt;Subagents (Spawn)&lt;/h3&gt; 
+&lt;p&gt;Let a chat -- the Orchestrator or any custom agent -- delegate a bounded task to another model -- &lt;strong&gt;local or remote&lt;/strong&gt; -- or to one of your saved agents, and get a compact result back without cluttering the conversation. Perfect for offloading research, coding, or analysis to a specialist mid-turn. When the subagent runs on a &lt;strong&gt;different local&lt;/strong&gt; model, Osaurus normally does a &lt;strong&gt;single-residency handoff&lt;/strong&gt;: it unloads your chat model, runs the job, then reloads and continues, so two large models never fight for memory. Same-model children reuse the resident model; experimental RAM-safe coexistence can keep both resident when enabled and admitted. Custom agents are added to the Orchestrator&#39;s spawn pool automatically (you can remove them in Settings → Orchestrator). First use still asks for approval; budgets and permission mode are configured per agent.&lt;/p&gt; 
+&lt;h3&gt;Browser Use&lt;/h3&gt; 
+&lt;p&gt;Give an agent its own browser. &lt;code&gt;browser_use&lt;/code&gt; runs a self-contained subagent that navigates, reads pages, clicks, types, and verifies each step against a persistent per-agent WebKit session — cookies and sign-ins survive between chats, isolated from other agents and your regular browser. Reads and navigation run automatically; typing and anything consequential pause for your approval, and sign-ins happen in a secure window you type into directly (agents never see credentials). Off by default, enabled per agent, sessions managed in Settings → Browser. See the &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/BROWSER.md&quot;&gt;Browser Use Guide&lt;/a&gt;.&lt;/p&gt; 
+&lt;h3&gt;Image Generation&lt;/h3&gt; 
+&lt;p&gt;Create images on your Mac, fully offline. Install a local image model -- z-image-turbo, FLUX, Qwen-Image, or Ideogram -- and generate from a text prompt with control over size, seed, and negative prompts; hand it a source image to edit instead of starting from scratch. Your chat model can also call the built-in &lt;code&gt;image&lt;/code&gt; tool to generate or edit a picture and render it &lt;strong&gt;inline in the conversation&lt;/strong&gt;. Nothing is sent to a server.&lt;/p&gt; 
+&lt;h2&gt;Models&lt;/h2&gt; 
+&lt;p&gt;The harness is model-agnostic. Swap freely -- your agents, memory, and tools stay intact.&lt;/p&gt; 
+&lt;h3&gt;Local&lt;/h3&gt; 
+&lt;p&gt;Run Gemma 4, Qwen3.6, GPT-OSS, Llama, and more on Apple Silicon with optimized MLX inference. Osaurus maintains its own &lt;a href=&quot;https://huggingface.co/OsaurusAI&quot;&gt;optimized model library on Hugging Face&lt;/a&gt; with curated quantizations for the best quality-to-size ratio on Apple Silicon. Models stored at &lt;code&gt;~/MLXModels&lt;/code&gt; (override with &lt;code&gt;OSU_MODELS_DIR&lt;/code&gt;). Fully private, fully offline.&lt;/p&gt; 
+&lt;h3&gt;Liquid Foundation Models&lt;/h3&gt; 
+&lt;p&gt;Osaurus supports &lt;a href=&quot;https://www.liquid.ai/models&quot;&gt;Liquid AI&#39;s LFM&lt;/a&gt; family -- on-device models built on a non-transformer architecture optimized for edge deployment. Fast decode, low memory footprint, and strong tool calling out of the box.&lt;/p&gt; 
+&lt;h3&gt;Apple Foundation Models&lt;/h3&gt; 
+&lt;p&gt;On macOS 26+, use Apple&#39;s on-device model as a first-class provider. Pass &lt;code&gt;model: &quot;foundation&quot;&lt;/code&gt; in API requests. Tool calling maps through Apple&#39;s native interface automatically. Zero inference cost, fully private.&lt;/p&gt; 
+&lt;h3&gt;Cloud&lt;/h3&gt; 
+&lt;p&gt;Connect to OpenAI, Anthropic, Gemini, xAI/Grok, &lt;a href=&quot;https://venice.ai&quot;&gt;Venice AI&lt;/a&gt;, OpenRouter, Ollama, LM Studio, or Osaurus Router. Osaurus Router is the hosted path — pay-as-you-go with credits and no separate provider account; Osaurus doesn&#39;t store your prompt or response content (only the usage metadata needed for billing), and upstream providers process requests under their own policies. Context and memory persist across all providers. See &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/REMOTE_PROVIDERS.md&quot;&gt;Remote Providers&lt;/a&gt; and &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/OSAURUS_ROUTER.md&quot;&gt;Osaurus Router&lt;/a&gt;.&lt;/p&gt; 
+&lt;h2&gt;MCP&lt;/h2&gt; 
+&lt;p&gt;Osaurus is a full MCP (Model Context Protocol) server. Give any MCP-compatible client access to your tools with the command-based stdio bridge:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-json&quot;&gt;{
+  &quot;mcpServers&quot;: {
+    &quot;osaurus&quot;: {
+      &quot;command&quot;: &quot;osaurus&quot;,
+      &quot;args&quot;: [&quot;mcp&quot;]
+    }
+  }
+}
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;&lt;code&gt;osaurus mcp&lt;/code&gt; starts a stdio MCP server for the client and proxies tool discovery/calls to your local Osaurus HTTP server. Local-only servers can rely on loopback trust. If Server &amp;gt; Network exposure is enabled, add an access key to the client environment:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-json&quot;&gt;{
+  &quot;mcpServers&quot;: {
+    &quot;osaurus&quot;: {
+      &quot;command&quot;: &quot;osaurus&quot;,
+      &quot;args&quot;: [&quot;mcp&quot;],
+      &quot;env&quot;: {
+        &quot;OSAURUS_MCP_ACCESS_KEY&quot;: &quot;osk-v1...&quot;
+      }
+    }
+  }
+}
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;In the other direction, Osaurus can also act as an MCP client and aggregate tools from URL-based remote MCP providers. One-tap connect to ~25 well-known providers (Linear, Notion, GitHub, Vercel, Supabase, Sentry, Stripe, Cloudflare, ...) with auto OAuth 2.1 + Dynamic Client Registration, or paste an API key. The Remote MCP Providers UI is for HTTP/SSE MCP endpoints; it does not launch third-party &lt;code&gt;command&lt;/code&gt;/&lt;code&gt;args&lt;/code&gt; stdio providers. See the &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/REMOTE_MCP_PROVIDERS.md&quot;&gt;Remote MCP Providers Guide&lt;/a&gt; for details.&lt;/p&gt; 
+&lt;h2&gt;Tools &amp;amp; Plugins&lt;/h2&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;osaurus tools install osaurus.calendar   # Install from registry
+osaurus tools list                       # List installed
+osaurus tools create MyPlugin --swift    # Create a plugin
+osaurus tools dev com.acme.my-plugin     # Dev with hot reload
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;20+ native plugins: Mail, Calendar, Vision, XLSX, PPTX, Music, Git, Filesystem, Fetch, and more. (Web search, browsing, and macOS control are core Osaurus capabilities now — no plugin needed.) Plugins target the v3 host API surface — register HTTP routes, serve web apps, persist data in SQLite, dispatch agent tasks, and call inference through any model. Older v1/v2 plugins continue to load unchanged. See the &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/plugins/README.md&quot;&gt;Plugin Authoring Guide&lt;/a&gt;.&lt;/p&gt; 
+&lt;p&gt;Document attachments keep structure where the file format exposes it: CSV/TSV tables, XLSX workbooks, PPTX decks, PDF page anchors, and rich document sections are parsed through the document adapter registry before they reach the agent.&lt;/p&gt; 
+&lt;h2&gt;More&lt;/h2&gt; 
+&lt;p&gt;&lt;strong&gt;Skills &amp;amp; Methods&lt;/strong&gt; -- Skills import reusable AI capabilities from GitHub repos or files, compatible with &lt;a href=&quot;https://agentskills.io/&quot;&gt;Agent Skills&lt;/a&gt;. Full Claude plugins (skills, scheduled agents, slash commands, MCP providers, and &lt;code&gt;CLAUDE.md&lt;/code&gt; context) can be imported from any GitHub repo and managed as a single bundle. Methods are learned workflows that agents save and reuse over time. All are automatically selected via RAG search -- no manual configuration needed. See &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/SKILLS.md&quot;&gt;Skills Guide&lt;/a&gt; and &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/CLAUDE_PLUGINS.md&quot;&gt;Claude Plugins&lt;/a&gt;.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Automation&lt;/strong&gt; -- Schedules run recurring tasks in the background. Watchers monitor folders and trigger agents on file changes.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Voice&lt;/strong&gt; -- On-device transcription via FluidAudio on Apple&#39;s Neural Engine. Voice input in chat, VAD mode with wake-word activation, and a global hotkey to transcribe into any app. No audio leaves your Mac. See &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/VOICE_INPUT.md&quot;&gt;Voice Input Guide&lt;/a&gt;.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Shortcuts, Spotlight &amp;amp; Siri&lt;/strong&gt; -- Osaurus ships App Intents, so &quot;Ask Osaurus&quot; and &quot;Run Osaurus Agent&quot; are available system-wide the moment you install -- no setup. Ask your active agent and get the reply inline, or kick off a custom agent in the background. See &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/APP_INTENTS.md&quot;&gt;App Intents Guide&lt;/a&gt;.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Developer Tools&lt;/strong&gt; -- Server explorer, MCP tool inspector, inference monitoring, plugin debugging. See &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/DEVELOPER_TOOLS.md&quot;&gt;Developer Tools Guide&lt;/a&gt;. For the inference scheduler, model leases, continuous-batching engine, and feature flags that tune them, see &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/INFERENCE_RUNTIME.md&quot;&gt;Inference Runtime&lt;/a&gt;.&lt;/p&gt; 
+&lt;h2&gt;Telemetry&lt;/h2&gt; 
+&lt;p&gt;Osaurus collects &lt;strong&gt;anonymous, aggregated usage analytics&lt;/strong&gt; via &lt;a href=&quot;https://aptabase.com&quot;&gt;Aptabase&lt;/a&gt;, an &lt;a href=&quot;https://github.com/aptabase/aptabase&quot;&gt;open-source&lt;/a&gt;, privacy-first analytics project. We collect this only to understand broad user trends and preferences (how the app is used and where people run into friction) so we can make it better. It &lt;strong&gt;never&lt;/strong&gt; includes your chats, prompts, files, model outputs, or keys. There are no accounts or device profiles, so events aren&#39;t tied to you.&lt;/p&gt; 
+&lt;p&gt;For the exact, exhaustive list of every event and property we capture — and an explicit list of what we never collect — see &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/TELEMETRY.md&quot;&gt;Telemetry &amp;amp; KPIs&lt;/a&gt;.&lt;/p&gt; 
+&lt;h3&gt;Crash reporting&lt;/h3&gt; 
+&lt;p&gt;&lt;strong&gt;Crash and app-hang reporting&lt;/strong&gt; via &lt;a href=&quot;https://sentry.io&quot;&gt;Sentry&lt;/a&gt; is a &lt;strong&gt;separate, independent&lt;/strong&gt; switch from usage analytics. Unlike analytics it&#39;s &lt;strong&gt;opt-out&lt;/strong&gt; — on by default and active from launch — because crash reports carry no personal information and are what let us fix real bugs; you can turn it off anytime in &lt;strong&gt;Settings → Privacy → Send Crash Reports&lt;/strong&gt;. It&#39;s limited to crash and hang diagnostics — no performance tracing, profiling, failed-request capture, network breadcrumbs, screenshots, or personal information; we drop the user object and device hostname from every event, on top of disabling PII. It needs a DSN to be configured, so like analytics it&#39;s off by default in source builds.&lt;/p&gt; 
+&lt;h3&gt;Local development&lt;/h3&gt; 
+&lt;p&gt;Telemetry is &lt;strong&gt;off by default in source builds&lt;/strong&gt;: with no key, the SDK is never initialized and every event is a silent no-op, so you can build and contribute without any of this. To enable it locally:&lt;/p&gt; 
+&lt;ol&gt; 
+ &lt;li&gt; &lt;p&gt;Create &lt;code&gt;App/osaurus/Secrets.xcconfig&lt;/code&gt; (gitignored — never commit it) with the keys you want:&lt;/p&gt; 
+  &lt;ul&gt; 
+   &lt;li&gt; &lt;p&gt;&lt;code&gt;APTABASE_APP_KEY = A-XX-...&lt;/code&gt; — your Aptabase app key (analytics).&lt;/p&gt; &lt;/li&gt; 
+   &lt;li&gt; &lt;p&gt;&lt;code&gt;SENTRY_DSN&lt;/code&gt; — your Sentry project DSN (crash reporting). Optional; omit it to leave crash reporting off. &lt;strong&gt;Escape the scheme slashes&lt;/strong&gt;: an &lt;code&gt;.xcconfig&lt;/code&gt; treats &lt;code&gt;//&lt;/code&gt; as a comment, so a raw &lt;code&gt;https://…&lt;/code&gt; DSN gets silently truncated to &lt;code&gt;https:&lt;/code&gt;. Add a slash variable and reference it:&lt;/p&gt; &lt;pre&gt;&lt;code&gt;SENTRY_SLASH = /
+SENTRY_DSN = https:$(SENTRY_SLASH)$(SENTRY_SLASH)yourPublicKey@o123.ingest.sentry.io/456
+&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt; &lt;p&gt;In Xcode, add &lt;code&gt;Secrets.xcconfig&lt;/code&gt; to the project (&lt;strong&gt;no&lt;/strong&gt; target membership), then under &lt;strong&gt;Project → Info → Configurations → Debug → osaurus&lt;/strong&gt; set &quot;Based on Configuration File&quot; to &lt;strong&gt;Secrets&lt;/strong&gt;.&lt;/p&gt; &lt;/li&gt; 
+ &lt;li&gt; &lt;p&gt;Clean build (⇧⌘K) and relaunch.&lt;/p&gt; &lt;/li&gt; 
+&lt;/ol&gt; 
+&lt;p&gt;The keys flow &lt;code&gt;Secrets.xcconfig&lt;/code&gt; → &lt;code&gt;$(APTABASE_APP_KEY)&lt;/code&gt; / &lt;code&gt;$(SENTRY_DSN)&lt;/code&gt; build settings → &lt;code&gt;AptabaseAppKey&lt;/code&gt; / &lt;code&gt;SentryDSN&lt;/code&gt; in &lt;code&gt;Info.plist&lt;/code&gt;. Debug builds report to Aptabase&#39;s &lt;strong&gt;Debug&lt;/strong&gt; bucket (enable the Debug view on the dashboard to see them) and to Sentry&#39;s &lt;code&gt;debug&lt;/code&gt; environment, so local testing never pollutes production data.&lt;/p&gt; 
+&lt;h2&gt;Compatible APIs&lt;/h2&gt; 
+&lt;p&gt;Drop-in endpoints for existing tools:&lt;/p&gt; 
+&lt;table&gt; 
+ &lt;thead&gt; 
+  &lt;tr&gt; 
+   &lt;th&gt;API&lt;/th&gt; 
+   &lt;th&gt;Endpoint&lt;/th&gt; 
+  &lt;/tr&gt; 
+ &lt;/thead&gt; 
+ &lt;tbody&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;OpenAI&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;http://127.0.0.1:1337/v1/chat/completions&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Anthropic&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;http://127.0.0.1:1337/anthropic/v1/messages&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Ollama&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;http://127.0.0.1:1337/api/chat&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+ &lt;/tbody&gt; 
+&lt;/table&gt; 
+&lt;p&gt;All prefixes supported (&lt;code&gt;/v1&lt;/code&gt;, &lt;code&gt;/api&lt;/code&gt;, &lt;code&gt;/v1/api&lt;/code&gt;). Full function calling with streaming tool call deltas. &lt;code&gt;/chat/completions&lt;/code&gt; keeps &lt;strong&gt;strict OpenAI semantics&lt;/strong&gt; -- it returns &lt;code&gt;tool_calls&lt;/code&gt; and the client executes them, so Osaurus drops in cleanly behind harnesses that already manage their own tool loop. For server-side autonomous loops use &lt;code&gt;POST /agents/{id}/run&lt;/code&gt;; to expose Osaurus tools to remote MCP harnesses use &lt;code&gt;/mcp/tools&lt;/code&gt; + &lt;code&gt;/mcp/call&lt;/code&gt;. See &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/OpenAI_API_GUIDE.md&quot;&gt;OpenAI API Guide&lt;/a&gt; for tool calling, streaming, and SDK examples. Building a macOS app that connects to Osaurus? See the &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/SHARED_CONFIGURATION_GUIDE.md&quot;&gt;Shared Configuration Guide&lt;/a&gt;.&lt;/p&gt; 
+&lt;h2&gt;CLI&lt;/h2&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;osaurus serve --port 1337              # Start on localhost
+osaurus serve --port 1337 --expose     # Expose on LAN
+osaurus ui                             # Open the chat UI
+osaurus status                         # Check status
+osaurus stop                           # Stop the server
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Homebrew auto-links the CLI, or symlink manually:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;ln -sf &quot;/Applications/Osaurus.app/Contents/MacOS/osaurus&quot; &quot;$(brew --prefix)/bin/osaurus&quot;
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h2&gt;Architecture&lt;/h2&gt; 
+&lt;pre&gt;&lt;code&gt;┌─────────────────────────────────────────────────────┐
+│                   The Harness                       │
+├──────────┬──────────┬────────────┬──────────────────┤
+│ Agents   │ Memory   │ Agent Loop │ Automation       │
+├──────────┴──────────┴────────────┴──────────────────┤
+│              MCP Server + Client                    │
+├──────────┬──────────┬───────────┬───────────────────┤
+│ MLX      │ OpenAI   │ Anthropic │ Ollama / Others   │
+│ Runtime  │ API      │ API       │                   │
+├──────────┴──────────┴───────────┴───────────────────┤
+│      Plugin System (v1 / v2 ABI) · Native Plugins   │
+├──────────┬──────────┬───────────┬───────────────────┤
+│ Identity │ Relay    │ Tools     │ Skills · Methods  │
+├──────────┴──────────┴───────────┴───────────────────┤
+│  Sandbox VM (Alpine · Apple Containerization)       │
+│  vsock bridge · VirtioFS · per-agent isolation      │
+└─────────────────────────────────────────────────────┘
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Most features are accessible through the Management window (&lt;code&gt;⌘ ⇧ M&lt;/code&gt;).&lt;/p&gt; 
+&lt;h2&gt;Build from Source&lt;/h2&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;git clone https://github.com/osaurus-ai/osaurus.git
+cd osaurus
+open osaurus.xcworkspace
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Build and run the &lt;code&gt;osaurus&lt;/code&gt; target. Requires Xcode 16+ and macOS 15.5+.&lt;/p&gt; 
+&lt;h3&gt;Git Hooks (lefthook)&lt;/h3&gt; 
+&lt;p&gt;Install &lt;a href=&quot;https://github.com/evilmartians/lefthook&quot;&gt;lefthook&lt;/a&gt; to set up the hooks that verify quality of the code:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;brew install lefthook
+lefthook install
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;This installs a &lt;code&gt;pre-push&lt;/code&gt; hook that runs &lt;code&gt;swift-format&lt;/code&gt; over the &lt;code&gt;Packages/&lt;/code&gt; directory before each push.&lt;/p&gt; 
+&lt;h2&gt;Project Structure&lt;/h2&gt; 
+&lt;pre&gt;&lt;code&gt;osaurus/
+├── App/                          # macOS app target (SwiftUI entry point, assets, entitlements)
+├── Packages/
+│   ├── OsaurusCore/              # Core library — all app logic
+│   │   ├── Models/               # Data types, DTOs, configuration stores
+│   │   ├── Services/             # Business logic (actors and stateless types)
+│   │   ├── Managers/             # UI-facing state holders (@MainActor, observable)
+│   │   ├── Views/                # SwiftUI views, organized by feature
+│   │   ├── Networking/           # HTTP server, routing, relay
+│   │   ├── Storage/              # SQLite databases
+│   │   ├── Identity/             # Cryptographic identity and access keys
+│   │   ├── Tools/                # MCP tools, plugin ABI, tool registry
+│   │   ├── Folder/               # Working-folder context, file ops, batch tool
+│   │   ├── Utils/                # Cross-cutting utilities
+│   │   └── Tests/                # Unit and integration tests
+│   ├── OsaurusCLI/               # CLI (osaurus command)
+│   └── OsaurusRepository/        # Plugin registry and installation
+├── docs/                         # Feature guides and documentation
+├── scripts/                      # Build, release, and benchmark scripts
+├── sandbox/                      # Sandbox VM Dockerfile
+└── assets/                       # DMG packaging assets
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;See &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/CONTRIBUTING.md&quot;&gt;CONTRIBUTING.md&lt;/a&gt; for the architecture guide and layer definitions.&lt;/p&gt; 
+&lt;h2&gt;Contributing&lt;/h2&gt; 
+&lt;p&gt;Osaurus is actively developed and we welcome contributions: bug fixes, new plugins, documentation, UI/UX improvements, and testing.&lt;/p&gt; 
+&lt;p&gt;Check out &lt;a href=&quot;https://github.com/osaurus-ai/osaurus/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&quot;&gt;Good First Issues&lt;/a&gt;, read the &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/CONTRIBUTING.md&quot;&gt;Contributing Guide&lt;/a&gt;, or join &lt;a href=&quot;https://discord.gg/osaurus&quot;&gt;Discord&lt;/a&gt;. See &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/FEATURES.md&quot;&gt;docs/FEATURES.md&lt;/a&gt; for the full feature inventory.&lt;/p&gt; 
+&lt;div class=&quot;markdown-alert markdown-alert-note&quot;&gt;
+ &lt;p class=&quot;markdown-alert-title&quot;&gt;
+  &lt;svg class=&quot;octicon octicon-info mr-2&quot; viewbox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;
+   &lt;path d=&quot;M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z&quot;&gt;&lt;/path&gt;
+  &lt;/svg&gt;Note&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;🌐 Help translate Osaurus.&lt;/strong&gt; We&#39;re looking for contributors to localize the app into &lt;strong&gt;Spanish&lt;/strong&gt; and &lt;strong&gt;Japanese&lt;/strong&gt; -- these locales are already wired up in Xcode, so you can start translating right away. See &lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/docs/TRANSLATORS.md&quot;&gt;docs/TRANSLATORS.md&lt;/a&gt; for how to contribute and the contributor leaderboard.&lt;/p&gt; 
+&lt;/div&gt; 
+&lt;h2&gt;Community&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://discord.gg/osaurus&quot;&gt;Discord&lt;/a&gt; -- chat, feedback, show-and-tell&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://x.com/OsaurusAI&quot;&gt;Twitter&lt;/a&gt; -- updates and demos&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://huggingface.co/OsaurusAI&quot;&gt;Hugging Face&lt;/a&gt; -- optimized models for Apple Silicon&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://lu.ma/osaurus&quot;&gt;Community Calls&lt;/a&gt; -- bi-weekly, open to everyone&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://osaurus.ai/blog&quot;&gt;Blog&lt;/a&gt; -- long-form thinking on personal AI&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://docs.osaurus.ai&quot;&gt;Docs&lt;/a&gt; -- guides and tutorials&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/osaurus-ai/osaurus-tools&quot;&gt;Plugin Registry&lt;/a&gt; -- browse and contribute tools&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;License&lt;/h2&gt; 
+&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/osaurus-ai/osaurus/main/LICENSE&quot;&gt;MIT&lt;/a&gt;&lt;/p&gt; 
+&lt;hr /&gt; 
+&lt;p align=&quot;center&quot;&gt; Osaurus, Inc. · &lt;a href=&quot;https://osaurus.ai&quot;&gt;osaurus.ai&lt;/a&gt; &lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b952d98a43f2bd824140e1593451d0105bfd836e14d3e2441ca7e6c0fcf80100/osaurus-ai/osaurus" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>apple/coreai-models</title>
+      <link>https://github.com/apple/coreai-models</link>
+      <description>&lt;p&gt;Model export recipes, Python primitives, and Swift runtime utilities for on-device AI&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Core AI Models&lt;/h1&gt; 
+&lt;p&gt;Model export recipes, Python primitives, and Swift runtime utilities for building on-device AI with &lt;a href=&quot;https://developer.apple.com/documentation/coreai&quot;&gt;Core AI&lt;/a&gt;.&lt;/p&gt; 
+&lt;p&gt;The main components include:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;strong&gt;Model export&lt;/strong&gt; — Recipes to export popular open source models from Hugging Face and other sources to Core AI format.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Reusable primitives&lt;/strong&gt; — Python building blocks for authoring custom Core AI models in PyTorch.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Runtime utilities&lt;/strong&gt; — Swift package built on top of Core AI framework to run models on macOS and iOS.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Skills&lt;/strong&gt; — Plugins to help coding agents leverage Core AI effectively.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;table&gt; 
+ &lt;thead&gt; 
+  &lt;tr&gt; 
+   &lt;th&gt;Directory&lt;/th&gt; 
+   &lt;th&gt;What&#39;s inside&lt;/th&gt; 
+  &lt;/tr&gt; 
+ &lt;/thead&gt; 
+ &lt;tbody&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;code&gt;models/&lt;/code&gt;&lt;/td&gt; 
+   &lt;td&gt;Model catalog with README and export recipes.&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;code&gt;python/&lt;/code&gt;&lt;/td&gt; 
+   &lt;td&gt;Python primitives for authoring and utilities for exporting models.&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;code&gt;swift/&lt;/code&gt;&lt;/td&gt; 
+   &lt;td&gt;Swift package (&lt;code&gt;coreai-models&lt;/code&gt;): runtime utilities to integrate Core AI models in your app.&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;code&gt;skills/&lt;/code&gt;&lt;/td&gt; 
+   &lt;td&gt;Pluggable skills that enable coding agents to leverage Core AI more effectively.&lt;/td&gt; 
+  &lt;/tr&gt; 
+ &lt;/tbody&gt; 
+&lt;/table&gt; 
+&lt;h2&gt;Requirements&lt;/h2&gt; 
+&lt;p&gt;If you haven&#39;t installed &lt;code&gt;uv&lt;/code&gt;, install it by&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;brew install uv
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;or&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;curl -LsSf https://astral.sh/uv/install.sh | sh
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Once installed successfully, refer to the &lt;a href=&quot;http://README.md&quot;&gt;README.md&lt;/a&gt; for each model or family of models, in &lt;code&gt;models&lt;/code&gt; folder for their exporting recipe.&lt;/p&gt; 
+&lt;h2&gt;Requirements (running and app integration)&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt; &lt;p&gt;&lt;strong&gt;macOS and iOS 27.0+&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; 
+ &lt;li&gt; &lt;p&gt;&lt;strong&gt;Xcode 27.0+&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;Core AI models are exported as standalone &lt;code&gt;.aimodel&lt;/code&gt; files for integration into apps via the Core AI framework.&lt;/p&gt; 
+&lt;p&gt;Some models require additional resources. Language models require a tokenizer, for instance, and diffusion models run multiple models in sequence as part of a single pipeline. For these cases, export recipes in this repo produce a resource folder containing one or more &lt;code&gt;.aimodel&lt;/code&gt; files alongside any required resources. The Swift package in this repo provides runtime utilities for integrating these into an app.&lt;/p&gt; 
+&lt;p&gt;Command line interface (CLI) tools are also included for running exported models directly on a Mac (requires Xcode 27.0+). See each model&#39;s README for available tools and example invocations.&lt;/p&gt; 
+&lt;h2&gt;Explore supported models&lt;/h2&gt; 
+&lt;p&gt;Find supported models by&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;git clone https://github.com/apple/coreai-models.git &amp;amp;&amp;amp; cd coreai-models
+uv run coreai.model.registry --list-models
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Run &lt;code&gt;uv run coreai.model.registry --help&lt;/code&gt; for details.&lt;/p&gt; 
+&lt;h2&gt;Agent Skills&lt;/h2&gt; 
+&lt;p&gt;This repo includes a plugin with skills to enable coding agents to use Core AI like an expert.&lt;/p&gt; 
+&lt;h3&gt;Available skills&lt;/h3&gt; 
+&lt;table&gt; 
+ &lt;thead&gt; 
+  &lt;tr&gt; 
+   &lt;th&gt;Skill&lt;/th&gt; 
+   &lt;th&gt;Description&lt;/th&gt; 
+  &lt;/tr&gt; 
+ &lt;/thead&gt; 
+ &lt;tbody&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;code&gt;working‑with‑coreai&lt;/code&gt;&lt;/td&gt; 
+   &lt;td&gt;End-to-end workflow for deploying PyTorch models on Apple silicon, covering export with &lt;code&gt;coreai-torch&lt;/code&gt; and running with the Core AI runtime.&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;code&gt;model‑authoring&lt;/code&gt;&lt;/td&gt; 
+   &lt;td&gt;Empirical rules for authoring PyTorch models for on-device execution on Apple platforms, covering BC1S layout, op compatibility, KV cache patterns, precision rules, MoE, and common issues.&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;code&gt;model‑compression‑exploration&lt;/code&gt;&lt;/td&gt; 
+   &lt;td&gt;Systematically explore weight compression configurations (quantization and palettization) for a PyTorch model using &lt;code&gt;coreai-opt&lt;/code&gt;.&lt;/td&gt; 
+  &lt;/tr&gt; 
+ &lt;/tbody&gt; 
+&lt;/table&gt; 
+&lt;h3&gt;Install&lt;/h3&gt; 
+&lt;p&gt;Installation differs depending on your coding agent of choice.&lt;/p&gt; 
+&lt;h4&gt;Claude Code&lt;/h4&gt; 
+&lt;p&gt;Register the marketplace:&lt;/p&gt; 
+&lt;pre&gt;&lt;code&gt;/plugin marketplace add git@github.com:apple/coreai-models.git
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Alternatively, register the marketplace from a local git checkout:&lt;/p&gt; 
+&lt;pre&gt;&lt;code&gt;/plugin marketplace add /path/to/coreai-models
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Install the plugin:&lt;/p&gt; 
+&lt;pre&gt;&lt;code&gt;/plugin install coreai-skills@coreai-models
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h4&gt;Codex CLI&lt;/h4&gt; 
+&lt;p&gt;Register the marketplace:&lt;/p&gt; 
+&lt;pre&gt;&lt;code&gt;codex plugin marketplace add https://github.com/apple/coreai-models
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Alternatively, register the marketplace from a local git checkout:&lt;/p&gt; 
+&lt;pre&gt;&lt;code&gt;codex plugin marketplace add /path/to/coreai-models
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Launch Codex in your workspace:&lt;/p&gt; 
+&lt;pre&gt;&lt;code&gt;codex
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Install the plugin through the interactive browser: once the Codex session is active in your terminal, open the plugin manager by typing &lt;code&gt;/plugins&lt;/code&gt;, locate the &lt;code&gt;coreai-models&lt;/code&gt; marketplace tab (use your arrow keys or the built-in search), select &lt;code&gt;coreai-skills&lt;/code&gt;, and choose Install.&lt;/p&gt; 
+&lt;h4&gt;Gemini CLI&lt;/h4&gt; 
+&lt;p&gt;Install the extension from a local directory:&lt;/p&gt; 
+&lt;pre&gt;&lt;code&gt;gemini extensions install /path/to/coreai-models/skills
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Once installed, the skills activate automatically based on your task context, or you can invoke them explicitly.&lt;/p&gt; 
+&lt;h2&gt;Contributing&lt;/h2&gt; 
+&lt;h3&gt;We are not accepting code contributions at this time&lt;/h3&gt; 
+&lt;p&gt;Core AI Models is focused on maintaining a curated, well-tested gallery of models and a reliable Swift package. We are not accepting pull requests at launch while we learn how the community uses this project.&lt;/p&gt; 
+&lt;p&gt;If you open a pull request, it will be closed. This is not a reflection of the quality of your contribution but it is a deliberate scope decision for this release.&lt;/p&gt; 
+&lt;h3&gt;What we do welcome&lt;/h3&gt; 
+&lt;p&gt;We actively want your feedback! GitHub Issues are open for:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;strong&gt;Bug reports&lt;/strong&gt; — if something in the Python scripts or Swift utilities does not work as expected&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Model requests&lt;/strong&gt; — if you have ideas for models you would like to see, or improvements to the workflow or Swift utilities&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;Use the &lt;a href=&quot;https://raw.githubusercontent.com/apple/issues/new/choose&quot;&gt;issue templates&lt;/a&gt; to get started.&lt;/p&gt; 
+&lt;h2&gt;Support&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/apple/issues&quot;&gt;GitHub Issues&lt;/a&gt; — Feedback, bug reports, and feature requests&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;License&lt;/h2&gt; 
+&lt;p&gt;This project is licensed under the &lt;a href=&quot;https://raw.githubusercontent.com/apple/coreai-models/main/LICENSE&quot;&gt;BSD 3-Clause License&lt;/a&gt;.&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/0f9415525637fb471ca70ba8abab53f914c43ae107c29277769f897e250afb5b/apple/coreai-models" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>apple/containerization</title>
+      <link>https://github.com/apple/containerization</link>
+      <description>&lt;p&gt;Containerization is a Swift package for running Linux containers on macOS.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt; &lt;img alt=&quot;Containerization logo&quot; src=&quot;https://raw.githubusercontent.com/apple/containerization/main/assets/Containerization-Logo.png&quot; width=&quot;70&quot; valign=&quot;middle&quot; /&gt; &amp;nbsp;Containerization &lt;/h1&gt; 
+&lt;p&gt;The Containerization package allows applications to use Linux containers. Containerization is written in &lt;a href=&quot;https://www.swift.org&quot;&gt;Swift&lt;/a&gt; and uses &lt;a href=&quot;https://developer.apple.com/documentation/virtualization&quot;&gt;Virtualization.framework&lt;/a&gt; on Apple silicon.&lt;/p&gt; 
+&lt;blockquote&gt; 
+ &lt;p&gt;&lt;strong&gt;Looking for command line binaries for running containers?&lt;/strong&gt;&lt;br /&gt; They are available in the dedicated &lt;a href=&quot;https://github.com/apple/container&quot;&gt;apple/container&lt;/a&gt; repository.&lt;/p&gt; 
+&lt;/blockquote&gt; 
+&lt;p&gt;Containerization provides APIs to:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/apple/containerization/main/Sources/ContainerizationOCI/&quot;&gt;Manage OCI images&lt;/a&gt;.&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/apple/containerization/main/Sources/ContainerizationOCI/Client/&quot;&gt;Interact with remote registries&lt;/a&gt;.&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/apple/containerization/main/Sources/ContainerizationEXT4/&quot;&gt;Create and populate ext4 file systems&lt;/a&gt;.&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/apple/containerization/main/Sources/ContainerizationNetlink/&quot;&gt;Interact with the Netlink socket family&lt;/a&gt;.&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/apple/containerization/main/kernel/&quot;&gt;Create an optimized Linux kernel for fast boot times&lt;/a&gt;.&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/apple/containerization/main/Sources/Containerization/LinuxContainer.swift&quot;&gt;Spawn lightweight virtual machines and manage the runtime environment&lt;/a&gt;.&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/apple/containerization/main/Sources/Containerization/LinuxProcess.swift&quot;&gt;Spawn and interact with containerized processes&lt;/a&gt;.&lt;/li&gt; 
+ &lt;li&gt;Use Rosetta 2 for running linux/amd64 containers on Apple silicon.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;Please view the &lt;a href=&quot;https://apple.github.io/containerization/documentation/&quot;&gt;API documentation&lt;/a&gt; for information on the Swift packages that Containerization provides.&lt;/p&gt; 
+&lt;h2&gt;Design&lt;/h2&gt; 
+&lt;p&gt;Containerization executes each Linux container inside of its own lightweight virtual machine. Clients can create dedicated IP addresses for every container to remove the need for individual port forwarding. Containers achieve sub-second start times using an optimized &lt;a href=&quot;https://raw.githubusercontent.com/apple/containerization/main/kernel&quot;&gt;Linux kernel configuration&lt;/a&gt; and a minimal root filesystem with a lightweight init system.&lt;/p&gt; 
+&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/apple/containerization/main/vminitd&quot;&gt;vminitd&lt;/a&gt; is a small init system, which is a subproject within Containerization. &lt;code&gt;vminitd&lt;/code&gt; is spawned as the initial process inside of the virtual machine and provides a GRPC API over vsock. The API allows the runtime environment to be configured and containerized processes to be launched. &lt;code&gt;vminitd&lt;/code&gt; provides I/O, signals, and events to the calling process when a process is run.&lt;/p&gt; 
+&lt;h2&gt;Backends&lt;/h2&gt; 
+&lt;p&gt;Containerization abstracts the VMM behind the &lt;code&gt;VirtualMachineManager&lt;/code&gt; / &lt;code&gt;VirtualMachineInstance&lt;/code&gt; protocols and ships two implementations:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;strong&gt;macOS — Virtualization.framework&lt;/strong&gt; (&lt;code&gt;VZVirtualMachineManager&lt;/code&gt;). The shipping path on Apple silicon. Uses Apple&#39;s &lt;code&gt;Virtualization&lt;/code&gt; framework directly; no extra binaries required.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Linux — cloud-hypervisor + KVM&lt;/strong&gt; (&lt;code&gt;CHVirtualMachineManager&lt;/code&gt;). One &lt;code&gt;cloud-hypervisor&lt;/code&gt; subprocess per VM, controlled over its REST-on-UDS API by the standalone &lt;a href=&quot;https://raw.githubusercontent.com/apple/containerization/main/Sources/CloudHypervisor&quot;&gt;&lt;code&gt;CloudHypervisor&lt;/code&gt;&lt;/a&gt; Swift package. Block storage uses virtio-blk, shared directories use virtio-fs (one &lt;code&gt;virtiofsd&lt;/code&gt; per share), networking uses TAP, and the guest agent is reached over cloud-hypervisor&#39;s hybrid vsock — same &lt;code&gt;vminitd&lt;/code&gt; contract as the macOS path, so guest-side semantics are unchanged.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;The Linux backend requires:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;code&gt;cloud-hypervisor&lt;/code&gt; and &lt;code&gt;virtiofsd&lt;/code&gt; on the host. Both are looked up on &lt;code&gt;PATH&lt;/code&gt; by default; &lt;code&gt;CHVirtualMachineManager.init&lt;/code&gt; accepts explicit URLs to override. &lt;code&gt;virtiofsd&lt;/code&gt; is resolved lazily — a VM that uses only block-device mounts can run without it installed at all. Recent stable releases of each are recommended (smoke testing pins specific versions).&lt;/li&gt; 
+ &lt;li&gt;KVM access (&lt;code&gt;/dev/kvm&lt;/code&gt; readable + writable by the calling user).&lt;/li&gt; 
+ &lt;li&gt;Pre-staged TAP / bridge / NAT plumbing if the container needs networking. &lt;code&gt;TAPInterface&lt;/code&gt; consumes an existing TAP device by name; bringing it up, attaching it to a bridge, and configuring NAT or routing is the caller&#39;s responsibility.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;The integration test suite (&lt;code&gt;make linux-integration&lt;/code&gt;) runs inside an apple/container Linux VM with nested virt enabled (&lt;code&gt;container run --virtualization&lt;/code&gt;). The kata kernel fetched by &lt;code&gt;make fetch-default-kernel&lt;/code&gt; does not enable KVM, so the integration suite uses the in-repo kernel at &lt;code&gt;kernel/vmlinux-arm64&lt;/code&gt; (or &lt;code&gt;kernel/vmlinuz-x86_64&lt;/code&gt; on x86_64 hosts) instead — build it with &lt;code&gt;make -C kernel&lt;/code&gt; before invoking &lt;code&gt;make linux-integration&lt;/code&gt;. On Linux the suite runs only the cross-platform scenarios that don&#39;t depend on macOS-only types; the full suite remains macOS-only for now.&lt;/p&gt; 
+&lt;h2&gt;Requirements&lt;/h2&gt; 
+&lt;p&gt;To build the Containerization package, you need:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;Mac with Apple silicon&lt;/li&gt; 
+ &lt;li&gt;macOS 26&lt;/li&gt; 
+ &lt;li&gt;Xcode 26&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;Older versions of macOS are not supported.&lt;/p&gt; 
+&lt;h2&gt;Example Usage&lt;/h2&gt; 
+&lt;p&gt;For examples of how to use the libraries&#39; API surface, the cctl executable is a good start. This app is a useful playground for exploring the API. It contains commands that exercise some of the core functionality of the various products, such as:&lt;/p&gt; 
+&lt;ol&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/apple/containerization/main/Sources/cctl/ImageCommand.swift&quot;&gt;Manipulating OCI images&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/apple/containerization/main/Sources/cctl/LoginCommand.swift&quot;&gt;Logging in to container registries&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/apple/containerization/main/Sources/cctl/RootfsCommand.swift&quot;&gt;Creating root filesystem blocks&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/apple/containerization/main/Sources/cctl/RunCommand.swift&quot;&gt;Running simple Linux containers&lt;/a&gt;&lt;/li&gt; 
+&lt;/ol&gt; 
+&lt;h2&gt;Linux kernel&lt;/h2&gt; 
+&lt;p&gt;A Linux kernel is required for spawning lightweight virtual machines on macOS. Containerization provides an optimized kernel configuration located in the &lt;a href=&quot;https://raw.githubusercontent.com/apple/containerization/main/kernel&quot;&gt;kernel&lt;/a&gt; directory.&lt;/p&gt; 
+&lt;p&gt;This directory includes a containerized build environment to easily compile a kernel for use with Containerization.&lt;/p&gt; 
+&lt;p&gt;The kernel configuration is a minimal set of features to support fast start times and a lightweight environment.&lt;/p&gt; 
+&lt;p&gt;While this configuration will work for the majority of workloads we understand that some will need extra features. To solve this Containerization provides first class APIs to use different kernel configurations and versions on a per container basis. This enables containers to be developed and validated across different kernel versions.&lt;/p&gt; 
+&lt;p&gt;See the &lt;a href=&quot;https://raw.githubusercontent.com/apple/containerization/main/kernel/README.md&quot;&gt;README&lt;/a&gt; in the kernel directory for instructions on how to compile the optimized kernel.&lt;/p&gt; 
+&lt;h3&gt;Kernel Support&lt;/h3&gt; 
+&lt;p&gt;Containerization allows user provided kernels but tests functionality starting with kernel version &lt;code&gt;6.14.9&lt;/code&gt;.&lt;/p&gt; 
+&lt;h3&gt;Pre-built Kernel&lt;/h3&gt; 
+&lt;p&gt;If you wish to consume a pre-built kernel, make sure it has &lt;code&gt;VIRTIO&lt;/code&gt; drivers compiled into the kernel (not merely as modules).&lt;/p&gt; 
+&lt;p&gt;The &lt;a href=&quot;https://github.com/kata-containers/kata-containers&quot;&gt;Kata Containers&lt;/a&gt; project provides a Linux kernel that is optimized for containers, with all required configuration options enabled. The &lt;a href=&quot;https://github.com/kata-containers/kata-containers/releases/&quot;&gt;releases&lt;/a&gt; page contains downloadable artifacts, and the image itself (&lt;code&gt;vmlinux.container&lt;/code&gt;) can be found in the &lt;code&gt;/opt/kata/share/kata-containers/&lt;/code&gt; directory.&lt;/p&gt; 
+&lt;h2&gt;Prepare to build package&lt;/h2&gt; 
+&lt;p&gt;Install the recommended version of Xcode.&lt;/p&gt; 
+&lt;p&gt;Set the active developer directory to the installed Xcode (replace &lt;code&gt;&amp;lt;PATH_TO_XCODE&amp;gt;&lt;/code&gt;):&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;sudo xcode-select -s &amp;lt;PATH_TO_XCODE&amp;gt;
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;The Linux guest init (&lt;code&gt;vminitd&lt;/code&gt;/&lt;code&gt;vmexec&lt;/code&gt;) is compiled as a static binary &lt;em&gt;inside a Linux container&lt;/em&gt; rather than cross-compiled on your Mac, so no Swift toolchain, Swiftly, or Static Linux SDK setup is required on the host. Install the &lt;a href=&quot;https://github.com/apple/container&quot;&gt;&lt;code&gt;container&lt;/code&gt;&lt;/a&gt; CLI, which the build uses to compile the guest:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;# Install per https://github.com/apple/container, then verify it is on PATH:
+container --version
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;The first build automatically builds the Linux dev image used to compile the guest, which can take a few minutes.&lt;/p&gt; 
+&lt;h2&gt;Build the package&lt;/h2&gt; 
+&lt;p&gt;Build Containerization from sources:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;make all
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h2&gt;Test the package&lt;/h2&gt; 
+&lt;p&gt;After building, run basic and integration tests:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;make test integration
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;A kernel is required to run integration tests. If you do not have a kernel locally, a default kernel can be fetched using the &lt;code&gt;make fetch-default-kernel&lt;/code&gt; target.&lt;/p&gt; 
+&lt;p&gt;Fetching the default kernel only needs to happen after an initial build or after a &lt;code&gt;make clean&lt;/code&gt;.&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;make fetch-default-kernel
+make all test integration
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h2&gt;Protobufs&lt;/h2&gt; 
+&lt;p&gt;Containerization depends on specific versions of &lt;code&gt;grpc-swift&lt;/code&gt; and &lt;code&gt;swift-protobuf&lt;/code&gt;. You can install them and re-generate RPC interfaces with:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;make protos
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h2&gt;Building a kernel&lt;/h2&gt; 
+&lt;p&gt;If you&#39;d like to build your own kernel please see the instructions in the &lt;a href=&quot;https://raw.githubusercontent.com/apple/containerization/main/kernel/README.md&quot;&gt;kernel directory&lt;/a&gt;.&lt;/p&gt; 
+&lt;h2&gt;Pre-commit hook&lt;/h2&gt; 
+&lt;p&gt;Run &lt;code&gt;make pre-commit&lt;/code&gt; to install a pre-commit hook that ensures that your changes have correct formatting and license headers when you run &lt;code&gt;git commit&lt;/code&gt;.&lt;/p&gt; 
+&lt;h2&gt;Documentation&lt;/h2&gt; 
+&lt;p&gt;Generate the API documentation for local viewing with:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;make docs
+make serve-docs
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Preview the documentation by running in another terminal:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;open http://localhost:8000/containerization/documentation/
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h2&gt;Contributing&lt;/h2&gt; 
+&lt;p&gt;Contributions to Containerization are welcomed and encouraged. Please see &lt;a href=&quot;https://raw.githubusercontent.com/apple/containerization/main/CONTRIBUTING.md&quot;&gt;CONTRIBUTING.md&lt;/a&gt; for more information.&lt;/p&gt; 
+&lt;h2&gt;Project Status&lt;/h2&gt; 
+&lt;p&gt;Version 0.1.0 is the first official release of Containerization. Earlier versions have no source stability guarantees.&lt;/p&gt; 
+&lt;p&gt;Because the Containerization library is under active development, source stability is only guaranteed within minor versions (for example, between 0.1.1 and 0.1.2). If you don&#39;t want potentially source-breaking package updates, you can specify your package dependency using .upToNextMinorVersion(from: &quot;0.1.0&quot;) instead.&lt;/p&gt; 
+&lt;p&gt;Future minor versions of the package may introduce changes to these rules as needed.&lt;/p&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/992765044/25c375a4-cbf5-4a4b-b1e1-a4e34f3c1ee5" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>samhenrigold/LidAngleSensor</title>
+      <link>https://github.com/samhenrigold/LidAngleSensor</link>
+      <description>&lt;p&gt;tfw when you when your lid when uhh angle your lid sensor&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Lid Angle Sensor&lt;/h1&gt; 
+&lt;p&gt;Hi, I’m Sam Gold. Did you know that you have ~rights~ a lid angle sensor in your MacBook? &lt;a href=&quot;https://youtu.be/wqnHtGgVAUE?t=21&quot;&gt;The ~Constitution~ human interface device utility says you do.&lt;/a&gt;&lt;/p&gt; 
+&lt;p&gt;This is a little utility that shows the angle from the sensor and, optionally, plays a wooden door creaking sound if you adjust it reeaaaaaal slowly.&lt;/p&gt; 
+&lt;h2&gt;FAQ&lt;/h2&gt; 
+&lt;p&gt;&lt;strong&gt;What is a lid angle sensor?&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;Despite what the name would have you believe, it is a sensor that detects the angle of the lid.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Which devices have a lid angle sensor?&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;It was introduced with the 2019 16-inch MacBook Pro. If your laptop is newer, you probably have it. &lt;a href=&quot;https://github.com/samhenrigold/LidAngleSensor/issues/13&quot;&gt;People have reported&lt;/a&gt; that it &lt;strong&gt;does not work on M1/M2 devices&lt;/strong&gt;, I have not yet figured out a fix.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;My laptop should have it, why doesn&#39;t it show up?&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;I&#39;ve only tested this on my M4 MacBook Pro and have hard-coded it to look for a specific sensor. If that doesn&#39;t work, try running &lt;a href=&quot;https://gist.github.com/samhenrigold/42b5a92d1ee8aaf2b840be34bff28591&quot;&gt;this script&lt;/a&gt; and report the output in &lt;a href=&quot;https://github.com/samhenrigold/LidAngleSensor/issues/new/choose&quot;&gt;an issue&lt;/a&gt;.&lt;/p&gt; 
+&lt;p&gt;Known problematic models:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;M1 MacBook Air (the wedge-shaped one)&lt;/li&gt; 
+ &lt;li&gt;M1/M2 MacBook Pro with Touch Bar&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;Can I use this on my iMac?&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;s&gt;Not yet tested. Feel free to slam your computer into your desk and make a PR with your results.&lt;/s&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;a href=&quot;https://github.com/samhenrigold/LidAngleSensor/issues/33&quot;&gt;It totally works&lt;/a&gt;. If it doesn&#39;t work for you, try slamming your computer harder?&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Why?&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;s&gt;A lot of free time. I&#39;m open to full-time work in NYC or remote. I&#39;m a designer/design-engineer.&lt;/s&gt; &lt;a href=&quot;https://samhenri.gold&quot;&gt;https://samhenri.gold&lt;/a&gt;&lt;/p&gt; 
+&lt;p&gt;I am now employed but I&#39;m still doing this for the love of the game.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;No I mean like why does my laptop need to know the exact angle of its lid?&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;Oh. I don&#39;t know.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Can I contribute?&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;I guess.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;How come the audio feels kind of...weird?&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;I&#39;m bad at audio.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Where did the sound effect come from?&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;LEGO Batman 3: Beyond Gotham. But you knew that already.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Can I turn off the sound?&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;Yes, never click &quot;Start Audio&quot;. But this energy isn&#39;t encouraged.&lt;/p&gt; 
+&lt;h2&gt;Building&lt;/h2&gt; 
+&lt;p&gt;According to &lt;a href=&quot;https://github.com/samhenrigold/LidAngleSensor/issues/12&quot;&gt;this issue&lt;/a&gt;, building requires having Xcode installed. I&#39;ve only tested this on Xcode 26. YMMV.&lt;/p&gt; 
+&lt;h2&gt;Installation&lt;/h2&gt; 
+&lt;p&gt;Via Homebrew:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-shell&quot;&gt;brew install lidanglesensor
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h2&gt;Related projects&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/tcsenpai/pybooklid&quot;&gt;Python library that taps into this sensor&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1a42f24e2f9748752ac387d21620901a38523153b6d47f0e2ebad23a68b4ba83/samhenrigold/LidAngleSensor" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>utmapp/UTM</title>
+      <link>https://github.com/utmapp/UTM</link>
+      <description>&lt;p&gt;Virtual machines for iOS and macOS&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;UTM&lt;/h1&gt; 
+&lt;p&gt;&lt;a href=&quot;https://github.com/utmapp/UTM/actions?query=event%3Arelease+workflow%3ABuild&quot;&gt;&lt;img src=&quot;https://github.com/utmapp/UTM/actions/workflows/build.yml/badge.svg?branch=main&amp;amp;event=push&quot; alt=&quot;Build&quot; /&gt;&lt;/a&gt;&lt;/p&gt; 
+&lt;blockquote&gt; 
+ &lt;p&gt;It is possible to invent a single machine which can be used to compute any computable sequence.&lt;/p&gt; 
+&lt;/blockquote&gt; 
+&lt;p&gt;-- &lt;cite&gt;Alan Turing, 1936&lt;/cite&gt;&lt;/p&gt; 
+&lt;p&gt;UTM is a full featured system emulator and virtual machine host for iOS and macOS. It is based off of QEMU. In short, it allows you to run Windows, Linux, and more on your Mac, iPhone, and iPad. More information at &lt;a href=&quot;https://getutm.app/&quot;&gt;https://getutm.app/&lt;/a&gt; and &lt;a href=&quot;https://mac.getutm.app/&quot;&gt;https://mac.getutm.app/&lt;/a&gt;&lt;/p&gt; 
+&lt;p align=&quot;center&quot;&gt; &lt;img width=&quot;450px&quot; alt=&quot;UTM running on an iPhone&quot; src=&quot;https://raw.githubusercontent.com/utmapp/UTM/main/screen.png&quot; /&gt; &lt;br /&gt; &lt;img width=&quot;450px&quot; alt=&quot;UTM running on a MacBook&quot; src=&quot;https://raw.githubusercontent.com/utmapp/UTM/main/screenmac.png&quot; /&gt; &lt;/p&gt; 
+&lt;h2&gt;Features&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;Full system emulation (MMU, devices, etc) using QEMU&lt;/li&gt; 
+ &lt;li&gt;30+ processors supported including x86_64, ARM64, and RISC-V&lt;/li&gt; 
+ &lt;li&gt;VGA graphics mode using SPICE and QXL&lt;/li&gt; 
+ &lt;li&gt;Text terminal mode&lt;/li&gt; 
+ &lt;li&gt;USB devices&lt;/li&gt; 
+ &lt;li&gt;JIT based acceleration using QEMU TCG&lt;/li&gt; 
+ &lt;li&gt;Frontend designed from scratch for macOS 11 and iOS 11+ using the latest and greatest APIs&lt;/li&gt; 
+ &lt;li&gt;Create, manage, run VMs directly from your device&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;Additional macOS Features&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;Hardware accelerated virtualization using Hypervisor.framework and QEMU&lt;/li&gt; 
+ &lt;li&gt;Boot macOS guests with Virtualization.framework on macOS 12+&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;UTM SE&lt;/h2&gt; 
+&lt;p&gt;UTM/QEMU requires dynamic code generation (JIT) for maximum performance. JIT on iOS devices require either a jailbroken device, or one of the various workarounds found for specific versions of iOS (see &quot;Install&quot; for more details).&lt;/p&gt; 
+&lt;p&gt;UTM SE (&quot;slow edition&quot;) uses a &lt;a href=&quot;https://github.com/ktemkin/qemu/raw/with_tcti/tcg/aarch64-tcti/README.md&quot;&gt;threaded interpreter&lt;/a&gt; which performs better than a traditional interpreter but still slower than JIT. This technique is similar to what &lt;a href=&quot;https://github.com/ish-app/ish&quot;&gt;iSH&lt;/a&gt; does for dynamic execution. As a result, UTM SE does not require jailbreaking or any JIT workarounds and can be sideloaded as a regular app.&lt;/p&gt; 
+&lt;p&gt;To optimize for size and build times, only the following architectures are included in UTM SE: ARM, PPC, RISC-V, and x86 (all with both 32-bit and 64-bit variants).&lt;/p&gt; 
+&lt;h2&gt;Install&lt;/h2&gt; 
+&lt;p&gt;UTM (SE) for iOS: &lt;a href=&quot;https://getutm.app/install/&quot;&gt;https://getutm.app/install/&lt;/a&gt;&lt;/p&gt; 
+&lt;p&gt;UTM is also available for macOS: &lt;a href=&quot;https://mac.getutm.app/&quot;&gt;https://mac.getutm.app/&lt;/a&gt;&lt;/p&gt; 
+&lt;h2&gt;Development&lt;/h2&gt; 
+&lt;h3&gt;&lt;a href=&quot;https://raw.githubusercontent.com/utmapp/UTM/main/Documentation/MacDevelopment.md&quot;&gt;macOS Development&lt;/a&gt;&lt;/h3&gt; 
+&lt;h3&gt;&lt;a href=&quot;https://raw.githubusercontent.com/utmapp/UTM/main/Documentation/iOSDevelopment.md&quot;&gt;iOS Development&lt;/a&gt;&lt;/h3&gt; 
+&lt;h2&gt;Related&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/ish-app/ish&quot;&gt;iSH&lt;/a&gt;: emulates a usermode Linux terminal interface for running x86 Linux applications on iOS&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/holzschu/a-shell&quot;&gt;a-shell&lt;/a&gt;: packages common Unix commands and utilities built natively for iOS and accessible through a terminal interface&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;License&lt;/h2&gt; 
+&lt;p&gt;UTM is distributed under the permissive Apache 2.0 license. However, it uses several (L)GPL components. Most are dynamically linked but the gstreamer plugins are statically linked and parts of the code are taken from qemu. Please be aware of this if you intend on redistributing this application.&lt;/p&gt; 
+&lt;p&gt;Some icons made by &lt;a href=&quot;https://www.freepik.com&quot;&gt;Freepik&lt;/a&gt; from &lt;a href=&quot;https://www.flaticon.com/&quot;&gt;www.flaticon.com&lt;/a&gt;.&lt;/p&gt; 
+&lt;p&gt;Additionally, UTM frontend depends on the following MIT/BSD License components:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/hackiftekhar/IQKeyboardManager&quot;&gt;IQKeyboardManager&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/migueldeicaza/SwiftTerm&quot;&gt;SwiftTerm&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/weichsel/ZIPFoundation&quot;&gt;ZIP Foundation&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/futuretap/InAppSettingsKit&quot;&gt;InAppSettingsKit&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;Continuous integration hosting is provided by &lt;a href=&quot;https://macstadium.com/company/opensource&quot;&gt;MacStadium&lt;/a&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;a href=&quot;https://www.macstadium.com&quot;&gt;&lt;img src=&quot;https://uploads-ssl.webflow.com/5ac3c046c82724970fc60918/5c019d917bba312af7553b49_MacStadium-developerlogo.png&quot; alt=&quot;MacStadium logo&quot; width=&quot;250&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9d6e1045ad16da062cf707002cbf50041982a422b27a249b21d7bb45f9f864ba/utmapp/UTM" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>home-assistant/iOS</title>
+      <link>https://github.com/home-assistant/iOS</link>
+      <description>&lt;p&gt;📱 Home Assistant for Apple platforms&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Home Assistant for Apple Platforms&lt;/h1&gt; 
+&lt;p&gt;&lt;a href=&quot;https://www.home-assistant.io/ios/beta/&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/TestFlight-Beta-blue.svg?sanitize=true&quot; alt=&quot;TestFlight Beta invite&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://itunes.apple.com/app/home-assistant-open-source-home-automation/id1099568401&quot;&gt;&lt;img src=&quot;https://img.shields.io/itunes/v/1099568401.svg?sanitize=true&quot; alt=&quot;Download on the App Store&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://github.com/home-assistant/iOS/issues&quot;&gt;&lt;img src=&quot;https://img.shields.io/github/issues/home-assistant/iOS.svg?style=flat&quot; alt=&quot;GitHub issues&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://github.com/home-assistant/iOS/raw/master/LICENSE&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/license-Apache%202.0-green.svg?style=flat&quot; alt=&quot;License Apache 2.0&quot; /&gt;&lt;/a&gt;&lt;/p&gt; 
+&lt;h2&gt;Getting Started&lt;/h2&gt; 
+&lt;p&gt;Home Assistant uses Bundler, Homebrew, and SPM to manage build dependencies. You&#39;ll need Xcode 26.4 (or later) which you can download from the &lt;a href=&quot;https://developer.apple.com/download/&quot;&gt;App Store&lt;/a&gt;. You can get the app running using the following commands:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;git clone https://github.com/home-assistant/iOS.git
+cd iOS
+
+# Install the Ruby tooling (Fastlane) using one of the following.
+# Swift Package Manager dependencies are resolved automatically by Xcode.
+
+## install ruby via homebrew, use that
+brew install ruby@3.1
+$(brew --prefix)/opt/ruby@3.1/bin/bundle install
+
+## install ruby via rbenv, use that
+brew install rbenv ruby-build
+rbenv install
+bundle install
+
+## install ruby via mise, use that
+brew install mise
+mise install
+bundle install
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Once this completes, you can launch &lt;code&gt;HomeAssistant.xcodeproj&lt;/code&gt; and run the &lt;code&gt;App-Debug&lt;/code&gt; scheme onto your simulator or iOS device.&lt;/p&gt; 
+&lt;h2&gt;Testing just the frontend&lt;/h2&gt; 
+&lt;p&gt;To just test the &lt;a href=&quot;https://github.com/home-assistant/frontend&quot;&gt;frontend&lt;/a&gt;, you can use a simulator version built by our GitHub actions.&lt;/p&gt; 
+&lt;ol&gt; 
+ &lt;li&gt;Install Xcode from the &lt;a href=&quot;https://developer.apple.com/download/&quot;&gt;App Store&lt;/a&gt; making sure it&#39;s at least the version noted above. You do not need to install or run anything else.&lt;/li&gt; 
+ &lt;li&gt;Launch the simulator at &lt;code&gt;/Applications/Xcode.app/Contents/Developer/Applications/Simulator.app&lt;/code&gt; or in Xcode under the Xcode menu &amp;gt; Open Developer Tool.&lt;/li&gt; 
+ &lt;li&gt;Open a simulator under File &amp;gt; Open Simulator. You can install older versions of iOS in Xcode&#39;s Components preferences.&lt;/li&gt; 
+ &lt;li&gt;Download a simulator build from the &lt;a href=&quot;https://github.com/home-assistant/iOS/actions/workflows/ci.yml?query=branch%3Amaster&quot;&gt;the GitHub action&lt;/a&gt; under &quot;Artifacts.&quot;&lt;/li&gt; 
+ &lt;li&gt;Drag the result &lt;code&gt;.app&lt;/code&gt; on drop it on top of the simulator.&lt;/li&gt; 
+ &lt;li&gt;Locate the app on the home screen and click it to launch.&lt;/li&gt; 
+&lt;/ol&gt; 
+&lt;p&gt;The simulator behaves different than you might expect:&lt;/p&gt; 
+&lt;table&gt; 
+ &lt;thead&gt; 
+  &lt;tr&gt; 
+   &lt;th&gt;Action&lt;/th&gt; 
+   &lt;th&gt;Effect&lt;/th&gt; 
+  &lt;/tr&gt; 
+ &lt;/thead&gt; 
+ &lt;tbody&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Click&lt;/td&gt; 
+   &lt;td&gt;Tap&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Click &amp;amp; drag&lt;/td&gt; 
+   &lt;td&gt;Scroll&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Hold ⌥&lt;/td&gt; 
+   &lt;td&gt;Add a second touch point&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Hold ⇧⌥&lt;/td&gt; 
+   &lt;td&gt;Move both touch points&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;⌘←, ⌘→&lt;/td&gt; 
+   &lt;td&gt;Rotate&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;⌘S&lt;/td&gt; 
+   &lt;td&gt;Take screenshot&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;⌘R&lt;/td&gt; 
+   &lt;td&gt;Record video&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;⌘K&lt;/td&gt; 
+   &lt;td&gt;Toggle software keyboard&lt;/td&gt; 
+  &lt;/tr&gt; 
+ &lt;/tbody&gt; 
+&lt;/table&gt; 
+&lt;p&gt;You can now debug the WebView in this simulator build using Safari&#39;s Web Inspector:&lt;/p&gt; 
+&lt;ol&gt; 
+ &lt;li&gt;Make sure &quot;Show Develop menu in menu bar&quot; is enabled in Safari&#39;s Advanced preferences.&lt;/li&gt; 
+ &lt;li&gt;Under the Develop menu, expand the &quot;Simulator&quot; menu for the simulator you&#39;ve opened.&lt;/li&gt; 
+ &lt;li&gt;Choose the WebView you want to inspect. A new window will open.&lt;/li&gt; 
+&lt;/ol&gt; 
+&lt;h2&gt;Code Signing&lt;/h2&gt; 
+&lt;p&gt;Although the app is set up to use Automatic provisioning for Debug builds, you&#39;ll need to customize a few of the options. This is because the app makes heavy use of entitlements that require code signing, even for simulator builds.&lt;/p&gt; 
+&lt;p&gt;Edit the file &lt;code&gt;Configuration/HomeAssistant.overrides.xcconfig&lt;/code&gt; (which will not exist by default and is ignored by git) and add the following:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;DEVELOPMENT_TEAM = YourTeamID
+BUNDLE_ID_PREFIX = some.bundle.prefix
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Xcode should generate provisioning profiles in your Team ID and our configuration will disable features your team doesn&#39;t have like Critical Alerts. You can find your Team ID on Apple&#39;s &lt;a href=&quot;https://developer.apple.com/account&quot;&gt;developer portal&lt;/a&gt;; it looks something like &lt;code&gt;ABCDEFG123&lt;/code&gt;.&lt;/p&gt; 
+&lt;h2&gt;Code style&lt;/h2&gt; 
+&lt;p&gt;Linters run as part of Pull Request checks. Additionally, some linting requirements can be autocorrected.&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;# checks for linting problems, doesn&#39;t fix
+bundle exec fastlane lint
+# checks for linting problems and fixes them
+bundle exec fastlane autocorrect
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;To run &lt;code&gt;autocorrect&lt;/code&gt; automatically before each commit, install the git pre-commit hook once:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;bundle exec fastlane install_git_hooks
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;In the Xcode project, the autocorrectable linters will not modify your source code but will provide warnings. This project uses several linters:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/nicklockwood/SwiftFormat&quot;&gt;SwiftFormat&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/realm/swiftlint&quot;&gt;SwiftLint&lt;/a&gt; (for things SwiftFormat doesn&#39;t automate)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://rubocop.org&quot;&gt;Rubocop&lt;/a&gt; (largely for Fastlane)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://yamllint.readthedocs.io/en/stable/index.html&quot;&gt;YamlLint&lt;/a&gt; (largely for GitHub Actions)&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;Continuous Integration&lt;/h2&gt; 
+&lt;p&gt;We use &lt;a href=&quot;https://github.com/home-assistant/iOS/actions&quot;&gt;Github Actions&lt;/a&gt; alongside &lt;a href=&quot;https://fastlane.tools/&quot;&gt;Fastlane&lt;/a&gt; to perform continuous integration both by unit testing and deploying to &lt;a href=&quot;https://appstoreconnect.apple.com&quot;&gt;App Store Connect&lt;/a&gt;. Mac Developer ID builds are available as an artifact on every build of master.&lt;/p&gt; 
+&lt;h3&gt;Environment variables&lt;/h3&gt; 
+&lt;p&gt;Fastlane scripts read from the environment or &lt;code&gt;.env&lt;/code&gt; file for configuration like team IDs. See &lt;a href=&quot;https://github.com/home-assistant/iOS/raw/master/.env.sample&quot;&gt;&lt;code&gt;.env.sample&lt;/code&gt;&lt;/a&gt; for available values.&lt;/p&gt; 
+&lt;h3&gt;Deployment&lt;/h3&gt; 
+&lt;p&gt;Although all the deployment is done through Github Actions, you can do it manually through &lt;a href=&quot;https://github.com/home-assistant/iOS/raw/master/fastlane/README.md&quot;&gt;Fastlane&lt;/a&gt;:&lt;/p&gt; 
+&lt;h3&gt;Deployment to App Store Connect&lt;/h3&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;# creates the builds and uploads to the app store
+# each save their artifacts to build/
+bundle exec fastlane mac build
+bundle exec fastlane ios build
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h2&gt;Contributing&lt;/h2&gt; 
+&lt;p&gt;See &lt;a href=&quot;https://raw.githubusercontent.com/home-assistant/iOS/main/CONTRIBUTING.md&quot;&gt;CONTRIBUTING.md&lt;/a&gt;&lt;/p&gt; 
+&lt;h2&gt;LICENSE&lt;/h2&gt; 
+&lt;p&gt;Apache-2.0&lt;/p&gt; 
+&lt;h2&gt;Credits&lt;/h2&gt; 
+&lt;p&gt;The format and some content of this &lt;a href=&quot;http://README.md&quot;&gt;README.md&lt;/a&gt; comes from the &lt;a href=&quot;https://github.com/ivanbruel/SwipeIt&quot;&gt;SwipeIt&lt;/a&gt; project.&lt;/p&gt; 
+&lt;p&gt;&lt;a href=&quot;https://www.openhomefoundation.org/&quot;&gt;&lt;img src=&quot;https://www.openhomefoundation.org/badges/home-assistant.png&quot; alt=&quot;Home Assistant - A project from the Open Home Foundation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/55336932/3ebffa9d-312b-4b88-bb34-4ea2f18313a5" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>chattymin/PokeTokenBar</title>
+      <link>https://github.com/chattymin/PokeTokenBar</link>
+      <description>&lt;p&gt;Use your tokens to raise, evolve, and collect Pokémon! 🥚&lt;/p&gt;&lt;hr&gt;&lt;div align=&quot;center&quot;&gt; 
+ &lt;img src=&quot;https://raw.githubusercontent.com/chattymin/PokeTokenBar/main/assets/icon.png&quot; width=&quot;128&quot; alt=&quot;PokeTokenBar icon&quot; /&gt; 
+ &lt;h1&gt;PokeTokenBar&lt;/h1&gt; 
+ &lt;p&gt;&lt;strong&gt;Your AI coding tokens, hatched into Pokémon — right in your menu bar.&lt;/strong&gt;&lt;/p&gt; 
+ &lt;p&gt;&lt;a href=&quot;https://github.com/chattymin/PokeTokenBar/releases&quot;&gt;&lt;img src=&quot;https://img.shields.io/github/v/release/chattymin/PokeTokenBar?color=444d56&amp;amp;label=release&quot; alt=&quot;Release&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://www.apple.com/macos/&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/macOS-14%2B-0969da&quot; alt=&quot;macOS&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://swift.org&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Swift-6-f05138&quot; alt=&quot;Swift&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://raw.githubusercontent.com/chattymin/PokeTokenBar/main/#homebrew&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Homebrew-cask-8957e5&quot; alt=&quot;Homebrew&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://raw.githubusercontent.com/chattymin/PokeTokenBar/main/LICENSE&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/license-MIT-3fb950&quot; alt=&quot;License&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://github.com/sponsors/chattymin&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Sponsor-%E2%99%A5-ea4aaa?logo=githubsponsors&amp;amp;logoColor=white&quot; alt=&quot;Sponsor&quot; /&gt;&lt;/a&gt;&lt;/p&gt; 
+ &lt;p&gt;&lt;a href=&quot;https://trendshift.io/repositories/84522?utm_source=repository-badge&amp;amp;utm_medium=badge&amp;amp;utm_campaign=badge-repository-84522&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;img src=&quot;https://trendshift.io/api/badge/repositories/84522&quot; alt=&quot;chattymin%2FPokeTokenBar | Trendshift&quot; width=&quot;250&quot; height=&quot;55&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://trendshift.io/repositories/84522?utm_source=trendshift-badge&amp;amp;utm_medium=badge&amp;amp;utm_campaign=badge-trendshift-84522&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;img src=&quot;https://trendshift.io/api/badge/trendshift/repositories/84522/daily?language=Swift&quot; alt=&quot;chattymin%2FPokeTokenBar | Trendshift&quot; width=&quot;250&quot; height=&quot;55&quot; /&gt;&lt;/a&gt;&lt;/p&gt; 
+ &lt;p&gt;&lt;strong&gt;English&lt;/strong&gt; · &lt;a href=&quot;https://raw.githubusercontent.com/chattymin/PokeTokenBar/main/README.ko.md&quot;&gt;한국어&lt;/a&gt; · &lt;a href=&quot;https://raw.githubusercontent.com/chattymin/PokeTokenBar/main/README.ja.md&quot;&gt;日本語&lt;/a&gt;&lt;/p&gt; 
+&lt;/div&gt; 
+&lt;p&gt;PokeTokenBar turns the AI coding tokens you&#39;re already burning — Claude Code, Codex, Gemini CLI, Antigravity, OpenCode, Hermes Agent, Cursor, Grok CLI, Copilot CLI, Kiro CLI, Pi Agent, omp &amp;amp; Aside — into a growing &lt;strong&gt;Pokémon companion&lt;/strong&gt; in your macOS menu bar. Spend tokens, hatch an egg, evolve it through its real evolution line, graduate it into your Pokédex, and start again. Underneath the companion it&#39;s a precise usage tracker — today&#39;s spend, cost, and official 5-hour / weekly limits, read straight from your local logs.&lt;/p&gt; 
+&lt;blockquote&gt; 
+ &lt;p&gt;Token usage is read directly from local Claude Code, Codex, Gemini CLI, Antigravity, OpenCode, Hermes Agent, Cursor, Grok CLI, Copilot CLI, Kiro CLI, Pi Agent, omp, and Aside data (&lt;code&gt;totalTokens&lt;/code&gt; = input + output + cache, local date) — no external CLI needed. Unofficial, non-commercial Pokémon fan project — see &lt;a href=&quot;https://raw.githubusercontent.com/chattymin/PokeTokenBar/main/#license--disclaimer&quot;&gt;License &amp;amp; disclaimer&lt;/a&gt;.&lt;/p&gt; 
+&lt;/blockquote&gt; 
+&lt;h2&gt;Why&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;strong&gt;The usage tracker you actually enjoy opening.&lt;/strong&gt; Your spend raises a Pokémon that hatches, evolves, graduates, and fills a Pokédex — and every shiny is a reason to check back.&lt;/li&gt; 
+ &lt;li&gt;See today&#39;s token spend &amp;amp; cost at a glance — no dashboard, no browser tab.&lt;/li&gt; 
+ &lt;li&gt;Track official &lt;strong&gt;5-hour / weekly&lt;/strong&gt; limits with reset countdowns and a burn-rate forecast for when you&#39;ll hit them.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;div align=&quot;center&quot;&gt; 
+ &lt;img src=&quot;https://raw.githubusercontent.com/chattymin/PokeTokenBar/main/assets/screenshot-home.png&quot; width=&quot;420&quot; alt=&quot;Popover home — companion, today&#39;s tokens, official limits&quot; /&gt; 
+&lt;/div&gt; 
+&lt;h2&gt;How it works&lt;/h2&gt; 
+&lt;ol&gt; 
+ &lt;li&gt;🥚 &lt;strong&gt;Code as usual.&lt;/strong&gt; The tokens you burn in Claude Code, Codex, Gemini CLI, Antigravity, OpenCode, Hermes Agent, Cursor, Grok CLI, Copilot CLI, Kiro CLI, Pi Agent, omp, or Aside incubate an egg — nothing extra to run.&lt;/li&gt; 
+ &lt;li&gt;🐣 &lt;strong&gt;Hatch.&lt;/strong&gt; Eggs hatch into Pokémon with real evolution lines from &lt;a href=&quot;https://pokeapi.co/&quot;&gt;PokéAPI&lt;/a&gt; — any Gen 1–5 line (329 possible starts), weighted by the official capture rate: commons hatch often, a legendary is a 1-in-129 event. It appears in your &lt;strong&gt;Pokédex&lt;/strong&gt; immediately while you raise it. Every hatch rolls one of 25 natures — and once in a rare while, the egg hatches &lt;strong&gt;✨ Shiny&lt;/strong&gt;.&lt;/li&gt; 
+ &lt;li&gt;⚡ &lt;strong&gt;Evolve.&lt;/strong&gt; Keep coding and it grows through its actual evolution tree (1/2/3 stages, branching), with a little flash celebration at each step.&lt;/li&gt; 
+ &lt;li&gt;🎓 &lt;strong&gt;Graduate &amp;amp; collect.&lt;/strong&gt; Final form + threshold permanently archives it in your &lt;strong&gt;Pokédex&lt;/strong&gt; — rarer takes longer (≈3 days common → ≈24 days legendary at heavy use) — and a fresh egg arrives.&lt;/li&gt; 
+ &lt;li&gt;🍬 &lt;strong&gt;Max out, get a candy.&lt;/strong&gt; Fill a 5-hour or weekly usage limit and you earn &lt;strong&gt;Rare Candy&lt;/strong&gt; — spend it from the &lt;strong&gt;Bag&lt;/strong&gt; to grow your current Pokémon.&lt;/li&gt; 
+ &lt;li&gt;🛒 &lt;strong&gt;Spend at the Shop.&lt;/strong&gt; Every token you&#39;ve used is spendable currency — buy &lt;strong&gt;Rare Candy&lt;/strong&gt;, a &lt;strong&gt;Mint&lt;/strong&gt; that re-rolls your Pokémon&#39;s nature, a &lt;strong&gt;Shiny Charm&lt;/strong&gt; that permanently raises your shiny odds, or an egg to send off your current companion and start over. Eggs come in three grades: a plain &lt;strong&gt;Pokémon Egg&lt;/strong&gt;, an &lt;strong&gt;Uncommon Egg&lt;/strong&gt; guaranteed to hatch Uncommon or better, and a &lt;strong&gt;Rare Egg&lt;/strong&gt; guaranteed to hatch Rare or better.&lt;/li&gt; 
+&lt;/ol&gt; 
+&lt;h2&gt;Tour&lt;/h2&gt; 
+&lt;table&gt; 
+ &lt;tbody&gt;
+  &lt;tr&gt; 
+   &lt;td width=&quot;45%&quot; align=&quot;center&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/chattymin/PokeTokenBar/main/assets/floating-pet.gif&quot; width=&quot;340&quot; alt=&quot;Floating desktop pet with a hover callout and right-click menu&quot; /&gt;&lt;/td&gt; 
+   &lt;td width=&quot;55%&quot; valign=&quot;middle&quot;&gt; &lt;h3&gt;🐾 Let it live on your desktop&lt;/h3&gt; Move your companion out of the menu bar and onto the desktop, at any size from 48 to 384px. Hover it for today&#39;s usage, click to open the popover, right-click for a menu, drag it wherever you like — and limit alerts can appear as a speech bubble above it. &lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td width=&quot;55%&quot; valign=&quot;middle&quot;&gt; &lt;h3&gt;In your menu bar&lt;/h3&gt; An animated Gen-V sprite lives next to today&#39;s total tokens (compact, e.g. &lt;code&gt;200.7M&lt;/code&gt;). Add today&#39;s cost (&lt;code&gt;$&lt;/code&gt;) or official limit &lt;code&gt;%&lt;/code&gt; — or turn everything off for a character-only bar. &lt;/td&gt; 
+   &lt;td width=&quot;45%&quot; align=&quot;center&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/chattymin/PokeTokenBar/main/assets/menubar.gif&quot; width=&quot;240&quot; alt=&quot;Menu bar&quot; /&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td width=&quot;45%&quot; align=&quot;center&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/chattymin/PokeTokenBar/main/assets/shiny-banner.gif&quot; width=&quot;340&quot; alt=&quot;Normal vs shiny&quot; /&gt;&lt;/td&gt; 
+   &lt;td width=&quot;55%&quot; valign=&quot;middle&quot;&gt; &lt;h3&gt;✨ Once in a rare while — Shiny&lt;/h3&gt; Shiny hatches keep their distinct colors through every evolution — menu bar, home card, evolution line. In the Pokédex a ✨ sits next to the dex number, and tapping the cell swaps in the shiny colors. A dedicated notification makes sure you don&#39;t miss the moment. &lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td width=&quot;55%&quot; valign=&quot;middle&quot;&gt; &lt;h3&gt;A Pokédex worth filling&lt;/h3&gt; The &lt;b&gt;Pokédex&lt;/b&gt; folds every species you&#39;ve owned into one cell — 24 per page in dex-number order, and a ✨ on the ones you own shiny. The &lt;b&gt;Catch log&lt;/b&gt; keeps the individuals: newest first, each with its full evolution line, rarity, nature, and capture date. &lt;/td&gt; 
+   &lt;td width=&quot;45%&quot; align=&quot;center&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/chattymin/PokeTokenBar/main/assets/screenshot-collection-pokedex.png&quot; width=&quot;300&quot; alt=&quot;Pokédex — one cell per species&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;https://raw.githubusercontent.com/chattymin/PokeTokenBar/main/assets/screenshot-collection-catchlog.png&quot; width=&quot;300&quot; alt=&quot;Catch log — one row per Pokémon raised&quot; /&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td width=&quot;45%&quot; align=&quot;center&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/chattymin/PokeTokenBar/main/assets/settings.png&quot; width=&quot;300&quot; alt=&quot;Settings&quot; /&gt;&lt;/td&gt; 
+   &lt;td width=&quot;55%&quot; valign=&quot;middle&quot;&gt; &lt;h3&gt;Tune it your way&lt;/h3&gt; Menu-bar items, refresh interval (1–15 min or manual), launch at login, a Keychain opt-out that just hides the limits section, limit alerts with warning/critical thresholds, and companion event notifications. Full &lt;b&gt;KO / EN / JA / ES / FR / PT / DE&lt;/b&gt; UI and Pokémon names. &lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td width=&quot;55%&quot; valign=&quot;middle&quot;&gt; &lt;h3&gt;🍬 Fill a limit, earn a Rare Candy&lt;/h3&gt; Max out a 5-hour or weekly usage limit and you&#39;re handed a &lt;b&gt;Rare Candy&lt;/b&gt; — one per 5-hour cap, five per weekly. Spend it from the new &lt;b&gt;Bag&lt;/b&gt; tab to grow your current Pokémon: the moment you&#39;re rate-limited becomes the moment you level up. &lt;/td&gt; 
+   &lt;td width=&quot;45%&quot; align=&quot;center&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/chattymin/PokeTokenBar/main/assets/screenshot-bag.png&quot; width=&quot;300&quot; alt=&quot;Rare Candy and Mint in the Bag&quot; /&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td width=&quot;45%&quot; align=&quot;center&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/chattymin/PokeTokenBar/main/assets/screenshot-shop.png&quot; width=&quot;300&quot; alt=&quot;Token Shop — Mint, Rare Candy, Pokémon Egg, Uncommon Egg, Shiny Charm, Rare Egg&quot; /&gt;&lt;/td&gt; 
+   &lt;td width=&quot;55%&quot; valign=&quot;middle&quot;&gt; &lt;h3&gt;🛒 A shop that runs on your usage&lt;/h3&gt; The tokens you&#39;ve already used are your currency. Spend them in the new &lt;b&gt;Shop&lt;/b&gt; tab on &lt;b&gt;Rare Candy&lt;/b&gt; to grow your current Pokémon, a &lt;b&gt;Mint&lt;/b&gt; to re-roll its nature, a &lt;b&gt;Shiny Charm&lt;/b&gt; that permanently raises your shiny hatch odds, or an egg to send off your companion and start over. Eggs come in three grades — a plain &lt;b&gt;Pokémon Egg&lt;/b&gt;, an &lt;b&gt;Uncommon Egg&lt;/b&gt; that always hatches Uncommon or better, and a &lt;b&gt;Rare Egg&lt;/b&gt; that always hatches Rare or better. Legendaries stay in the pool for both graded eggs, so a guaranteed hatch can still surprise you. &lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td width=&quot;55%&quot; valign=&quot;middle&quot;&gt; &lt;h3&gt;📊 Official limits, now for Antigravity too&lt;/h3&gt; Antigravity 2.0 and the IDE report real quota, not an estimate. Gemini models and Claude &amp;amp; GPT models each get their own &lt;b&gt;5-hour&lt;/b&gt; and &lt;b&gt;weekly&lt;/b&gt; buckets with reset countdowns, alongside Claude Code and Codex. Background reads use the token file and can refresh OAuth credentials automatically; a manual refresh may still access the Keychain. &lt;/td&gt; 
+   &lt;td width=&quot;45%&quot; align=&quot;center&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/chattymin/PokeTokenBar/main/assets/screenshot-antigravity-limits.png&quot; width=&quot;300&quot; alt=&quot;Antigravity official limits — 5-hour and weekly buckets per model group&quot; /&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td width=&quot;45%&quot; align=&quot;center&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/chattymin/PokeTokenBar/main/assets/screenshot-scan-folders.png&quot; width=&quot;300&quot; alt=&quot;Additional scan folders in Settings → Advanced&quot; /&gt;&lt;/td&gt; 
+   &lt;td width=&quot;55%&quot; valign=&quot;middle&quot;&gt; &lt;h3&gt;📁 Logs somewhere unusual? Point at them&lt;/h3&gt; If a tool keeps its sessions outside the built-in paths, add your own roots under &lt;b&gt;Settings → Advanced&lt;/b&gt; — comma or newline separated, &lt;code&gt;*&lt;/code&gt; wildcards, with a live count of how many extra folders currently match. Every provider keeps its own list, so one tool&#39;s folders are never handed to another tool&#39;s parser, and your custom roots are added to the built-in ones rather than replacing them. &lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td width=&quot;55%&quot; valign=&quot;middle&quot;&gt; &lt;h3&gt;🔑 Official limits without the Keychain&lt;/h3&gt; If the cached limit token expires, official Claude limits used to freeze until a refresh — and that press could raise a Keychain password prompt. Paste a &lt;b&gt;claude.ai session key&lt;/b&gt; under &lt;b&gt;Settings → Advanced&lt;/b&gt; instead: limits then come straight from claude.ai with no Keychain access at all, auto-polling keeps them fresh, and the key is validated the moment you save it. &lt;/td&gt; 
+   &lt;td width=&quot;45%&quot; align=&quot;center&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/chattymin/PokeTokenBar/main/assets/screenshot-session-key.png&quot; width=&quot;300&quot; alt=&quot;claude.ai session key in Settings → Advanced&quot; /&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td width=&quot;45%&quot; align=&quot;center&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/chattymin/PokeTokenBar/main/assets/screenshot-model-breakdown.png&quot; width=&quot;300&quot; alt=&quot;Per-model token breakdown for Pi&quot; /&gt;&lt;/td&gt; 
+   &lt;td width=&quot;55%&quot; valign=&quot;middle&quot;&gt; &lt;h3&gt;🧮 One session log, several models&lt;/h3&gt; Pi can route more than one model through a single session log. Usage is now attributed to the &lt;b&gt;real model id&lt;/b&gt; instead of a flat &quot;pi&quot;, and when a day spans several models the popover breaks today&#39;s tokens down per model, biggest first. &lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td width=&quot;45%&quot; align=&quot;center&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/chattymin/PokeTokenBar/main/assets/screenshot-pokemon-profile.png&quot; width=&quot;300&quot; alt=&quot;Every Pokémon has its own profile&quot; /&gt;&lt;/td&gt; 
+   &lt;td width=&quot;55%&quot; valign=&quot;middle&quot;&gt; &lt;h3&gt;Every Pokémon has its own profile&lt;/h3&gt; Open a species in the &lt;b&gt;Pokédex&lt;/b&gt; to inspect each individual: level, gender, nature, ability, IVs, calculated stats, and learned moves. Species descriptions, abilities, and moves use your selected language, with English as the fallback when PokéAPI has no translation. &lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td width=&quot;45%&quot; align=&quot;center&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/chattymin/PokeTokenBar/main/assets/screenshot-difficulty.png&quot; width=&quot;300&quot; alt=&quot;Choose your growth pace&quot; /&gt;&lt;/td&gt; 
+   &lt;td width=&quot;55%&quot; valign=&quot;middle&quot;&gt; &lt;h3&gt;Choose your growth pace&lt;/h3&gt; Set growth thresholds and shop prices independently from &lt;b&gt;10% to 200%&lt;/b&gt;. Dragging only edits a draft; press &lt;b&gt;Save&lt;/b&gt; to apply it. Changing growth difficulty preserves your current stage progress instead of triggering an evolution. A hatch from an evolution line you have already graduated grows &lt;b&gt;2× faster&lt;/b&gt;. &lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td width=&quot;45%&quot; align=&quot;center&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/chattymin/PokeTokenBar/main/assets/screenshot-daily-trend.png&quot; width=&quot;300&quot; alt=&quot;Your month, day by day&quot; /&gt;&lt;/td&gt; 
+   &lt;td width=&quot;55%&quot; valign=&quot;middle&quot;&gt; &lt;h3&gt;Your month, day by day&lt;/h3&gt; A compact daily chart below the weekly and monthly totals shows the current month through today. The chart combines all tools; hover a bar for that day’s tokens and, when enabled, cost. &lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td width=&quot;45%&quot; align=&quot;center&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/chattymin/PokeTokenBar/main/assets/screenshot-quota-alignment.png&quot; width=&quot;300&quot; alt=&quot;Limits you can scan at a glance&quot; /&gt;&lt;/td&gt; 
+   &lt;td width=&quot;55%&quot; valign=&quot;middle&quot;&gt; &lt;h3&gt;Limits you can scan at a glance&lt;/h3&gt; Reset countdowns include the clock time, and the colored percentage stays aligned at the right edge across all quota rows. Choose used or remaining in Settings: both the number and the bar follow that choice. &lt;/td&gt; 
+  &lt;/tr&gt; 
+ &lt;/tbody&gt;
+&lt;/table&gt; 
+&lt;h2&gt;Also in the box&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;strong&gt;Low Power Mode&lt;/strong&gt; — menu-bar animation continues at Power saver quality.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Reconnect refresh&lt;/strong&gt; — usage and limits refresh when the network comes back.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Representative Pokémon&lt;/strong&gt; — pin any owned Pokédex species to the menu bar and optional floating pet, independently of the companion you&#39;re raising. While pinned, the menu bar stops following egg, hatch, and evolution changes; raising progress remains visible on Home.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Animation quality&lt;/strong&gt; — pick how smoothly the menu bar sprite and the floating pet animate (Power saver / Balanced / Smooth). Both always-visible surfaces share the setting. Power saver is the default and keeps the frame rate the app used before this setting existed; Balanced and Smooth trade battery for smoothness (measured idle CPU ~1.8% and ~5.1%).&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Interactive floating pet&lt;/strong&gt; — hover for today&#39;s usage, click to open the main window, right-click for a menu, and show limit alerts as speech bubbles.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Per-service tabs&lt;/strong&gt; — when two or more of Claude Code, Codex, Gemini CLI, Antigravity, OpenCode, Hermes Agent, Cursor, Grok CLI, Copilot CLI, Kiro CLI, Pi Agent, omp, and Aside are detected, compact tabs switch between them; today&#39;s total stays combined.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Official limits&lt;/strong&gt; — Claude, Codex &amp;amp; Antigravity 5-hour / weekly utilization with reset countdowns, right under today&#39;s numbers.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Additional scan folders&lt;/strong&gt; — per-provider extra scan roots for logs kept outside the built-in paths (Settings → Advanced).&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Burn-rate forecast&lt;/strong&gt; — projects when the current 5h window hits 100%.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;In-app updates&lt;/strong&gt; — one-click update check; current version shown in Settings.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;Works with&lt;/h2&gt; 
+&lt;table&gt; 
+ &lt;thead&gt; 
+  &lt;tr&gt; 
+   &lt;th&gt;Tool&lt;/th&gt; 
+   &lt;th&gt;Tracked&lt;/th&gt; 
+   &lt;th&gt;Official limits&lt;/th&gt; 
+  &lt;/tr&gt; 
+ &lt;/thead&gt; 
+ &lt;tbody&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;strong&gt;Claude Code&lt;/strong&gt;&lt;/td&gt; 
+   &lt;td&gt;today · 5h block · week · month&lt;/td&gt; 
+   &lt;td&gt;✅ 5h / weekly&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;strong&gt;Codex&lt;/strong&gt;&lt;/td&gt; 
+   &lt;td&gt;today · week · month&lt;/td&gt; 
+   &lt;td&gt;✅ 5h / weekly&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;strong&gt;Gemini CLI&lt;/strong&gt;&lt;/td&gt; 
+   &lt;td&gt;today · week · month&lt;/td&gt; 
+   &lt;td&gt;—&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;strong&gt;Antigravity&lt;/strong&gt;&lt;/td&gt; 
+   &lt;td&gt;today · 5h block · week · month&lt;/td&gt; 
+   &lt;td&gt;✅ 5h / weekly&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;strong&gt;OpenCode&lt;/strong&gt;&lt;/td&gt; 
+   &lt;td&gt;today · 5h block · week · month&lt;/td&gt; 
+   &lt;td&gt;—&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;strong&gt;Hermes Agent&lt;/strong&gt;&lt;/td&gt; 
+   &lt;td&gt;today · 5h block · week · month&lt;/td&gt; 
+   &lt;td&gt;—&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;strong&gt;Cursor&lt;/strong&gt;&lt;/td&gt; 
+   &lt;td&gt;today · 5h block · week · month&lt;/td&gt; 
+   &lt;td&gt;—&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;strong&gt;Grok CLI&lt;/strong&gt;&lt;/td&gt; 
+   &lt;td&gt;today · 5h block · week · month&lt;/td&gt; 
+   &lt;td&gt;—&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;strong&gt;Copilot CLI&lt;/strong&gt;&lt;/td&gt; 
+   &lt;td&gt;today · 5h block · week · month&lt;/td&gt; 
+   &lt;td&gt;—&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;strong&gt;Kiro CLI&lt;/strong&gt;&lt;/td&gt; 
+   &lt;td&gt;today · 5h block · week · month&lt;/td&gt; 
+   &lt;td&gt;— (estimated)&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;strong&gt;Pi Agent&lt;/strong&gt;&lt;/td&gt; 
+   &lt;td&gt;today · 5h block · week · month&lt;/td&gt; 
+   &lt;td&gt;—&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;strong&gt;omp&lt;/strong&gt; (oh-my-pi)&lt;/td&gt; 
+   &lt;td&gt;today · 5h block · week · month&lt;/td&gt; 
+   &lt;td&gt;—&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;strong&gt;Aside&lt;/strong&gt;&lt;/td&gt; 
+   &lt;td&gt;today · 5h block · week · month&lt;/td&gt; 
+   &lt;td&gt;—&lt;/td&gt; 
+  &lt;/tr&gt; 
+ &lt;/tbody&gt; 
+&lt;/table&gt; 
+&lt;p&gt;All read locally — no external usage CLI required. Adding a tool is a provider implementation and registration (see &lt;a href=&quot;https://raw.githubusercontent.com/chattymin/PokeTokenBar/main/CONTRIBUTING.md&quot;&gt;CONTRIBUTING.md&lt;/a&gt;).&lt;/p&gt; 
+&lt;h2&gt;Install&lt;/h2&gt; 
+&lt;h3&gt;Requirements&lt;/h3&gt; 
+&lt;p&gt;macOS 14+ (Apple Silicon or Intel). That&#39;s it — token usage is read directly from local Claude Code, Codex, Gemini CLI, Antigravity, OpenCode, Hermes Agent, Cursor, Grok CLI, Copilot CLI, Kiro CLI, Pi Agent, omp, and Aside data, with no external usage CLI required.&lt;/p&gt; 
+&lt;h3&gt;Homebrew&lt;/h3&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;brew install --cask chattymin/tap/poke-token-bar
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;ad-hoc/self-signed; the cask strips the quarantine attribute on install.&lt;/p&gt; 
+&lt;h3&gt;Manual install (without Homebrew)&lt;/h3&gt; 
+&lt;p&gt;Prefer not to use Homebrew? Download &lt;code&gt;PokeTokenBar.zip&lt;/code&gt; from the &lt;a href=&quot;https://github.com/chattymin/PokeTokenBar/releases/latest&quot;&gt;latest release&lt;/a&gt;, unzip it, and drag &lt;code&gt;PokeTokenBar.app&lt;/code&gt; into &lt;code&gt;/Applications&lt;/code&gt;.&lt;/p&gt; 
+&lt;p&gt;Because the app is ad-hoc/self-signed (not notarized under an Apple Developer account), Gatekeeper shows an &quot;unidentified developer&quot; warning on first launch. Clear it once, either way:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;strong&gt;Finder:&lt;/strong&gt; right-click (or Control-click) &lt;code&gt;PokeTokenBar.app&lt;/code&gt; → &lt;strong&gt;Open&lt;/strong&gt; → &lt;strong&gt;Open&lt;/strong&gt; again in the dialog.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Terminal:&lt;/strong&gt; &lt;code&gt;xattr -dr com.apple.quarantine /Applications/PokeTokenBar.app&lt;/code&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;(The Homebrew cask strips quarantine for you, so it needs no extra step.)&lt;/p&gt; 
+&lt;h3&gt;Build from source&lt;/h3&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;swift build                  # debug
+swift test                   # unit tests
+./scripts/build-app.sh       # release → PokeTokenBar.app → /Applications
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h2&gt;Data sources&lt;/h2&gt; 
+&lt;table&gt; 
+ &lt;thead&gt; 
+  &lt;tr&gt; 
+   &lt;th&gt;Source&lt;/th&gt; 
+   &lt;th&gt;Used for&lt;/th&gt; 
+   &lt;th&gt;Notes&lt;/th&gt; 
+  &lt;/tr&gt; 
+ &lt;/thead&gt; 
+ &lt;tbody&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;code&gt;~/.claude/projects/**/*.jsonl&lt;/code&gt;&lt;/td&gt; 
+   &lt;td&gt;Claude Code daily/blocks/weekly/monthly&lt;/td&gt; 
+   &lt;td&gt;read directly; deduped by message id; cached incrementally&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;code&gt;~/.gemini/tmp/**/chats/*.json(l)&lt;/code&gt;&lt;/td&gt; 
+   &lt;td&gt;Gemini CLI daily/monthly&lt;/td&gt; 
+   &lt;td&gt;session records (&lt;code&gt;tokens&lt;/code&gt; per message); weekly = daily sum&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;code&gt;~/.gemini/antigravity/conversations/*.db&lt;/code&gt;&lt;br /&gt;&lt;code&gt;~/.gemini/antigravity-cli/conversations/*.db&lt;/code&gt;&lt;br /&gt;&lt;code&gt;~/.gemini/antigravity-ide/conversations/*.db&lt;/code&gt;&lt;/td&gt; 
+   &lt;td&gt;Antigravity daily/blocks/weekly/monthly&lt;/td&gt; 
+   &lt;td&gt;SQLite read-only; per-call usage from the Cascade protobuf blob; supports Antigravity 2.0/Core, CLI &amp;amp; IDE; its own provider, not folded into Gemini; a subscription, so no cost is estimated&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;code&gt;~/.codex/sessions/**/*.jsonl&lt;/code&gt;&lt;/td&gt; 
+   &lt;td&gt;Codex daily/monthly&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;token_count&lt;/code&gt; events; weekly = daily sum&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;code&gt;~/.local/share/opencode/opencode.db&lt;/code&gt;&lt;/td&gt; 
+   &lt;td&gt;OpenCode daily/blocks/weekly/monthly&lt;/td&gt; 
+   &lt;td&gt;SQLite read-only; legacy &lt;code&gt;storage/message&lt;/code&gt; JSON is also supported&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;code&gt;~/.hermes/state.db&lt;/code&gt;&lt;/td&gt; 
+   &lt;td&gt;Hermes Agent daily/blocks/weekly/monthly&lt;/td&gt; 
+   &lt;td&gt;SQLite read-only; session token totals and persisted cost&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;code&gt;~/Library/Application Support/Cursor/User/globalStorage/state.vscdb&lt;/code&gt;&lt;/td&gt; 
+   &lt;td&gt;Cursor daily/blocks/weekly/monthly&lt;/td&gt; 
+   &lt;td&gt;SQLite read-only fallback (&lt;code&gt;cursorDiskKV&lt;/code&gt; bubble &lt;code&gt;tokenCount&lt;/code&gt;); when signed in, primary source is &lt;code&gt;cursor.com&lt;/code&gt; dashboard API (see Privacy)&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;code&gt;cursor.com&lt;/code&gt; (dashboard API)&lt;/td&gt; 
+   &lt;td&gt;Cursor daily/blocks/weekly/monthly&lt;/td&gt; 
+   &lt;td&gt;unofficial JSON endpoint (&lt;code&gt;get-filtered-usage-events&lt;/code&gt;); session from &lt;code&gt;cursorAuth/accessToken&lt;/code&gt; in &lt;code&gt;state.vscdb&lt;/code&gt; or &lt;code&gt;CURSOR_SESSION_TOKEN&lt;/code&gt;; refetches when the provider reloads; on network error falls back to an account-scoped disk cache up to 6 h old; disable with &lt;code&gt;CURSOR_USAGE_API=0&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;code&gt;~/.grok/sessions/**/updates.jsonl&lt;/code&gt;&lt;/td&gt; 
+   &lt;td&gt;Grok CLI daily/blocks/weekly/monthly&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;turn_completed&lt;/code&gt; records (per-turn &lt;code&gt;usage&lt;/code&gt;, server-reported cost); honours &lt;code&gt;$GROK_HOME&lt;/code&gt;; subagent sessions are skipped because their tokens are already folded into the parent turn&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;code&gt;~/.copilot/session-store.db&lt;/code&gt;&lt;/td&gt; 
+   &lt;td&gt;Copilot CLI daily/blocks/weekly/monthly&lt;/td&gt; 
+   &lt;td&gt;SQLite read-only; one &lt;code&gt;assistant_usage_events&lt;/code&gt; row per API call; honours &lt;code&gt;$COPILOT_HOME&lt;/code&gt;; &lt;code&gt;input_tokens&lt;/code&gt; already contains the cached prompt, so cache reads/writes are subtracted; premium-request billing, so no cost is estimated&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;code&gt;~/Library/Application Support/kiro-cli/data.sqlite3&lt;/code&gt;&lt;br /&gt;&lt;code&gt;~/.kiro/sessions/cli/*.jsonl&lt;/code&gt;&lt;br /&gt;&lt;code&gt;~/.kiro/sessions/&amp;lt;ws&amp;gt;/&amp;lt;session&amp;gt;/messages.jsonl&lt;/code&gt;&lt;/td&gt; 
+   &lt;td&gt;Kiro CLI daily/blocks/weekly/monthly&lt;/td&gt; 
+   &lt;td&gt;Pre-2.20 SQLite plus 2.20+ / &lt;code&gt;--v3&lt;/code&gt; JSONL; neither store records real token counts, so input is a bytes÷4 &lt;strong&gt;estimate&lt;/strong&gt; of accumulated conversation text resent on every turn; &lt;code&gt;usage_summary&lt;/code&gt; credits are not converted to USD; a &lt;code&gt;/clear&lt;/code&gt;d SQLite conversation&#39;s already-counted tokens stay counted until the app restarts; honours &lt;code&gt;$KIRO_CLI_HOME&lt;/code&gt; and &lt;code&gt;$KIRO_HOME&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;code&gt;~/.pi/agent/sessions/**/*.jsonl&lt;/code&gt;&lt;/td&gt; 
+   &lt;td&gt;Pi Agent daily/blocks/weekly/monthly&lt;/td&gt; 
+   &lt;td&gt;Direct persisted usage from all projects; &lt;code&gt;$PI_CODING_AGENT_DIR&lt;/code&gt; and &lt;code&gt;$PI_CODING_AGENT_SESSION_DIR&lt;/code&gt; overrides supported; output already includes reasoning (not counted twice); forked history deduplicated by entry ID; source-recorded costs are retained&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;code&gt;~/.omp/agent/sessions/**/*.jsonl&lt;/code&gt;&lt;/td&gt; 
+   &lt;td&gt;omp (oh-my-pi) daily/blocks/weekly/monthly&lt;/td&gt; 
+   &lt;td&gt;pi-format session JSONL; every assistant &lt;code&gt;usage&lt;/code&gt; event is summed (rewound branches are already billed) and subagent session files count too, since their tokens are not folded into the parent; honours &lt;code&gt;$OMP_CODING_AGENT_DIR&lt;/code&gt;; per-event &lt;code&gt;cost&lt;/code&gt; is trusted when reported; &lt;code&gt;bridge/&lt;/code&gt; conversion copies are skipped because their originals are already counted at the source&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;code&gt;~/.aside/u/*/state.db&lt;/code&gt;&lt;/td&gt; 
+   &lt;td&gt;Aside daily/blocks/weekly/monthly&lt;/td&gt; 
+   &lt;td&gt;Read-only SQLite turn totals; deleted turns remain counted until the scan cache resets; only recorded costs are used&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Keychain / &lt;code&gt;~/.claude/.credentials.json&lt;/code&gt; → &lt;code&gt;api.anthropic.com&lt;/code&gt;&lt;/td&gt; 
+   &lt;td&gt;Claude official 5h/weekly %&lt;/td&gt; 
+   &lt;td&gt;unofficial endpoint; the Keychain is read &lt;strong&gt;only when you press refresh&lt;/strong&gt; — auto-polling never reads it&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;code&gt;codex app-server&lt;/code&gt;&lt;/td&gt; 
+   &lt;td&gt;Codex official 5h/weekly %&lt;/td&gt; 
+   &lt;td&gt;local child process; account snapshot only, no model turn&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;a href=&quot;https://pokeapi.co/&quot;&gt;PokéAPI&lt;/a&gt; — &lt;code&gt;pokeapi.co&lt;/code&gt;, &lt;code&gt;graphql.pokeapi.co&lt;/code&gt;&lt;/td&gt; 
+   &lt;td&gt;Pokémon species, stats, abilities, moves &amp;amp; evolution&lt;/td&gt; 
+   &lt;td&gt;runtime fetch; cached locally, never bundled&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;code&gt;raw.githubusercontent.com/PokeAPI/sprites&lt;/code&gt;&lt;/td&gt; 
+   &lt;td&gt;Pokémon &amp;amp; item sprites&lt;/td&gt; 
+   &lt;td&gt;runtime fetch; cached under Application Support, never bundled&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;code&gt;status.claude.com&lt;/code&gt;, &lt;code&gt;status.openai.com&lt;/code&gt;&lt;/td&gt; 
+   &lt;td&gt;provider incident banner&lt;/td&gt; 
+   &lt;td&gt;statuspage summary; display only — turn it off in Settings&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;&lt;code&gt;api.github.com&lt;/code&gt;&lt;/td&gt; 
+   &lt;td&gt;update check&lt;/td&gt; 
+   &lt;td&gt;latest release tag; on launch and when the popover opens&lt;/td&gt; 
+  &lt;/tr&gt; 
+ &lt;/tbody&gt; 
+&lt;/table&gt; 
+&lt;p&gt;If a provider&#39;s logs live &lt;strong&gt;outside&lt;/strong&gt; those built-in paths, add the folder in &lt;strong&gt;Settings → Advanced → Additional scan folders&lt;/strong&gt;. Pick the provider first — each folder is parsed only by that provider, so pointing a Gemini field at Claude logs would mis-attribute tokens. Extra folders are added to the built-in locations; they never replace them.&lt;/p&gt; 
+&lt;h2&gt;Privacy &amp;amp; permissions&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;strong&gt;On-device first.&lt;/strong&gt; Token usage is read directly from local Claude Code, Codex, Gemini CLI, Antigravity, OpenCode, Hermes Agent, Cursor, Grok CLI, Copilot CLI, Kiro CLI, Pi Agent, omp, and Aside data. The app never uploads usage or runs model turns.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Outbound requests.&lt;/strong&gt; The app is not fully offline. It talks to twelve hosts: &lt;code&gt;pokeapi.co&lt;/code&gt; and &lt;code&gt;graphql.pokeapi.co&lt;/code&gt; (species/evolution), &lt;code&gt;raw.githubusercontent.com&lt;/code&gt; (sprites), &lt;code&gt;api.anthropic.com&lt;/code&gt; (Claude official limits), &lt;code&gt;claude.ai&lt;/code&gt; (Claude official limits when you save an optional &lt;a href=&quot;http://claude.ai&quot;&gt;claude.ai&lt;/a&gt; session key in Settings — the key only, no prompts or project paths), &lt;code&gt;cursor.com&lt;/code&gt; (Cursor usage summary when you are signed into Cursor locally — session credential only, no prompts or project paths), &lt;code&gt;cloudcode-pa.googleapis.com&lt;/code&gt; and &lt;code&gt;daily-cloudcode-pa.googleapis.com&lt;/code&gt; (Antigravity official limits) plus &lt;code&gt;oauth2.googleapis.com&lt;/code&gt; (their token refresh), &lt;code&gt;status.claude.com&lt;/code&gt; and &lt;code&gt;status.openai.com&lt;/code&gt; (incident banner — off switch in Settings), and &lt;code&gt;api.github.com&lt;/code&gt; (update check). &lt;strong&gt;None of them carry your usage logs, prompts, or project paths&lt;/strong&gt; — only the request itself (Cursor sends your session cookie to fetch your own usage rows, same as the web dashboard).&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Keychain (optional).&lt;/strong&gt; The Claude OAuth credential is read &lt;strong&gt;only when you press a refresh button&lt;/strong&gt; (Settings, or the limits row in the popover). Automatic polling never touches the Keychain, so it never raises a password prompt; when &lt;code&gt;~/.claude/.credentials.json&lt;/code&gt; is present, each poll re-reads it, so an in-place &lt;code&gt;/login&lt;/code&gt; to another account is picked up without pressing refresh. The token is held in memory only — the app creates no Keychain item of its own. If there is no credentials file, limits stay on the cached token until it expires or you refresh. Turn it off in Settings — the limits section simply hides.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Pokémon data and assets&lt;/strong&gt; are fetched at runtime from PokéAPI and cached only under &lt;code&gt;~/Library/Application Support/PokeTokenBar/&lt;/code&gt;. Generated individual values (such as IVs, gender, ability and known moves) are stored in the local companion save so they remain stable. The app binary and its release artifacts contain no Pokémon assets.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;Contributors&lt;/h2&gt; 
+&lt;p&gt;Contributions of all sizes are welcome — see &lt;a href=&quot;https://raw.githubusercontent.com/chattymin/PokeTokenBar/main/CONTRIBUTING.md&quot;&gt;CONTRIBUTING.md&lt;/a&gt; for how to build, test, and open a pull request.&lt;/p&gt; 
+&lt;p&gt;&lt;a href=&quot;https://github.com/chattymin/PokeTokenBar/graphs/contributors&quot;&gt;&lt;img src=&quot;https://contrib.rocks/image?repo=chattymin/PokeTokenBar&quot; alt=&quot;Contributors&quot; /&gt;&lt;/a&gt;&lt;/p&gt; 
+&lt;h2&gt;License &amp;amp; disclaimer&lt;/h2&gt; 
+&lt;p&gt;&lt;strong&gt;MIT&lt;/strong&gt; — see &lt;a href=&quot;https://raw.githubusercontent.com/chattymin/PokeTokenBar/main/LICENSE&quot;&gt;LICENSE&lt;/a&gt;. The MIT license covers this project&#39;s original source code only; it grants no rights to any third-party trademarks, artwork, or data accessed through the app.&lt;/p&gt; 
+&lt;p&gt;PokeTokenBar is an &lt;strong&gt;unofficial, non-commercial fan project&lt;/strong&gt;. It is &lt;strong&gt;not affiliated with, endorsed, sponsored, or approved by Nintendo, Game Freak, Creatures Inc., or The Pokémon Company.&lt;/strong&gt; &quot;Pokémon&quot; and all related names, characters, and imagery are trademarks and copyrights of their respective owners. This project claims no ownership of, and asserts no rights over, any Pokémon intellectual property.&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;strong&gt;The app binary and its release artifacts bundle no Pokémon assets.&lt;/strong&gt; Pokémon species data and sprites are fetched &lt;strong&gt;at runtime&lt;/strong&gt; from the public &lt;a href=&quot;https://pokeapi.co&quot;&gt;PokéAPI&lt;/a&gt; and cached locally on the user&#39;s own device; sprite images served via PokéAPI remain the property of their respective owners.&lt;/li&gt; 
+ &lt;li&gt;Any Pokémon imagery in this repository&#39;s documentation (screenshots/GIFs) is shown solely to illustrate the app&#39;s functionality.&lt;/li&gt; 
+ &lt;li&gt;The app is provided free of charge for &lt;strong&gt;personal, non-commercial use only.&lt;/strong&gt;&lt;/li&gt; 
+ &lt;li&gt;If you are a rights holder with any concern about this project, please open an issue or contact the maintainer, and we will respond promptly.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;&lt;em&gt;Provided &quot;as is&quot;, without warranty of any kind. This notice is not legal advice.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/8aefc548ef8b0c934b89ae57d8a421c9f673aad8d0de574fcbd98760df48cb5a/chattymin/PokeTokenBar" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>LiveContainer/LiveContainer</title>
+      <link>https://github.com/LiveContainer/LiveContainer</link>
+      <description>&lt;p&gt;Run iOS apps without actually installing them!&lt;/p&gt;&lt;hr&gt;&lt;div align=&quot;center&quot;&gt; 
+ &lt;img width=&quot;217&quot; height=&quot;217&quot; src=&quot;https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/livecontainer_icon.png&quot; alt=&quot;Logo&quot; /&gt; 
+&lt;/div&gt; 
+&lt;div align=&quot;center&quot;&gt; 
+ &lt;h1&gt;&lt;b&gt;LiveContainer&lt;/b&gt;&lt;/h1&gt; 
+ &lt;p&gt;&lt;i&gt;An app launcher that runs iOS apps without actually installing them! &lt;/i&gt;&lt;/p&gt; 
+&lt;/div&gt; 
+&lt;h6 align=&quot;center&quot;&gt; &lt;p&gt;Crowdin Project: &lt;a href=&quot;https://crowdin.com/project/livecontainer&quot;&gt;&lt;img src=&quot;https://badges.crowdin.net/livecontainer/localized.svg?sanitize=true&quot; alt=&quot;Crowdin&quot; /&gt;&lt;/a&gt; &amp;nbsp;| &amp;nbsp; Documentation:&lt;a href=&quot;https://livecontainer.github.io/docs/intro&quot;&gt;liveconainer.github.io&lt;/a&gt;&lt;/p&gt; &lt;/h6&gt;
+&lt;h1&gt;LiveContainer&lt;/h1&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;LiveContainer is an app launcher (not emulator or hypervisor) that allows you to run iOS apps inside it.&lt;/li&gt; 
+ &lt;li&gt;Allows you to install unlimited apps (3 app/10 app id free developer account limit does not apply here) with only one app &amp;amp; app id. You can also have multiple versions of an app installed with multiple data containers.&lt;/li&gt; 
+ &lt;li&gt;(Below iOS 26) When JIT is available, codesign is entirely bypassed, no need to sign your apps before installing. Otherwise, your app will be signed with the same certificate used by LiveContainer.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;div class=&quot;markdown-alert markdown-alert-caution&quot;&gt;
+ &lt;p class=&quot;markdown-alert-title&quot;&gt;
+  &lt;svg class=&quot;octicon octicon-stop mr-2&quot; viewbox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;
+   &lt;path d=&quot;M4.47.22A.749.749 0 0 1 5 0h6c.199 0 .389.079.53.22l4.25 4.25c.141.14.22.331.22.53v6a.749.749 0 0 1-.22.53l-4.25 4.25A.749.749 0 0 1 11 16H5a.749.749 0 0 1-.53-.22L.22 11.53A.749.749 0 0 1 0 11V5c0-.199.079-.389.22-.53Zm.84 1.28L1.5 5.31v5.38l3.81 3.81h5.38l3.81-3.81V5.31L10.69 1.5ZM8 4a.75.75 0 0 1 .75.75v3.5a.75.75 0 0 1-1.5 0v-3.5A.75.75 0 0 1 8 4Zm0 8a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z&quot;&gt;&lt;/path&gt;
+  &lt;/svg&gt;Caution&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;Important Notice Regarding Third-Party Builds of LiveContainer&lt;/strong&gt;&lt;/p&gt; 
+ &lt;p&gt;We have recently noticed the appearance of certain closed-source third-party builds of LiveContainer. Please be aware that all your apps are installed within LiveContainer, which means these third-party builds &lt;strong&gt;have full access to your data, including sensitive information such as keychain items and login credentials&lt;/strong&gt;.&lt;/p&gt; 
+ &lt;p&gt;Furthermore, please note that we do not provide any support for issues of these third-party builds.&lt;/p&gt; 
+&lt;/div&gt; 
+&lt;h1&gt;Installation&lt;/h1&gt; 
+&lt;p&gt;&lt;strong&gt;LiveContainer comes with a standalone version and a version with built-in SideStore. &lt;a href=&quot;https://livecontainer.github.io/docs/installation&quot;&gt;Please read the install guide here&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;If you encounter any issue please &lt;a href=&quot;https://livecontainer.github.io/docs/faq&quot;&gt;read our FAQ here&lt;/a&gt;&lt;/p&gt; 
+&lt;h3&gt;Standalone&lt;/h3&gt; 
+&lt;table&gt; 
+ &lt;tbody&gt;
+  &lt;tr&gt; 
+   &lt;td&gt; Stable &lt;/td&gt; 
+   &lt;td&gt; &lt;a href=&quot;https://stikstore.app/altdirect/?url=https://github.com/LiveContainer/LiveContainer/releases/download/1.0/apps.json&amp;amp;exclude=livecontainer&quot; target=&quot;_blank&quot;&gt; &lt;img src=&quot;https://raw.githubusercontent.com/StikStore/altdirect/refs/heads/main/assets/png/AltSource_Blue.png&quot; alt=&quot;Add AltSource&quot; width=&quot;200&quot; /&gt; &lt;/a&gt; &lt;/td&gt; 
+   &lt;td&gt; &lt;a href=&quot;https://github.com/LiveContainer/LiveContainer/releases/latest/download/LiveContainer.ipa&quot; target=&quot;_blank&quot;&gt; &lt;img src=&quot;https://raw.githubusercontent.com/StikStore/altdirect/refs/heads/main/assets/png/Download_Blue.png&quot; alt=&quot;Download .ipa&quot; width=&quot;200&quot; /&gt; &lt;/a&gt; &lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt; Nightly &lt;/td&gt; 
+   &lt;td&gt; &lt;a href=&quot;https://stikstore.app/altdirect/?url=https://github.com/LiveContainer/LiveContainer/releases/download/nightly/apps_nightly.json&amp;amp;exclude=livecontainer&quot; target=&quot;_blank&quot;&gt; &lt;img src=&quot;https://raw.githubusercontent.com/StikStore/altdirect/refs/heads/main/assets/png/AltSource_Blue.png&quot; alt=&quot;Add AltSource&quot; width=&quot;200&quot; /&gt; &lt;/a&gt; &lt;/td&gt; 
+   &lt;td&gt; &lt;a href=&quot;https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa&quot; target=&quot;_blank&quot;&gt; &lt;img src=&quot;https://raw.githubusercontent.com/StikStore/altdirect/refs/heads/main/assets/png/Download_Blue.png&quot; alt=&quot;Download .ipa&quot; width=&quot;200&quot; /&gt; &lt;/a&gt; &lt;/td&gt; 
+  &lt;/tr&gt; 
+ &lt;/tbody&gt;
+&lt;/table&gt; 
+&lt;h3&gt;LiveContainer+SideStore&lt;/h3&gt; 
+&lt;table&gt; 
+ &lt;thead&gt; 
+  &lt;tr&gt; 
+   &lt;th style=&quot;text-align:center&quot;&gt;Stable&lt;/th&gt; 
+   &lt;th style=&quot;text-align:center&quot;&gt;Nightly&lt;/th&gt; 
+  &lt;/tr&gt; 
+ &lt;/thead&gt; 
+ &lt;tbody&gt; 
+  &lt;tr&gt; 
+   &lt;td style=&quot;text-align:center&quot;&gt;&lt;a href=&quot;https://github.com/LiveContainer/LiveContainer/releases/latest/download/LiveContainer+SideStore.ipa&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/StikStore/altdirect/refs/heads/main/assets/png/Download_Blue.png&quot; alt=&quot;Download .ipa&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/td&gt; 
+   &lt;td style=&quot;text-align:center&quot;&gt;&lt;a href=&quot;https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/StikStore/altdirect/refs/heads/main/assets/png/Download_Blue.png&quot; alt=&quot;Download .ipa&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+ &lt;/tbody&gt; 
+&lt;/table&gt; 
+&lt;h2&gt;Requirements&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;iOS/iPadOS 15+ 
+  &lt;ul&gt; 
+   &lt;li&gt;Multitasking requires iOS/iPadOS 16.0+&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;AltStore 2.0+ / SideStore 0.6.0+&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h1&gt;Features &amp;amp; Guides&lt;/h1&gt; 
+&lt;h3&gt;Installing Apps&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;Open LiveContainer, tap the plus icon in the upper right hand corner and select IPA files to install.&lt;/li&gt; 
+ &lt;li&gt;Choose the app you want to open in the next launch.&lt;/li&gt; 
+ &lt;li&gt;You can long-press the app to manage it.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h3&gt;&lt;a href=&quot;https://livecontainer.github.io/docs/guides/add-to-home-screen&quot;&gt;Add Apps to Home Screen&lt;/a&gt;&lt;/h3&gt; 
+&lt;h3&gt;&lt;a href=&quot;https://livecontainer.github.io/docs/guides/multiple-livecontainers&quot;&gt;Multiple LiveContainers&lt;/a&gt;&lt;/h3&gt; 
+&lt;p&gt;Using multiple LiveContainers allows you to run multiples different apps simultaneously, with &lt;em&gt;almost&lt;/em&gt; seamless data transfer between the LiveContainers.&lt;/p&gt; 
+&lt;h3&gt;&lt;a href=&quot;https://livecontainer.github.io/docs/guides/multitask&quot;&gt;Multitasking&lt;/a&gt;&lt;/h3&gt; 
+&lt;p&gt;You can now launch multiple apps simultaneously in in-app virtual windows. These windows can be resized, scaled, and even displayed using the native Picture-in-Picture (PiP) feature. On iPads, apps can run in native window mode, displaying each app in a separate system window. And if you wish, you can choose to run apps in multitasking mode by default in settings.&lt;/p&gt; 
+&lt;p&gt;To use multitasking, hold its banner and tap &lt;strong&gt;&quot;Multitask&quot;&lt;/strong&gt;. You can also make Multitask the default launch mode in settings.&lt;/p&gt; 
+&lt;div class=&quot;markdown-alert markdown-alert-note&quot;&gt;
+ &lt;p class=&quot;markdown-alert-title&quot;&gt;
+  &lt;svg class=&quot;octicon octicon-info mr-2&quot; viewbox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;
+   &lt;path d=&quot;M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z&quot;&gt;&lt;/path&gt;
+  &lt;/svg&gt;Note&lt;/p&gt;
+ &lt;p&gt;&lt;/p&gt; 
+ &lt;ol&gt; 
+  &lt;li&gt;To use multitasking, ensure you select &lt;strong&gt;&quot;Keep App Extensions&quot;&lt;/strong&gt; when installing via SideStore/AltStore.&lt;/li&gt; 
+  &lt;li&gt;If you want to enable JIT for multitasked apps, you’ll need a JIT enabler that supports attaching by PID. (StikDebug)&lt;/li&gt; 
+ &lt;/ol&gt; 
+&lt;/div&gt; 
+&lt;h3&gt;&lt;a href=&quot;https://livecontainer.github.io/docs/guides/jit-support&quot;&gt;JIT Support&lt;/a&gt;&lt;/h3&gt; 
+&lt;h3&gt;&lt;a href=&quot;https://livecontainer.github.io/docs/guides/tweaks&quot;&gt;Installing external tweaks&lt;/a&gt;&lt;/h3&gt; 
+&lt;h3&gt;&lt;a href=&quot;https://livecontainer.github.io/docs/guides/containers-and-external-data&quot;&gt;Multiple Containers/External Containers&lt;/a&gt;&lt;/h3&gt; 
+&lt;h3&gt;&lt;a href=&quot;https://livecontainer.github.io/docs/guides/lock-app&quot;&gt;Hiding Apps&lt;/a&gt;&lt;/h3&gt; 
+&lt;h3&gt;Fix File Picker &amp;amp; Local Notification&lt;/h3&gt; 
+&lt;p&gt;Some apps may experience issues with their file pickers or not be able to apply for notification permission in LiveContainer. To resolve this, enable &quot;Fix File Picker&quot; &amp;amp; &quot;Fix Local Notifications&quot; accordingly in the app-specific settings.&lt;/p&gt; 
+&lt;h3&gt;&quot;Open In App&quot; Support&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;You can simply share a URL or a file to app simply by using iOS&#39;s native share sheet. In share sheet, select LiveContainer, and LiveContainer will ask you which app you&#39;d like to open that URL/file in.&lt;/li&gt; 
+ &lt;li&gt;What&#39;s more, you also can tap the link icon in the top-right corner of the &quot;Apps&quot; tab and input the URL. LiveContainer will detect the appropriate app and ask if you want to launch it.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;Compatibility&lt;/h2&gt; 
+&lt;p&gt;Unfortunately, not all apps work in LiveContainer, so we have a &lt;a href=&quot;https://github.com/LiveContainer/LiveContainer/labels/compatibility&quot;&gt;compatibility list&lt;/a&gt; to tell if there is apps that have issues. If they aren&#39;t on this list, then it&#39;s likely going run. However, if it doesn&#39;t work, please make an &lt;a href=&quot;https://github.com/LiveContainer/LiveContainer/issues/new/choose&quot;&gt;issue&lt;/a&gt; about it.&lt;/p&gt; 
+&lt;h2&gt;Building&lt;/h2&gt; 
+&lt;p&gt;Open Xcode, edit &lt;code&gt;DEVELOPMENT_TEAM[config=Debug]&lt;/code&gt; in &lt;code&gt;xcconfigs/Global.xcconfig&lt;/code&gt; to your team id and compile.&lt;/p&gt; 
+&lt;h2&gt;Project structure&lt;/h2&gt; 
+&lt;h3&gt;Main executable&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;Core of LiveContainer&lt;/li&gt; 
+ &lt;li&gt;Contains the logic of setting up guest environment and loading guest app.&lt;/li&gt; 
+ &lt;li&gt;If no app is selected, it loads LiveContainerSwiftUI.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h3&gt;LiveContainerSwiftUI&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;SwiftUI rewrite of LiveContainerUI (by @hugeBlack)&lt;/li&gt; 
+ &lt;li&gt;Language file &lt;code&gt;Localizable.xcstrings&lt;/code&gt; is in here for multilingual support. To help us translate LiveContainer, please visit &lt;a href=&quot;https://crowdin.com/project/livecontainer&quot;&gt;our crowdin project&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h3&gt;MultitaskSupport&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;Contains the implementation of multitasking feature.&lt;/li&gt; 
+ &lt;li&gt;Based on &lt;a href=&quot;https://github.com/khanhduytran0/FrontBoardAppLauncher&quot;&gt;FrontBoardAppLauncher&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h3&gt;SideStore&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;Supporting code for SideStore&#39;s app refreshing integration&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h3&gt;TweakLoader&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;A simple tweak injector, which loads CydiaSubstrate and loads tweaks.&lt;/li&gt; 
+ &lt;li&gt;Injected to every app you install in LiveContainer.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h3&gt;ZSign&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;The app signer shipped with LiveContainer.&lt;/li&gt; 
+ &lt;li&gt;Originally made by &lt;a href=&quot;https://github.com/zhlynn/zsign&quot;&gt;zhlynn&lt;/a&gt;.&lt;/li&gt; 
+ &lt;li&gt;LiveContainer uses &lt;a href=&quot;https://github.com/khcrysalis/Feather&quot;&gt;Feather&#39;s&lt;/a&gt; version of ZSign modified by khcrysalis.&lt;/li&gt; 
+ &lt;li&gt;Changes are made to meet LiveContainer&#39;s needs.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;How does it work?&lt;/h2&gt; 
+&lt;h3&gt;Patching guest executable&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;Patch &lt;code&gt;__PAGEZERO&lt;/code&gt; segment: 
+  &lt;ul&gt; 
+   &lt;li&gt;Change &lt;code&gt;vmaddr&lt;/code&gt; to &lt;code&gt;0xFFFFC000&lt;/code&gt; (&lt;code&gt;0x100000000 - 0x4000&lt;/code&gt;)&lt;/li&gt; 
+   &lt;li&gt;Change &lt;code&gt;vmsize&lt;/code&gt; to &lt;code&gt;0x4000&lt;/code&gt;&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;Change &lt;code&gt;MH_EXECUTE&lt;/code&gt; to &lt;code&gt;MH_DYLIB&lt;/code&gt;.&lt;/li&gt; 
+ &lt;li&gt;Inject a load command to load &lt;code&gt;TweakLoader.dylib&lt;/code&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h3&gt;Patching &lt;code&gt;@executable_path&lt;/code&gt;&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;Hook &lt;code&gt;dyld4::APIs::_NSGetExecutablePath&lt;/code&gt;&lt;/li&gt; 
+ &lt;li&gt;Call &lt;code&gt;_NSGetExecutablePath&lt;/code&gt;&lt;/li&gt; 
+ &lt;li&gt;Replace &lt;code&gt;config.process.mainExecutablePath&lt;/code&gt; 
+  &lt;ul&gt; 
+   &lt;li&gt;Calculate address of &lt;code&gt;config.process.mainExecutablePath&lt;/code&gt; using &lt;code&gt;dyld4::APIs&lt;/code&gt; instance (passed as first parameter)&lt;/li&gt; 
+   &lt;li&gt;Use &lt;code&gt;builtin_vm_protect&lt;/code&gt; or TPRO unlock to make it writable&lt;/li&gt; 
+   &lt;li&gt;Replace the address with one we have control of&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;Put the original &lt;code&gt;dyld4::APIs::_NSGetExecutablePath&lt;/code&gt; back&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;blockquote&gt; 
+ &lt;p&gt;Old Method&lt;/p&gt; 
+ &lt;ul&gt; 
+  &lt;li&gt;Call &lt;code&gt;_NSGetExecutablePath&lt;/code&gt; with an invalid buffer pointer input -&amp;gt; SIGSEGV&lt;/li&gt; 
+  &lt;li&gt;Do some &lt;a href=&quot;https://github.com/khanhduytran0/LiveContainer/raw/5ef1e6a/main.m#L74-L115&quot;&gt;magic stuff&lt;/a&gt; to overwrite the contents of executable_path.&lt;/li&gt; 
+ &lt;/ul&gt; 
+&lt;/blockquote&gt; 
+&lt;h3&gt;Patching &lt;code&gt;NSBundle.mainBundle&lt;/code&gt;&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;This property is overwritten with the guest app&#39;s bundle.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h3&gt;Bypassing Library Validation&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;JIT is optional to bypass codesigning. In JIT-less mode, all executables are signed so this does not apply.&lt;/li&gt; 
+ &lt;li&gt;Derived from &lt;a href=&quot;https://blog.xpnsec.com/restoring-dyld-memory-loading&quot;&gt;Restoring Dyld Memory Loading&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h3&gt;dlopening the executable&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;Call &lt;code&gt;dlopen&lt;/code&gt; with the guest app&#39;s executable&lt;/li&gt; 
+ &lt;li&gt;TweakLoader loads all tweaks in the selected folder&lt;/li&gt; 
+ &lt;li&gt;Find the entry point&lt;/li&gt; 
+ &lt;li&gt;Jump to the entry point&lt;/li&gt; 
+ &lt;li&gt;The guest app&#39;s entry point calls &lt;code&gt;UIApplicationMain&lt;/code&gt; and start up like any other iOS apps.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h3&gt;Multi-Account support &amp;amp; Keychain Semi-Separation&lt;/h3&gt; 
+&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/entitlements.xml&quot;&gt;128 keychain access groups&lt;/a&gt; are created and LiveContainer allocates them randomly to each container of the same app. So you can create 128 container with different keychain access groups.&lt;/p&gt; 
+&lt;h2&gt;Limitations&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;Entitlements from the guest app are not applied to the host app. This isn&#39;t a big deal since sideloaded apps requires only basic entitlements.&lt;/li&gt; 
+ &lt;li&gt;App Permissions are globally applied.&lt;/li&gt; 
+ &lt;li&gt;Guest app containers are not sandboxed. This means one guest app can access other guest apps&#39; data.&lt;/li&gt; 
+ &lt;li&gt;App extensions aren&#39;t supported. they cannot be registered because: LiveContainer is sandboxed, SpringBoard doesn&#39;t know what apps are installed in LiveContainer, and they take up App ID.&lt;/li&gt; 
+ &lt;li&gt;Multitasking can be achieved by using multiple LiveContainer and the multitasking feature. However, while we were able to fix physical keyboard input issue on iPadOS (&lt;a href=&quot;https://github.com/LiveContainer/LiveContainer/issues/524&quot;&gt;https://github.com/LiveContainer/LiveContainer/issues/524&lt;/a&gt;), iPhone Mirroring uses different checks which still broke it (&lt;a href=&quot;https://github.com/LiveContainer/LiveContainer/issues/793&quot;&gt;https://github.com/LiveContainer/LiveContainer/issues/793&lt;/a&gt;).&lt;/li&gt; 
+ &lt;li&gt;Remote push notification will not work&lt;/li&gt; 
+ &lt;li&gt;Querying custom URL schemes might not work(?)&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;TODO&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;Use ChOma instead of custom MachO parser&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;License&lt;/h2&gt; 
+&lt;p&gt;&lt;a href=&quot;https://github.com/LiveContainer/LiveContainer/raw/main/LICENSE&quot;&gt;GNU Affero General Public License v3.0&lt;/a&gt;&lt;/p&gt; 
+&lt;h2&gt;Credits&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://blog.xpnsec.com/restoring-dyld-memory-loading&quot;&gt;xpn&#39;s blogpost: Restoring Dyld Memory Loading&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/pinauten/PatchfinderUtils/raw/master/Sources/CFastFind/CFastFind.c&quot;&gt;LinusHenze&#39;s CFastFind&lt;/a&gt;: &lt;a href=&quot;https://github.com/pinauten/PatchfinderUtils/raw/master/LICENSE&quot;&gt;MIT license&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/opa334/litehook&quot;&gt;litehook&lt;/a&gt;: &lt;a href=&quot;https://github.com/opa334/litehook/raw/main/LICENSE&quot;&gt;MIT license&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;@haxi0 &amp;amp; @m1337v for icon&lt;/li&gt; 
+ &lt;li&gt;@Vishram1123 for the initial shortcut implementation.&lt;/li&gt; 
+ &lt;li&gt;@hugeBlack for SwiftUI contribution&lt;/li&gt; 
+ &lt;li&gt;@Staubgeborener for automatic AltStore/SideStore source updater&lt;/li&gt; 
+ &lt;li&gt;@fkunn1326 for improved app hiding&lt;/li&gt; 
+ &lt;li&gt;@slds1 for dynamic color feature&lt;/li&gt; 
+ &lt;li&gt;@Vishram1123 for iOS 26+ JIT Script Support&lt;/li&gt; 
+ &lt;li&gt;@StephenDev0 for AltStore source support&lt;/li&gt; 
+&lt;/ul&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/493f16010918802ec7f6ae6d5ac17bac46c313c839eab90a019daf7dd7e93f52/LiveContainer/LiveContainer" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

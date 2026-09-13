@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Wolfram Language Monthly Trending</title>
+    <description>Monthly Trending of Wolfram Language in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:57:23 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>EpicGames/MetaHuman-DNA-Calibration</title>
+      <link>https://github.com/EpicGames/MetaHuman-DNA-Calibration</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/46ee7d35f464eb4d4e17c7654118871a46301d81807e209b878551d4c535092a/EpicGames/MetaHuman-DNA-Calibration" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

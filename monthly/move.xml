@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Move Monthly Trending</title>
+    <description>Monthly Trending of Move in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:57:42 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>MystenLabs/deepbookv3</title>
+      <link>https://github.com/MystenLabs/deepbookv3</link>
+      <description>&lt;p&gt;Deepbook V3&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9e12cf5961de2c810c7282d58410e1300e5e58aa078d93dc11fac078561a9f2f/MystenLabs/deepbookv3" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>LayerZero-Labs/LayerZero-v2</title>
+      <link>https://github.com/LayerZero-Labs/LayerZero-v2</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/3334348d750628065878d6394f52c106fa4ab63f68c2e119e1ea3d1acc61b98e/LayerZero-Labs/LayerZero-v2" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

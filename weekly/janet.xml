@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Janet Weekly Trending</title>
+    <description>Weekly Trending of Janet in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:45:44 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>nvim-treesitter/nvim-treesitter-context</title>
+      <link>https://github.com/nvim-treesitter/nvim-treesitter-context</link>
+      <description>&lt;p&gt;Show code context&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5381e4dd343739395fc8be4e920ee9814aee9ca5fe9ba8b467a1496f56396fde/nvim-treesitter/nvim-treesitter-context" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

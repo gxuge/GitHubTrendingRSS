@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub YARA Daily Trending</title>
+    <description>Daily Trending of YARA in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:42:19 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>magicsword-io/LOLDrivers</title>
+      <link>https://github.com/magicsword-io/LOLDrivers</link>
+      <description>&lt;p&gt;Living Off The Land Drivers&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/600482495/dd9023ee-afef-4eac-838b-b45a63e38bc5" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

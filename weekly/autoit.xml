@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub AutoIt Weekly Trending</title>
+    <description>Weekly Trending of AutoIt in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:42:55 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>rcmaehl/MSEdgeRedirect</title>
+      <link>https://github.com/rcmaehl/MSEdgeRedirect</link>
+      <description>&lt;p&gt;A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/197355779b09a4b06902b8389fb99a6537a40148b5abd29a57ed9264188a4a45/rcmaehl/MSEdgeRedirect" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>SegoCode/AutoWall</title>
+      <link>https://github.com/SegoCode/AutoWall</link>
+      <description>&lt;p&gt;🌌 Live wallpapers on Windows 7/8/10/11 using open-source wallpaper engine&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/206883026/a66d9f69-b97e-4c13-869f-1ccd82b49efb" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Bioruebe/UniExtract2</title>
+      <link>https://github.com/Bioruebe/UniExtract2</link>
+      <description>&lt;p&gt;Universal Extractor 2 is a tool to extract files from any type of archive or installer.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ee48f4cf70328d5f689e71397c3e5ce435c6ab2e383a0f6b331b9ed41e0daa47/Bioruebe/UniExtract2" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

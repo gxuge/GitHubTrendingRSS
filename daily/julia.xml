@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Julia Daily Trending</title>
+    <description>Daily Trending of Julia in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:37:31 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>JuliaRegistries/General</title>
+      <link>https://github.com/JuliaRegistries/General</link>
+      <description>&lt;p&gt;The official registry of general Julia packages&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/2486bf2bc9653b66597f3256a0db73d10803066b7c4ceb2252193496f14b3bb9/JuliaRegistries/General" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>JuliaLang/julia</title>
+      <link>https://github.com/JuliaLang/julia</link>
+      <description>&lt;p&gt;The Julia Programming Language&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1644196/ddfc1e00-6638-11e9-9b80-0fe7b9aedd72" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>CliMA/Oceananigans.jl</title>
+      <link>https://github.com/CliMA/Oceananigans.jl</link>
+      <description>&lt;p&gt;🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/152878952/f3efa380-e869-11ea-8c3b-660146a6dd40" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>CliMA/ClimaAtmos.jl</title>
+      <link>https://github.com/CliMA/ClimaAtmos.jl</link>
+      <description>&lt;p&gt;GPU-capable global atmosphere model of the CliMA Earth System Model, designed for calibration with data assimilation and machine learning&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d7f40024a640d90278cea0d5f76443832cff205687bd38c9f2555cc7e732659f/CliMA/ClimaAtmos.jl" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>CliMA/ClimaCore.jl</title>
+      <link>https://github.com/CliMA/ClimaCore.jl</link>
+      <description>&lt;p&gt;GPU-capable dynamical core for the CliMA Earth System Model: spectral-element and finite-difference discretization tools&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7cf227dd1a85f95bae9f4810bf991d068bec0e4381ab86752ae1f1c2064c16d0/CliMA/ClimaCore.jl" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

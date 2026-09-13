@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub ReScript Monthly Trending</title>
+    <description>Monthly Trending of ReScript in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:59:45 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>juspay/hyperswitch-control-center</title>
+      <link>https://github.com/juspay/hyperswitch-control-center</link>
+      <description>&lt;p&gt;Open sourced control center for managing Hyperswitch - an open sourced payment switch.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/68e1c67bff5d8dbb441b7a0082c810782f2b4043e4c71567cccf69f1021d3601/juspay/hyperswitch-control-center" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

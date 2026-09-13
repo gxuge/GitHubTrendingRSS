@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub SMT Weekly Trending</title>
+    <description>Weekly Trending of SMT in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:49:53 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>adafruit/Adafruit_CAD_Parts</title>
+      <link>https://github.com/adafruit/Adafruit_CAD_Parts</link>
+      <description>&lt;p&gt;CAD files for various boards, components and parts&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ce16512e9fa280c6f59ac605e25ee6819222c5c946ff447aa270705995f75e72/adafruit/Adafruit_CAD_Parts" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

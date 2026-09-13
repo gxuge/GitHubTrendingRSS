@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Circom Weekly Trending</title>
+    <description>Weekly Trending of Circom in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:43:33 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>stellar/soroban-examples</title>
+      <link>https://github.com/stellar/soroban-examples</link>
+      <description>&lt;p&gt;Example Soroban Contracts&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/20588739e72afe6f6b9b46692c517b268bed5962b759741edaf8f35f99a24dc9/stellar/soroban-examples" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

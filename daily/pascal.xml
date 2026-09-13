@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Pascal Daily Trending</title>
+    <description>Daily Trending of Pascal in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:39:31 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>keymanapp/keyman</title>
+      <link>https://github.com/keymanapp/keyman</link>
+      <description>&lt;p&gt;Keyman cross platform input methods system running on Android, iOS, Linux, macOS, Windows and mobile and desktop web&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/26063183/17fe8b00-b210-11ea-855c-302ae0068ead" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>stascorp/rdpwrap</title>
+      <link>https://github.com/stascorp/rdpwrap</link>
+      <description>&lt;p&gt;RDP Wrapper Library&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/fd675449bac21795c2b2a7841c88db47e1cffe2abdf7993cfa7b80f9578b035c/stascorp/rdpwrap" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>benjamimgois/goverlay</title>
+      <link>https://github.com/benjamimgois/goverlay</link>
+      <description>&lt;p&gt;Goverlay is an easy graphical interface to configure linux gaming applications&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c2adee331396e83e897505c4a3984ea9a4f24c8e5991232e9c379423aefcdc9d/benjamimgois/goverlay" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>cheat-engine/cheat-engine</title>
+      <link>https://github.com/cheat-engine/cheat-engine</link>
+      <description>&lt;p&gt;Cheat Engine. A development environment focused on modding&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d7b1e025c2a892b9fa69f80b8584144c4a22ddf852beedc284133e96e6dff37a/cheat-engine/cheat-engine" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>peazip/PeaZip</title>
+      <link>https://github.com/peazip/PeaZip</link>
+      <description>&lt;p&gt;Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a5632f73b31323fa38e4e7a0c93f5ab2b3bcab3a279bd5eb6925d9f7e4465e91/peazip/PeaZip" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>doublecmd/doublecmd</title>
+      <link>https://github.com/doublecmd/doublecmd</link>
+      <description>&lt;p&gt;Double Commander is a free cross platform open source file manager with two panels side by side.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/feb6bc119c3c2416ce73bbfca523b1c4bb96f2cf5fab3e491a168bfa528e311f/doublecmd/doublecmd" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>jrsoftware/issrc</title>
+      <link>https://github.com/jrsoftware/issrc</link>
+      <description>&lt;p&gt;Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizations of all sizes to reliably deploy software to millions of PCs worldwide.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ca2154a51147a72193be522a54be18248d6a67fef0cb485c59ae7ec153f9063f/jrsoftware/issrc" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>HeidiSQL/HeidiSQL</title>
+      <link>https://github.com/HeidiSQL/HeidiSQL</link>
+      <description>&lt;p&gt;A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/109230350/7eeb8788-9e68-4ed3-8180-cd2f4c451a60" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

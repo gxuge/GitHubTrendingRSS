@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Astro Monthly Trending</title>
+    <description>Monthly Trending of Astro in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:51:57 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>tabler/tabler</title>
+      <link>https://github.com/tabler/tabler</link>
+      <description>&lt;p&gt;Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/119811010/cb23c4bd-c14e-4afe-b71f-afb8b7e114c8" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>satnaing/astro-paper</title>
+      <link>https://github.com/satnaing/astro-paper</link>
+      <description>&lt;p&gt;A minimal, accessible and SEO-friendly Astro blog theme.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/0c0083ae0bde9a0616571b5f40a2b1a78b3210166c916aafbc3472d337578fed/satnaing/astro-paper" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>NebulaServices/Nebula</title>
+      <link>https://github.com/NebulaServices/Nebula</link>
+      <description>&lt;p&gt;a stunning and sleek web proxy with support for hundreds of popular sites.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/cdb4effd093671b550b3295ba500eb8183e148f20a84cb4fdbeb2de9622444b2/NebulaServices/Nebula" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>skills/agentic-workflows-that-read-the-room</title>
+      <link>https://github.com/skills/agentic-workflows-that-read-the-room</link>
+      <description>&lt;p&gt;This is a GitHub Skills exercise on how to get started with Agentic Workflows where we will create simple use case to show the power of an Agentic Workflow&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ffaf4fb7d283e7db14fd7d656021b0141c080afb395084c3e42a184f48f5e1ea/skills/agentic-workflows-that-read-the-room" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>hilmanski/freeStuffDev</title>
+      <link>https://github.com/hilmanski/freeStuffDev</link>
+      <description>&lt;p&gt;Complete list of free stuff for developer&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f0342d6656b6ba4ef068ffbe748462abd4d68a2694b6a387a7b0cfd1f264f202/hilmanski/freeStuffDev" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>spicetify/docs</title>
+      <link>https://github.com/spicetify/docs</link>
+      <description>&lt;p&gt;Documentation website for spicetify&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/436809447/c3e7892b-d0d7-4643-b17a-1f4a1d06e39f" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ImranR98/apps.obtainium.imranr.dev</title>
+      <link>https://github.com/ImranR98/apps.obtainium.imranr.dev</link>
+      <description>&lt;p&gt;Collection of suggested apps for Obtainium.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7371766f7f61da4c1d37a909721898be976eaef3df3b9edae9e8ce5ec84a5dea/ImranR98/apps.obtainium.imranr.dev" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>zeon-studio/astroplate</title>
+      <link>https://github.com/zeon-studio/astroplate</link>
+      <description>&lt;p&gt;Astroplate is a free starter template built with Astro, TailwindCSS &amp; TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of work!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/509c97d66a5b2d8adbdb837874df2c86c8488f7369f00b552464488da75f875c/zeon-studio/astroplate" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>CuteLeaf/Firefly</title>
+      <link>https://github.com/CuteLeaf/Firefly</link>
+      <description>&lt;p&gt;🍀Firefly, fresh and aesthetic Astro blog theme template.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1074250582/e8d5b2c1-80f9-4e34-ba18-525563852ec3" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>music-assistant/music-assistant.io</title>
+      <link>https://github.com/music-assistant/music-assistant.io</link>
+      <description>&lt;p&gt;Documentation repo for Music Assistant&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e36fee987e73b7373dfa3faace6132b3afbe7e70a5933194b6878636c4fae90c/music-assistant/music-assistant.io" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>jcalado/voxdmr-site</title>
+      <link>https://github.com/jcalado/voxdmr-site</link>
+      <description>&lt;p&gt;voxDMR: Apps for DMR talkgroups.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/6e66833886fca1128db4cf077652b0e0aa170d456f8a447d75692d1a94fdbb29/jcalado/voxdmr-site" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>manuelernestog/astrofy</title>
+      <link>https://github.com/manuelernestog/astrofy</link>
+      <description>&lt;p&gt;Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/536608426/11d2157d-94e7-42e8-ac8e-09be82e84924" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

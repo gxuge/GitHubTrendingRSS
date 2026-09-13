@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Vala Weekly Trending</title>
+    <description>Weekly Trending of Vala in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:50:51 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>kem-a/AppManager</title>
+      <link>https://github.com/kem-a/AppManager</link>
+      <description>&lt;p&gt;MacOS style AppImage installer and management application&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f64706b83f2da1f0164764cd92c7e0ec12e2433fa183b34f52382dfd5026c2c8/kem-a/AppManager" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>alainm23/planify</title>
+      <link>https://github.com/alainm23/planify</link>
+      <description>&lt;p&gt;Task manager with Todoist, Nextcloud &amp; CalDAV support designed for GNOME&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/154173536/28a8522e-d0b4-4b03-9115-c2b41713e49d" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>linuxmint/timeshift</title>
+      <link>https://github.com/linuxmint/timeshift</link>
+      <description>&lt;p&gt;System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/faafc67d10f0828c70714deb879a636e017d873087437a12adacd868419bccc8/linuxmint/timeshift" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>tkashkin/GameHub</title>
+      <link>https://github.com/tkashkin/GameHub</link>
+      <description>&lt;p&gt;All your games in one place&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/135071605/bdd10b00-6d6c-11e9-97f1-d7bf54be19ce" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

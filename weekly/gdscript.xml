@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub GDScript Weekly Trending</title>
+    <description>Weekly Trending of GDScript in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:44:48 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>hi-godot/godot-ai</title>
+      <link>https://github.com/hi-godot/godot-ai</link>
+      <description>&lt;p&gt;Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1208239711/42203419-7703-447e-9cfa-108bbbc342d8" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Orama-Interactive/Pixelorama</title>
+      <link>https://github.com/Orama-Interactive/Pixelorama</link>
+      <description>&lt;p&gt;Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/202983854/0b73c855-6cf3-4b60-a6f7-973f0045ea98" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>JHDev2006/Super-Mario-Bros.-Remastered-Public</title>
+      <link>https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public</link>
+      <description>&lt;p&gt;A Remake / Celebration of the original &#39;Super Mario Bros.&#39; games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7bb12f2e2f8059dfa087ca9c5dd42d51db120c70c5472f5320128939d9e12596/JHDev2006/Super-Mario-Bros.-Remastered-Public" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>godotengine/godot-demo-projects</title>
+      <link>https://github.com/godotengine/godot-demo-projects</link>
+      <description>&lt;p&gt;Demonstration and Template Projects&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/84f27e6a968e86381ffb5e4e883c4036305002e6961c0253005f0b4dd04a7edd/godotengine/godot-demo-projects" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>RodZill4/material-maker</title>
+      <link>https://github.com/RodZill4/material-maker</link>
+      <description>&lt;p&gt;A procedural textures authoring and 3D model painting tool based on the Godot game engine&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/141905920/177bc2b6-b69a-451a-81b3-bc9e1c5f46f8" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Maran23/script-ide</title>
+      <link>https://github.com/Maran23/script-ide</link>
+      <description>&lt;p&gt;Transforms the Script UI into an IDE like UI. Multiline Tabs, Splitting, Outline with unique icons that shows all members of the script. Quick search and function override functionality.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/698743019/ece5e2c8-3631-40a4-a5e9-1df23af1dee6" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>dialogic-godot/dialogic</title>
+      <link>https://github.com/dialogic-godot/dialogic</link>
+      <description>&lt;p&gt;💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/270304593/705f7928-7e9d-45a2-8322-92cd859362af" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Maaack/Godot-Game-Template</title>
+      <link>https://github.com/Maaack/Godot-Game-Template</link>
+      <description>&lt;p&gt;Godot template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/0abe9758de9689146ce86133db2bf23d12a95128af13c6fd96b9e3a86abc6659/Maaack/Godot-Game-Template" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Techokami/SonicWorldsNext</title>
+      <link>https://github.com/Techokami/SonicWorldsNext</link>
+      <description>&lt;p&gt;Official development repository for the successor to Sonic Worlds Delta&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d3c52f9988efd0b378583a02ce6fb96ec1251f8c774fb03211c82a86b3f2279b/Techokami/SonicWorldsNext" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>cherriesandmochi/gdmaim</title>
+      <link>https://github.com/cherriesandmochi/gdmaim</link>
+      <description>&lt;p&gt;GDMaim is a GDScript obfuscation plugin for the Godot Engine.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/eb1debe0f21cc57bfe4cc699713ad72a507a743697305338963d3c7126951b22/cherriesandmochi/gdmaim" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>gdquest-demos/godot-open-rpg</title>
+      <link>https://github.com/gdquest-demos/godot-open-rpg</link>
+      <description>&lt;p&gt;Learn to create turn-based combat with this Open Source RPG demo ⚔&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/153856999/0f91d780-ac87-11ea-9ca7-8938c06e05ee" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>pablogila/TileMapDual</title>
+      <link>https://github.com/pablogila/TileMapDual</link>
+      <description>&lt;p&gt;An automatic, real-time dual-grid tileset system for Godot&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f62bb1e476cd8a99bd895e44737ecc87c4db84287d141497fb8584c5c2ee09c4/pablogila/TileMapDual" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>MewPurPur/GodSVG</title>
+      <link>https://github.com/MewPurPur/GodSVG</link>
+      <description>&lt;p&gt;A vector graphics application for structured SVG editing, available on all major desktop platforms and on web. Currently in late alpha.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/8ccf69555656b8c0bd85b5a85227ba318fe3a49f23dce969be611de2b038b731/MewPurPur/GodSVG" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>bitbrain/beehave</title>
+      <link>https://github.com/bitbrain/beehave</link>
+      <description>&lt;p&gt;🐝 behavior tree AI for Godot Engine&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/487717864/903fb22c-1dbe-4a28-ac73-8dd23eb9714b" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

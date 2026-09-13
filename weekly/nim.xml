@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Nim Weekly Trending</title>
+    <description>Weekly Trending of Nim in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:47:32 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>nim-lang/Nim</title>
+      <link>https://github.com/nim-lang/Nim</link>
+      <description>&lt;p&gt;Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/842037/cf468f00-88a5-11e9-8d1a-d5fba75d3eb5" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>zedeus/nitter</title>
+      <link>https://github.com/zedeus/nitter</link>
+      <description>&lt;p&gt;Alternative Twitter front-end&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/286d1f634ff50fa1d0839568844feea54c9bcdf00fb53fdb417493d5ebf104ec/zedeus/nitter" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>status-im/nimbus-eth1</title>
+      <link>https://github.com/status-im/nimbus-eth1</link>
+      <description>&lt;p&gt;Nimbus: an Ethereum Execution Client for Resource-Restricted Devices&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/6725592c694fe15ea1cd82ef1996f6a092b58adfb3e8b1afd94db08183c56709/status-im/nimbus-eth1" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>nim-lang/packages</title>
+      <link>https://github.com/nim-lang/packages</link>
+      <description>&lt;p&gt;List of packages for Nimble&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/489caa04fd7174ae2a993928eb92aaf43e02585943ea6063011e690470e36862/nim-lang/packages" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

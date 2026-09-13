@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub MoonBit Monthly Trending</title>
+    <description>Monthly Trending of MoonBit in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:57:40 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>moonbitlang/openseek</title>
+      <link>https://github.com/moonbitlang/openseek</link>
+      <description>&lt;p&gt;DeepSeek-backed MoonBit coding agent.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/835131c8f5661f44c524a95d7e6d4558608cb01f4fd4e1b627a2884287d0c0b6/moonbitlang/openseek" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Inno Setup Weekly Trending</title>
+    <description>Weekly Trending of Inno Setup in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:45:41 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>git-for-windows/build-extra</title>
+      <link>https://github.com/git-for-windows/build-extra</link>
+      <description>&lt;p&gt;Additional files and scripts to help build Git for Windows on MSYS2.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f014fa73bddd17186098a158ef3c7a46f39b17518e9cea5bdd775ec2367fed82/git-for-windows/build-extra" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

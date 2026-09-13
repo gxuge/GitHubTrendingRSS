@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub CMake Weekly Trending</title>
+    <description>Weekly Trending of CMake in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:43:38 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>microsoft/vcpkg</title>
+      <link>https://github.com/microsoft/vcpkg</link>
+      <description>&lt;p&gt;C++ Library Manager for Windows, Linux, and MacOS&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d506ec387633e6b35eac3338e7019d5089806dc1c31926e63d69a37a5790c4d7/microsoft/vcpkg" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>shinchiro/mpv-winbuild-cmake</title>
+      <link>https://github.com/shinchiro/mpv-winbuild-cmake</link>
+      <description>&lt;p&gt;CMake-based MinGW-w64 Cross Toolchain&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7db455501fe4c607e623ee69d859ef3c4d86f5b48a74ed648bea9c7ffdf78f5e/shinchiro/mpv-winbuild-cmake" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>KiCad/kicad-footprints</title>
+      <link>https://github.com/KiCad/kicad-footprints</link>
+      <description>&lt;p&gt;Official KiCad Footprint Libraries for Kicad version 5&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/71a1f2bb51fbc1ddbcc946516a6bd4c56f3e2d13df7be7e743983a769bfe62be/KiCad/kicad-footprints" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Andersama/obs-asio</title>
+      <link>https://github.com/Andersama/obs-asio</link>
+      <description>&lt;p&gt;ASIO plugin for OBS-Studio&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d4d660f0453eea6720c2846ad787c09e843e81fab64c8fe47fa74739a591356f/Andersama/obs-asio" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Fortran Monthly Trending</title>
+    <description>Monthly Trending of Fortran in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:54:35 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>MetOffice/jules</title>
+      <link>https://github.com/MetOffice/jules</link>
+      <description>&lt;p&gt;The Joint UK Land Environment Simulator&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/24db37c54f36e22b8d57d61723dc6bf6b0963810058be2a07c5f7957b988b5da/MetOffice/jules" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>wrf-model/WRF</title>
+      <link>https://github.com/wrf-model/WRF</link>
+      <description>&lt;p&gt;The official repository for the Weather Research and Forecasting (WRF) model&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/32133c9da9d0ad1029a135154c9f07705b6de338498096f1077928da99d83ea8/wrf-model/WRF" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>E3SM-Project/E3SM</title>
+      <link>https://github.com/E3SM-Project/E3SM</link>
+      <description>&lt;p&gt;Energy Exascale Earth System Model source code. NOTE: use &quot;maint&quot; branches for your work. Head of master is not validated.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/16ae0d8769f3fe6446d699712b65ebb1f8abf3412b72c285d20a53d2f0c46b8e/E3SM-Project/E3SM" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>JuliaPackaging/Yggdrasil</title>
+      <link>https://github.com/JuliaPackaging/Yggdrasil</link>
+      <description>&lt;p&gt;Collection of builder repositories for BinaryBuilder.jl&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/43317d25a130a59b60bdad6be23beeb36af6763de09ac237a361ef6e3d8d293b/JuliaPackaging/Yggdrasil" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Reference-LAPACK/lapack</title>
+      <link>https://github.com/Reference-LAPACK/lapack</link>
+      <description>&lt;p&gt;LAPACK development repository&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d3949d3c66ec5ff69e849880990aa8472c4561df679897c00aa0e6d045c5319b/Reference-LAPACK/lapack" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>GEOS-ESM/MAPL</title>
+      <link>https://github.com/GEOS-ESM/MAPL</link>
+      <description>&lt;p&gt;MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e4842ed335c9e530c95eafdf5c83eb76bc77b0e4099eae0c5b706109b8e1a2ff/GEOS-ESM/MAPL" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>MetOffice/lfric_apps</title>
+      <link>https://github.com/MetOffice/lfric_apps</link>
+      <description>&lt;p&gt;LFRic Applications&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/398808eeb96eb1c3b35a017a17294caf33ffee49ea903884fdd36a5f0379beff/MetOffice/lfric_apps" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>cp2k/cp2k</title>
+      <link>https://github.com/cp2k/cp2k</link>
+      <description>&lt;p&gt;Quantum chemistry and solid state physics software package&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/817e0de8f23061172b3d131a1e42433c0d22d06c5880fdf4d9b3facc9eff50e1/cp2k/cp2k" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>MetOffice/lfric_core</title>
+      <link>https://github.com/MetOffice/lfric_core</link>
+      <description>&lt;p&gt;LFRic Infrastructure&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9286655df1ff35c3359ccaac2979d50ff6bfc98d03c2b3a6dd8594b1ee0f5ac3/MetOffice/lfric_core" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>NGEET/fates</title>
+      <link>https://github.com/NGEET/fates</link>
+      <description>&lt;p&gt;repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/57b38c40acb2f78a5b4434dd9f4137d6a808f2cd54090868e042c9151223ba88/NGEET/fates" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ElmerCSC/elmerfem</title>
+      <link>https://github.com/ElmerCSC/elmerfem</link>
+      <description>&lt;p&gt;Official git repository of Elmer FEM software&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b0b2a217a089f6bb5a5ad63e7f76e902c891d1c35ff878a397edd5e32612a3b7/ElmerCSC/elmerfem" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>MCSclimate/MCT</title>
+      <link>https://github.com/MCSclimate/MCT</link>
+      <description>&lt;p&gt;Model Coupling Tookit&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/8146051f87d90a5b4d6e7562bb7511cefe16aacb6186dcfd8c78f0a2f8321d27/MCSclimate/MCT" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>OpenFAST/openfast</title>
+      <link>https://github.com/OpenFAST/openfast</link>
+      <description>&lt;p&gt;Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/61a111508d44a542e590e19dca7dc4d59e981b0445315bbefc4b05b4d87a7090/OpenFAST/openfast" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>firemodels/fds</title>
+      <link>https://github.com/firemodels/fds</link>
+      <description>&lt;p&gt;Fire Dynamics Simulator&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d447ca0421efbb926b71afe8f57a89a59c5aef17e9e080cd950d1d6de834ddd4/firemodels/fds" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ecmwf-ifs/ectrans</title>
+      <link>https://github.com/ecmwf-ifs/ectrans</link>
+      <description>&lt;p&gt;Efficient and scalable spectral transforms&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/cdaff46b98e8dd2a5223bd038db4be02b06aefcbed1ac2ac76c4c5c3eeb4cb76/ecmwf-ifs/ectrans" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>grimme-lab/xtb</title>
+      <link>https://github.com/grimme-lab/xtb</link>
+      <description>&lt;p&gt;Semiempirical Extended Tight-Binding Program Package&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/211856832/098b5580-5bc6-11ea-8aca-107e90fe96c3" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

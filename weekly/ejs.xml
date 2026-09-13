@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub EJS Weekly Trending</title>
+    <description>Weekly Trending of EJS in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:44:25 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>github/haikus-for-codespaces</title>
+      <link>https://github.com/github/haikus-for-codespaces</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/2b081f96002d0cf1847d10f3af708550b54bc1fff3f9aea5784e8831aabb0e87/github/haikus-for-codespaces" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Ovi/DummyJSON</title>
+      <link>https://github.com/Ovi/DummyJSON</link>
+      <description>&lt;p&gt;DummyJSON.com provides different types of REST Endpoints filled with JSON data which you can use in developing the frontend with your favorite framework and library without worrying about writing a backend.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/82361e1c9ff50cbf46ecaba775ee8e219389d8f38cbe70083748c214437d876e/Ovi/DummyJSON" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Kyonew/DVinyl</title>
+      <link>https://github.com/Kyonew/DVinyl</link>
+      <description>&lt;p&gt;DVinyl is a self-hostable collection management platform for collectors. Catalog, organize and track physical media and collectibles with custom item types, rich metadata, multi-collection support, authentication, and powerful import tools.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1141855423/3ed49f8f-6e4c-4cc9-b1fa-3071968e299e" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Fechin/reference</title>
+      <link>https://github.com/Fechin/reference</link>
+      <description>&lt;p&gt;⭕ Share quick reference cheat sheet for developers.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/322855089/abeede87-dd82-46f0-9d4b-003e91514bf7" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub CoffeeScript Monthly Trending</title>
+    <description>Monthly Trending of CoffeeScript in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:52:56 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>FelisCatus/SwitchyOmega</title>
+      <link>https://github.com/FelisCatus/SwitchyOmega</link>
+      <description>&lt;p&gt;No longer maintained, see pinned issues&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4dafd48751142f07827adc3b2bcfbb45d9e273c4bc256c20a4387d49ed29b787/FelisCatus/SwitchyOmega" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>dropbox/zxcvbn</title>
+      <link>https://github.com/dropbox/zxcvbn</link>
+      <description>&lt;p&gt;Low-Budget Password Strength Estimation&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/bf1e14741f7b9fb31b43f920c5d1c28cc94d51430bbd21d332f8c47813baa99f/dropbox/zxcvbn" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ccd0/4chan-x</title>
+      <link>https://github.com/ccd0/4chan-x</link>
+      <description>&lt;p&gt;Adds various features to anonymous imageboards.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/0ba28dc7c1d5a27a9e936269755097b365b00334c445e9ed3210b52513772a9c/ccd0/4chan-x" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub PDDL Monthly Trending</title>
+    <description>Monthly Trending of PDDL in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:58:25 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>benchflow-ai/skillsbench</title>
+      <link>https://github.com/benchflow-ai/skillsbench</link>
+      <description>&lt;p&gt;SkillsBench evaluates how well skills work and how effective agents are at using them.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/885fad060775d0b453e6b2dd95f59b9f55b7e77dea6f14ef5695a3541801b8fb/benchflow-ai/skillsbench" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

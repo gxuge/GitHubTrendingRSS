@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Mustache Daily Trending</title>
+    <description>Daily Trending of Mustache in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:38:53 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>prometheus-community/helm-charts</title>
+      <link>https://github.com/prometheus-community/helm-charts</link>
+      <description>&lt;p&gt;Prometheus community Helm charts&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/356f4056d48b0a65cd781627da89d2b2a31f670bd301d994a901a4e6f1a0a314/prometheus-community/helm-charts" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>codefresh-contrib/gitops-certification-examples</title>
+      <link>https://github.com/codefresh-contrib/gitops-certification-examples</link>
+      <description>&lt;p&gt;GitOps Certification Level 1 examples&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b81e2431e9a5cd4e25a2f15fb9e7292d651eb847e9ace97ced47c601c9953117/codefresh-contrib/gitops-certification-examples" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>temporalio/helm-charts</title>
+      <link>https://github.com/temporalio/helm-charts</link>
+      <description>&lt;p&gt;Temporal Helm charts&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/540229f9fb91226e4ad535d5b33f2fa4b75b54ba9b2d1cfccd8b770cc6f69055/temporalio/helm-charts" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>amzn/selling-partner-api-models</title>
+      <link>https://github.com/amzn/selling-partner-api-models</link>
+      <description>&lt;p&gt;This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/49bce1ea6b763e542da2220d47d90a6d57735edfca244f50e4abf0e6af57906e/amzn/selling-partner-api-models" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>swagger-api/swagger-codegen</title>
+      <link>https://github.com/swagger-api/swagger-codegen</link>
+      <description>&lt;p&gt;swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/29c5a1609e8069084aa29557f6f817c5f1854835b62c8260bdb471c2227ebba7/swagger-api/swagger-codegen" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>renovatebot/helm-charts</title>
+      <link>https://github.com/renovatebot/helm-charts</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e04bf9b47b1b95bb351700bc29b280df184c01d6ee1b54261901d1bb3d9c184e/renovatebot/helm-charts" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>argoproj/argo-helm</title>
+      <link>https://github.com/argoproj/argo-helm</link>
+      <description>&lt;p&gt;ArgoProj Helm Charts&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/03dc5be2a42800e4ab6af1c7216a4a09d0849d58d78d8d3a1371afa13c159cec/argoproj/argo-helm" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>thmsgbrt/thmsgbrt</title>
+      <link>https://github.com/thmsgbrt/thmsgbrt</link>
+      <description>&lt;p&gt;My awesome README.md&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c72e359d5ebf3de3224a51104bf1cd36f10a7fc8445468b484c8a60d5e8f0737/thmsgbrt/thmsgbrt" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

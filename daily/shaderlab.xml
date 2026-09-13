@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub ShaderLab Daily Trending</title>
+    <description>Daily Trending of ShaderLab in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:40:58 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>mob-sakai/SoftMaskForUGUI</title>
+      <link>https://github.com/mob-sakai/SoftMaskForUGUI</link>
+      <description>&lt;p&gt;Enhance Unity UI (uGUI) with advanced soft-masking features to create more visually appealing effects!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/158311266/63a7f38b-3ba2-4234-9af7-9e1284558caa" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>shinyflvre/Mate-Engine</title>
+      <link>https://github.com/shinyflvre/Mate-Engine</link>
+      <description>&lt;p&gt;A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/2e03987d24def5b86b7011178eb920f0136e1ef8cb6568dc423cb90c9766a94f/shinyflvre/Mate-Engine" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

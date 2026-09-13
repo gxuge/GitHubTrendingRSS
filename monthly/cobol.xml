@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub COBOL Monthly Trending</title>
+    <description>Monthly Trending of COBOL in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:52:52 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>openmainframeproject/cobol-programming-course</title>
+      <link>https://github.com/openmainframeproject/cobol-programming-course</link>
+      <description>&lt;p&gt;Training materials and labs for a &quot;Getting Started&quot; level course on COBOL&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e5545903767f95112f19a8f65a23566cbfe4b8320fadd67f47fba375009d7c7e/openmainframeproject/cobol-programming-course" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

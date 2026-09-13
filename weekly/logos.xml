@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Logos Weekly Trending</title>
+    <description>Weekly Trending of Logos in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:46:53 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Tonwalter888/YouMod</title>
+      <link>https://github.com/Tonwalter888/YouMod</link>
+      <description>&lt;p&gt;A YouTube tweak that try to make similar features from YTLite as much as possible.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/8070f7059dbd9939b07f4cee8aa19fb669c7426de67edec60b1bdc3e10e78c39/Tonwalter888/YouMod" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>jjolano/shadow</title>
+      <link>https://github.com/jjolano/shadow</link>
+      <description>&lt;p&gt;A jailbreak detection bypass for modern iOS jailbreaks.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b132bb0b513952f86f3f64592bca6d050ce4edb05049e4bf3502c834496a8194/jjolano/shadow" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>dayanch96/YTLite</title>
+      <link>https://github.com/dayanch96/YTLite</link>
+      <description>&lt;p&gt;A flexible enhancer for YouTube on iOS&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/88f07f24e27465c120032ace720ac87609d51d2118ddc9c767eb31399e8c8536/dayanch96/YTLite" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>YTLitePlus/YTLitePlus</title>
+      <link>https://github.com/YTLitePlus/YTLitePlus</link>
+      <description>&lt;p&gt;⚠️ DEPRECATED — DEAD for now as YTPlus is now paid.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a5632f73b31323fa38e4e7a0c93f5ab2b3bcab3a279bd5eb6925d9f7e4465e91/YTLitePlus/YTLitePlus" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

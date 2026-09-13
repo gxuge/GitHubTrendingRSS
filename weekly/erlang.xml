@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Erlang Weekly Trending</title>
+    <description>Weekly Trending of Erlang in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:44:36 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>erlang/otp</title>
+      <link>https://github.com/erlang/otp</link>
+      <description>&lt;p&gt;Erlang/OTP&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/8f4b6cc89801bb77bf255d8d06c8fdc0f2d446f7a40574b73c0cbaa2dd659a6c/erlang/otp" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>emqx/emqx</title>
+      <link>https://github.com/emqx/emqx</link>
+      <description>&lt;p&gt;The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1b95ce15594a2a014c889bd5d89814e2b79c35a1d00bb2aa5eb390854eb5e09b/emqx/emqx" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

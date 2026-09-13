@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Nix Daily Trending</title>
+    <description>Daily Trending of Nix in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:39:02 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>numtide/llm-agents.nix</title>
+      <link>https://github.com/numtide/llm-agents.nix</link>
+      <description>&lt;p&gt;Nix packages for AI coding agents and development tools. Automatically updated daily.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1022026685/54e22701-d429-43e1-9d5b-13544b7d3607" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>NixOS/nixpkgs</title>
+      <link>https://github.com/NixOS/nixpkgs</link>
+      <description>&lt;p&gt;Nix Packages collection &amp; NixOS&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/4542716/db161f80-7b49-11e9-9814-cf4d7cae408c" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>nix-community/disko</title>
+      <link>https://github.com/nix-community/disko</link>
+      <description>&lt;p&gt;Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/168824926/8b6a10f6-6e63-40c0-84f4-eb48ce8a4639" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>nix-community/nix-wrapper-modules</title>
+      <link>https://github.com/nix-community/nix-wrapper-modules</link>
+      <description>&lt;p&gt;Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules! [maintainer=@BirdeeHub]&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1091002499/a20f9727-cdee-4fa3-9c8f-597296219066" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>nix-community/nixos-apple-silicon</title>
+      <link>https://github.com/nix-community/nixos-apple-silicon</link>
+      <description>&lt;p&gt;Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/68e08aed3c94e839a3f2c31fb333f77d85d79c7660e9309414432ab16d5e6ef5/nix-community/nixos-apple-silicon" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

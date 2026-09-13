@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Jsonnet Weekly Trending</title>
+    <description>Weekly Trending of Jsonnet in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:46:13 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>argoproj/argocd-example-apps</title>
+      <link>https://github.com/argoproj/argocd-example-apps</link>
+      <description>&lt;p&gt;Example Apps to Demonstrate Argo CD&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/0497449c93395a8e647c6c6031df2eb2a1f4eb61ef8125f8270d4d61c8808b0e/argoproj/argocd-example-apps" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>kubernetes-sigs/kubernetes-mixin</title>
+      <link>https://github.com/kubernetes-sigs/kubernetes-mixin</link>
+      <description>&lt;p&gt;A set of Grafana dashboards and Prometheus alerts for Kubernetes.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/fcac5e5244e0ab5d3d27a8ee07fbac02e7a90749c16fd34e5a7cf4e215370268/kubernetes-sigs/kubernetes-mixin" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>prometheus-operator/kube-prometheus</title>
+      <link>https://github.com/prometheus-operator/kube-prometheus</link>
+      <description>&lt;p&gt;Use Prometheus to monitor Kubernetes and applications running on Kubernetes&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5862234f7680afc994834e8152bd8c3efbb122cf96676a2d4b7b2ab8c916776f/prometheus-operator/kube-prometheus" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Procfile Daily Trending</title>
+    <description>Daily Trending of Procfile in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:39:57 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Vinpink2/June-Ultra</title>
+      <link>https://github.com/Vinpink2/June-Ultra</link>
+      <description>&lt;p&gt;June Ultra (Official) Repository.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/74125464fa4a8d9452b147de9f660651444fb7e67fd75785a2d01f2fbdeec620/Vinpink2/June-Ultra" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

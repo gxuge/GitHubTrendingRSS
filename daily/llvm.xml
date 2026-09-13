@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub LLVM Daily Trending</title>
+    <description>Daily Trending of LLVM in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:38:13 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>llvm/llvm-project</title>
+      <link>https://github.com/llvm/llvm-project</link>
+      <description>&lt;p&gt;The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/71ada3e7bea81f9fe2c0dbcf25760afa29b73618df3703fd0eb875c4ac94d376/llvm/llvm-project" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>intel/llvm</title>
+      <link>https://github.com/intel/llvm</link>
+      <description>&lt;p&gt;Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/704b86549286a222f9ec182a188fc45b0ee004213251fc675b6c7e3136a0be39/intel/llvm" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>llvm/clangir</title>
+      <link>https://github.com/llvm/clangir</link>
+      <description>&lt;p&gt;💀💀💀 The former home of clangir incubator, now part of the official llvm-project.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/cf15088f84d28cb4b80166643f6fe2f841c823834a6741ae0fa817de7ec40514/llvm/clangir" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

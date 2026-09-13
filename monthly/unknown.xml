@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Unknown languages Monthly Trending</title>
+    <description>Monthly Trending of Unknown languages in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:51:21 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>dharmx/walls</title>
+      <link>https://github.com/dharmx/walls</link>
+      <description>&lt;p&gt;All of my wallpapers in one repo.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/24ea6611e9cbe69048e6bd6ad5fb08b067662e6b44f68523cc0817db4c8133d0/dharmx/walls" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>punkpeye/awesome-mcp-servers</title>
+      <link>https://github.com/punkpeye/awesome-mcp-servers</link>
+      <description>&lt;p&gt;A collection of MCP servers.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e36c5e8bbdd871c8e396bdf1c72407b62009263306a0b5c7338c2776ce16ccd6/punkpeye/awesome-mcp-servers" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>liquidslr/system-design-notes</title>
+      <link>https://github.com/liquidslr/system-design-notes</link>
+      <description>&lt;p&gt;Notes of the book System Desgin Interview - An Insider&#39;s Guide&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c56579a19919769aaaffed970491997ef183cdcd8fc2306943174a7e068d0f3a/liquidslr/system-design-notes" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ByteByteGoHq/system-design-101</title>
+      <link>https://github.com/ByteByteGoHq/system-design-101</link>
+      <description>&lt;p&gt;Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/8069df8ea8c6706cb090de33a7205221968c3f58c879fe49309388ec4ccadf60/ByteByteGoHq/system-design-101" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ombharatiya/ai-system-design-guide</title>
+      <link>https://github.com/ombharatiya/ai-system-design-guide</link>
+      <description>&lt;p&gt;AI system design guide for engineers building production AI systems and evals.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/554d384188325302b34a9f1c9302d79b4334760c3296fef43961a96393c9406a/ombharatiya/ai-system-design-guide" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>byJoey/cfnew</title>
+      <link>https://github.com/byJoey/cfnew</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c571f7c13df74e70df628899ea630fca09fe2776dd91ddf8da2e46ff88219bb8/byJoey/cfnew" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>microsoft/winget-pkgs</title>
+      <link>https://github.com/microsoft/winget-pkgs</link>
+      <description>&lt;p&gt;The Microsoft community Windows Package Manager manifest repository&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/64328b4c7752a320a43afae214968a78646bd833a7036425fe6320a759027f80/microsoft/winget-pkgs" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>lukasz-madon/awesome-remote-job</title>
+      <link>https://github.com/lukasz-madon/awesome-remote-job</link>
+      <description>&lt;p&gt;A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/aa9dbfb805421bce8aac4722fabe6ac9a83f62bfb7f974740d0aa0c07f714eac/lukasz-madon/awesome-remote-job" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>brave/brave-browser</title>
+      <link>https://github.com/brave/brave-browser</link>
+      <description>&lt;p&gt;Brave browser for Android, iOS, Linux, macOS, Windows.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/8d9fa808a426ee121e8ef6fe9943ace12244b1eef377f122652e1001631d116b/brave/brave-browser" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>jivoi/awesome-osint</title>
+      <link>https://github.com/jivoi/awesome-osint</link>
+      <description>&lt;p&gt;😱 A curated list of amazingly awesome OSINT&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/0c99ea7a4248707228f24e667f54b9917a790ad40a59ec0d14d2343a75a1113a/jivoi/awesome-osint" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>mlabonne/llm-course</title>
+      <link>https://github.com/mlabonne/llm-course</link>
+      <description>&lt;p&gt;Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c37605e38222e4b6c833682f5ec4fa8a2015e2d79b223d307252f9fec711187b/mlabonne/llm-course" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Johnshall/Shadowrocket-ADBlock-Rules-Forever</title>
+      <link>https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever</link>
+      <description>&lt;p&gt;提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/aefe6c6245f94afbf843d2ed9bdaae7eee75ab05c058980b3c29323a1f32bed4/Johnshall/Shadowrocket-ADBlock-Rules-Forever" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

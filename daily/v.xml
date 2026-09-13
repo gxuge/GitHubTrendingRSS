@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub V Daily Trending</title>
+    <description>Daily Trending of V in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:41:55 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>vlang/v</title>
+      <link>https://github.com/vlang/v</link>
+      <description>&lt;p&gt;Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c753af0d5a379c67039cd430b550b2184142cd581a264ad46b1ddfd948b94fe8/vlang/v" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>vlang/vinix</title>
+      <link>https://github.com/vlang/vinix</link>
+      <description>&lt;p&gt;Vinix is an effort to write a modern, fast, and useful operating system in the V programming language&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ddc6b1b8556fa2cb09db598bd518246580d1696ce072519eb9917c2bd60e1bfb/vlang/vinix" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Go Template Daily Trending</title>
+    <description>Daily Trending of Go Template in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:36:30 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>open-telemetry/opentelemetry-helm-charts</title>
+      <link>https://github.com/open-telemetry/opentelemetry-helm-charts</link>
+      <description>&lt;p&gt;OpenTelemetry Helm Charts&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c1388b131a95efa25db47431dcdfd5f53418982aaba8ac09f471a8adca7e0e25/open-telemetry/opentelemetry-helm-charts" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>traefik/traefik-helm-chart</title>
+      <link>https://github.com/traefik/traefik-helm-chart</link>
+      <description>&lt;p&gt;Traefik Proxy Helm Chart&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/48b61ff5eb9ee013e4eb5bc0cac6fe705cfcf5cedf2b519f90bd0bf842865f46/traefik/traefik-helm-chart" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>bitnami/charts</title>
+      <link>https://github.com/bitnami/charts</link>
+      <description>&lt;p&gt;Bitnami Helm Charts&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c62be5f1f2481986d605b44cca8fb41798bb4fd6b6695205c05e2c9326f068ae/bitnami/charts" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>GoogleCloudPlatform/magic-modules</title>
+      <link>https://github.com/GoogleCloudPlatform/magic-modules</link>
+      <description>&lt;p&gt;Add Google Cloud Platform support to Terraform&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/114834469/a3545980-8266-11e9-8f93-b0227549cea7" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>zabbix/zabbix</title>
+      <link>https://github.com/zabbix/zabbix</link>
+      <description>&lt;p&gt;Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5bcc140bb936be1effd94dadb1da4d763a57fef431707b8a756da0020043f7c0/zabbix/zabbix" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>grafana/k8s-monitoring-helm</title>
+      <link>https://github.com/grafana/k8s-monitoring-helm</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/35465901349b532250550a1c12bc3bd2825172439679b4b71c2da877ca48350e/grafana/k8s-monitoring-helm" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>n8n-io/n8n-hosting</title>
+      <link>https://github.com/n8n-io/n8n-hosting</link>
+      <description>&lt;p&gt;Example of self-hosting n8n in various environments like docker, kubernetes, etc.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/43152cb1309c8bce4b3011ccf04bb0ad11215718f57d5e9d37aecb49c91371c6/n8n-io/n8n-hosting" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>cloudnative-pg/charts</title>
+      <link>https://github.com/cloudnative-pg/charts</link>
+      <description>&lt;p&gt;Official Helm charts for the operator, database clusters and the Barman Cloud plugin.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e4ca5c15baa70e2937e5ab248a751a5de2752d7a3b2eb3d64e97e65346c0e35d/cloudnative-pg/charts" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>langfuse/langfuse-k8s</title>
+      <link>https://github.com/langfuse/langfuse-k8s</link>
+      <description>&lt;p&gt;Community-maintained Kubernetes config and Helm chart for Langfuse&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/877dd72cafcd1567b0568af4a1b34c2194fc8069b0224cbbfbc37be11efa58e8/langfuse/langfuse-k8s" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

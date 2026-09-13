@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub HCL Weekly Trending</title>
+    <description>Weekly Trending of HCL in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:45:27 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>terraform-aws-modules/terraform-aws-eks</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
+      <description>&lt;p&gt;Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/fe9b870ecb8794b0dc843bb5d5e66de75d78188d4fe0d319a9c0e6875f228901/terraform-aws-modules/terraform-aws-eks" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>terraform-google-modules/terraform-google-kubernetes-engine</title>
+      <link>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</link>
+      <description>&lt;p&gt;Configures opinionated GKE clusters&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c1f4f712be3e6b7ffa10f09ff98bafe6417a1c7ac10176f17baa38ad91340187/terraform-google-modules/terraform-google-kubernetes-engine" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>terraform-aws-modules/terraform-aws-vpc</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
+      <description>&lt;p&gt;Terraform module to create AWS VPC resources 🇺🇦&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/bf86afb2cdc523687019bc086ff9b2799ce03a27d4b67c14dd6eea935c3edf7d/terraform-aws-modules/terraform-aws-vpc" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>terraform-aws-modules/terraform-aws-s3-bucket</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
+      <description>&lt;p&gt;Terraform module to create AWS S3 resources 🇺🇦&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ad0d213aaa72fc51afdf78b902fe4f48d48af627a79b788b6be96e90b355ee11/terraform-aws-modules/terraform-aws-s3-bucket" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>terraform-aws-modules/terraform-aws-lambda</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-lambda</link>
+      <description>&lt;p&gt;Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/783388e481b7c656f85968744bc53b27700ee850d3c1101ae0cb7e590b2185ef/terraform-aws-modules/terraform-aws-lambda" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>terraform-google-modules/terraform-google-iam</title>
+      <link>https://github.com/terraform-google-modules/terraform-google-iam</link>
+      <description>&lt;p&gt;Manages multiple IAM roles for resources on Google Cloud&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/bedbab4d839c3ee2002eb12b8542a642cb849acb4776d1b1a35125247d3d5a16/terraform-google-modules/terraform-google-iam" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>terraform-google-modules/terraform-google-project-factory</title>
+      <link>https://github.com/terraform-google-modules/terraform-google-project-factory</link>
+      <description>&lt;p&gt;Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/6291a6ec00c708834e950c3c95df066251bba5fd8aecb80d4cdd7ca80792dee7/terraform-google-modules/terraform-google-project-factory" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>terraform-google-modules/terraform-google-network</title>
+      <link>https://github.com/terraform-google-modules/terraform-google-network</link>
+      <description>&lt;p&gt;Sets up a new VPC network on Google Cloud&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9de0279971d90ca72c68c8e51da91d248230304cbd69217b7cfb5b9a7e685650/terraform-google-modules/terraform-google-network" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>GoogleCloudPlatform/cloud-foundation-fabric</title>
+      <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
+      <description>&lt;p&gt;End-to-end modular samples and landing zones toolkit for Terraform on GCP.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/184825074/292e60ff-b50a-4caa-befe-5e72bfb5adfc" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

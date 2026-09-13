@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub EJS Monthly Trending</title>
+    <description>Monthly Trending of EJS in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:54:08 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>github/haikus-for-codespaces</title>
+      <link>https://github.com/github/haikus-for-codespaces</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/2b081f96002d0cf1847d10f3af708550b54bc1fff3f9aea5784e8831aabb0e87/github/haikus-for-codespaces" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Ovi/DummyJSON</title>
+      <link>https://github.com/Ovi/DummyJSON</link>
+      <description>&lt;p&gt;DummyJSON.com provides different types of REST Endpoints filled with JSON data which you can use in developing the frontend with your favorite framework and library without worrying about writing a backend.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/82361e1c9ff50cbf46ecaba775ee8e219389d8f38cbe70083748c214437d876e/Ovi/DummyJSON" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>docker/multi-container-app</title>
+      <link>https://github.com/docker/multi-container-app</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/004fff5c1240ad16bacdcb12849c58fdb6d9cf3f1733bf4070c9e69656d6e7f7/docker/multi-container-app" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>bangtutorial/streamflow</title>
+      <link>https://github.com/bangtutorial/streamflow</link>
+      <description>&lt;p&gt;Web-Based App for Managing and Automating YouTube Live Streams&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e9c12dc755ba3c3c6a1dd9d548b6f5b0fec11749b1c42a2730ec78cf29500674/bangtutorial/streamflow" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

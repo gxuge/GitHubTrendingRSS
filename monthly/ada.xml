@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Ada Monthly Trending</title>
+    <description>Monthly Trending of Ada in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:51:44 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>mk270/whitakers-words</title>
+      <link>https://github.com/mk270/whitakers-words</link>
+      <description>&lt;p&gt;William Whitaker&#39;s WORDS, a Latin dictionary&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/93e715d829390e3d130a4892c2ffcf34946f3b46f5cc695ef376d39814e321a5/mk270/whitakers-words" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

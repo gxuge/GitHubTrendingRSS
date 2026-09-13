@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub 1C Enterprise Weekly Trending</title>
+    <description>Weekly Trending of 1C Enterprise in GitHub</description>
+    <pubDate>Sun, 13 Sep 2026 05:42:22 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Pr-Mex/vanessa-automation</title>
+      <link>https://github.com/Pr-Mex/vanessa-automation</link>
+      <description>&lt;p&gt;BDD в 1С&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/eb2930139da6683af72c92c8f1b17033cbbb3ce827f5ffc459806d94b7072afe/Pr-Mex/vanessa-automation" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>
