@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub reStructuredText Weekly Trending</title>
+    <description>Weekly Trending of reStructuredText in GitHub</description>
+    <pubDate>Sat, 19 Sep 2026 05:36:21 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>godotengine/godot-docs</title>
+      <link>https://github.com/godotengine/godot-docs</link>
+      <description>&lt;p&gt;Godot Engine official documentation&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a532f4578dbd9caa38fc43f142f08f40361cb347872cf72a80ab227777ac4ccf/godotengine/godot-docs" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

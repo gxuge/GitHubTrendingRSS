@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub nesC Monthly Trending</title>
+    <description>Monthly Trending of nesC in GitHub</description>
+    <pubDate>Sat, 19 Sep 2026 05:44:36 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Carvera-Community/Carvera_Controller</title>
+      <link>https://github.com/Carvera-Community/Carvera_Controller</link>
+      <description>&lt;p&gt;Community developed version of the Carvera Controller&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/cefb7ae25bded581b5fff829eaeb1a465771f3d3611574efeb9d6ce0cd74ce8c/Carvera-Community/Carvera_Controller" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

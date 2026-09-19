@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub MLIR Daily Trending</title>
+    <description>Daily Trending of MLIR in GitHub</description>
+    <pubDate>Sat, 19 Sep 2026 05:26:14 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>triton-lang/triton-ascend</title>
+      <link>https://github.com/triton-lang/triton-ascend</link>
+      <description>&lt;p&gt;Triton language and compiler for Ascend NPU&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/60271168243099afd42c7587c41ab6c6cd88be5c64a7544fe1519215b74063d2/triton-lang/triton-ascend" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>triton-lang/triton</title>
+      <link>https://github.com/triton-lang/triton</link>
+      <description>&lt;p&gt;Development repository for the Triton language and compiler&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f5e229526866e222de1a8a24ca6d1cd1aed4851aaf8ae6997c2f8a383b643f0f/triton-lang/triton" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>intel/intel-xpu-backend-for-triton</title>
+      <link>https://github.com/intel/intel-xpu-backend-for-triton</link>
+      <description>&lt;p&gt;OpenAI Triton backend for Intel® GPUs&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/426e879456f716ba97d339f324c91a7b960dd504b495e922ca25ed5af297ef72/intel/intel-xpu-backend-for-triton" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

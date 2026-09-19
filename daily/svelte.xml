@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Svelte Daily Trending</title>
+    <description>Daily Trending of Svelte in GitHub</description>
+    <pubDate>Sat, 19 Sep 2026 05:28:48 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>imputnet/cobalt</title>
+      <link>https://github.com/imputnet/cobalt</link>
+      <description>&lt;p&gt;best way to save what you love&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/514b8ddb44bd344800c5b2011af7f5e8c1c93838356167ab39edae1cbe4b4654/imputnet/cobalt" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>vaibhav-kakde-in/mdhero</title>
+      <link>https://github.com/vaibhav-kakde-in/mdhero</link>
+      <description>&lt;p&gt;A beautiful, native Markdown viewer and lightweight editor for macOS, Windows and Linux. ~8MB, free, open source.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/fa969aac8ea342ccae0fa91fd44b6985eee0c3a49d3d720b1a44a1b95cb5a1db/vaibhav-kakde-in/mdhero" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>VERT-sh/VERT</title>
+      <link>https://github.com/VERT-sh/VERT</link>
+      <description>&lt;p&gt;The next-generation file converter. Open source, fully local* and free forever.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/0ae0b50686f22a328a3105ba89d8caed6bf1fc14287510dd5031d9376746045e/VERT-sh/VERT" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>openfoodfacts/openfoodfacts-explorer</title>
+      <link>https://github.com/openfoodfacts/openfoodfacts-explorer</link>
+      <description>&lt;p&gt;The next-generation frontend for OpenFoodFacts, made with SvelteKit&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/645914853/a4b1f877-7564-4768-967e-9f516822c6c0" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>PuruVJ/macos-web</title>
+      <link>https://github.com/PuruVJ/macos-web</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a555dd2568c1970815b42a7eabcd2d8192fcf2ba4231c38c4870fc31f4f0ab7a/PuruVJ/macos-web" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Bittu5134/LOTM-Reader</title>
+      <link>https://github.com/Bittu5134/LOTM-Reader</link>
+      <description>&lt;p&gt;A community driven webnovel reader built with Svelte, with offline caching and a tons of optimizations. Built to be faster and cleaner than what was out there.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/2b76b730aea5a29e5c3a06639546e12dea9953c7ea7f4c089727969eef4992be/Bittu5134/LOTM-Reader" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>open-webui/desktop</title>
+      <link>https://github.com/open-webui/desktop</link>
+      <description>&lt;p&gt;Open WebUI Desktop 🌐&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/27d8fa6e5849439e420755371fdcc142e8ceb60ec84eed1f8a8a1161badca31a/open-webui/desktop" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

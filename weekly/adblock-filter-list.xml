@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Adblock Filter List Weekly Trending</title>
+    <description>Weekly Trending of Adblock Filter List in GitHub</description>
+    <pubDate>Sat, 19 Sep 2026 05:30:08 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>uBlockOrigin/uAssets</title>
+      <link>https://github.com/uBlockOrigin/uAssets</link>
+      <description>&lt;p&gt;Filter lists for uBlock Origin &amp; uBlock Origin Lite&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/34ecba6740539320d13c48cf791a87da148ab1869ecddd637ef9be422096cf12/uBlockOrigin/uAssets" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>AdguardTeam/AdguardFilters</title>
+      <link>https://github.com/AdguardTeam/AdguardFilters</link>
+      <description>&lt;p&gt;AdGuard Content Blocking Filters&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/37f4623329a2c93fb2ffa4ac0fb63083dd010d00a132cdda3f6dcb896717504e/AdguardTeam/AdguardFilters" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>easylist/easylist</title>
+      <link>https://github.com/easylist/easylist</link>
+      <description>&lt;p&gt;EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy&#39;s Social/Annoyances/Notifications Blocking List)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1bbad1f5034a3ba4629192fa6bd41abc003c3ad16252c39de07949d457c06dd7/easylist/easylist" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>MajkiIT/polish-ads-filter</title>
+      <link>https://github.com/MajkiIT/polish-ads-filter</link>
+      <description>&lt;p&gt;CertyficateIT - Oficjalne polskie filtry do Adblock, uBlock Origin, Adguard&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/8c797d636d8f3adb2afa930a3636b3ef6e0e3c5bd4b677e31b0ee0b340e9e778/MajkiIT/polish-ads-filter" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>AdguardTeam/AdGuardSDNSFilter</title>
+      <link>https://github.com/AdguardTeam/AdGuardSDNSFilter</link>
+      <description>&lt;p&gt;AdGuard DNS filter&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d9fc58b13cff78e5a4c2d2e907ea9d19771896b17f55e27d7f0bad5ac5fd3f0e/AdguardTeam/AdGuardSDNSFilter" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>List-KR/List-KR</title>
+      <link>https://github.com/List-KR/List-KR</link>
+      <description>&lt;p&gt;Korean-language website filters list for AdGuard and uBlock Origin&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a47a41acca9ed444295eb5a4707b2f0f3d45b8345a66010a3327ee7607d0d763/List-KR/List-KR" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

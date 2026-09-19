@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub D Weekly Trending</title>
+    <description>Weekly Trending of D in GitHub</description>
+    <pubDate>Sat, 19 Sep 2026 05:31:20 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Dadoum/anisette-v3-server</title>
+      <link>https://github.com/Dadoum/anisette-v3-server</link>
+      <description>&lt;p&gt;sidestore&#39;s anisette-v3 compatible server&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/34e3c1d85108e6c322784eea209affe829c7d4e0d8d27edcac7b70267185440b/Dadoum/anisette-v3-server" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Dadoum/Sideloader</title>
+      <link>https://github.com/Dadoum/Sideloader</link>
+      <description>&lt;p&gt;Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e41aac70b1259452a06e565c90824973abf5c1cd13829bcf8cb0bc3b6efe1454/Dadoum/Sideloader" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>dlang/dmd</title>
+      <link>https://github.com/dlang/dmd</link>
+      <description>&lt;p&gt;dmd D Programming Language compiler&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f25d46f46bb67f10d8308ac90b1055f8f145d0c59412fdca74fd9f65efec69e8/dlang/dmd" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>abraunegg/onedrive</title>
+      <link>https://github.com/abraunegg/onedrive</link>
+      <description>&lt;p&gt;OneDrive Client for Linux&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/2e7bd8bb5cef16cb7f21d06b27a515e09160b6c51790f19b6860ea30c3d1d5af/abraunegg/onedrive" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

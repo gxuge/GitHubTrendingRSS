@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Blade Daily Trending</title>
+    <description>Daily Trending of Blade in GitHub</description>
+    <pubDate>Sat, 19 Sep 2026 05:21:58 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>laravel/laravel</title>
+      <link>https://github.com/laravel/laravel</link>
+      <description>&lt;p&gt;Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f7d65382ebf1cb0faeb0cdf8d03b597e5ecc43c5ebc25535eaabe6c00887272f/laravel/laravel" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

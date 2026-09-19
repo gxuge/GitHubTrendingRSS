@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub ANTLR Daily Trending</title>
+    <description>Daily Trending of ANTLR in GitHub</description>
+    <pubDate>Sat, 19 Sep 2026 05:21:42 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>antlr/grammars-v4</title>
+      <link>https://github.com/antlr/grammars-v4</link>
+      <description>&lt;p&gt;Grammars written for ANTLR v4; expectation that the grammars are free of actions.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/969a3613d7cc9c41455a3866bfdf06646b4c560df78330b8100fd81c012e5b30/antlr/grammars-v4" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

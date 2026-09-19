@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Xmake Monthly Trending</title>
+    <description>Monthly Trending of Xmake in GitHub</description>
+    <pubDate>Sat, 19 Sep 2026 05:48:23 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>xmake-io/xmake-repo</title>
+      <link>https://github.com/xmake-io/xmake-repo</link>
+      <description>&lt;p&gt;📦 An official xmake package repository&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ca07fcdb415c8ac2b6be2f85f4fee20d3b713daa1fbed3018e391291eb10e838/xmake-io/xmake-repo" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

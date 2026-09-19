@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Crystal Monthly Trending</title>
+    <description>Monthly Trending of Crystal in GitHub</description>
+    <pubDate>Sat, 19 Sep 2026 05:40:18 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>iv-org/invidious</title>
+      <link>https://github.com/iv-org/invidious</link>
+      <description>&lt;p&gt;Invidious is an alternative front-end to YouTube&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5c90f8191115cb2fd5ae23c6bd1f7ee8c8bde23093c50d7b51481eddaf1b9f90/iv-org/invidious" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>crystal-lang/crystal</title>
+      <link>https://github.com/crystal-lang/crystal</link>
+      <description>&lt;p&gt;The Crystal Programming Language&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/cfa8c88b775c0f98cfd71f92657381c6766bc1721a81e76aa9cb2b1b3408e208/crystal-lang/crystal" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

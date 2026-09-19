@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub MoonBit Daily Trending</title>
+    <description>Daily Trending of MoonBit in GitHub</description>
+    <pubDate>Sat, 19 Sep 2026 05:26:19 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>moonbitlang/moonbit-docs</title>
+      <link>https://github.com/moonbitlang/moonbit-docs</link>
+      <description>&lt;p&gt;The docs of MoonBit programming language&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f98fd5067e39adc76bbb5ead6196cdb9ae480ed0634a834c0dd424d595e48cea/moonbitlang/moonbit-docs" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>paipai-Studio/BioSeqs</title>
+      <link>https://github.com/paipai-Studio/BioSeqs</link>
+      <description>&lt;p&gt;BioSeq*&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b6a979bebbb7bea3d3c15a4107cfbf44131c24e15ebff9bf65e6ff3389780a4b/paipai-Studio/BioSeqs" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

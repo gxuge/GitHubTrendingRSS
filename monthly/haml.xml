@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Haml Monthly Trending</title>
+    <description>Monthly Trending of Haml in GitHub</description>
+    <pubDate>Sat, 19 Sep 2026 05:42:21 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>olivierlacan/keep-a-changelog</title>
+      <link>https://github.com/olivierlacan/keep-a-changelog</link>
+      <description>&lt;p&gt;If you build software, keep a changelog.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a829bbd77b80d65f2bad3143209c753dc92e914f3c3b73c7902023ea0a8abb72/olivierlacan/keep-a-changelog" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Crystal Daily Trending</title>
+    <description>Daily Trending of Crystal in GitHub</description>
+    <pubDate>Sat, 19 Sep 2026 05:22:42 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>crystal-lang/crystal</title>
+      <link>https://github.com/crystal-lang/crystal</link>
+      <description>&lt;p&gt;The Crystal Programming Language&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1dcf01465f249bf14be8d75c49447337f058341b6e0cc5a444313b56f6572913/crystal-lang/crystal" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub LLVM Daily Trending</title>
+    <description>Daily Trending of LLVM in GitHub</description>
+    <pubDate>Sat, 19 Sep 2026 05:25:51 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>llvm/llvm-project</title>
+      <link>https://github.com/llvm/llvm-project</link>
+      <description>&lt;p&gt;The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f956e7148f45630b38b2b791b80fcaaec7f3b8c79e2276188225acff81669f6d/llvm/llvm-project" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>oneapi-src/SYCLomatic</title>
+      <link>https://github.com/oneapi-src/SYCLomatic</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a2956db7e4f19b1ef20b9cd183ae53ff2049540250f8ee4bd5121335b89212a0/oneapi-src/SYCLomatic" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Sass Weekly Trending</title>
+    <description>Weekly Trending of Sass in GitHub</description>
+    <pubDate>Sat, 19 Sep 2026 05:36:45 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>readthedocs/sphinx_rtd_theme</title>
+      <link>https://github.com/readthedocs/sphinx_rtd_theme</link>
+      <description>&lt;p&gt;Sphinx theme from Read the Docs&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a6bebcc9625ee7b48dcb15751652b15249551bb0670c7732ec3bd46f7a1c2db2/readthedocs/sphinx_rtd_theme" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

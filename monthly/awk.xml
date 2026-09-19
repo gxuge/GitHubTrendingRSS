@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Awk Monthly Trending</title>
+    <description>Monthly Trending of Awk in GitHub</description>
+    <pubDate>Sat, 19 Sep 2026 05:39:30 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>x-cmd/x-cmd</title>
+      <link>https://github.com/x-cmd/x-cmd</link>
+      <description>&lt;p&gt;Shell Superpowers for AI Agents.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e51743798472ae5c3d8ab697195fb131085374b9393c1ffcb089dbc8344ae194/x-cmd/x-cmd" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

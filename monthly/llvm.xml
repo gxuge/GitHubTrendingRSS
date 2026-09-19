@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub LLVM Monthly Trending</title>
+    <description>Monthly Trending of LLVM in GitHub</description>
+    <pubDate>Sat, 19 Sep 2026 05:43:58 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>llvm/llvm-project</title>
+      <link>https://github.com/llvm/llvm-project</link>
+      <description>&lt;p&gt;The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a922b3cff3d9e08a0f524d0b3db61b2683461db635712105dac2cd38fd72c561/llvm/llvm-project" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>intel/llvm</title>
+      <link>https://github.com/intel/llvm</link>
+      <description>&lt;p&gt;Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/94d4469a84942b81f99b65c73a9519f04c61315dcd8aafbaface201d20852cc7/intel/llvm" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>EnzymeAD/Enzyme</title>
+      <link>https://github.com/EnzymeAD/Enzyme</link>
+      <description>&lt;p&gt;High-performance automatic differentiation of LLVM and MLIR.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/172835975/2624d300-fc67-11ea-97b2-827d0bb6c433" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub AL Weekly Trending</title>
+    <description>Weekly Trending of AL in GitHub</description>
+    <pubDate>Sat, 19 Sep 2026 05:30:11 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>microsoft/BCApps</title>
+      <link>https://github.com/microsoft/BCApps</link>
+      <description>&lt;p&gt;Repository for collaboration on Microsoft Dynamics 365 Business Central applications.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5910f33c90a5bb8a5f21569d5fca65eb3575ba8a45aa8e4eeadeded59ecc0b25/microsoft/BCApps" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>microsoft/BCQuality</title>
+      <link>https://github.com/microsoft/BCQuality</link>
+      <description>&lt;p&gt;Quality skills and knowledge for Business Central development. The shared bar for humans and agents alike.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ff8304540fdaaf8c4376765f5575682047e0c5a51b09ed68af33c01adcac8948/microsoft/BCQuality" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

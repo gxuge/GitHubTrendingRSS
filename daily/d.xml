@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub D Daily Trending</title>
+    <description>Daily Trending of D in GitHub</description>
+    <pubDate>Sat, 19 Sep 2026 05:22:51 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>abraunegg/onedrive</title>
+      <link>https://github.com/abraunegg/onedrive</link>
+      <description>&lt;p&gt;OneDrive Client for Linux&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/2e7bd8bb5cef16cb7f21d06b27a515e09160b6c51790f19b6860ea30c3d1d5af/abraunegg/onedrive" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>dlang/phobos</title>
+      <link>https://github.com/dlang/phobos</link>
+      <description>&lt;p&gt;The standard library of the D programming language&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/cf2461cf4e71052d43505d1779d13683644393c211e1f67b3543fbd5b408e1a8/dlang/phobos" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

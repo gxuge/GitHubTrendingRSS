@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Meson Weekly Trending</title>
+    <description>Weekly Trending of Meson in GitHub</description>
+    <pubDate>Sat, 19 Sep 2026 05:34:36 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>frida/frida</title>
+      <link>https://github.com/frida/frida</link>
+      <description>&lt;p&gt;Main repo for hosting release binaries&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d198f4f21e1eb5d55d8c6b2f273a7c96a28ccb4694c6b8593ea657475a81508e/frida/frida" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

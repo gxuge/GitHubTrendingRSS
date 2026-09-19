@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub MATLAB Weekly Trending</title>
+    <description>Weekly Trending of MATLAB in GitHub</description>
+    <pubDate>Sat, 19 Sep 2026 05:34:32 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>matlab/matlab-agentic-toolkit</title>
+      <link>https://github.com/matlab/matlab-agentic-toolkit</link>
+      <description>&lt;p&gt;The MATLAB Agentic Toolkit brings trusted MATLAB capabilities to AI agents, making engineering and scientific workflows agent-ready.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b39113a0fdc664d430aaaca9aae03b5acff140ad70eb039d455a6fd6dc9b271a/matlab/matlab-agentic-toolkit" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

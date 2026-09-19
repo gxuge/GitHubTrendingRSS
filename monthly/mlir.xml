@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub MLIR Monthly Trending</title>
+    <description>Monthly Trending of MLIR in GitHub</description>
+    <pubDate>Sat, 19 Sep 2026 05:44:24 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>triton-lang/triton-ascend</title>
+      <link>https://github.com/triton-lang/triton-ascend</link>
+      <description>&lt;p&gt;Triton language and compiler for Ascend NPU&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/60271168243099afd42c7587c41ab6c6cd88be5c64a7544fe1519215b74063d2/triton-lang/triton-ascend" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>triton-lang/triton</title>
+      <link>https://github.com/triton-lang/triton</link>
+      <description>&lt;p&gt;Development repository for the Triton language and compiler&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a9eff67352b258ef6dc64a0f5b8c3115824100d0bc82a846f8abe9d37cbf2b02/triton-lang/triton" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>google/heir</title>
+      <link>https://github.com/google/heir</link>
+      <description>&lt;p&gt;A compiler for homomorphic encryption&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/eaa36431ceb9d96ce0c18801108cc27b945b858f031e19340c8b3284310ed618/google/heir" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>intel/intel-xpu-backend-for-triton</title>
+      <link>https://github.com/intel/intel-xpu-backend-for-triton</link>
+      <description>&lt;p&gt;OpenAI Triton backend for Intel® GPUs&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/426e879456f716ba97d339f324c91a7b960dd504b495e922ca25ed5af297ef72/intel/intel-xpu-backend-for-triton" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>facebookexperimental/triton</title>
+      <link>https://github.com/facebookexperimental/triton</link>
+      <description>&lt;p&gt;Github mirror of trition-lang/triton repo.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1b21a4c0abbe1c7232439428b58f8be2113a2c67d0c72955c650920e4af01304/facebookexperimental/triton" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

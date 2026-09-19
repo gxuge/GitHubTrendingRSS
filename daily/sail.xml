@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Sail Daily Trending</title>
+    <description>Daily Trending of Sail in GitHub</description>
+    <pubDate>Sat, 19 Sep 2026 05:28:10 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>riscv/sail-riscv</title>
+      <link>https://github.com/riscv/sail-riscv</link>
+      <description>&lt;p&gt;Sail RISC-V model&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7c4a0f208bcc1a41231cf90b7a4f4e3954879c5d1f9e4afbff143e188026b7c5/riscv/sail-riscv" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

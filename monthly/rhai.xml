@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Rhai Monthly Trending</title>
+    <description>Monthly Trending of Rhai in GitHub</description>
+    <pubDate>Sat, 19 Sep 2026 05:46:18 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>terrapkg/packages</title>
+      <link>https://github.com/terrapkg/packages</link>
+      <description>&lt;p&gt;Monorepo for Terra Packages&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/3d55333d791c08dfd2389f6ec21de53cb218a0484d798f8d161f608dfe4bf5d9/terrapkg/packages" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

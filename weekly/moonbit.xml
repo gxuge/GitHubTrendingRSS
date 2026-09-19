@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub MoonBit Weekly Trending</title>
+    <description>Weekly Trending of MoonBit in GitHub</description>
+    <pubDate>Sat, 19 Sep 2026 05:34:46 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>paipai-Studio/BioSeqs</title>
+      <link>https://github.com/paipai-Studio/BioSeqs</link>
+      <description>&lt;p&gt;BioSeq*&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b6a979bebbb7bea3d3c15a4107cfbf44131c24e15ebff9bf65e6ff3389780a4b/paipai-Studio/BioSeqs" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

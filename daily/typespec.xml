@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub TypeSpec Daily Trending</title>
+    <description>Daily Trending of TypeSpec in GitHub</description>
+    <pubDate>Sat, 19 Sep 2026 05:29:11 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Azure/azure-rest-api-specs</title>
+      <link>https://github.com/Azure/azure-rest-api-specs</link>
+      <description>&lt;p&gt;The source for REST API specifications for Microsoft Azure.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5164a2cfcc36785dede13506691a9114f1e30de6633151f9abe8ae1a54dcb4dd/Azure/azure-rest-api-specs" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>microsoft/Agents</title>
+      <link>https://github.com/microsoft/Agents</link>
+      <description>&lt;p&gt;The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, Teams, Copilot Studio, and Webchat.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/0559f76d3a0f6ff594766dbd6d4d77596d3c66376839f66b97c425447d90c173/microsoft/Agents" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>
