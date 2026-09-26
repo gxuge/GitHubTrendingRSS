@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Mustache Daily Trending</title>
+    <description>Daily Trending of Mustache in GitHub</description>
+    <pubDate>Sat, 26 Sep 2026 05:49:20 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>prometheus-community/helm-charts</title>
+      <link>https://github.com/prometheus-community/helm-charts</link>
+      <description>&lt;p&gt;Prometheus community Helm charts&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/12fddda20c3cc18cff52271c245bb54a55f4a6b692844e866dd95ad17a0900bf/prometheus-community/helm-charts" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>renovatebot/helm-charts</title>
+      <link>https://github.com/renovatebot/helm-charts</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/13b2b8d26f63c5af275e05ff825e23e36b9860e85a951cb620c4d2f6389bfb60/renovatebot/helm-charts" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>amzn/selling-partner-api-models</title>
+      <link>https://github.com/amzn/selling-partner-api-models</link>
+      <description>&lt;p&gt;This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/39676d4333380de5167ace4785082a00f5b6d66f28f5270323ed488742447e2a/amzn/selling-partner-api-models" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>thmsgbrt/thmsgbrt</title>
+      <link>https://github.com/thmsgbrt/thmsgbrt</link>
+      <description>&lt;p&gt;My awesome README.md&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/63752ba9724bdbff680d72f492f95c18053869f45969e1e370b60e79877b953d/thmsgbrt/thmsgbrt" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>codefresh-contrib/gitops-certification-examples</title>
+      <link>https://github.com/codefresh-contrib/gitops-certification-examples</link>
+      <description>&lt;p&gt;GitOps Certification Level 1 examples&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/2e77426f8daa280ada89647925d0585dce40ebd5d62f683eefb7808898c8d516/codefresh-contrib/gitops-certification-examples" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

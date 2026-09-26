@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Nunjucks Daily Trending</title>
+    <description>Daily Trending of Nunjucks in GitHub</description>
+    <pubDate>Sat, 26 Sep 2026 05:49:30 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>alphagov/govuk-design-system</title>
+      <link>https://github.com/alphagov/govuk-design-system</link>
+      <description>&lt;p&gt;One place for service teams to find styles, components and patterns for designing government services.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/6f2222cbb479658994eb70c873581756e1dac78d55257bb698b48436b0bf7c3f/alphagov/govuk-design-system" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>xdesro/personalsit.es</title>
+      <link>https://github.com/xdesro/personalsit.es</link>
+      <description>&lt;p&gt;📇 A little directory of people&#39;s personal sites&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/145821243/ca40ec00-417a-11eb-949e-b2050159ff7c" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

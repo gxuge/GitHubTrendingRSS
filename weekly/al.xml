@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub AL Weekly Trending</title>
+    <description>Weekly Trending of AL in GitHub</description>
+    <pubDate>Sat, 26 Sep 2026 05:53:29 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>microsoft/BCApps</title>
+      <link>https://github.com/microsoft/BCApps</link>
+      <description>&lt;p&gt;Repository for collaboration on Microsoft Dynamics 365 Business Central applications.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/675bf61d1d1387a3ddf829b89deb290a9c52698dc9c31417a632c414d2563986/microsoft/BCApps" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

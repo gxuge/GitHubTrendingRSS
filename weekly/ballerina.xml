@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Ballerina Weekly Trending</title>
+    <description>Weekly Trending of Ballerina in GitHub</description>
+    <pubDate>Sat, 26 Sep 2026 05:53:43 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ballerina-platform/ballerina-lang</title>
+      <link>https://github.com/ballerina-platform/ballerina-lang</link>
+      <description>&lt;p&gt;The Ballerina Programming Language&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c2f48aa943a9ad838daa50081bfb6b0b7f63c168d5142922660ab46408a3da85/ballerina-platform/ballerina-lang" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

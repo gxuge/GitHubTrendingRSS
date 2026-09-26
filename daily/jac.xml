@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Jac Daily Trending</title>
+    <description>Daily Trending of Jac in GitHub</description>
+    <pubDate>Sat, 26 Sep 2026 05:47:56 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>jaseci-labs/jac</title>
+      <link>https://github.com/jaseci-labs/jac</link>
+      <description>&lt;p&gt;The Jac Programming Language -- The language for any human or AI looking to use one language for everything&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d61a93fd40b8d021f2beaa86795a0a06b9cdbaedd6aadea589d7173ecdae96be/jaseci-labs/jac" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

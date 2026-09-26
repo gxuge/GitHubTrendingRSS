@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Adblock Filter List Weekly Trending</title>
+    <description>Weekly Trending of Adblock Filter List in GitHub</description>
+    <pubDate>Sat, 26 Sep 2026 05:53:25 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>uBlockOrigin/uAssets</title>
+      <link>https://github.com/uBlockOrigin/uAssets</link>
+      <description>&lt;p&gt;Filter lists for uBlock Origin &amp; uBlock Origin Lite&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/dfb8a20b53ac3ea3a85542dee2cd79a72080f427059b6622eb77977fc3574e38/uBlockOrigin/uAssets" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>AdguardTeam/AdguardFilters</title>
+      <link>https://github.com/AdguardTeam/AdguardFilters</link>
+      <description>&lt;p&gt;AdGuard Content Blocking Filters&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1320e4dceacbebf4dfe3f4d970ddc27bd905cee068b9d7cac71be25eadb27ea5/AdguardTeam/AdguardFilters" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>easylist/easylist</title>
+      <link>https://github.com/easylist/easylist</link>
+      <description>&lt;p&gt;EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy&#39;s Social/Annoyances/Notifications Blocking List)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/53a84ca0c3e041041ce69386456872805e61e453a66bd8295002cda059bb0329/easylist/easylist" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>MajkiIT/polish-ads-filter</title>
+      <link>https://github.com/MajkiIT/polish-ads-filter</link>
+      <description>&lt;p&gt;CertyficateIT - Oficjalne polskie filtry do Adblock, uBlock Origin, Adguard&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/aa8d4ac357b786ca48c56e134f13f15a97b82fa3e07745abb784d949127abd5d/MajkiIT/polish-ads-filter" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

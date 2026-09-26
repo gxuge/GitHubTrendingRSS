@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Ren'Py Weekly Trending</title>
+    <description>Weekly Trending of Ren'Py in GitHub</description>
+    <pubDate>Sat, 26 Sep 2026 05:59:29 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Monika-After-Story/MonikaModDev</title>
+      <link>https://github.com/Monika-After-Story/MonikaModDev</link>
+      <description>&lt;p&gt;DDLC fan mod to extend Monika&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b7edeaf012630b69c3b8c1ccdbf219761b6157f0839fe3694e2b1a7f0e41fca0/Monika-After-Story/MonikaModDev" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>renpy/renpy</title>
+      <link>https://github.com/renpy/renpy</link>
+      <description>&lt;p&gt;The Ren&#39;Py Visual Novel Engine&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/51d685d38edc14ea96711de74a75338823ba343fd5a026108250145ea9e21d2a/renpy/renpy" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

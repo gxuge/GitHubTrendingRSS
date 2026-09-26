@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub C3 Weekly Trending</title>
+    <description>Weekly Trending of C3 in GitHub</description>
+    <pubDate>Sat, 26 Sep 2026 05:54:07 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>c3lang/c3c</title>
+      <link>https://github.com/c3lang/c3c</link>
+      <description>&lt;p&gt;Compiler for the C3 language&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9223ae6c848034e0a1e2d758335ae7777a602ed7c33f60dccdc6982c5f6a07d3/c3lang/c3c" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

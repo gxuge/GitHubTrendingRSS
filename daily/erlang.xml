@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Erlang Daily Trending</title>
+    <description>Daily Trending of Erlang in GitHub</description>
+    <pubDate>Sat, 26 Sep 2026 05:46:46 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>erlang/otp</title>
+      <link>https://github.com/erlang/otp</link>
+      <description>&lt;p&gt;Erlang/OTP&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4902e803537814da18b720186c6695ea1effb37f3674d3b06c8da369a0db9917/erlang/otp" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>apache/couchdb</title>
+      <link>https://github.com/apache/couchdb</link>
+      <description>&lt;p&gt;Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/206417/767a9a00-cb2b-11ea-90b5-46d754c4ad3e" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

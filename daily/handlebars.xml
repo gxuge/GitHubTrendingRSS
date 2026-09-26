@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Handlebars Daily Trending</title>
+    <description>Daily Trending of Handlebars in GitHub</description>
+    <pubDate>Sat, 26 Sep 2026 05:47:26 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>elastic/integrations</title>
+      <link>https://github.com/elastic/integrations</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c8a484489a53a88f4afc2dc01c7ff94428756c2412a6be441334d6ee2875dce9/elastic/integrations" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

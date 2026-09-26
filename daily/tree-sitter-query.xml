@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Tree-sitter Query Daily Trending</title>
+    <description>Daily Trending of Tree-sitter Query in GitHub</description>
+    <pubDate>Sat, 26 Sep 2026 05:52:27 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>nvim-treesitter/nvim-treesitter</title>
+      <link>https://github.com/nvim-treesitter/nvim-treesitter</link>
+      <description>&lt;p&gt;Nvim Treesitter configurations and abstraction layer&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9b9542bdba0db2b1423165525d47358164f75da1df2ea6b79b104d0ae2e929a9/nvim-treesitter/nvim-treesitter" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

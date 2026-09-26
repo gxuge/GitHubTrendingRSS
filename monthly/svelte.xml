@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Svelte Monthly Trending</title>
+    <description>Monthly Trending of Svelte in GitHub</description>
+    <pubDate>Sat, 26 Sep 2026 06:10:09 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>imputnet/cobalt</title>
+      <link>https://github.com/imputnet/cobalt</link>
+      <description>&lt;p&gt;best way to save what you love&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/bd99c7b8839de3e6e3a092676433fd0fb5be877c8314aaedb1e7cb0464de1d5c/imputnet/cobalt" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>VERT-sh/VERT</title>
+      <link>https://github.com/VERT-sh/VERT</link>
+      <description>&lt;p&gt;The next-generation file converter. Open source, fully local* and free forever.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/375ba818a5d0cf2ab03fdadec4a15be5e4f22218a64953476ddfe729cf78d276/VERT-sh/VERT" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>seanmorley15/AdventureLog</title>
+      <link>https://github.com/seanmorley15/AdventureLog</link>
+      <description>&lt;p&gt;Self-hostable travel tracker and trip planner.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/779449791/d2c92e75-cc4a-41a2-92a1-bb7f60cfa4a7" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>leaningtech/webvm</title>
+      <link>https://github.com/leaningtech/webvm</link>
+      <description>&lt;p&gt;Virtual Machine for the Web&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/454164378/00ded6d6-99da-4861-a71d-59cfa2fcc785" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>open-webui/desktop</title>
+      <link>https://github.com/open-webui/desktop</link>
+      <description>&lt;p&gt;Open WebUI Desktop 🌐&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/134141f3bf8b4ff8ad7627df60cc14eb644e3ba3eb693eff7e368f99364f2e62/open-webui/desktop" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Abdenasser/neohtop</title>
+      <link>https://github.com/Abdenasser/neohtop</link>
+      <description>&lt;p&gt;💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri &amp; Svelte)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9f93be5c11757740a3e7a067eba4aa6df1ed8dc5f93b451c9dba75f489105fa1/Abdenasser/neohtop" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>PuruVJ/macos-web</title>
+      <link>https://github.com/PuruVJ/macos-web</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ac6a11a50b1cce83eaba4efde34194d45cc7cdce4506fbf9055e0ddca0497fea/PuruVJ/macos-web" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>aukspot/dles</title>
+      <link>https://github.com/aukspot/dles</link>
+      <description>&lt;p&gt;A curated collection of over 700 daily web games.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/02517d78d0dede273cde66aaab9071741a8fe1eaf91c53dc4a628705e3fb48de/aukspot/dles" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>RockinChaos/Shiru</title>
+      <link>https://github.com/RockinChaos/Shiru</link>
+      <description>&lt;p&gt;A personal anime library manager for watching and tracking your collection in real time. Lightweight, powerful, and paws-itively fast. No waiting required!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/871484973/5ce42b64-0151-4e98-88b8-bc4b71219e76" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>dora-team/dora.dev</title>
+      <link>https://github.com/dora-team/dora.dev</link>
+      <description>&lt;p&gt;Public-facing knowledge site: https://dora.dev&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/655f643127da37ee84a62f61974696eecaea1c99b1382a1cb73c54e8780ca34d/dora-team/dora.dev" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>mawoka-myblock/ClassQuiz</title>
+      <link>https://github.com/mawoka-myblock/ClassQuiz</link>
+      <description>&lt;p&gt;ClassQuiz is a quiz-application like Kahoot!, but open-source.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/2abe679aba2876861d5857460da3487c780dff7008958d12e06555f2ba7bc982/mawoka-myblock/ClassQuiz" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>lissy93/networking-toolbox</title>
+      <link>https://github.com/lissy93/networking-toolbox</link>
+      <description>&lt;p&gt;🛜 100+ offline-first networking tools and utilities&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1065221976/1f06203a-7b09-4d6b-b3b6-686b00fb778e" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>sveltejs/svelte.dev</title>
+      <link>https://github.com/sveltejs/svelte.dev</link>
+      <description>&lt;p&gt;The Svelte omnisite&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/fdf596b41733aee087b8aa8395ea447b30edec5b1af240e4e982e83c1461dcaa/sveltejs/svelte.dev" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

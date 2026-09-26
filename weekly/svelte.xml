@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Svelte Weekly Trending</title>
+    <description>Weekly Trending of Svelte in GitHub</description>
+    <pubDate>Sat, 26 Sep 2026 06:00:31 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>imputnet/cobalt</title>
+      <link>https://github.com/imputnet/cobalt</link>
+      <description>&lt;p&gt;best way to save what you love&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9a2cef57c9943d77a109bdb95ea4b9496a6f71e00b2657f6f3a61fe1dda1ee4c/imputnet/cobalt" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>open-webui/desktop</title>
+      <link>https://github.com/open-webui/desktop</link>
+      <description>&lt;p&gt;Open WebUI Desktop 🌐&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/134141f3bf8b4ff8ad7627df60cc14eb644e3ba3eb693eff7e368f99364f2e62/open-webui/desktop" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>codewec/dashlit</title>
+      <link>https://github.com/codewec/dashlit</link>
+      <description>&lt;p&gt;A fast, modern, self-hosted home for links, tools, and service status&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/0b7a99e7ede65353d67c3f60c1ca7d24f133a20b497fa3aecce379b77e8b0499/codewec/dashlit" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Bittu5134/LOTM-Reader</title>
+      <link>https://github.com/Bittu5134/LOTM-Reader</link>
+      <description>&lt;p&gt;A community driven webnovel reader built with Svelte, with offline caching and a tons of optimizations. Built to be faster and cleaner than what was out there.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a34305f0c8738b1e1251486e45e8c4ea9f4bcc881b40ad5df7eadc78ee7f2096/Bittu5134/LOTM-Reader" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>RockinChaos/Shiru</title>
+      <link>https://github.com/RockinChaos/Shiru</link>
+      <description>&lt;p&gt;A personal anime library manager for watching and tracking your collection in real time. Lightweight, powerful, and paws-itively fast. No waiting required!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/871484973/5ce42b64-0151-4e98-88b8-bc4b71219e76" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>leaningtech/webvm</title>
+      <link>https://github.com/leaningtech/webvm</link>
+      <description>&lt;p&gt;Virtual Machine for the Web&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/454164378/00ded6d6-99da-4861-a71d-59cfa2fcc785" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>VERT-sh/VERT</title>
+      <link>https://github.com/VERT-sh/VERT</link>
+      <description>&lt;p&gt;The next-generation file converter. Open source, fully local* and free forever.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/375ba818a5d0cf2ab03fdadec4a15be5e4f22218a64953476ddfe729cf78d276/VERT-sh/VERT" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

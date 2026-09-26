@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Roff Monthly Trending</title>
+    <description>Monthly Trending of Roff in GitHub</description>
+    <pubDate>Sat, 26 Sep 2026 06:09:10 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>TapXWorld/ChinaTextbook</title>
+      <link>https://github.com/TapXWorld/ChinaTextbook</link>
+      <description>&lt;p&gt;所有小初高、大学PDF教材。&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/aa6e0f6b4f3fbaeec83aa87b0848104b5328e95f2cf10fb436aed53c6108e6d6/TapXWorld/ChinaTextbook" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>sidpalas/devops-directive-docker-course</title>
+      <link>https://github.com/sidpalas/devops-directive-docker-course</link>
+      <description>&lt;p&gt;Companion repo for complete Docker course&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/18621d32dc7d50b4f92ea3cc537742b2f895cb053fdd57315bbde2bac0972b47/sidpalas/devops-directive-docker-course" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

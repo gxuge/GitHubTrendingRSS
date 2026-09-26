@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub LLVM Weekly Trending</title>
+    <description>Weekly Trending of LLVM in GitHub</description>
+    <pubDate>Sat, 26 Sep 2026 05:57:21 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>llvm/llvm-project</title>
+      <link>https://github.com/llvm/llvm-project</link>
+      <description>&lt;p&gt;The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1ba46819b409d5e8051fcb22201a4304d4fd0e090bead75aec97665731afbc8d/llvm/llvm-project" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>llvm/clangir</title>
+      <link>https://github.com/llvm/clangir</link>
+      <description>&lt;p&gt;💀💀💀 The former home of clangir incubator, now part of the official llvm-project.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/cf15088f84d28cb4b80166643f6fe2f841c823834a6741ae0fa817de7ec40514/llvm/clangir" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

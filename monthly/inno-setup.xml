@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Inno Setup Monthly Trending</title>
+    <description>Monthly Trending of Inno Setup in GitHub</description>
+    <pubDate>Sat, 26 Sep 2026 06:05:22 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>git-for-windows/build-extra</title>
+      <link>https://github.com/git-for-windows/build-extra</link>
+      <description>&lt;p&gt;Additional files and scripts to help build Git for Windows on MSYS2.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/888a087ee9345a2dc51323339de20d6d1ab1a32267c2062f0dd3e557ac662a2b/git-for-windows/build-extra" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>CnCNet/cncnet-yr-client-package</title>
+      <link>https://github.com/CnCNet/cncnet-yr-client-package</link>
+      <description>&lt;p&gt;The official CnCNet Yuri&#39;s Revenge package for online.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/205018725/cfad84db-61d4-45f8-9e40-d979e190f42f" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

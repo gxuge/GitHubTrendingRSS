@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Smali Weekly Trending</title>
+    <description>Weekly Trending of Smali in GitHub</description>
+    <pubDate>Sat, 26 Sep 2026 06:00:18 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>phhusson/treble_experimentations</title>
+      <link>https://github.com/phhusson/treble_experimentations</link>
+      <description>&lt;p&gt;Notes about tinkering with Android Project Treble&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/cbd6d712dd42774fe60d87f737daa2eed436845cd35a33057e0fc63f7f1ef57d/phhusson/treble_experimentations" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Producdevity/gamehub-lite</title>
+      <link>https://github.com/Producdevity/gamehub-lite</link>
+      <description>&lt;p&gt;GameHub Lite is a community-maintained modified version of GameHub for education purposes&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/12a544824aaaf09cfc17f5570f276fb982481791e741101880a9e9e5613c8b08/Producdevity/gamehub-lite" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

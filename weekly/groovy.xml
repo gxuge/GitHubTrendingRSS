@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Groovy Weekly Trending</title>
+    <description>Weekly Trending of Groovy in GitHub</description>
+    <pubDate>Sat, 26 Sep 2026 05:55:50 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>gradle/gradle</title>
+      <link>https://github.com/gradle/gradle</link>
+      <description>&lt;p&gt;Adaptable, fast automation for all&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/302322/aebede38-296e-4daa-ba23-8a70b7f4afe7" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>apache/grails-core</title>
+      <link>https://github.com/apache/grails-core</link>
+      <description>&lt;p&gt;Grails - the Web Application Framework&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/112f74c90f94d21a1f1d5be657784aaa4ecece8e74064da78994d176195f273a/apache/grails-core" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>rundeck/rundeck</title>
+      <link>https://github.com/rundeck/rundeck</link>
+      <description>&lt;p&gt;Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ab471843918e1527c8738de7504353290eccc058179d1fd3364cbce5dcd470b2/rundeck/rundeck" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub OCaml Daily Trending</title>
+    <description>Daily Trending of OCaml in GitHub</description>
+    <pubDate>Sat, 26 Sep 2026 05:49:40 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>opengrep/opengrep</title>
+      <link>https://github.com/opengrep/opengrep</link>
+      <description>&lt;p&gt;🔎 Static code analysis engine to find security issues in code.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/22d0fbea9d3d26eeca5db48f23d29fdc6d866b6bb56ec7b0adba9580679832f9/opengrep/opengrep" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>xapi-project/xen-api</title>
+      <link>https://github.com/xapi-project/xen-api</link>
+      <description>&lt;p&gt;The Xapi Project&#39;s XenAPI Server&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/33f9f37682c868fd1a5b2868977f617ad4c243ae2b4285ae0a2fd9af29440e17/xapi-project/xen-api" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>rocq-prover/rocq</title>
+      <link>https://github.com/rocq-prover/rocq</link>
+      <description>&lt;p&gt;The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/99cdfc3ba7556878d35c6e75bc18293f626cd423773ae1347ab93f3e5cea9d32/rocq-prover/rocq" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>MinaProtocol/mina</title>
+      <link>https://github.com/MinaProtocol/mina</link>
+      <description>&lt;p&gt;Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1afae466cfb66bd17fcbbef8d0027119fa0188e0643658d67bf531a2b5e7410b/MinaProtocol/mina" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>facebook/infer</title>
+      <link>https://github.com/facebook/infer</link>
+      <description>&lt;p&gt;A static analyzer for Java, C, C++, and Objective-C&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/aba89cd3c2d4e519538022f337b4916a2e5958a63792294687c54c7e2f646852/facebook/infer" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ocaml/ocaml</title>
+      <link>https://github.com/ocaml/ocaml</link>
+      <description>&lt;p&gt;The core OCaml system: compilers, runtime system, base libraries&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/6786166/88c78500-1ad7-11eb-850f-1f6a1a012d47" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>bcpierce00/unison</title>
+      <link>https://github.com/bcpierce00/unison</link>
+      <description>&lt;p&gt;Unison file synchronizer&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9a45369b58921a0e53020ce1c5a2460001a1db6ff70a1819df1126a8fc3b54e8/bcpierce00/unison" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

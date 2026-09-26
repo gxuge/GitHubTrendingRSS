@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Groovy Monthly Trending</title>
+    <description>Monthly Trending of Groovy in GitHub</description>
+    <pubDate>Sat, 26 Sep 2026 06:04:54 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>bregman-arie/devops-resources</title>
+      <link>https://github.com/bregman-arie/devops-resources</link>
+      <description>&lt;p&gt;DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/164419238/2818ab80-3314-11eb-8a6f-0a325d82520a" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>rundeck/rundeck</title>
+      <link>https://github.com/rundeck/rundeck</link>
+      <description>&lt;p&gt;Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ab471843918e1527c8738de7504353290eccc058179d1fd3364cbce5dcd470b2/rundeck/rundeck" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>apache/grails-core</title>
+      <link>https://github.com/apache/grails-core</link>
+      <description>&lt;p&gt;Grails - the Web Application Framework&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/112f74c90f94d21a1f1d5be657784aaa4ecece8e74064da78994d176195f273a/apache/grails-core" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>nextflow-io/nextflow</title>
+      <link>https://github.com/nextflow-io/nextflow</link>
+      <description>&lt;p&gt;A DSL for data-driven computational pipelines&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/9052236/ecd9481e-f4b3-4324-b832-a08ee1d99564" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>apache/groovy</title>
+      <link>https://github.com/apache/groovy</link>
+      <description>&lt;p&gt;Apache Groovy: A powerful multi-faceted programming language for the JVM platform&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/8a0fc985d902da3eb30326f88394182ab14bc9deafcc5edd8fec94b6f5d697d2/apache/groovy" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>gradle/gradle</title>
+      <link>https://github.com/gradle/gradle</link>
+      <description>&lt;p&gt;Adaptable, fast automation for all&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/302322/aebede38-296e-4daa-ba23-8a70b7f4afe7" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>
