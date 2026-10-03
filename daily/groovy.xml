@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Groovy Daily Trending</title>
+    <description>Daily Trending of Groovy in GitHub</description>
+    <pubDate>Sat, 03 Oct 2026 06:01:11 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>gradle/gradle</title>
+      <link>https://github.com/gradle/gradle</link>
+      <description>&lt;p&gt;Adaptable, fast automation for all&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/302322/aebede38-296e-4daa-ba23-8a70b7f4afe7" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>rundeck/rundeck</title>
+      <link>https://github.com/rundeck/rundeck</link>
+      <description>&lt;p&gt;Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/693bfbec770f31ab6201d1ea96ccec9a7d78ed141b728d243ac02c57c806d2ca/rundeck/rundeck" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>nextflow-io/nextflow</title>
+      <link>https://github.com/nextflow-io/nextflow</link>
+      <description>&lt;p&gt;A workflow language for data-driven computational pipelines&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/9052236/ecd9481e-f4b3-4324-b832-a08ee1d99564" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>openboxes/openboxes</title>
+      <link>https://github.com/openboxes/openboxes</link>
+      <description>&lt;p&gt;OpenBoxes is a warehouse management system designed to manage inventory and track stock movements for healthcare facilities.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4eda8fcd143831ccd64de25d951b64d79bd530e42c9e1c2143eb0757a17ed6cc/openboxes/openboxes" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

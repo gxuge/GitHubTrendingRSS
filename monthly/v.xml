@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub V Monthly Trending</title>
+    <description>Monthly Trending of V in GitHub</description>
+    <pubDate>Sat, 03 Oct 2026 06:24:50 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>vlang/v</title>
+      <link>https://github.com/vlang/v</link>
+      <description>&lt;p&gt;Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e0dca05cd90c9adfdf8b6e92980134d182c4aac59d74d22aef0a67d13a3fcdd0/vlang/v" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

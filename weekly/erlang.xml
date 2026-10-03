@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Erlang Weekly Trending</title>
+    <description>Weekly Trending of Erlang in GitHub</description>
+    <pubDate>Sat, 03 Oct 2026 06:09:03 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>apache/couchdb</title>
+      <link>https://github.com/apache/couchdb</link>
+      <description>&lt;p&gt;Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/206417/767a9a00-cb2b-11ea-90b5-46d754c4ad3e" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

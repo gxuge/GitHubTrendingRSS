@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub YAML Daily Trending</title>
+    <description>Daily Trending of YAML in GitHub</description>
+    <pubDate>Sat, 03 Oct 2026 06:06:46 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>GTFOBins/GTFOBins.github.io</title>
+      <link>https://github.com/GTFOBins/GTFOBins.github.io</link>
+      <description>&lt;p&gt;GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/499be38b46d01f335869eeaad9dac2a37ebe0592c70a2d6014f99d235b3fbe0e/GTFOBins/GTFOBins.github.io" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>mmalyska/home-ops</title>
+      <link>https://github.com/mmalyska/home-ops</link>
+      <description>&lt;p&gt;Repository for home infrastructure and monorepo for kubernetes cluster&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/3d3a7b03631729289bc25ed750d3f778c40d4d8c7654b6bba3025f31b1e57b45/mmalyska/home-ops" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>usnistgov/macos_security</title>
+      <link>https://github.com/usnistgov/macos_security</link>
+      <description>&lt;p&gt;macOS Security Compliance Project&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/03a52060ef6090b274f9c99dbfcb5070216e396eddcea5470d0f2aeb62967ad5/usnistgov/macos_security" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>aquaproj/aqua-registry</title>
+      <link>https://github.com/aquaproj/aqua-registry</link>
+      <description>&lt;p&gt;aqua&#39;s Standard Registry&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/402281482/35e14ecb-b2c8-4dd6-9000-85d9e18c4a0e" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>sublime-security/sublime-rules</title>
+      <link>https://github.com/sublime-security/sublime-rules</link>
+      <description>&lt;p&gt;Sublime rules for email attack detection, prevention, and threat hunting.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ab483ef844f9527df280bff0962af9570cd5e1fe6f8bd54c9233885461101a1e/sublime-security/sublime-rules" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ProfMoo/home</title>
+      <link>https://github.com/ProfMoo/home</link>
+      <description>&lt;p&gt;My homelab baremetal-to-k8s media and &quot;do anything&quot; server. Codified and GitOpsified&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5d3b487dba3a3888a9c9dceae0fa2cd37dbd094bc6ff91ccb2e66ddd8d307cd0/ProfMoo/home" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>kubeflow/community-distribution</title>
+      <link>https://github.com/kubeflow/community-distribution</link>
+      <description>&lt;p&gt;Kubeflow Community Distribution&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/68c979f6bf5276cba3fb35174d2fa7faab7f5c499a20991036ff6d298e059da8/kubeflow/community-distribution" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ionfury/homelab</title>
+      <link>https://github.com/ionfury/homelab</link>
+      <description>&lt;p&gt;Tom&#39;s Homelab mono repository&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/8725be627d3fc73f355c583c0e9a8739f482d93930021db14250edc3e9be797d/ionfury/homelab" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

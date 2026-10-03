@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Groovy Weekly Trending</title>
+    <description>Weekly Trending of Groovy in GitHub</description>
+    <pubDate>Sat, 03 Oct 2026 06:09:48 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>apache/grails-core</title>
+      <link>https://github.com/apache/grails-core</link>
+      <description>&lt;p&gt;Grails - the Web Application Framework&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c76f7bd5d8dc4a94129cc59f3b7a670b490f78da681049511b3d97913c1d0448/apache/grails-core" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>gradle/gradle</title>
+      <link>https://github.com/gradle/gradle</link>
+      <description>&lt;p&gt;Adaptable, fast automation for all&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/302322/aebede38-296e-4daa-ba23-8a70b7f4afe7" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

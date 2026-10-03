@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Svelte Weekly Trending</title>
+    <description>Weekly Trending of Svelte in GitHub</description>
+    <pubDate>Sat, 03 Oct 2026 06:14:42 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>open-webui/desktop</title>
+      <link>https://github.com/open-webui/desktop</link>
+      <description>&lt;p&gt;Open WebUI Desktop 🌐&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/8d8eab1c8b16a5209a0eda1ecbf4b0eb34d38bb1321fd09688e9aecab19c9e9f/open-webui/desktop" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>vaibhav-kakde-in/mdhero</title>
+      <link>https://github.com/vaibhav-kakde-in/mdhero</link>
+      <description>&lt;p&gt;A beautiful, native Markdown viewer and lightweight editor for macOS, Windows and Linux. ~8MB, free, open source.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4cb24604de0aee6ffbda9967ed7bd6e6092ba8ef30e954d7696e01c7c93f5423/vaibhav-kakde-in/mdhero" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>imputnet/cobalt</title>
+      <link>https://github.com/imputnet/cobalt</link>
+      <description>&lt;p&gt;best way to save what you love&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c8c4a4053bd8c377459bbeee0395600c31f3d6629a922bc8b3c042f1b0f02030/imputnet/cobalt" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Bittu5134/LOTM-Reader</title>
+      <link>https://github.com/Bittu5134/LOTM-Reader</link>
+      <description>&lt;p&gt;A community driven webnovel reader built with Svelte, with offline caching and a tons of optimizations. Built to be faster and cleaner than what was out there.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5c9d26d661d58ba7d78fccc1b4d598fb6a813c66f7f22abd6ec72b60e8b42e15/Bittu5134/LOTM-Reader" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Abdenasser/neohtop</title>
+      <link>https://github.com/Abdenasser/neohtop</link>
+      <description>&lt;p&gt;💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri &amp; Svelte)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7d39a78770dac54c451fcb94c4b736c35ce38812f79fb4356de7e70e9690e6cc/Abdenasser/neohtop" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

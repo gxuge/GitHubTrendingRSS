@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub CoffeeScript Monthly Trending</title>
+    <description>Monthly Trending of CoffeeScript in GitHub</description>
+    <pubDate>Sat, 03 Oct 2026 06:17:16 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>atmos/camo</title>
+      <link>https://github.com/atmos/camo</link>
+      <description>&lt;p&gt;🔒 an http proxy to route images through SSL&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1bc8d6e1d322fa76968a247a9dc2efabdccb5b85f91e5a56ac61c5ffa70e3d60/atmos/camo" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>dropbox/zxcvbn</title>
+      <link>https://github.com/dropbox/zxcvbn</link>
+      <description>&lt;p&gt;Low-Budget Password Strength Estimation&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7d148d3e3c8586ccbede75fc28beff79d373d4dd989139c82f74be9ae1bae8a1/dropbox/zxcvbn" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

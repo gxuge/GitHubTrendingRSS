@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Adblock Filter List Weekly Trending</title>
+    <description>Weekly Trending of Adblock Filter List in GitHub</description>
+    <pubDate>Sat, 03 Oct 2026 06:07:07 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>easylist/easylist</title>
+      <link>https://github.com/easylist/easylist</link>
+      <description>&lt;p&gt;EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy&#39;s Social/Annoyances/Notifications Blocking List)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f5c511ebbcb79687b35611dce7740028122f6eda4c603d966d503e7bda215651/easylist/easylist" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>AdguardTeam/AdGuardSDNSFilter</title>
+      <link>https://github.com/AdguardTeam/AdGuardSDNSFilter</link>
+      <description>&lt;p&gt;AdGuard DNS filter&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/40a097a632cb13bd62fa7c25dbb082f02e1589b41d9539d1074d1307110c62fb/AdguardTeam/AdGuardSDNSFilter" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>AdguardTeam/AdguardFilters</title>
+      <link>https://github.com/AdguardTeam/AdguardFilters</link>
+      <description>&lt;p&gt;AdGuard Content Blocking Filters&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/8788bcef1a03e60d72a3db9f4860a83919328ccef604187617918b334c2c57a0/AdguardTeam/AdguardFilters" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

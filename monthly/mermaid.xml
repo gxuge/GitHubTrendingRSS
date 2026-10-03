@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Mermaid Monthly Trending</title>
+    <description>Monthly Trending of Mermaid in GitHub</description>
+    <pubDate>Sat, 03 Oct 2026 06:20:57 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>MicrosoftDocs/azure-ai-docs</title>
+      <link>https://github.com/MicrosoftDocs/azure-ai-docs</link>
+      <description>&lt;p&gt;Open Source Azure AI documentation including, azure ai, azure studio, machine learning, genomics, open-datasets, and search&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/6beb9041c33ce8bdd8f36921752a22cd67cf9f44e5aac604ac905fc823f7a8fc/MicrosoftDocs/azure-ai-docs" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>MicrosoftDocs/dynamics-365-unified-operations-public</title>
+      <link>https://github.com/MicrosoftDocs/dynamics-365-unified-operations-public</link>
+      <description>&lt;p&gt;Documentation for Microsoft Dynamics 365 apps such as Dynamics 365 Finance, Dynamics 365 Commerce, Dynamics 365 Supply Chain Management, and Dynamics 365 Human Resources&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7936ec6454c5113e44d97f0b6744cba4979a2b1c4decf70fb53f05aaf8f6f2b8/MicrosoftDocs/dynamics-365-unified-operations-public" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>MicrosoftDocs/power-automate-docs</title>
+      <link>https://github.com/MicrosoftDocs/power-automate-docs</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1c4301f1e67915eb0ae4575016851783d27a5ae209e4614b0bdf97b0484112cb/MicrosoftDocs/power-automate-docs" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>dotnet/EntityFramework.Docs</title>
+      <link>https://github.com/dotnet/EntityFramework.Docs</link>
+      <description>&lt;p&gt;Documentation for Entity Framework Core and Entity Framework 6&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/39d8130ee6cff88e9f0f3ffb467c035de925b1cafc399041a75df89b0a1feba0/dotnet/EntityFramework.Docs" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

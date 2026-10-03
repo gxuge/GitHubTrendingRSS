@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Unknown languages Weekly Trending</title>
+    <description>Weekly Trending of Unknown languages in GitHub</description>
+    <pubDate>Sat, 03 Oct 2026 06:06:53 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>NarratorAI-Studio/narrator-ai-cli-skill</title>
+      <link>https://github.com/NarratorAI-Studio/narrator-ai-cli-skill</link>
+      <description>&lt;p&gt;AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f2995a889413f06106ad7aa774d801c3038c2bdd12b4c82f70b117137a436462/NarratorAI-Studio/narrator-ai-cli-skill" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>sindresorhus/awesome</title>
+      <link>https://github.com/sindresorhus/awesome</link>
+      <description>&lt;p&gt;😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/21737465/46445f80-a5ae-11ea-921f-c39aefbcdcac" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>byJoey/cfnew</title>
+      <link>https://github.com/byJoey/cfnew</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/41d5a2706fe7aacb30e21c8ddf799a8c951d95ff98057fd14bdf36486a0d8698/byJoey/cfnew" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>GorvGoyl/Clone-Wars</title>
+      <link>https://github.com/GorvGoyl/Clone-Wars</link>
+      <description>&lt;p&gt;100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/317836248/96dbc980-8418-11eb-956e-b6af768e1b3e" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>kelseyhightower/kubernetes-the-hard-way</title>
+      <link>https://github.com/kelseyhightower/kubernetes-the-hard-way</link>
+      <description>&lt;p&gt;Bootstrap Kubernetes the hard way. No scripts.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b7de9810ebbe07575bb9d36b5e2f23abe8650467837f8932935570b6b9476a40/kelseyhightower/kubernetes-the-hard-way" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>dastergon/awesome-sre</title>
+      <link>https://github.com/dastergon/awesome-sre</link>
+      <description>&lt;p&gt;A curated list of Site Reliability and Production Engineering resources.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f68aa4477285635a67d05e7f59631d00d6f40afcce4f60da4bc19fe010fe9fbf/dastergon/awesome-sre" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>HanZzzzz000/iv8</title>
+      <link>https://github.com/HanZzzzz000/iv8</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/dfc5a85cdf21758e920e7b0b5b66c397bce55f309a24aad5788baacb93646b86/HanZzzzz000/iv8" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>afshinea/stanford-cme-295-transformers-large-language-models</title>
+      <link>https://github.com/afshinea/stanford-cme-295-transformers-large-language-models</link>
+      <description>&lt;p&gt;VIP cheatsheet for Stanford&#39;s CME 295 Transformers and Large Language Models&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4725cdf61904eb4ee76475fc36634a80216e6dd193d6fe78de971caa3d503448/afshinea/stanford-cme-295-transformers-large-language-models" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

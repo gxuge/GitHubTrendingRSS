@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub ZenScript Daily Trending</title>
+    <description>Daily Trending of ZenScript in GitHub</description>
+    <pubDate>Sat, 03 Oct 2026 06:06:49 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>DarkPacks/SevTech-Ages</title>
+      <link>https://github.com/DarkPacks/SevTech-Ages</link>
+      <description>&lt;p&gt;SevTech: Ages is a massive Minecraft modpack packed with content and progression.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/08f1fc6d0ed976b6bce0c0a43a6193b8a6bac4ff0f783e368fcd57dc2295de06/DarkPacks/SevTech-Ages" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

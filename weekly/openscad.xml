@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub OpenSCAD Weekly Trending</title>
+    <description>Weekly Trending of OpenSCAD in GitHub</description>
+    <pubDate>Sat, 03 Oct 2026 06:12:32 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>BelfrySCAD/BOSL2</title>
+      <link>https://github.com/BelfrySCAD/BOSL2</link>
+      <description>&lt;p&gt;The Belfry OpenScad Library, v2.0. An OpenSCAD library of shapes, masks, and manipulators to make working with OpenSCAD easier. BETA&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/182187489/7f60f080-3992-11eb-9baf-22e99510b07f" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>MicrosoftDocs/windows-driver-docs</title>
+      <link>https://github.com/MicrosoftDocs/windows-driver-docs</link>
+      <description>&lt;p&gt;The official Windows Driver Kit documentation sources&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/939cee9cc7d2ff94cc9ec6ee519c6fab4b3060b15a6ab6588d8063864d892439/MicrosoftDocs/windows-driver-docs" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

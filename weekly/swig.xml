@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub SWIG Weekly Trending</title>
+    <description>Weekly Trending of SWIG in GitHub</description>
+    <pubDate>Sat, 03 Oct 2026 06:14:44 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>swig/swig</title>
+      <link>https://github.com/swig/swig</link>
+      <description>&lt;p&gt;SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/054e67e697c21bb89bc27a0df51d30271a8b3e14782006dc059ea5307e7434bd/swig/swig" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

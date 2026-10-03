@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Papyrus Weekly Trending</title>
+    <description>Weekly Trending of Papyrus in GitHub</description>
+    <pubDate>Sat, 03 Oct 2026 06:12:36 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>MinLL/SkyrimNet-GamePlugin</title>
+      <link>https://github.com/MinLL/SkyrimNet-GamePlugin</link>
+      <description>&lt;p&gt;Public facing files for SkyrimNet&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/028787dbdd2eefd62c294ec1f4aab3f38bcad01c80db1a9f162a119e18dd543b/MinLL/SkyrimNet-GamePlugin" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

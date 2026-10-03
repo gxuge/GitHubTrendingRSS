@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub AL Daily Trending</title>
+    <description>Daily Trending of AL in GitHub</description>
+    <pubDate>Sat, 03 Oct 2026 05:58:06 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>microsoft/BCApps</title>
+      <link>https://github.com/microsoft/BCApps</link>
+      <description>&lt;p&gt;Repository for collaboration on Microsoft Dynamics 365 Business Central applications.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d0b341e7009ade0b0bc5fb4c8fc4fe77568f4b3d846a37a7e132958025f7af45/microsoft/BCApps" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>microsoft/ALAppExtensions</title>
+      <link>https://github.com/microsoft/ALAppExtensions</link>
+      <description>&lt;p&gt;Business Central extensibility requests only. New pull requests are no longer accepted; application contributions have moved to BCApps.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e90cb9ccfec1d9c70f1956088f5d8356abcaa54838a9ff808e301d83ba642d9e/microsoft/ALAppExtensions" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

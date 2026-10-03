@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Typst Monthly Trending</title>
+    <description>Monthly Trending of Typst in GitHub</description>
+    <pubDate>Sat, 03 Oct 2026 06:24:46 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>touying-typ/touying</title>
+      <link>https://github.com/touying-typ/touying</link>
+      <description>&lt;p&gt;Touying is a powerful package for creating presentation slides in Typst.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/648a2b97bd9672a0d25f7d4e4cede0e498b73dcab821f61589f47f14ea8d02b7/touying-typ/touying" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

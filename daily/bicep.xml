@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Bicep Daily Trending</title>
+    <description>Daily Trending of Bicep in GitHub</description>
+    <pubDate>Sat, 03 Oct 2026 05:58:26 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>microsoft-foundry/foundry-samples</title>
+      <link>https://github.com/microsoft-foundry/foundry-samples</link>
+      <description>&lt;p&gt;Samples for Microsoft Foundry platform&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d36d76a78af4608384953b5aabb45dc28600631e6a578ec94700582b0b36822c/microsoft-foundry/foundry-samples" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Azure/bicep-registry-modules</title>
+      <link>https://github.com/Azure/bicep-registry-modules</link>
+      <description>&lt;p&gt;Bicep registry modules&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b77adb362e5df8029815a1c47a265e8cede9b57410be1e8acee1226193a8f3b6/Azure/bicep-registry-modules" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Azure/azure-quickstart-templates</title>
+      <link>https://github.com/Azure/azure-quickstart-templates</link>
+      <description>&lt;p&gt;Azure Quickstart Templates&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/34407651/61f18e00-69e1-11ea-901f-d030a57d4391" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Azure/bicep</title>
+      <link>https://github.com/Azure/bicep</link>
+      <description>&lt;p&gt;Bicep is a declarative language for describing and deploying Azure resources&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f75662cf159ee7bdf331ac67189f69691a6982de6e071565c884fa780314c0b7/Azure/bicep" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>microsoft/azure-container-apps</title>
+      <link>https://github.com/microsoft/azure-container-apps</link>
+      <description>&lt;p&gt;Roadmap and issues for Azure Container Apps&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f8fc1587492b916ff832318be5682093f801b33104436bbc35d458a57520ef88/microsoft/azure-container-apps" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

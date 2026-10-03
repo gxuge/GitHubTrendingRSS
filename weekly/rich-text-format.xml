@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Rich Text Format Weekly Trending</title>
+    <description>Weekly Trending of Rich Text Format in GitHub</description>
+    <pubDate>Sat, 03 Oct 2026 06:13:37 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>pzqpzq/Principia</title>
+      <link>https://github.com/pzqpzq/Principia</link>
+      <description>&lt;p&gt;Principia extracts reusable principles, composes those principles into traceable research ideas, and helps researchers inspect why an idea may be worth testing.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4c66de246db335efd70ce62d4d74b839dc2f8ef0c1b936d8f474a5d9d962c17c/pzqpzq/Principia" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>jlord/patchwork</title>
+      <link>https://github.com/jlord/patchwork</link>
+      <description>&lt;p&gt;All the Git-it Workshop completers!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e4bbe9f46b1404fa30fea3274e4c9785b7cc6f467c51fec20044135296bf601d/jlord/patchwork" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

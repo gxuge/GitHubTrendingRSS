@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Tcl Weekly Trending</title>
+    <description>Weekly Trending of Tcl in GitHub</description>
+    <pubDate>Sat, 03 Oct 2026 06:14:56 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Digilent/digilent-xdc</title>
+      <link>https://github.com/Digilent/digilent-xdc</link>
+      <description>&lt;p&gt;A collection of Master XDC files for Digilent FPGA and Zynq boards.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f4c730cf052320b4565d5d8e89c4ad8e9636982e4114e07bc0403fceac396dd2/Digilent/digilent-xdc" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>analogdevicesinc/hdl</title>
+      <link>https://github.com/analogdevicesinc/hdl</link>
+      <description>&lt;p&gt;HDL libraries and projects&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4e5a58d1688f58909986f391a8478232f5ef4664c84416411e7c4b5a593a35aa/analogdevicesinc/hdl" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

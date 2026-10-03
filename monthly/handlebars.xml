@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Handlebars Monthly Trending</title>
+    <description>Monthly Trending of Handlebars in GitHub</description>
+    <pubDate>Sat, 03 Oct 2026 06:19:02 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>huggingface/hub-docs</title>
+      <link>https://github.com/huggingface/hub-docs</link>
+      <description>&lt;p&gt;Docs of the Hugging Face Hub&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/74c7ad90f2628fd332b06bb394dd95ed3e0b34b376067d1674667509f5dc3c2d/huggingface/hub-docs" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>wet-boew/wet-boew</title>
+      <link>https://github.com/wet-boew/wet-boew</link>
+      <description>&lt;p&gt;Web Experience Toolkit (WET): Open source code library for building innovative websites that are accessible, usable, interoperable, mobile-friendly and multilingual. This collaborative open source project is led by the Government of Canada.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/6f80406a066b075a2beac127948686e9ab6e6471ea9a41c71b9d11bf515b638a/wet-boew/wet-boew" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>elastic/integrations</title>
+      <link>https://github.com/elastic/integrations</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/3fa7be73bf8be5f66aad54943a74ef41646836bd87be38d9093f249a39587bf2/elastic/integrations" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub AutoIt Daily Trending</title>
+    <description>Daily Trending of AutoIt in GitHub</description>
+    <pubDate>Sat, 03 Oct 2026 05:58:19 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>rcmaehl/WhyNotWin11</title>
+      <link>https://github.com/rcmaehl/WhyNotWin11</link>
+      <description>&lt;p&gt;Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7748eb33fd7b86aa93846e21ad9fa70fdc7fd95a87c23f521bb88c5b6c0085eb/rcmaehl/WhyNotWin11" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>rcmaehl/MSEdgeRedirect</title>
+      <link>https://github.com/rcmaehl/MSEdgeRedirect</link>
+      <description>&lt;p&gt;A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c9818fcc6f48bf1a2957b04b09de7a053d49f2e6c141727474bf5b8bbb7f9899/rcmaehl/MSEdgeRedirect" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

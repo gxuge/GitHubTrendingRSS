@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub ShaderLab Weekly Trending</title>
+    <description>Weekly Trending of ShaderLab in GitHub</description>
+    <pubDate>Sat, 03 Oct 2026 06:14:10 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>naelstrof/KoboldKare</title>
+      <link>https://github.com/naelstrof/KoboldKare</link>
+      <description>&lt;p&gt;A public repo for the game KoboldKare&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/190087309/cd735a00-c67e-11eb-9dac-fcef6c448194" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>shinyflvre/Mate-Engine</title>
+      <link>https://github.com/shinyflvre/Mate-Engine</link>
+      <description>&lt;p&gt;A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/337a6d075938d4e721414585a4840318f4df5bf0c0166deb9130c6782d3ddcdf/shinyflvre/Mate-Engine" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>
