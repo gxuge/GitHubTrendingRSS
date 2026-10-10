@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Flix Weekly Trending</title>
+    <description>Weekly Trending of Flix in GitHub</description>
+    <pubDate>Sat, 10 Oct 2026 06:51:36 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>flix/flix</title>
+      <link>https://github.com/flix/flix</link>
+      <description>&lt;p&gt;The Flix Programming Language&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a524c1e49192bf7f3571fc5a23e41a0f785cbedf5b5e1c0c39898eae1b1a0f7d/flix/flix" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

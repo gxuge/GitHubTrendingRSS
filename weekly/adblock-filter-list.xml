@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Adblock Filter List Weekly Trending</title>
+    <description>Weekly Trending of Adblock Filter List in GitHub</description>
+    <pubDate>Sat, 10 Oct 2026 06:48:56 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>AdguardTeam/AdguardFilters</title>
+      <link>https://github.com/AdguardTeam/AdguardFilters</link>
+      <description>&lt;p&gt;AdGuard Content Blocking Filters&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/350a79dc305285eb137b74d779c69db347389d0aba69b22c0b4a7e9dd45c0e91/AdguardTeam/AdguardFilters" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>uBlockOrigin/uAssets</title>
+      <link>https://github.com/uBlockOrigin/uAssets</link>
+      <description>&lt;p&gt;Filter lists for uBlock Origin &amp; uBlock Origin Lite&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a8e9bd2d9fa05c3a1548a5de833922eda4036cb25f85d2ec20a8e5e75b9c99a6/uBlockOrigin/uAssets" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>easylist/easylist</title>
+      <link>https://github.com/easylist/easylist</link>
+      <description>&lt;p&gt;EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy&#39;s Social/Annoyances/Notifications Blocking List)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7e429e953b1f8331c273582deb28f2bf4649a5dd26e6cb7518ce30b164af1668/easylist/easylist" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

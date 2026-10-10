@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Groovy Daily Trending</title>
+    <description>Daily Trending of Groovy in GitHub</description>
+    <pubDate>Sat, 10 Oct 2026 06:41:26 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>gradle/gradle</title>
+      <link>https://github.com/gradle/gradle</link>
+      <description>&lt;p&gt;Adaptable, fast automation for all&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/302322/aebede38-296e-4daa-ba23-8a70b7f4afe7" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>openboxes/openboxes</title>
+      <link>https://github.com/openboxes/openboxes</link>
+      <description>&lt;p&gt;OpenBoxes is a warehouse management system designed to manage inventory and track stock movements for healthcare facilities.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/08c6ea97d236b006d005681858485d56c64f16894186aed055655eaa398f4b75/openboxes/openboxes" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

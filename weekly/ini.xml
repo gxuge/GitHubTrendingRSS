@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub INI Weekly Trending</title>
+    <description>Weekly Trending of INI in GitHub</description>
+    <pubDate>Sat, 10 Oct 2026 06:52:48 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>FLHDE/freelancer-hd-edition</title>
+      <link>https://github.com/FLHDE/freelancer-hd-edition</link>
+      <description>&lt;p&gt;Freelancer: HD Edition is a mod that aims to improve every aspect of the game Freelancer (2003) while keeping the look and feel as close to vanilla as possible.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/03786dfac00e9699344b8e6fb13088ca908622fc633d443dcfbb0ef022a19fe9/FLHDE/freelancer-hd-edition" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

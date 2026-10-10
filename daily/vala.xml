@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Vala Daily Trending</title>
+    <description>Daily Trending of Vala in GitHub</description>
+    <pubDate>Sat, 10 Oct 2026 06:48:06 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>frida/frida-core</title>
+      <link>https://github.com/frida/frida-core</link>
+      <description>&lt;p&gt;Frida core library&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/875cffbed2a76ecccdb66e78a7a4bf5c6485406bb5fc0a57a743f11b716fa5cf/frida/frida-core" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>BuddiesOfBudgie/budgie-desktop</title>
+      <link>https://github.com/BuddiesOfBudgie/budgie-desktop</link>
+      <description>&lt;p&gt;Budgie Desktop is a familiar, modern desktop environment.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/443727811/99f78445-1653-4449-8e3b-f8a9dc98f274" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

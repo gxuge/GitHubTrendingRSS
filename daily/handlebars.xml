@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Handlebars Daily Trending</title>
+    <description>Daily Trending of Handlebars in GitHub</description>
+    <pubDate>Sat, 10 Oct 2026 06:41:30 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>huggingface/hub-docs</title>
+      <link>https://github.com/huggingface/hub-docs</link>
+      <description>&lt;p&gt;Docs of the Hugging Face Hub&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/26fd26e27cf8cfec47f8deab5c1c40cc5ab7a97d8402aa03d12d5da758b95d04/huggingface/hub-docs" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

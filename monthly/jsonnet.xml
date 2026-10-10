@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Jsonnet Monthly Trending</title>
+    <description>Monthly Trending of Jsonnet in GitHub</description>
+    <pubDate>Sat, 10 Oct 2026 07:05:21 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>google/jsonnet</title>
+      <link>https://github.com/google/jsonnet</link>
+      <description>&lt;p&gt;Jsonnet - The data templating language&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4418bb57a0c74a5d306a3b17dd0106e81d0abbcb4bc10e9cb105d0781c9031af/google/jsonnet" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>prometheus-operator/kube-prometheus</title>
+      <link>https://github.com/prometheus-operator/kube-prometheus</link>
+      <description>&lt;p&gt;Use Prometheus to monitor Kubernetes and applications running on Kubernetes&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1add534cc31c88fe7b4940ec03c56274450b533283bbf38a99e61e02628b0e9f/prometheus-operator/kube-prometheus" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

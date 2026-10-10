@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Just Weekly Trending</title>
+    <description>Weekly Trending of Just in GitHub</description>
+    <pubDate>Sat, 10 Oct 2026 06:53:34 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>pop-os/cosmic-epoch</title>
+      <link>https://github.com/pop-os/cosmic-epoch</link>
+      <description>&lt;p&gt;Next generation Cosmic desktop environment&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/2c787054a8888c1ee7f1359fab3f6523107c0287ee80fccb7374eec587afbd28/pop-os/cosmic-epoch" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ublue-os/bazzite</title>
+      <link>https://github.com/ublue-os/bazzite</link>
+      <description>&lt;p&gt;Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/599731589/294e506b-42c8-4ab1-b9d0-9b9f67857146" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>blacktop/ipsw-diffs</title>
+      <link>https://github.com/blacktop/ipsw-diffs</link>
+      <description>&lt;p&gt;IPSW Diffs&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/819564255/eab278a5-9c41-4b52-91f1-64ee72e61617" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Diaoul/home-ops</title>
+      <link>https://github.com/Diaoul/home-ops</link>
+      <description>&lt;p&gt;My GitOps-managed home Kubernetes cluster... and more! ⛵&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/73f45eb1e41279f983c51ac3fa99e6e64b2228ba6fc7e8a47fb0137a950b4c94/Diaoul/home-ops" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

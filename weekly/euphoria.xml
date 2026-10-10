@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Euphoria Weekly Trending</title>
+    <description>Weekly Trending of Euphoria in GitHub</description>
+    <pubDate>Sat, 10 Oct 2026 06:51:28 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>CelesTrak/fundamentals-of-astrodynamics</title>
+      <link>https://github.com/CelesTrak/fundamentals-of-astrodynamics</link>
+      <description>&lt;p&gt;Code related to &quot;Fundamentals of Astrodynamics and Applications&quot; 5th ed. by David Vallado&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/081c49e68261b94093d2cc909ea2ac36b9a8bcb1a0c48ccfd914606a90b22d71/CelesTrak/fundamentals-of-astrodynamics" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

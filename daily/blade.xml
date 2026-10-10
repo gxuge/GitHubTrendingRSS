@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Blade Daily Trending</title>
+    <description>Daily Trending of Blade in GitHub</description>
+    <pubDate>Sat, 10 Oct 2026 06:38:19 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>grocy/grocy</title>
+      <link>https://github.com/grocy/grocy</link>
+      <description>&lt;p&gt;ERP beyond your fridge - Grocy is a web-based self-hosted groceries &amp; household management solution for your home&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1b8adc42864308ecebebb0a1b6e877a51272df4918c13642eb4ee06553793821/grocy/grocy" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

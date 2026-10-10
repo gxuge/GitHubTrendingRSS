@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub CodeQL Monthly Trending</title>
+    <description>Monthly Trending of CodeQL in GitHub</description>
+    <pubDate>Sat, 10 Oct 2026 07:01:30 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>github/codeql</title>
+      <link>https://github.com/github/codeql</link>
+      <description>&lt;p&gt;CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9a4692683ce518cb1b2380b7ffcbd385fd4bbf409d1ad25eddfbed7cf156552a/github/codeql" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

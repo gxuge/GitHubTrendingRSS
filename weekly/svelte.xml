@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Svelte Weekly Trending</title>
+    <description>Weekly Trending of Svelte in GitHub</description>
+    <pubDate>Sat, 10 Oct 2026 06:57:56 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>imputnet/cobalt</title>
+      <link>https://github.com/imputnet/cobalt</link>
+      <description>&lt;p&gt;best way to save what you love&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f20c1104a11e9901a0c10ce607061ad24d218bd7eaf171dd2d21a5ac169fd066/imputnet/cobalt" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>leaningtech/webvm</title>
+      <link>https://github.com/leaningtech/webvm</link>
+      <description>&lt;p&gt;Virtual Machine for the Web&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/454164378/00ded6d6-99da-4861-a71d-59cfa2fcc785" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>StackExchange/Survey</title>
+      <link>https://github.com/StackExchange/Survey</link>
+      <description>&lt;p&gt;The official repo for the Stack Overflow Developer Survey&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1232944084/cea31494-214e-4804-8496-04a532f12e46" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ReVanced/revanced-website</title>
+      <link>https://github.com/ReVanced/revanced-website</link>
+      <description>&lt;p&gt;🌐 Website for ReVanced&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/514729065/7db46969-de62-491c-943e-d115090847d8" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Bittu5134/LOTM-Reader</title>
+      <link>https://github.com/Bittu5134/LOTM-Reader</link>
+      <description>&lt;p&gt;A community driven webnovel reader built with Svelte, with offline caching and a tons of optimizations. Built to be faster and cleaner than what was out there.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/09f36d023e3187a13b0b57fa55822771fa6f36f3b53373e3cb4f82fbf748f36a/Bittu5134/LOTM-Reader" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>satisfactorymodding/SatisfactoryModManager</title>
+      <link>https://github.com/satisfactorymodding/SatisfactoryModManager</link>
+      <description>&lt;p&gt;A mod manager for easy installation of mods and modloader for Satisfactory&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e35fb3e38100994d2c443eed16202a964d63c95714ea1a63c4d53d38e4db3a4f/satisfactorymodding/SatisfactoryModManager" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>open-webui/desktop</title>
+      <link>https://github.com/open-webui/desktop</link>
+      <description>&lt;p&gt;Open WebUI Desktop 🌐&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d88051975a4b5434c185c9e05552f212ceb79f0874b46396c2f3eb6d5664784d/open-webui/desktop" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>vaibhav-kakde-in/mdhero</title>
+      <link>https://github.com/vaibhav-kakde-in/mdhero</link>
+      <description>&lt;p&gt;A beautiful, native Markdown viewer and lightweight editor for macOS, Windows and Linux. ~8MB, free, open source.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/397ef63b2a8f1b85f16905f74a4f131a3a904c8d8f65cacf6602438f8ea7ea95/vaibhav-kakde-in/mdhero" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>aukspot/dles</title>
+      <link>https://github.com/aukspot/dles</link>
+      <description>&lt;p&gt;A curated collection of over 700 daily web games.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7c2f03a73cac985d4e36fbcf1ac1d1490026eee9c1e8abc11d3550a14ef5f23d/aukspot/dles" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Vala Monthly Trending</title>
+    <description>Monthly Trending of Vala in GitHub</description>
+    <pubDate>Sat, 10 Oct 2026 07:11:01 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>BuddiesOfBudgie/budgie-desktop</title>
+      <link>https://github.com/BuddiesOfBudgie/budgie-desktop</link>
+      <description>&lt;p&gt;Budgie Desktop is a familiar, modern desktop environment.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/443727811/99f78445-1653-4449-8e3b-f8a9dc98f274" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>alainm23/planify</title>
+      <link>https://github.com/alainm23/planify</link>
+      <description>&lt;p&gt;Task manager with Todoist, Nextcloud &amp; CalDAV support designed for GNOME&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/154173536/28a8522e-d0b4-4b03-9115-c2b41713e49d" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>linuxmint/timeshift</title>
+      <link>https://github.com/linuxmint/timeshift</link>
+      <description>&lt;p&gt;System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a833b284506dc5e13493d593fa72fc23e5b6854945463474924dc38d4475dca4/linuxmint/timeshift" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Svelte Daily Trending</title>
+    <description>Daily Trending of Svelte in GitHub</description>
+    <pubDate>Sat, 10 Oct 2026 06:47:23 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>open-webui/desktop</title>
+      <link>https://github.com/open-webui/desktop</link>
+      <description>&lt;p&gt;Open WebUI Desktop 🌐&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d88051975a4b5434c185c9e05552f212ceb79f0874b46396c2f3eb6d5664784d/open-webui/desktop" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>openfoodfacts/openfoodfacts-explorer</title>
+      <link>https://github.com/openfoodfacts/openfoodfacts-explorer</link>
+      <description>&lt;p&gt;The next-generation frontend for OpenFoodFacts, made with SvelteKit&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/645914853/a4b1f877-7564-4768-967e-9f516822c6c0" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>StackExchange/Survey</title>
+      <link>https://github.com/StackExchange/Survey</link>
+      <description>&lt;p&gt;The official repo for the Stack Overflow Developer Survey&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1232944084/cea31494-214e-4804-8496-04a532f12e46" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Bittu5134/LOTM-Reader</title>
+      <link>https://github.com/Bittu5134/LOTM-Reader</link>
+      <description>&lt;p&gt;A community driven webnovel reader built with Svelte, with offline caching and a tons of optimizations. Built to be faster and cleaner than what was out there.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/09f36d023e3187a13b0b57fa55822771fa6f36f3b53373e3cb4f82fbf748f36a/Bittu5134/LOTM-Reader" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>leaningtech/webvm</title>
+      <link>https://github.com/leaningtech/webvm</link>
+      <description>&lt;p&gt;Virtual Machine for the Web&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/454164378/00ded6d6-99da-4861-a71d-59cfa2fcc785" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>
