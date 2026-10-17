@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Gleam Daily Trending</title>
+    <description>Daily Trending of Gleam in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:17:21 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>lustre-labs/lustre</title>
+      <link>https://github.com/lustre-labs/lustre</link>
+      <description>&lt;p&gt;A Gleam web framework for building HTML templates, single page applications, and real-time server components.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/6dd344b6cf274c194f7ebd685485227aeb765c2c88157eeeae25a73c5ba26f74/lustre-labs/lustre" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Svelte Weekly Trending</title>
+    <description>Weekly Trending of Svelte in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:31:07 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>imputnet/cobalt</title>
+      <link>https://github.com/imputnet/cobalt</link>
+      <description>&lt;p&gt;best way to save what you love&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/32844b61b01d746246b096f24756553bc97d0a76f0a848a20a1106b21edb181e/imputnet/cobalt" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>open-webui/desktop</title>
+      <link>https://github.com/open-webui/desktop</link>
+      <description>&lt;p&gt;Open WebUI Desktop 🌐&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1e9478fe2be5a55a944ca747e00b1b21303640f92da382a39488458accb7f774/open-webui/desktop" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>satisfactorymodding/SatisfactoryModManager</title>
+      <link>https://github.com/satisfactorymodding/SatisfactoryModManager</link>
+      <description>&lt;p&gt;A mod manager for easy installation of mods and modloader for Satisfactory&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ed8f3408f105e8b503bc67cd8012f90e30b6d1e6752deeb04b84690c3c94e7fe/satisfactorymodding/SatisfactoryModManager" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>openfoodfacts/openfoodfacts-explorer</title>
+      <link>https://github.com/openfoodfacts/openfoodfacts-explorer</link>
+      <description>&lt;p&gt;The next-generation frontend for OpenFoodFacts, made with SvelteKit&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/645914853/a4b1f877-7564-4768-967e-9f516822c6c0" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Bittu5134/LOTM-Reader</title>
+      <link>https://github.com/Bittu5134/LOTM-Reader</link>
+      <description>&lt;p&gt;A community driven webnovel reader built with Svelte, with offline caching and a tons of optimizations. Built to be faster and cleaner than what was out there.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/69d237b953980ac42a7b3e6364255557b240964dfc752d39471518b6dfc47588/Bittu5134/LOTM-Reader" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

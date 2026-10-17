@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Handlebars Daily Trending</title>
+    <description>Daily Trending of Handlebars in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:17:52 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>huggingface/hub-docs</title>
+      <link>https://github.com/huggingface/hub-docs</link>
+      <description>&lt;p&gt;Docs of the Hugging Face Hub&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5d95910242dac5a0a88f14e64d139b792b96a9563f2984591381ee46dddadb7b/huggingface/hub-docs" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>elastic/integrations</title>
+      <link>https://github.com/elastic/integrations</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/50f6bef335bf3b486998e743a88700037a8747950da6c497f4f4b2b9d79f435a/elastic/integrations" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub MLIR Weekly Trending</title>
+    <description>Weekly Trending of MLIR in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:28:30 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>google/heir</title>
+      <link>https://github.com/google/heir</link>
+      <description>&lt;p&gt;The compiler for homomorphic encryption&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d98d4cf8425ec895b1fdaf84aa835463075a8b11fee08a2997060c83433db819/google/heir" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

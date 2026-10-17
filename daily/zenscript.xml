@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub ZenScript Daily Trending</title>
+    <description>Daily Trending of ZenScript in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:23:46 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>pa1nki113r/Project_Brutality</title>
+      <link>https://github.com/pa1nki113r/Project_Brutality</link>
+      <description>&lt;p&gt;This is the primary repository for collaborative efforts between Doom developers on Project Brutality. This is the bleeding-edge version that is constantly being developed on, and not meant in any way shape or form to be representative of the final version of the mod.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/bf135b537c19954a3e57e1acb80af0c55b10ac5224b80d2dbbc1f8d7af64763e/pa1nki113r/Project_Brutality" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

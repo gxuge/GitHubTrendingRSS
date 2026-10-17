@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub D Monthly Trending</title>
+    <description>Monthly Trending of D in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:34:23 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>gnunn1/tilix</title>
+      <link>https://github.com/gnunn1/tilix</link>
+      <description>&lt;p&gt;A tiling terminal emulator for Linux using GTK+ 3&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ddcbccc14b445cd4c3aee31672e0532c8441ebf56db81175c8c7c42139906a6c/gnunn1/tilix" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

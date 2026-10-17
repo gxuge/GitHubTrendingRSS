@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub PLpgSQL Daily Trending</title>
+    <description>Daily Trending of PLpgSQL in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:20:46 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>pgpartman/pg_partman</title>
+      <link>https://github.com/pgpartman/pg_partman</link>
+      <description>&lt;p&gt;Partition management extension for PostgreSQL&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/292004c48cca6ae040de397363f2fbe0e4e8794bbab72c85d5a2a1741750d1a2/pgpartman/pg_partman" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>openmaptiles/openmaptiles</title>
+      <link>https://github.com/openmaptiles/openmaptiles</link>
+      <description>&lt;p&gt;OpenMapTiles Vector Tile Schema Implementation&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/dac44e60166772d8c7cd848544c0d28f3e7c03630b1558a11bee6f6409f47932/openmaptiles/openmaptiles" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

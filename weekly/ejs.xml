@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub EJS Weekly Trending</title>
+    <description>Weekly Trending of EJS in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:25:45 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Fechin/reference</title>
+      <link>https://github.com/Fechin/reference</link>
+      <description>&lt;p&gt;⭕ Share quick reference cheat sheet for developers.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/322855089/abeede87-dd82-46f0-9d4b-003e91514bf7" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

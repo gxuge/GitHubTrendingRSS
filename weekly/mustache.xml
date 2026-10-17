@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Mustache Weekly Trending</title>
+    <description>Weekly Trending of Mustache in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:28:38 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>renovatebot/helm-charts</title>
+      <link>https://github.com/renovatebot/helm-charts</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/388685685adcecb932dd98d00d1290f57191931e53dd37c02efec47b0e7cdbb5/renovatebot/helm-charts" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>argoproj/argo-helm</title>
+      <link>https://github.com/argoproj/argo-helm</link>
+      <description>&lt;p&gt;ArgoProj Helm Charts&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/33dcb8d850422659d3972dcefccb34896f83be12bb582417ca37ae2df6b8f4da/argoproj/argo-helm" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>codecentric/helm-charts</title>
+      <link>https://github.com/codecentric/helm-charts</link>
+      <description>&lt;p&gt;A curated set of Helm charts brought to you by codecentric&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/84501551810437b93c4ee9f4a89b53b2207d4172033da8fc9e0eea51403c4a88/codecentric/helm-charts" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

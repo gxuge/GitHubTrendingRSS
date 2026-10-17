@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Verilog Weekly Trending</title>
+    <description>Weekly Trending of Verilog in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:32:08 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>The-OpenROAD-Project/OpenROAD</title>
+      <link>https://github.com/The-OpenROAD-Project/OpenROAD</link>
+      <description>&lt;p&gt;OpenROAD&#39;s unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/fb33582fdeea6e10e5ace6ac5a2ddf28769643d0faed245bcc91ff7782793d4e/The-OpenROAD-Project/OpenROAD" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

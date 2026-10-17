@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Verilog Daily Trending</title>
+    <description>Daily Trending of Verilog in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:23:23 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>The-OpenROAD-Project/OpenROAD</title>
+      <link>https://github.com/The-OpenROAD-Project/OpenROAD</link>
+      <description>&lt;p&gt;OpenROAD&#39;s unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ad393eaa5cbd6a2ba94389c3df121e4de5b314c5e4c9d8adc2ff22fe552a4831/The-OpenROAD-Project/OpenROAD" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>EttusResearch/uhd</title>
+      <link>https://github.com/EttusResearch/uhd</link>
+      <description>&lt;p&gt;The USRP™ Hardware Driver Repository&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c8e0ebc0dfbe99e16fd02ec305e11549243306a1e880de617d183b17d3643d1e/EttusResearch/uhd" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>The-OpenROAD-Project/OpenROAD-flow-scripts</title>
+      <link>https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts</link>
+      <description>&lt;p&gt;OpenROAD&#39;s scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a3f5375d701b54f102a9860190e24abd7b07f1d3bd8ca8e1ba6ec373e6f194df/The-OpenROAD-Project/OpenROAD-flow-scripts" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>sheldonucr/ucr-eecs168-lab</title>
+      <link>https://github.com/sheldonucr/ucr-eecs168-lab</link>
+      <description>&lt;p&gt;The lab schedules for EECS168 at UC Riverside&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/39c64e4f611c22756166a455a51eae598040d111638e8252dcecc2ab510df3ce/sheldonucr/ucr-eecs168-lab" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

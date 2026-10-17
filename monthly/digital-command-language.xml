@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub DIGITAL Command Language Monthly Trending</title>
+    <description>Monthly Trending of DIGITAL Command Language in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:34:33 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>github/dmca</title>
+      <link>https://github.com/github/dmca</link>
+      <description>&lt;p&gt;Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/33e47259f0e546c2f0107bb6a80ed58bc5e785cc5b7e75a3efc9b0410900b45c/github/dmca" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

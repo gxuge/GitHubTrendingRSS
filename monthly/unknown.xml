@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Unknown languages Monthly Trending</title>
+    <description>Monthly Trending of Unknown languages in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:32:40 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>byJoey/cfnew</title>
+      <link>https://github.com/byJoey/cfnew</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4eb275969f319e4ea5a1c77b6eea756d60e938db4b3812884bba1950ffd4d04a/byJoey/cfnew" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>afshinea/stanford-cme-295-transformers-large-language-models</title>
+      <link>https://github.com/afshinea/stanford-cme-295-transformers-large-language-models</link>
+      <description>&lt;p&gt;VIP cheatsheet for Stanford&#39;s CME 295 Transformers and Large Language Models&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/216bfe0a008ab08c1098879e734172228e88ad62f36dce096cd68b807f622798/afshinea/stanford-cme-295-transformers-large-language-models" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>liquidslr/system-design-notes</title>
+      <link>https://github.com/liquidslr/system-design-notes</link>
+      <description>&lt;p&gt;Notes of the book System Desgin Interview - An Insider&#39;s Guide&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/40680820c48714f3fb71baa7aeb73c8bc13640b1d5834778d0fa0ad5561f086d/liquidslr/system-design-notes" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>octocat/Hello-World</title>
+      <link>https://github.com/octocat/Hello-World</link>
+      <description>&lt;p&gt;My first repository on GitHub!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1bd370169ab21a5c5a696ca4180da354e3ee5df61ced53cbc069539926fb3584/octocat/Hello-World" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ruanyf/weekly</title>
+      <link>https://github.com/ruanyf/weekly</link>
+      <description>&lt;p&gt;科技爱好者周刊，每周五发布&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b77c6d48a3ab7831a3e236b317ac5709402ebeaaac9fc2409e61f2803e81bad4/ruanyf/weekly" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>0xk1h0/ChatGPT_DAN</title>
+      <link>https://github.com/0xk1h0/ChatGPT_DAN</link>
+      <description>&lt;p&gt;ChatGPT DAN, Jailbreaks prompt&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5e2a07fc55eb6efa788b3abb891bec73d1b74c8984f2d3a00ad574cd0d225f3e/0xk1h0/ChatGPT_DAN" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>PlexPt/awesome-chatgpt-prompts-zh</title>
+      <link>https://github.com/PlexPt/awesome-chatgpt-prompts-zh</link>
+      <description>&lt;p&gt;ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/22c81feaf4ae75849a3fe17702ac2134d7217e89a5e9a396dbcecdadcdcca5ef/PlexPt/awesome-chatgpt-prompts-zh" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>kelseyhightower/kubernetes-the-hard-way</title>
+      <link>https://github.com/kelseyhightower/kubernetes-the-hard-way</link>
+      <description>&lt;p&gt;Bootstrap Kubernetes the hard way. No scripts.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/69ff3e328548708ca0dbfb64a80e4f967b9d46d5e0085e93db191434b76feb1b/kelseyhightower/kubernetes-the-hard-way" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>sindresorhus/awesome</title>
+      <link>https://github.com/sindresorhus/awesome</link>
+      <description>&lt;p&gt;😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/21737465/46445f80-a5ae-11ea-921f-c39aefbcdcac" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>GorvGoyl/Clone-Wars</title>
+      <link>https://github.com/GorvGoyl/Clone-Wars</link>
+      <description>&lt;p&gt;100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/317836248/96dbc980-8418-11eb-956e-b6af768e1b3e" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Au1rxx/free-vpn-subscriptions</title>
+      <link>https://github.com/Au1rxx/free-vpn-subscriptions</link>
+      <description>&lt;p&gt;Free Clash, sing-box, and V2Ray subscription feed with live node status and setup guides&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/af0b677a9a20d4499564ace42721c6adb8e855e4b8c0e309fab60fe2474bf013/Au1rxx/free-vpn-subscriptions" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

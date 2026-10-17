@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Tcl Daily Trending</title>
+    <description>Daily Trending of Tcl in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:22:50 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>analogdevicesinc/hdl</title>
+      <link>https://github.com/analogdevicesinc/hdl</link>
+      <description>&lt;p&gt;HDL libraries and projects&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/2900f61eb1affbef9249ed69038d15d37458fb69469c3230225dd06899038079/analogdevicesinc/hdl" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>macports/macports-ports</title>
+      <link>https://github.com/macports/macports-ports</link>
+      <description>&lt;p&gt;The MacPorts ports tree&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/abddae230a7b5174d3c657325453533e2b29b131106d6a26de97d2082c377138/macports/macports-ports" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Digilent/digilent-xdc</title>
+      <link>https://github.com/Digilent/digilent-xdc</link>
+      <description>&lt;p&gt;A collection of Master XDC files for Digilent FPGA and Zynq boards.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/47c56eab0c68c9c7676badeb2d000cf8c21670992ab1ab9bd6f10c545e2e9fe5/Digilent/digilent-xdc" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Digilent/vivado-boards</title>
+      <link>https://github.com/Digilent/vivado-boards</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/3edd82d5ef90fe3a6f7dac03a78a3f25c1f62977ea9ae4d86e15276079fcecc1/Digilent/vivado-boards" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

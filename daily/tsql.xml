@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub TSQL Daily Trending</title>
+    <description>Daily Trending of TSQL in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:23:03 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>DataWithBaraa/sql-ultimate-course</title>
+      <link>https://github.com/DataWithBaraa/sql-ultimate-course</link>
+      <description>&lt;p&gt;The most comprehensive SQL guide from a real-world expert! Learn everything from basics to advanced queries, optimizations, and real-world SQL&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1613116b9a536b41f954b54d3c3144ee31e87d4d2ee8ad012be8d90f8a14e7c6/DataWithBaraa/sql-ultimate-course" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>lerocha/chinook-database</title>
+      <link>https://github.com/lerocha/chinook-database</link>
+      <description>&lt;p&gt;Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/14e80952ee29e08bb22f780f964fd06df15af7e3d7166c7af5b9f4854b1988ec/lerocha/chinook-database" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

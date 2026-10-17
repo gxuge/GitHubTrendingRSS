@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Mermaid Daily Trending</title>
+    <description>Daily Trending of Mermaid in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:19:39 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>MicrosoftDocs/power-automate-docs</title>
+      <link>https://github.com/MicrosoftDocs/power-automate-docs</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7395331e770b16e7f6ed84589b72d13ae6543a00746458d907f1c37b0abb74ef/MicrosoftDocs/power-automate-docs" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

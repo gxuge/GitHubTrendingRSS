@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Blade Monthly Trending</title>
+    <description>Monthly Trending of Blade in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:33:27 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>laravel/laravel</title>
+      <link>https://github.com/laravel/laravel</link>
+      <description>&lt;p&gt;Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5048697d86402eccf2634c10d06a3df0055fbc7affbd90a894c860b2489384eb/laravel/laravel" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>lsky-org/lsky-pro</title>
+      <link>https://github.com/lsky-org/lsky-pro</link>
+      <description>&lt;p&gt;☁️兰空图床(Lsky Pro) - Your photo album on the cloud.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/db16ec9a241206fb56523fda9e43fc06122318e9632e800accc0cb8b712a88ff/lsky-org/lsky-pro" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

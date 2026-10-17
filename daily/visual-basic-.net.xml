@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Visual Basic .NET Daily Trending</title>
+    <description>Daily Trending of Visual Basic .NET in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:23:27 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>VBA-tools/VBA-JSON</title>
+      <link>https://github.com/VBA-tools/VBA-JSON</link>
+      <description>&lt;p&gt;JSON conversion and parsing for VBA&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/51b482be45646a149fb3cf15693f7047c86cf9d0617eb83f2aab89efbfc5efcd/VBA-tools/VBA-JSON" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

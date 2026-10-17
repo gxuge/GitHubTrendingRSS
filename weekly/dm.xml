@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub DM Weekly Trending</title>
+    <description>Weekly Trending of DM in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:25:19 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>tgstation/tgstation</title>
+      <link>https://github.com/tgstation/tgstation</link>
+      <description>&lt;p&gt;The /tg/station branch of SS13.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c19d45a9369ceb72c4b4ef6806b1fa5af8d81dc1e73b51baccde68b3a3fb3630/tgstation/tgstation" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>goonstation/goonstation</title>
+      <link>https://github.com/goonstation/goonstation</link>
+      <description>&lt;p&gt;Repository for the Goonstation branch of SS13&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/252047483/60d91085-571f-4606-894c-6cd6ba10d32f" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

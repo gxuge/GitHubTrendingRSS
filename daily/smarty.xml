@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Smarty Daily Trending</title>
+    <description>Daily Trending of Smarty in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:22:20 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>apache/sling-site</title>
+      <link>https://github.com/apache/sling-site</link>
+      <description>&lt;p&gt;Apache Sling Website&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d105631f55bcbe73e05e18f78bd866ea0ba784c2f4f3f1b83b980dae9728739c/apache/sling-site" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

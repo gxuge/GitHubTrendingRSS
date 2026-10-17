@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub reStructuredText Weekly Trending</title>
+    <description>Weekly Trending of reStructuredText in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:30:02 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>python/peps</title>
+      <link>https://github.com/python/peps</link>
+      <description>&lt;p&gt;Python Enhancement Proposals&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/dc89ad0836ff65bec48d6b74738e6ef3b9cfcf0b17ab3fd9ab6ed0b0591bbad4/python/peps" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

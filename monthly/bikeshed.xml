@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Bikeshed Monthly Trending</title>
+    <description>Monthly Trending of Bikeshed in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:33:25 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>webmachinelearning/webmcp</title>
+      <link>https://github.com/webmachinelearning/webmcp</link>
+      <description>&lt;p&gt;🤖 WebMCP&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/59944ac0d587a06fab53260b6c1b0da449150b0a10f41acb4be855919a3fb15b/webmachinelearning/webmcp" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>w3c/webauthn</title>
+      <link>https://github.com/w3c/webauthn</link>
+      <description>&lt;p&gt;Web Authentication: An API for accessing Public Key Credentials&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e1c11205b947199162146d28db46ba6be659e30b88f75c5a92086175741c0da7/w3c/webauthn" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>w3c/csswg-drafts</title>
+      <link>https://github.com/w3c/csswg-drafts</link>
+      <description>&lt;p&gt;CSS Working Group Editor Drafts&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1cd63bcf9c6ba7078d9814b182777d6e667ac30f916098224d69e3ffed1d51c3/w3c/csswg-drafts" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

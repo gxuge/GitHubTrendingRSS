@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub AutoIt Daily Trending</title>
+    <description>Daily Trending of AutoIt in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:15:15 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>rcmaehl/MSEdgeRedirect</title>
+      <link>https://github.com/rcmaehl/MSEdgeRedirect</link>
+      <description>&lt;p&gt;A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/267d54fbe3f458bde54196d809287fbbd4f940fd0e1927f0a374b7e5a6990cf4/rcmaehl/MSEdgeRedirect" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Bioruebe/UniExtract2</title>
+      <link>https://github.com/Bioruebe/UniExtract2</link>
+      <description>&lt;p&gt;Universal Extractor 2 is a tool to extract files from any type of archive or installer.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b685699de1227da09efe83296fec536cff8b863a06f74efaa53490a1944b0014/Bioruebe/UniExtract2" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

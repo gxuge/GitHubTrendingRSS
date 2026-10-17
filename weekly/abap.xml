@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub ABAP Weekly Trending</title>
+    <description>Weekly Trending of ABAP in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:23:59 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>abap2UI5/abap2UI5</title>
+      <link>https://github.com/abap2UI5/abap2UI5</link>
+      <description>&lt;p&gt;Build UI5 Apps Purely in ABAP&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/574401773/01d11519-f023-4231-a694-da7ede0301b2" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

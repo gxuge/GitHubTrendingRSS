@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Adblock Filter List Daily Trending</title>
+    <description>Daily Trending of Adblock Filter List in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:15:00 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>easylist/easylist</title>
+      <link>https://github.com/easylist/easylist</link>
+      <description>&lt;p&gt;EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy&#39;s Social/Annoyances/Notifications Blocking List)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c8b9a0dbf96bf6c5db1940ae985c25e9a32bfc3f5126652a0be7c12c211dcf09/easylist/easylist" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

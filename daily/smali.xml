@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Smali Daily Trending</title>
+    <description>Daily Trending of Smali in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:22:18 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>The412Banner/BannerHub</title>
+      <link>https://github.com/The412Banner/BannerHub</link>
+      <description>&lt;p&gt;GameHub ReVanced — extended with GOG, Epic &amp; Amazon game libraries, Component Manager, Winlator HUD, per-game controls &amp; configs, and more. Built via apktool smali patching.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/3c9d6faf918dd25b5363011e03adfcc725e211d251544613a95a1baa94ecdcae/The412Banner/BannerHub" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>LittleSurvival/copymanga-copy20</title>
+      <link>https://github.com/LittleSurvival/copymanga-copy20</link>
+      <description>&lt;p&gt;Mihon/Tachiyomi系列 拷貝漫畫等中文資源的書源 相關社群見readme&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/944a03e2633e668c08250af7b69e8617c190f1620f82f43c4c8d0a50a2ba9a5a/LittleSurvival/copymanga-copy20" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Nix Weekly Trending</title>
+    <description>Weekly Trending of Nix in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:28:46 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>supabase/postgres</title>
+      <link>https://github.com/supabase/postgres</link>
+      <description>&lt;p&gt;Unmodified Postgres with some useful extensions&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/254578428/e6939080-9b79-11ea-84f8-8f6bf3c317cd" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>chaotic-cx/nyx</title>
+      <link>https://github.com/chaotic-cx/nyx</link>
+      <description>&lt;p&gt;Nix flake for &quot;too much bleeding-edge&quot; and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1dd01faf4c48a10ff550a0c06851fda795c1dec2edf38d8b5c4230c3b74a1444/chaotic-cx/nyx" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>numtide/llm-agents.nix</title>
+      <link>https://github.com/numtide/llm-agents.nix</link>
+      <description>&lt;p&gt;Nix packages for AI coding agents and development tools. Automatically updated daily.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1022026685/54e22701-d429-43e1-9d5b-13544b7d3607" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>NixOS/nix.dev</title>
+      <link>https://github.com/NixOS/nix.dev</link>
+      <description>&lt;p&gt;Official documentation for getting things done with Nix.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5c317f3e4d55c8491d9578220fc7f539bf4dc34ecf175b22107f2cfb2567b344/NixOS/nix.dev" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Tarow/nix-podman-stacks</title>
+      <link>https://github.com/Tarow/nix-podman-stacks</link>
+      <description>&lt;p&gt;Home Manager Modules for integrated Podman Stacks&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/45c845142bc338b7b5ba01d882fd3ba6a61b59ead68e52d9529fb5555d4c19f9/Tarow/nix-podman-stacks" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

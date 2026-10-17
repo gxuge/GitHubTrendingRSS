@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Cython Weekly Trending</title>
+    <description>Weekly Trending of Cython in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:25:10 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>TA-Lib/ta-lib-python</title>
+      <link>https://github.com/TA-Lib/ta-lib-python</link>
+      <description>&lt;p&gt;Python wrapper for TA-Lib (http://ta-lib.org/).&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/270c2d06de85f5a85db87ee7394eaa2662964311ce11ed1b2dbb936b8f5a70c0/TA-Lib/ta-lib-python" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>cython/cython</title>
+      <link>https://github.com/cython/cython</link>
+      <description>&lt;p&gt;The most widely used Python to C compiler&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7e63a145349222a2cacfb69ad70df065fe2de67a6125e72fb7ec1f54aa68f8ed/cython/cython" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

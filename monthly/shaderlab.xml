@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub ShaderLab Monthly Trending</title>
+    <description>Monthly Trending of ShaderLab in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:40:32 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>shinyflvre/Mate-Engine</title>
+      <link>https://github.com/shinyflvre/Mate-Engine</link>
+      <description>&lt;p&gt;A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/12567fcca14702c7e233450f80f19f41ac59d976cae3303caf1c257d7d1dae57/shinyflvre/Mate-Engine" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

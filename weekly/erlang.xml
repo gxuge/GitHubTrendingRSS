@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Erlang Weekly Trending</title>
+    <description>Weekly Trending of Erlang in GitHub</description>
+    <pubDate>Sat, 17 Oct 2026 05:25:52 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>emqx/emqx</title>
+      <link>https://github.com/emqx/emqx</link>
+      <description>&lt;p&gt;The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/aa8cdc5cac591285bae82a4d7052be50c0c000ea9dd59ab4d1c40efdad99faad/emqx/emqx" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>apache/couchdb</title>
+      <link>https://github.com/apache/couchdb</link>
+      <description>&lt;p&gt;Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/206417/767a9a00-cb2b-11ea-90b5-46d754c4ad3e" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>erlang/otp</title>
+      <link>https://github.com/erlang/otp</link>
+      <description>&lt;p&gt;Erlang/OTP&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/876a52b078b57d980caab809f9c7c540292a720ed14812999ccdaade0115ba8f/erlang/otp" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>erlang/rebar3</title>
+      <link>https://github.com/erlang/rebar3</link>
+      <description>&lt;p&gt;Erlang build tool that makes it easy to compile and test Erlang applications and releases.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1ec1136d07dfc5344d3630618a91b6d369edab7bfdafff04dc727e47b11d96ce/erlang/rebar3" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>
