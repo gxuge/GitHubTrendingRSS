@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Tape Monthly Trending</title>
+    <description>Monthly Trending of Tape in GitHub</description>
+    <pubDate>Sat, 24 Oct 2026 05:44:06 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>github/copilot-cli-for-beginners</title>
+      <link>https://github.com/github/copilot-cli-for-beginners</link>
+      <description>&lt;p&gt;Learn how to get started using the GitHub Copilot CLI!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c9b39478cded04b30420096c079861a0e407f57dd1c1e260b7763e2c2731c305/github/copilot-cli-for-beginners" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Game Maker Language Weekly Trending</title>
+    <description>Weekly Trending of Game Maker Language in GitHub</description>
+    <pubDate>Sat, 24 Oct 2026 05:28:32 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>MegaStrimp/Kirby-Soft-and-Wet</title>
+      <link>https://github.com/MegaStrimp/Kirby-Soft-and-Wet</link>
+      <description>&lt;p&gt;🎮Kirby ~ Soft &amp; Wet - A fishing minigame with over a thousand catchable fish from various other media. Meant to be an expansion of the minigame from Kirby and the Forgotten Land. This is a non-profit fan project. All rights belong to their respective owners&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c9cde74b3fb17ab5c156ebd53f94674f14f0bc410da0a9d01678cfa7d7466d6e/MegaStrimp/Kirby-Soft-and-Wet" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

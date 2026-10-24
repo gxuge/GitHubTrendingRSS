@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Open Policy Agent Weekly Trending</title>
+    <description>Weekly Trending of Open Policy Agent in GitHub</description>
+    <pubDate>Sat, 24 Oct 2026 05:31:41 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Azure/azure-policy</title>
+      <link>https://github.com/Azure/azure-policy</link>
+      <description>&lt;p&gt;Repository for Azure Resource Policy built-in definitions and samples&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/48e28fdf62f6b62078b3b469e85c12a69d4f6d8a918eff23913b2ef6672025c3/Azure/azure-policy" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

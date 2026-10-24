@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub PLpgSQL Monthly Trending</title>
+    <description>Monthly Trending of PLpgSQL in GitHub</description>
+    <pubDate>Sat, 24 Oct 2026 05:41:45 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>openmaptiles/openmaptiles</title>
+      <link>https://github.com/openmaptiles/openmaptiles</link>
+      <description>&lt;p&gt;OpenMapTiles Vector Tile Schema Implementation&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b3b604e4dfe7ee026fb415c62484bd24f3c85db43f6a793703c5368c602602e0/openmaptiles/openmaptiles" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>guchengwuyue/yshop-drink</title>
+      <link>https://github.com/guchengwuyue/yshop-drink</link>
+      <description>&lt;p&gt;yshop意象点餐(扫码点餐)系统，在线点餐(外卖与自取)小程序模式，支持多门店模式，支持saas多租户模式，基础技术Java17+sprringboot3+vue3+uniapp(vue3)（支持H5、微信小程序） 采用当前流行技术组合的前后端分离点餐系统： SpringBoot3、Spring Security OAuth2、MybatisPlus、SpringSecurity、jwt、redis、Vue3的前后端分离的系统&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/42cf91d9c80447e589bc4ac71ef5a969319b311de66f9af341864c01b2c07871/guchengwuyue/yshop-drink" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

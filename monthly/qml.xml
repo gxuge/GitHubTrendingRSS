@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub QML Monthly Trending</title>
+    <description>Monthly Trending of QML in GitHub</description>
+    <pubDate>Sat, 24 Oct 2026 05:42:20 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>snowarch/iNiR</title>
+      <link>https://github.com/snowarch/iNiR</link>
+      <description>&lt;p&gt;// A Niri shell // with bloat and stuff!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1102221632/b61ec593-4cb2-4e53-afb0-bd2a49fec247" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ladybug-me/caelestia-kde</title>
+      <link>https://github.com/ladybug-me/caelestia-kde</link>
+      <description>&lt;p&gt;Caelestia ported to KDE Plasma 6&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1276240340/552fa68b-7ec5-4091-bd88-010379dba997" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>status-im/status-app</title>
+      <link>https://github.com/status-im/status-app</link>
+      <description>&lt;p&gt;Status App client made in Nim &amp; QML&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/289f88074d1bd9b1cbbc9319a40883d743df24abd08fcbb71112eeaffbf80042/status-im/status-app" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>caelestia-dots/shell</title>
+      <link>https://github.com/caelestia-dots/shell</link>
+      <description>&lt;p&gt;A fluid, morphing shell for your Linux desktop&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/844956ccf996b775ff6c0d84e73c27a5e1c7dc31cf9f96f6d6f20147ddc4088a/caelestia-dots/shell" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>pctrade/end4-pC</title>
+      <link>https://github.com/pctrade/end4-pC</link>
+      <description>&lt;p&gt;Custom end4&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b6f22b83165bd0ae41e2dbeceaec58e7ce9a0caf8bb6da15e9e05ab0226bff7d/pctrade/end4-pC" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>huacnlee/omamail</title>
+      <link>https://github.com/huacnlee/omamail</link>
+      <description>&lt;p&gt;Omarchy mail plugin with Gmail, HEY and IMAP supports.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1339459045/4ee238fa-c92b-44a7-afb1-bea9f3de7a81" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>end-4/dots-hyprland</title>
+      <link>https://github.com/end-4/dots-hyprland</link>
+      <description>&lt;p&gt;Usability-first dotfiles&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/583820372/55988d08-a8db-421a-8761-f6e98ea89ce3" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>mylinuxforwork/dotfiles</title>
+      <link>https://github.com/mylinuxforwork/dotfiles</link>
+      <description>&lt;p&gt;The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install for Arch Linux, Fedora and openSuse.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/09a043ae04688006ed4adf20246db6159eb16c8440fc384b1715f77af66a1655/mylinuxforwork/dotfiles" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

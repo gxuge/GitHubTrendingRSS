@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub OpenQASM Daily Trending</title>
+    <description>Daily Trending of OpenQASM in GitHub</description>
+    <pubDate>Sat, 24 Oct 2026 05:22:30 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>zxcalc/pyzx</title>
+      <link>https://github.com/zxcalc/pyzx</link>
+      <description>&lt;p&gt;Python library for quantum circuit rewriting and optimisation using the ZX-calculus&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/468beb6a4c54980869068a39ddb238ad12dd5c46125b47a21b438f951bfefefa/zxcalc/pyzx" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

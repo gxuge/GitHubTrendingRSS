@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Rich Text Format Monthly Trending</title>
+    <description>Monthly Trending of Rich Text Format in GitHub</description>
+    <pubDate>Sat, 24 Oct 2026 05:42:37 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>jlord/patchwork</title>
+      <link>https://github.com/jlord/patchwork</link>
+      <description>&lt;p&gt;All the Git-it Workshop completers!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5c4a2fceacc4f2d594682c7babf182f6bb74dd592502f6c84acb6c94336871e5/jlord/patchwork" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>mathoudebine/turing-smart-screen-python</title>
+      <link>https://github.com/mathoudebine/turing-smart-screen-python</link>
+      <description>&lt;p&gt;Unofficial Python system monitor and library for small IPS USB-C displays like Turing Smart Screen / TURZX&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/371838316/5527eb80-c023-11eb-8fbf-c774fbec0fd8" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Logos Monthly Trending</title>
+    <description>Monthly Trending of Logos in GitHub</description>
+    <pubDate>Sat, 24 Oct 2026 05:40:12 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Tonwalter888/YouMod</title>
+      <link>https://github.com/Tonwalter888/YouMod</link>
+      <description>&lt;p&gt;A YouTube tweak that try to make similar features from YTLite as much as possible.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c35cd809127c634d8418b52d3b5a12fcff447dd3ccc43493691943b57c23732b/Tonwalter888/YouMod" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>dayanch96/YTLite</title>
+      <link>https://github.com/dayanch96/YTLite</link>
+      <description>&lt;p&gt;A flexible enhancer for YouTube on iOS&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a75ad1e03cc80d5bc00b05d3c5386019f42814fcbbe1adb3d1339bf921ab40bb/dayanch96/YTLite" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

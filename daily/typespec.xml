@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub TypeSpec Daily Trending</title>
+    <description>Daily Trending of TypeSpec in GitHub</description>
+    <pubDate>Sat, 24 Oct 2026 05:25:16 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Azure/azure-rest-api-specs</title>
+      <link>https://github.com/Azure/azure-rest-api-specs</link>
+      <description>&lt;p&gt;The source for REST API specifications for Microsoft Azure.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/2807b995ef277ad97d0f3991efaeb020aa9c2964e940e4b50fb65d12007d6e54/Azure/azure-rest-api-specs" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

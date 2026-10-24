@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub CoffeeScript Weekly Trending</title>
+    <description>Weekly Trending of CoffeeScript in GitHub</description>
+    <pubDate>Sat, 24 Oct 2026 05:27:05 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>FelisCatus/SwitchyOmega</title>
+      <link>https://github.com/FelisCatus/SwitchyOmega</link>
+      <description>&lt;p&gt;No longer maintained, see pinned issues&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e4cf448ae5a65956716e8e9b6fb556a6357d90558e452b29b66cc00a06b77b92/FelisCatus/SwitchyOmega" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ccd0/4chan-x</title>
+      <link>https://github.com/ccd0/4chan-x</link>
+      <description>&lt;p&gt;Adds various features to anonymous imageboards.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ad643fecb85972ff25f8c449f1b80aec2dd278b00fc01ea5cd80a595b1ed7850/ccd0/4chan-x" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>dropbox/zxcvbn</title>
+      <link>https://github.com/dropbox/zxcvbn</link>
+      <description>&lt;p&gt;Low-Budget Password Strength Estimation&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b7cb33fe499fe0d1208735ea333ddb059c694d584f939204a7f96dc16d10f329/dropbox/zxcvbn" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

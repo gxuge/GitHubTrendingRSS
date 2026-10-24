@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub ASL Monthly Trending</title>
+    <description>Monthly Trending of ASL in GitHub</description>
+    <pubDate>Sat, 24 Oct 2026 05:35:36 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>dortania/Getting-Started-With-ACPI</title>
+      <link>https://github.com/dortania/Getting-Started-With-ACPI</link>
+      <description>&lt;p&gt;Repo for Getting Started With ACPI&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/df6adbdef7a5df9ecdfef185009725fa1c31e90d116f460ea15065f0ac3b9b7b/dortania/Getting-Started-With-ACPI" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

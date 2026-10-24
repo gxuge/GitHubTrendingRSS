@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Isabelle Monthly Trending</title>
+    <description>Monthly Trending of Isabelle in GitHub</description>
+    <pubDate>Sat, 24 Oct 2026 05:39:04 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>seL4/l4v</title>
+      <link>https://github.com/seL4/l4v</link>
+      <description>&lt;p&gt;seL4 specification and proofs&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/10565d06040529be669a38ba728f91a715d4ef713e209a00df83fa788bbd7bc1/seL4/l4v" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

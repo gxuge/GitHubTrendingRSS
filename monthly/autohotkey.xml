@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub AutoHotkey Monthly Trending</title>
+    <description>Monthly Trending of AutoHotkey in GitHub</description>
+    <pubDate>Sat, 24 Oct 2026 05:35:40 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>NatroTeam/NatroMacro</title>
+      <link>https://github.com/NatroTeam/NatroMacro</link>
+      <description>&lt;p&gt;A Bee Swarm Simulator macro for Windows&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/47ae8b7fb5f9742cb467d0dd11414384f04bcafba51d92649ad8371e039184f5/NatroTeam/NatroMacro" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>umageddon/namDHC</title>
+      <link>https://github.com/umageddon/namDHC</link>
+      <description>&lt;p&gt;Windows frontend for CHDMAN - written in Autohotkey&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ba1b190a0a30775a0a0aaab5cfec0b89220a8f21d758d1471f8db6892cbb57d2/umageddon/namDHC" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Zig Weekly Trending</title>
+    <description>Weekly Trending of Zig in GitHub</description>
+    <pubDate>Sat, 24 Oct 2026 05:35:04 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>zigtools/zls</title>
+      <link>https://github.com/zigtools/zls</link>
+      <description>&lt;p&gt;A language server for Zig supporting developers with features like autocomplete and goto definition&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/3ffdf3f672470ef062df4d67ec2f9d3370b7904fdda7ac944ac07aa73b374e80/zigtools/zls" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>vercel-labs/fx</title>
+      <link>https://github.com/vercel-labs/fx</link>
+      <description>&lt;p&gt;Unix like coding agent&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/2c3b796667e2859126b9b6f52ccb224e031d52dde59c77e1b80a33713bfedcd7/vercel-labs/fx" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Seafoam-Labs/Shelly-ALPM</title>
+      <link>https://github.com/Seafoam-Labs/Shelly-ALPM</link>
+      <description>&lt;p&gt;Pacman alternative for ArchLinux, designed with you in mind.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1129876754/c6545096-6b92-4327-9c46-494aa3428bc6" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ziglang/zig</title>
+      <link>https://github.com/ziglang/zig</link>
+      <description>&lt;p&gt;Moved to Codeberg&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/63c4e08125ed8c955d865383dd9717e9e1cd5ee214a5185c576a210a82fcb942/ziglang/zig" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>lightpanda-io/browser</title>
+      <link>https://github.com/lightpanda-io/browser</link>
+      <description>&lt;p&gt;Lightpanda: the headless browser designed for AI and automation&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/fc97fc023b0229e3e3fbaef4e5da5b6ff7484a2f4f23e21d62c6ef32086e2a9e/lightpanda-io/browser" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ghostty-org/ghostty</title>
+      <link>https://github.com/ghostty-org/ghostty</link>
+      <description>&lt;p&gt;👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/74969d880904a6bbe9c327825f227ce11194828260f80c70743207c8a5c0cd3d/ghostty-org/ghostty" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>dmtrKovalenko/odiff</title>
+      <link>https://github.com/dmtrKovalenko/odiff</link>
+      <description>&lt;p&gt;A very fast SIMD-first image comparison library (with nodejs API)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e91670a13c1c9b1d3c8c938f265adadafce22c2333e1148c9abf2ed3bac0a08f/dmtrKovalenko/odiff" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>neurosnap/zmx</title>
+      <link>https://github.com/neurosnap/zmx</link>
+      <description>&lt;p&gt;Session attach/detach for the terminal&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d32f5ffe6ce2149461bb17c2d23edc1a40cdbcdcc8fe42dd0c8669cccf2e4670/neurosnap/zmx" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>tonybanters/oxwm</title>
+      <link>https://github.com/tonybanters/oxwm</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/6e7f26860e3b72faa85a54e820b96ee72cbc3657c060492c01f3284f226a16ef/tonybanters/oxwm" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>vercel-labs/native</title>
+      <link>https://github.com/vercel-labs/native</link>
+      <description>&lt;p&gt;Toolkit for building native desktop apps&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c92b07be0deb0681cb272f7da723092ff5f7a7e5bfed54c4b50a6f0a843d322d/vercel-labs/native" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

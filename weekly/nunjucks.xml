@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Nunjucks Weekly Trending</title>
+    <description>Weekly Trending of Nunjucks in GitHub</description>
+    <pubDate>Sat, 24 Oct 2026 05:31:28 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>alphagov/govuk-design-system</title>
+      <link>https://github.com/alphagov/govuk-design-system</link>
+      <description>&lt;p&gt;One place for service teams to find styles, components and patterns for designing government services.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/798bb85bef694164f31b16e57c6ed2274bc3ddec47c679c5967896f942a79bf9/alphagov/govuk-design-system" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>
