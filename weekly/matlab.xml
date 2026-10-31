@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub MATLAB Weekly Trending</title>
+    <description>Weekly Trending of MATLAB in GitHub</description>
+    <pubDate>Sat, 31 Oct 2026 06:45:28 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>mohammadrezwankhan/matlab-simulink-energy-lab</title>
+      <link>https://github.com/mohammadrezwankhan/matlab-simulink-energy-lab</link>
+      <description>&lt;p&gt;Run reduced-order battery, thermal, converter and BESS control models with transparent equations and repeatable testing.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1298160216/7e25f97c-271c-4bc9-a85f-36e5f4a028d6" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>matlab/matlab-agentic-toolkit</title>
+      <link>https://github.com/matlab/matlab-agentic-toolkit</link>
+      <description>&lt;p&gt;The MATLAB Agentic Toolkit brings proven MATLAB capabilities to AI agents, making engineering and scientific workflows agent-ready.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1200800171/2dbc9d6b-257e-4c09-aa35-11cf556196ae" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>fieldtrip/fieldtrip</title>
+      <link>https://github.com/fieldtrip/fieldtrip</link>
+      <description>&lt;p&gt;The MATLAB toolbox for MEG, EEG and iEEG analysis&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/83c11855168fbe3a635b35537514ab337a1513c95a96f809c08fda0bdc75c716/fieldtrip/fieldtrip" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

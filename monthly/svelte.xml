@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Svelte Monthly Trending</title>
+    <description>Monthly Trending of Svelte in GitHub</description>
+    <pubDate>Sat, 31 Oct 2026 07:00:32 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>imputnet/cobalt</title>
+      <link>https://github.com/imputnet/cobalt</link>
+      <description>&lt;p&gt;best way to save what you love&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/83166d20b5731efc6f728aa78c3d4496dfd47e014a16b8bd152047be5a855aa8/imputnet/cobalt" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>aukspot/dles</title>
+      <link>https://github.com/aukspot/dles</link>
+      <description>&lt;p&gt;A curated collection of over 700 daily web games.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/fda4616bea9eafe2da735eb0abcbbdd006e1c432f330aa744f5c178d76e3c197/aukspot/dles" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>satisfactorymodding/SatisfactoryModManager</title>
+      <link>https://github.com/satisfactorymodding/SatisfactoryModManager</link>
+      <description>&lt;p&gt;A mod manager for easy installation of mods and modloader for Satisfactory&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b68cf67697a2aab46b91014c8165205965ba9bb8ea2d995f877fd9491666a22f/satisfactorymodding/SatisfactoryModManager" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>vaibhav-kakde-in/mdhero</title>
+      <link>https://github.com/vaibhav-kakde-in/mdhero</link>
+      <description>&lt;p&gt;A beautiful, native Markdown viewer and lightweight editor for macOS, Windows and Linux. ~8MB, free, open source.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/145a62a63e94d9268db204a9151fcfe576bc6955500b7411ebe8a825e28cf001/vaibhav-kakde-in/mdhero" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Bittu5134/LOTM-Reader</title>
+      <link>https://github.com/Bittu5134/LOTM-Reader</link>
+      <description>&lt;p&gt;A community driven webnovel reader built with Svelte, with offline caching and a tons of optimizations. Built to be faster and cleaner than what was out there.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/817b63ab108db41fa0f0c7d1ebf6d4ca4c22d48c148877ce9adc0f3bd109373a/Bittu5134/LOTM-Reader" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>open-webui/desktop</title>
+      <link>https://github.com/open-webui/desktop</link>
+      <description>&lt;p&gt;Open WebUI Desktop 🌐&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c16054426acec35f4ee7760c4c2443f1bbe14c424442ea902fce92132585bb93/open-webui/desktop" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>jikan-me/website</title>
+      <link>https://github.com/jikan-me/website</link>
+      <description>&lt;p&gt;Website source for Jikan.moe&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d0f0b5ce937777160b945efd59d6b6efdc929327cc69b62c94f9d01223d8e37a/jikan-me/website" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>GoodiesHQ/headscale-admin</title>
+      <link>https://github.com/GoodiesHQ/headscale-admin</link>
+      <description>&lt;p&gt;Admin Web Interface for juanfont/headscale&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7201c3f23d1e5af18e4b30f7109157d5a26af73c526c38cb15ba9aec8b76e222/GoodiesHQ/headscale-admin" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

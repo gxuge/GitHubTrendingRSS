@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Text Monthly Trending</title>
+    <description>Monthly Trending of Text in GitHub</description>
+    <pubDate>Sat, 31 Oct 2026 07:00:51 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>hagezi/dns-blocklists</title>
+      <link>https://github.com/hagezi/dns-blocklists</link>
+      <description>&lt;p&gt;DNS-Blocklists: For a better internet - keep the internet clean!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/83166d20b5731efc6f728aa78c3d4496dfd47e014a16b8bd152047be5a855aa8/hagezi/dns-blocklists" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>DSPBluePrints/FactoryBluePrints</title>
+      <link>https://github.com/DSPBluePrints/FactoryBluePrints</link>
+      <description>&lt;p&gt;游戏戴森球计划的**工厂**蓝图仓库&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e715f5a8d88c4c8c0c1322d3a42a37aef69ec18574ec4021e50aaa762538765f/DSPBluePrints/FactoryBluePrints" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

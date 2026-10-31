@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Mermaid Weekly Trending</title>
+    <description>Weekly Trending of Mermaid in GitHub</description>
+    <pubDate>Sat, 31 Oct 2026 06:45:33 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>dotnet/EntityFramework.Docs</title>
+      <link>https://github.com/dotnet/EntityFramework.Docs</link>
+      <description>&lt;p&gt;Documentation for Entity Framework Core and Entity Framework 6&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b251fe4607d1542c03bfdfb171aaa406945829a623e6f8fbfca1a77bb0157022/dotnet/EntityFramework.Docs" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

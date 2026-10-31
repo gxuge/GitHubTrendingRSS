@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Adblock Filter List Weekly Trending</title>
+    <description>Weekly Trending of Adblock Filter List in GitHub</description>
+    <pubDate>Sat, 31 Oct 2026 06:40:37 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>uBlockOrigin/uAssets</title>
+      <link>https://github.com/uBlockOrigin/uAssets</link>
+      <description>&lt;p&gt;Filter lists for uBlock Origin &amp; uBlock Origin Lite&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9fe555f4e9598e214e23534f6b8ae0a3def24ec54953751180fa4e6e08fa2ddc/uBlockOrigin/uAssets" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Stevoisiak/Stevos-AI-Blocklist</title>
+      <link>https://github.com/Stevoisiak/Stevos-AI-Blocklist</link>
+      <description>&lt;p&gt;A filter list that hides website features which use Generative AI &amp; content labeled as AI Generated.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c6230e31fd88e56d4861af45a524b5cc46e1d570ffec4cfb38e60d9e5578cf8b/Stevoisiak/Stevos-AI-Blocklist" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

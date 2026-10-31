@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Factor Daily Trending</title>
+    <description>Daily Trending of Factor in GitHub</description>
+    <pubDate>Sat, 31 Oct 2026 06:33:08 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>factor/factor</title>
+      <link>https://github.com/factor/factor</link>
+      <description>&lt;p&gt;Factor programming language&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/157985/0af03a5d-3e94-468d-b50c-4a23a275619a" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

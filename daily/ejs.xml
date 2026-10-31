@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub EJS Daily Trending</title>
+    <description>Daily Trending of EJS in GitHub</description>
+    <pubDate>Sat, 31 Oct 2026 06:32:54 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>github/haikus-for-codespaces</title>
+      <link>https://github.com/github/haikus-for-codespaces</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/8c4e6489898f77a6b9022ef24202113038b658a15e9a5a95b941c645f9d61a37/github/haikus-for-codespaces" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Fechin/reference</title>
+      <link>https://github.com/Fechin/reference</link>
+      <description>&lt;p&gt;⭕ Share quick reference cheat sheet for developers.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/322855089/abeede87-dd82-46f0-9d4b-003e91514bf7" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

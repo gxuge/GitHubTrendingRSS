@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Nextflow Daily Trending</title>
+    <description>Daily Trending of Nextflow in GitHub</description>
+    <pubDate>Sat, 31 Oct 2026 06:36:20 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>nf-core/modules</title>
+      <link>https://github.com/nf-core/modules</link>
+      <description>&lt;p&gt;Repository to host tool-specific module files for the Nextflow DSL2 community!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a486d53fa58a537c88918b1542fc2d71f64ada39cd61fdd23b9063bf6553cd3c/nf-core/modules" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>nf-core/sarek</title>
+      <link>https://github.com/nf-core/sarek</link>
+      <description>&lt;p&gt;Analysis pipeline to detect germline or somatic variants (pre-processing, variant calling and annotation) from WGS / targeted sequencing&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f9d0f7a769d12ecb85bce1d33ad5d560438f7654475a3d7218dcdf719347305b/nf-core/sarek" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>nf-core/rnaseq</title>
+      <link>https://github.com/nf-core/rnaseq</link>
+      <description>&lt;p&gt;RNA sequencing analysis pipeline using STAR, RSEM, HISAT2 or Salmon with gene/isoform counts and extensive quality control.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/677b478169dc7e14d37b0b7731ba263e8dac78c9b224cffbb2d536e8dbd69ed4/nf-core/rnaseq" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

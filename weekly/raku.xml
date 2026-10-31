@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Raku Weekly Trending</title>
+    <description>Weekly Trending of Raku in GitHub</description>
+    <pubDate>Sat, 31 Oct 2026 06:47:30 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>rakudo/rakudo</title>
+      <link>https://github.com/rakudo/rakudo</link>
+      <description>&lt;p&gt;🦋 Rakudo – Raku on MoarVM, JVM, and JS&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/84371596c8d675952d3e5483b34ef8b43b0a3fab51062a002604832a11023c3b/rakudo/rakudo" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

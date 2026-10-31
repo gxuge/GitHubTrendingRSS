@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Wren Weekly Trending</title>
+    <description>Weekly Trending of Wren in GitHub</description>
+    <pubDate>Sat, 31 Oct 2026 06:50:22 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>wren-lang/wren</title>
+      <link>https://github.com/wren-lang/wren</link>
+      <description>&lt;p&gt;The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/fbd59bd2c7338f9dc2dcbb11d7288755cb57363615de1bf4cd331c4bc8cde5dc/wren-lang/wren" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

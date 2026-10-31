@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Svelte Daily Trending</title>
+    <description>Daily Trending of Svelte in GitHub</description>
+    <pubDate>Sat, 31 Oct 2026 06:39:11 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>open-webui/desktop</title>
+      <link>https://github.com/open-webui/desktop</link>
+      <description>&lt;p&gt;Open WebUI Desktop 🌐&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c16054426acec35f4ee7760c4c2443f1bbe14c424442ea902fce92132585bb93/open-webui/desktop" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>seanmorley15/AdventureLog</title>
+      <link>https://github.com/seanmorley15/AdventureLog</link>
+      <description>&lt;p&gt;Self-hostable travel tracker and trip planner.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/779449791/d2c92e75-cc4a-41a2-92a1-bb7f60cfa4a7" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>leaningtech/webvm</title>
+      <link>https://github.com/leaningtech/webvm</link>
+      <description>&lt;p&gt;Virtual Machine for the Web&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/454164378/00ded6d6-99da-4861-a71d-59cfa2fcc785" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>imputnet/cobalt</title>
+      <link>https://github.com/imputnet/cobalt</link>
+      <description>&lt;p&gt;best way to save what you love&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/cbfc667d5066c8365f17900f5e45745b69edf101c3bcf9e93e8db677c066ab92/imputnet/cobalt" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

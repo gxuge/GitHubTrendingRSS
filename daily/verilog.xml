@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Verilog Daily Trending</title>
+    <description>Daily Trending of Verilog in GitHub</description>
+    <pubDate>Sat, 31 Oct 2026 06:39:59 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>The-OpenROAD-Project/OpenROAD</title>
+      <link>https://github.com/The-OpenROAD-Project/OpenROAD</link>
+      <description>&lt;p&gt;OpenROAD&#39;s unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/2cee33f2a777866f4447f1c1ede929d5b8af2c7df9fa7b96030b5d9d671db90d/The-OpenROAD-Project/OpenROAD" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>The-OpenROAD-Project/OpenROAD-flow-scripts</title>
+      <link>https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts</link>
+      <description>&lt;p&gt;OpenROAD&#39;s scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c4314c83428a1242dc8bb92f0de405ab05862b2fd0ee12033954f49614ff8c57/The-OpenROAD-Project/OpenROAD-flow-scripts" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>vortexgpgpu/vortex</title>
+      <link>https://github.com/vortexgpgpu/vortex</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9db3963b025cbda16f96455ae5a189f29469d306aafae65a32db24bf00bfcce4/vortexgpgpu/vortex" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>EttusResearch/uhd</title>
+      <link>https://github.com/EttusResearch/uhd</link>
+      <description>&lt;p&gt;The USRP™ Hardware Driver Repository&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4b86227d956a2e6ad418c46e54e9c08ababf21c573b6be0798771deace705a7c/EttusResearch/uhd" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

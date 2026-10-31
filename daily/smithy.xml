@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Smithy Daily Trending</title>
+    <description>Daily Trending of Smithy in GitHub</description>
+    <pubDate>Sat, 31 Oct 2026 06:39:00 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>smithy-lang/smithy-swift</title>
+      <link>https://github.com/smithy-lang/smithy-swift</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/dbfc3d71447296a05b42ef35f49f975132d922b8602239e5cf0a9cfaf51fc0c3/smithy-lang/smithy-swift" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

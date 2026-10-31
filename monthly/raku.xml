@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Raku Monthly Trending</title>
+    <description>Monthly Trending of Raku in GitHub</description>
+    <pubDate>Sat, 31 Oct 2026 06:59:04 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Raku/doc</title>
+      <link>https://github.com/Raku/doc</link>
+      <description>&lt;p&gt;🦋 Raku documentation&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/fd6c5bcebf544753f69c7c220b918485e6a3ad9d0464bb0b9f5703003a655c52/Raku/doc" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

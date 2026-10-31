@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Open Policy Agent Daily Trending</title>
+    <description>Daily Trending of Open Policy Agent in GitHub</description>
+    <pubDate>Sat, 31 Oct 2026 06:36:40 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Checkmarx/kics</title>
+      <link>https://github.com/Checkmarx/kics</link>
+      <description>&lt;p&gt;Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b2619e8e0ae84cad69fb0a6e7739d475bde12960f77a5331aee86eba605b61da/Checkmarx/kics" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Azure/azure-policy</title>
+      <link>https://github.com/Azure/azure-policy</link>
+      <description>&lt;p&gt;Repository for Azure Resource Policy built-in definitions and samples&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f5ea3393abe851bd32a31bdc3d961d03d4c80b03516980cae3025e3e059ba9a8/Azure/azure-policy" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

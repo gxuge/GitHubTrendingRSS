@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub DM Weekly Trending</title>
+    <description>Weekly Trending of DM in GitHub</description>
+    <pubDate>Sat, 31 Oct 2026 06:41:55 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>tgstation/tgstation</title>
+      <link>https://github.com/tgstation/tgstation</link>
+      <description>&lt;p&gt;The /tg/station branch of SS13.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/affb9fabcfc9be70d85c8db6f1d3a3e7ad707430bf56c2ef41bdba771020f31d/tgstation/tgstation" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>goonstation/goonstation</title>
+      <link>https://github.com/goonstation/goonstation</link>
+      <description>&lt;p&gt;Repository for the Goonstation branch of SS13&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/252047483/60d91085-571f-4606-894c-6cd6ba10d32f" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>cmss13-devs/cmss13</title>
+      <link>https://github.com/cmss13-devs/cmss13</link>
+      <description>&lt;p&gt;Contains the code for CM-SS13&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ddb49fe6f7dc1f11d9b276e44cc4287074190a350f152a5dc06b2b30e65e7f48/cmss13-devs/cmss13" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>
