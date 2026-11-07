@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub DM Daily Trending</title>
+    <description>Daily Trending of DM in GitHub</description>
+    <pubDate>Sat, 07 Nov 2026 06:47:04 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>tgstation/tgstation</title>
+      <link>https://github.com/tgstation/tgstation</link>
+      <description>&lt;p&gt;The /tg/station branch of SS13.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/101cd8bece6f81fa0a4d64a4ba67aff832ea3622bfd42b5dc73a41ec459aebf2/tgstation/tgstation" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>cmss13-devs/cmss13</title>
+      <link>https://github.com/cmss13-devs/cmss13</link>
+      <description>&lt;p&gt;Contains the code for CM-SS13&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ac7cbb53a65fe84796d81029005ac6649aab971aedeb8fadb069c32917547ed8/cmss13-devs/cmss13" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

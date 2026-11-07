@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Jsonnet Weekly Trending</title>
+    <description>Weekly Trending of Jsonnet in GitHub</description>
+    <pubDate>Sat, 07 Nov 2026 06:59:28 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>google/jsonnet</title>
+      <link>https://github.com/google/jsonnet</link>
+      <description>&lt;p&gt;Jsonnet - The data templating language&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9c48834d776b960fd767ed8a3dccee802974b6c88af829fab7b0d930d6027713/google/jsonnet" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Smali Daily Trending</title>
+    <description>Daily Trending of Smali in GitHub</description>
+    <pubDate>Sat, 07 Nov 2026 06:53:41 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>LittleSurvival/copymanga-copy20</title>
+      <link>https://github.com/LittleSurvival/copymanga-copy20</link>
+      <description>&lt;p&gt;Mihon/Tachiyomi系列 拷貝漫畫等中文資源的書源 相關社群見readme&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c03b7fe6a04d7830a4cec4caccf9195f38c8414f04d8a8e8ad74839cfa24cfa3/LittleSurvival/copymanga-copy20" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

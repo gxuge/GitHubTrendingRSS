@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub RouterOS Script Daily Trending</title>
+    <description>Daily Trending of RouterOS Script in GitHub</description>
+    <pubDate>Sat, 07 Nov 2026 06:52:38 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>eworm-de/routeros-scripts</title>
+      <link>https://github.com/eworm-de/routeros-scripts</link>
+      <description>&lt;p&gt;a collection of scripts for MikroTik RouterOS&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1d89176f786619768d3b25b1f6de36489ea6d7d2481360e11784fd8c8222bfa2/eworm-de/routeros-scripts" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

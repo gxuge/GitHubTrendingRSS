@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub BrighterScript Weekly Trending</title>
+    <description>Weekly Trending of BrighterScript in GitHub</description>
+    <pubDate>Sat, 07 Nov 2026 06:56:03 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>jellyfin/jellyfin-roku</title>
+      <link>https://github.com/jellyfin/jellyfin-roku</link>
+      <description>&lt;p&gt;The official Jellyfin Roku Client&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/13384592b062e8ea1289ee378a32449e459e3f92d7a95d0c028e4790d21b1934/jellyfin/jellyfin-roku" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Nushell Daily Trending</title>
+    <description>Daily Trending of Nushell in GitHub</description>
+    <pubDate>Sat, 07 Nov 2026 06:50:57 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>mitchellh/vouch</title>
+      <link>https://github.com/mitchellh/vouch</link>
+      <description>&lt;p&gt;A community trust management system based on explicit vouches to participate.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1b210507d64dc38d345d36bdfddae37b10a68e14df37d5a976852d217aa5d7e0/mitchellh/vouch" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

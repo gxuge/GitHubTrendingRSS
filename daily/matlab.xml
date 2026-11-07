@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub MATLAB Daily Trending</title>
+    <description>Daily Trending of MATLAB in GitHub</description>
+    <pubDate>Sat, 07 Nov 2026 06:50:24 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>matlab/matlab-agentic-toolkit</title>
+      <link>https://github.com/matlab/matlab-agentic-toolkit</link>
+      <description>&lt;p&gt;The MATLAB Agentic Toolkit brings proven MATLAB capabilities to AI agents, making engineering and scientific workflows agent-ready.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1200800171/2dbc9d6b-257e-4c09-aa35-11cf556196ae" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>fieldtrip/fieldtrip</title>
+      <link>https://github.com/fieldtrip/fieldtrip</link>
+      <description>&lt;p&gt;The MATLAB toolbox for MEG, EEG and iEEG analysis&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/83c11855168fbe3a635b35537514ab337a1513c95a96f809c08fda0bdc75c716/fieldtrip/fieldtrip" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>mtex-toolbox/mtex</title>
+      <link>https://github.com/mtex-toolbox/mtex</link>
+      <description>&lt;p&gt;MTEX is a free Matlab toolbox for quantitative texture analysis. A Python version is here: https://github.com/mtex-toolbox/pymtex&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/21744b2ccdfc17caa9c0e2f23a5f28867a5fcec01982ee96b39a8c1b421a828e/mtex-toolbox/mtex" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

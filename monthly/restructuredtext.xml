@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub reStructuredText Monthly Trending</title>
+    <description>Monthly Trending of reStructuredText in GitHub</description>
+    <pubDate>Sat, 07 Nov 2026 07:15:00 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>godotengine/godot-docs</title>
+      <link>https://github.com/godotengine/godot-docs</link>
+      <description>&lt;p&gt;Godot Engine official documentation&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/dad74f45e7899b0430e5e2bb683896d69d625b07e9cfbf3867191f027545b75b/godotengine/godot-docs" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>odoo/documentation</title>
+      <link>https://github.com/odoo/documentation</link>
+      <description>&lt;p&gt;Odoo documentation sources&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/38825372/7e97a880-cb19-11e9-8548-dda98bd6e8bd" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

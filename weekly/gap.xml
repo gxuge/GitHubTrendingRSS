@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub GAP Weekly Trending</title>
+    <description>Weekly Trending of GAP in GitHub</description>
+    <pubDate>Sat, 07 Nov 2026 06:57:55 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>gap-system/gap</title>
+      <link>https://github.com/gap-system/gap</link>
+      <description>&lt;p&gt;Main development repository for GAP - Groups, Algorithms, Programming, a System for Computational Discrete Algebra&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c0f1289efd7054be9eabec80b5dfdff21b9e0a64b7fbc5867ed8e00c15de310e/gap-system/gap" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

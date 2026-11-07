@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Open Policy Agent Weekly Trending</title>
+    <description>Weekly Trending of Open Policy Agent in GitHub</description>
+    <pubDate>Sat, 07 Nov 2026 07:01:05 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Checkmarx/kics</title>
+      <link>https://github.com/Checkmarx/kics</link>
+      <description>&lt;p&gt;Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9d1a33b0ebf82ea312b743438ffa3a09a9c420309f2b1ead654030e4559918de/Checkmarx/kics" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub PLSQL Monthly Trending</title>
+    <description>Monthly Trending of PLSQL in GitHub</description>
+    <pubDate>Sat, 07 Nov 2026 07:14:13 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>oracle-samples/db-sample-schemas</title>
+      <link>https://github.com/oracle-samples/db-sample-schemas</link>
+      <description>&lt;p&gt;Oracle Database Sample Schemas&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7bab54319c478d77e3b0e59aa8f1ed1c7d14fae939af4f91734b736450e1072c/oracle-samples/db-sample-schemas" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

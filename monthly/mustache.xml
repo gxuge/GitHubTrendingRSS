@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Mustache Monthly Trending</title>
+    <description>Monthly Trending of Mustache in GitHub</description>
+    <pubDate>Sat, 07 Nov 2026 07:11:13 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>renovatebot/helm-charts</title>
+      <link>https://github.com/renovatebot/helm-charts</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/2579674bca5f5e4f5dd310e9ebd72205384ac35030ff1f50fe8a498959eb78ee/renovatebot/helm-charts" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>prometheus-community/helm-charts</title>
+      <link>https://github.com/prometheus-community/helm-charts</link>
+      <description>&lt;p&gt;Prometheus community Helm charts&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/994c7b44b75d9af459513b6a26a502dddf2233c2a855c561814bec97f0316aae/prometheus-community/helm-charts" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>argoproj/argo-helm</title>
+      <link>https://github.com/argoproj/argo-helm</link>
+      <description>&lt;p&gt;ArgoProj Helm Charts&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7a256d8129c9ca92274213341f9eddf61cb3aafc20903a2878e7a2b7b368dffa/argoproj/argo-helm" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

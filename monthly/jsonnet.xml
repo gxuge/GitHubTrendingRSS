@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Jsonnet Monthly Trending</title>
+    <description>Monthly Trending of Jsonnet in GitHub</description>
+    <pubDate>Sat, 07 Nov 2026 07:09:57 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>walnuts1018/infra</title>
+      <link>https://github.com/walnuts1018/infra</link>
+      <description>&lt;p&gt;自宅サーバーの構成管理&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/89f746b36e06b57f38da18218bae5bd8b7d1608a31acca907134d879a68ed150/walnuts1018/infra" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>argoproj/argocd-example-apps</title>
+      <link>https://github.com/argoproj/argocd-example-apps</link>
+      <description>&lt;p&gt;Example Apps to Demonstrate Argo CD&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1c18013a8baa27556862485fbc302e3a457f25f16921f35e34faae217f2e511f/argoproj/argocd-example-apps" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>google/jsonnet</title>
+      <link>https://github.com/google/jsonnet</link>
+      <description>&lt;p&gt;Jsonnet - The data templating language&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9c48834d776b960fd767ed8a3dccee802974b6c88af829fab7b0d930d6027713/google/jsonnet" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

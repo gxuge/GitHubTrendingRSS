@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub PLSQL Daily Trending</title>
+    <description>Daily Trending of PLSQL in GitHub</description>
+    <pubDate>Sat, 07 Nov 2026 06:51:40 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>NawfalMotii79/PLFM_RADAR</title>
+      <link>https://github.com/NawfalMotii79/PLFM_RADAR</link>
+      <description>&lt;p&gt;Open-source, low-cost 10.5 GHz PLFM phased array RADAR system&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1f42e6ec4c212fca98c92dc204bb9d2027e7808600da34a7d8492524eecf8300/NawfalMotii79/PLFM_RADAR" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

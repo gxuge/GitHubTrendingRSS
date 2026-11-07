@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Ren'Py Daily Trending</title>
+    <description>Daily Trending of Ren'Py in GitHub</description>
+    <pubDate>Sat, 07 Nov 2026 06:52:31 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>renpy/renpy</title>
+      <link>https://github.com/renpy/renpy</link>
+      <description>&lt;p&gt;The Ren&#39;Py Visual Novel Engine&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e8b45f74f0d751f1763c6d9f1418d74c688eacd85039f6e153fe0617256663ca/renpy/renpy" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

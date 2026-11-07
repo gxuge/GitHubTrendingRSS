@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub nesC Daily Trending</title>
+    <description>Daily Trending of nesC in GitHub</description>
+    <pubDate>Sat, 07 Nov 2026 06:50:48 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>bdring/Grbl_Esp32</title>
+      <link>https://github.com/bdring/Grbl_Esp32</link>
+      <description>&lt;p&gt;A port of Grbl CNC Firmware for ESP32&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4819748d484cec0a2799bf66d8253cf487026172c13e1be64bba984842b5f91d/bdring/Grbl_Esp32" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Jac Weekly Trending</title>
+    <description>Weekly Trending of Jac in GitHub</description>
+    <pubDate>Sat, 07 Nov 2026 06:58:56 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>jaseci-labs/jac</title>
+      <link>https://github.com/jaseci-labs/jac</link>
+      <description>&lt;p&gt;The Jac Programming Language -- The ultimate language for agents to build everything.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/6ed402437dcdcf53523c6254b231ecdc3f1a372f00748bf3de273006a3190cbf/jaseci-labs/jac" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

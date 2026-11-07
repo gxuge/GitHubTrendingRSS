@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub UnrealScript Weekly Trending</title>
+    <description>Weekly Trending of UnrealScript in GitHub</description>
+    <pubDate>Sat, 07 Nov 2026 07:04:49 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Joshhhuaaa/EnhancedSC</title>
+      <link>https://github.com/Joshhhuaaa/EnhancedSC</link>
+      <description>&lt;p&gt;A major patch for the original Splinter Cell, fixing bugs and adding gameplay improvements.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c9f16526c1d3d528d78fa8769fcc2e18616a70b9c6317f3d1f02ba8f81b657f0/Joshhhuaaa/EnhancedSC" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

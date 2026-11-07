@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub ActionScript Weekly Trending</title>
+    <description>Weekly Trending of ActionScript in GitHub</description>
+    <pubDate>Sat, 07 Nov 2026 06:55:35 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>openstreetmap/potlatch2</title>
+      <link>https://github.com/openstreetmap/potlatch2</link>
+      <description>&lt;p&gt;Potlatch 2 OpenStreetMap Editor&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/618dd8af3b4c56feb6d2235c927f7a3568288f0d9023eb087fdaef10cb97a521/openstreetmap/potlatch2" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>
