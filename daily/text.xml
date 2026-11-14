@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Text Daily Trending</title>
+    <description>Daily Trending of Text in GitHub</description>
+    <pubDate>Sat, 14 Nov 2026 07:24:33 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>hagezi/dns-blocklists</title>
+      <link>https://github.com/hagezi/dns-blocklists</link>
+      <description>&lt;p&gt;DNS-Blocklists: For a better internet - keep the internet clean!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/786ca327cdc015977a3c3cc74deceeed82e88a3d0a5e021395bbde051af94095/hagezi/dns-blocklists" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

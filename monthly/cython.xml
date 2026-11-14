@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Cython Monthly Trending</title>
+    <description>Monthly Trending of Cython in GitHub</description>
+    <pubDate>Sat, 14 Nov 2026 07:36:17 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>cython/cython</title>
+      <link>https://github.com/cython/cython</link>
+      <description>&lt;p&gt;The most widely used Python to C compiler&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/581b8c6b42723ede2fb11f67757426d946db70a42fa162bd7407083ffa1c67f7/cython/cython" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>TA-Lib/ta-lib-python</title>
+      <link>https://github.com/TA-Lib/ta-lib-python</link>
+      <description>&lt;p&gt;Python wrapper for TA-Lib (http://ta-lib.org/).&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a4e80996903105d25a2f15de1a7cfa3cab6bc7f01308d26afbe9aeeacd8b06c7/TA-Lib/ta-lib-python" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>NVIDIA/cuda-python</title>
+      <link>https://github.com/NVIDIA/cuda-python</link>
+      <description>&lt;p&gt;CUDA Python: Performance meets Productivity&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/91873d55f5c7cadc9c41b48913d8ca3009d00f4670ec067c7cee896c73bd9da0/NVIDIA/cuda-python" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

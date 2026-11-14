@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Papyrus Weekly Trending</title>
+    <description>Weekly Trending of Papyrus in GitHub</description>
+    <pubDate>Sat, 14 Nov 2026 07:30:41 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>MinLL/SkyrimNet-GamePlugin</title>
+      <link>https://github.com/MinLL/SkyrimNet-GamePlugin</link>
+      <description>&lt;p&gt;AI NPCs for Skyrim that talk, remember, react and act, voiced in real time. By Fateless.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ffb00142664d5e43bc73bcc383d0524c187a51abfa666d46c3d431e9f902737f/MinLL/SkyrimNet-GamePlugin" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

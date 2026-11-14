@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub GAP Daily Trending</title>
+    <description>Daily Trending of GAP in GitHub</description>
+    <pubDate>Sat, 14 Nov 2026 07:18:23 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Sqooky/OptimizationLock</title>
+      <link>https://github.com/Sqooky/OptimizationLock</link>
+      <description>&lt;p&gt;Collage of performance configs for deadlock with the intent of optimizing the game&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c809be5df6744e7e6d3b996c41c5d56bafb0f2bcb9726c0c8d0a5681700379f6/Sqooky/OptimizationLock" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

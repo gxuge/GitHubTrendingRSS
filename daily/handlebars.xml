@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Handlebars Daily Trending</title>
+    <description>Daily Trending of Handlebars in GitHub</description>
+    <pubDate>Sat, 14 Nov 2026 07:19:00 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>huggingface/hub-docs</title>
+      <link>https://github.com/huggingface/hub-docs</link>
+      <description>&lt;p&gt;Docs of the Hugging Face Hub&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/200ab9c1c5b7f918465e7dd08049981038b9aaadcfbca138e3fdde8b13189804/huggingface/hub-docs" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>elastic/integrations</title>
+      <link>https://github.com/elastic/integrations</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/254bdd79a08e9893bf4af0838468e0480b3583adcfc3489b010b52dc5738cc26/elastic/integrations" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>rust-lang/rust-by-example</title>
+      <link>https://github.com/rust-lang/rust-by-example</link>
+      <description>&lt;p&gt;Learn Rust with examples (Live code editor included)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/3282505e68e4367aadf759cca1e048a856f7eabe2741466966a716d456b28563/rust-lang/rust-by-example" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

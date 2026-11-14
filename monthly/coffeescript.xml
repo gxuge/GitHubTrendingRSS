@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub CoffeeScript Monthly Trending</title>
+    <description>Monthly Trending of CoffeeScript in GitHub</description>
+    <pubDate>Sat, 14 Nov 2026 07:36:00 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>dropbox/zxcvbn</title>
+      <link>https://github.com/dropbox/zxcvbn</link>
+      <description>&lt;p&gt;Low-Budget Password Strength Estimation&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1c1eb95b3f6252ff849c5436468bd6549205910c06c89e06a15714601d206d41/dropbox/zxcvbn" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>atmos/camo</title>
+      <link>https://github.com/atmos/camo</link>
+      <description>&lt;p&gt;🔒 an http proxy to route images through SSL&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/73a8b517b52552d1e181c38c6a71e745bc74b580daec093652eb6ddd41e2e74d/atmos/camo" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ccd0/4chan-x</title>
+      <link>https://github.com/ccd0/4chan-x</link>
+      <description>&lt;p&gt;Adds various features to anonymous imageboards.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/0607c353a669cbda08a04884c5350b2d5ebaf3e43705021dd59a64d08f8f2737/ccd0/4chan-x" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

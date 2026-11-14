@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Just Daily Trending</title>
+    <description>Daily Trending of Just in GitHub</description>
+    <pubDate>Sat, 14 Nov 2026 07:20:16 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>pop-os/cosmic-epoch</title>
+      <link>https://github.com/pop-os/cosmic-epoch</link>
+      <description>&lt;p&gt;Next generation Cosmic desktop environment&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/b07b7f6196eae58ec3fe4873cc4d581616d5875b90b9a62f6409c5233ddf6ec3/pop-os/cosmic-epoch" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

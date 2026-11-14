@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Svelte Daily Trending</title>
+    <description>Daily Trending of Svelte in GitHub</description>
+    <pubDate>Sat, 14 Nov 2026 07:24:12 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>imputnet/cobalt</title>
+      <link>https://github.com/imputnet/cobalt</link>
+      <description>&lt;p&gt;best way to save what you love&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/79b313245333407aad5441a92a0f04a86fc76bf4d2d0a4e0114ddcbf32d465dc/imputnet/cobalt" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>open-webui/open-webui</title>
+      <link>https://github.com/open-webui/open-webui</link>
+      <description>&lt;p&gt;User-friendly AI Interface (Supports Ollama, OpenAI API, ...)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/701547123/275da62f-2139-4d2b-bcac-57c82872dd30" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>open-webui/desktop</title>
+      <link>https://github.com/open-webui/desktop</link>
+      <description>&lt;p&gt;Open WebUI Desktop 🌐&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7cdc5525f5a86a64f98fff127591f30b8806c7555c8dea1bf09284b180796bcb/open-webui/desktop" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>leaningtech/webvm</title>
+      <link>https://github.com/leaningtech/webvm</link>
+      <description>&lt;p&gt;Virtual Machine for the Web&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/454164378/00ded6d6-99da-4861-a71d-59cfa2fcc785" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>openfoodfacts/openfoodfacts-explorer</title>
+      <link>https://github.com/openfoodfacts/openfoodfacts-explorer</link>
+      <description>&lt;p&gt;The next-generation frontend for OpenFoodFacts, made with SvelteKit&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/645914853/a4b1f877-7564-4768-967e-9f516822c6c0" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>vaibhav-kakde-in/mdhero</title>
+      <link>https://github.com/vaibhav-kakde-in/mdhero</link>
+      <description>&lt;p&gt;A beautiful, native Markdown viewer and lightweight editor for macOS, Windows and Linux. ~8MB, free, open source.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/76796a0845c3a205ea166d66fd7a3d7eb18b02a77cb53faebf0e4b3bda4a22ea/vaibhav-kakde-in/mdhero" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Abdenasser/neohtop</title>
+      <link>https://github.com/Abdenasser/neohtop</link>
+      <description>&lt;p&gt;💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri &amp; Svelte)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/6d1b343b8483158253425b2210d9e0cdcda47d7bee1c1979328a04203e9b0614/Abdenasser/neohtop" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

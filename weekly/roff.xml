@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Roff Weekly Trending</title>
+    <description>Weekly Trending of Roff in GitHub</description>
+    <pubDate>Sat, 14 Nov 2026 07:31:47 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>sidpalas/devops-directive-docker-course</title>
+      <link>https://github.com/sidpalas/devops-directive-docker-course</link>
+      <description>&lt;p&gt;Companion repo for complete Docker course&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/cc87d948f7119e193e61b30df683e2cecb637db22b561356d75953db6fc0702f/sidpalas/devops-directive-docker-course" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>jilleb/MQB-FPA</title>
+      <link>https://github.com/jilleb/MQB-FPA</link>
+      <description>&lt;p&gt;Driving profiles customization research for MQB platform cars&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/321918946/fc0f5280-3fc2-11eb-99c0-8369b6e59849" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

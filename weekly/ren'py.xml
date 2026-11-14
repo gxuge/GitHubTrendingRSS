@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Ren'Py Weekly Trending</title>
+    <description>Weekly Trending of Ren'Py in GitHub</description>
+    <pubDate>Sat, 14 Nov 2026 07:31:41 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>renpy/renpy</title>
+      <link>https://github.com/renpy/renpy</link>
+      <description>&lt;p&gt;The Ren&#39;Py Visual Novel Engine&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d60160f9a7a16107f12eaac3433594a7633d16084d4a555280d80eb865fbde6a/renpy/renpy" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>CensoredUsername/unrpyc</title>
+      <link>https://github.com/CensoredUsername/unrpyc</link>
+      <description>&lt;p&gt;A ren&#39;py script decompiler&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e63af97bb3beeef6db812e3b675806f314de71b2470e06e43de815a15d677361/CensoredUsername/unrpyc" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub TSQL Daily Trending</title>
+    <description>Daily Trending of TSQL in GitHub</description>
+    <pubDate>Sat, 14 Nov 2026 07:24:45 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>DataWithBaraa/sql-ultimate-course</title>
+      <link>https://github.com/DataWithBaraa/sql-ultimate-course</link>
+      <description>&lt;p&gt;The materials of the free 30-hour SQL course: the databases for SQL Server, MySQL and PostgreSQL, every query of the 41 chapters, and the slides.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/dac1d3b273c5e6e5fbb37a30d771e96290d4714cc536343c359b72332385a0f3/DataWithBaraa/sql-ultimate-course" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>lerocha/chinook-database</title>
+      <link>https://github.com/lerocha/chinook-database</link>
+      <description>&lt;p&gt;Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/6349426f9c9960ac136f1d45879f8bce10c1d74841e7890406f0a03f4a33abf7/lerocha/chinook-database" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>microsoft/fhir-server</title>
+      <link>https://github.com/microsoft/fhir-server</link>
+      <description>&lt;p&gt;A service that implements the FHIR standard&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/d1024b7ec398b4ca608cc232510d54d0a4928fdfb63b76c6d4d99faaecbb52c1/microsoft/fhir-server" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

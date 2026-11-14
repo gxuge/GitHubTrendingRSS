@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub RobotFramework Weekly Trending</title>
+    <description>Weekly Trending of RobotFramework in GitHub</description>
+    <pubDate>Sat, 14 Nov 2026 07:31:45 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>renode/renode</title>
+      <link>https://github.com/renode/renode</link>
+      <description>&lt;p&gt;Renode - Antmicro&#39;s open source simulation and virtual development framework for complex embedded systems&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5d1a9f7c9754762978b5912cc88c18b28e8b239f5c7ca97e539829ffa360ff37/renode/renode" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

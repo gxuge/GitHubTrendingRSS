@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Verilog Monthly Trending</title>
+    <description>Monthly Trending of Verilog in GitHub</description>
+    <pubDate>Sat, 14 Nov 2026 07:44:43 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>The-OpenROAD-Project/OpenROAD</title>
+      <link>https://github.com/The-OpenROAD-Project/OpenROAD</link>
+      <description>&lt;p&gt;OpenROAD&#39;s unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/fc283d87cb7c9aca83424ec6fa7773c956ba28160d622a868f57813b4bb76340/The-OpenROAD-Project/OpenROAD" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>vortexgpgpu/vortex</title>
+      <link>https://github.com/vortexgpgpu/vortex</link>
+      <description>&lt;p style=&quot;color:#586069;&quot;&gt;&lt;em&gt;No description/README provided.&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/2d9b0014e071fbe98c3122216bc733c8893759b1a5876e8666bbb85d3467b590/vortexgpgpu/vortex" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>The-OpenROAD-Project/OpenROAD-flow-scripts</title>
+      <link>https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts</link>
+      <description>&lt;p&gt;OpenROAD&#39;s scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4371ce579220cbb9964b2404c4a60d0ff289bda93d96e8021502f4f2715aa143/The-OpenROAD-Project/OpenROAD-flow-scripts" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>nand2mario/z486_MiSTer</title>
+      <link>https://github.com/nand2mario/z486_MiSTer</link>
+      <description>&lt;p&gt;z486 MiSTer core&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/2df894dcfa8be6ded94d65257459294078578872a871b58c979ca74ba36338f2/nand2mario/z486_MiSTer" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

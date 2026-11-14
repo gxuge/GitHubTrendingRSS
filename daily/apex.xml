@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Apex Daily Trending</title>
+    <description>Daily Trending of Apex in GitHub</description>
+    <pubDate>Sat, 14 Nov 2026 07:16:05 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>SFDO-Community-Sprints/Membership-Essentials-App</title>
+      <link>https://github.com/SFDO-Community-Sprints/Membership-Essentials-App</link>
+      <description>&lt;p&gt;Open Source Community Sprint project focused on building a schema for memberships, renewals, payments, multiple members, families, benefits, etc, that actually works. Eventually automation.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5e0f22e8429b2caf2d5fb7f6c1cda239cc919f46f31c8eb552ed343645841bcf/SFDO-Community-Sprints/Membership-Essentials-App" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

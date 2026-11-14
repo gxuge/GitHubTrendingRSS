@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Erlang Monthly Trending</title>
+    <description>Monthly Trending of Erlang in GitHub</description>
+    <pubDate>Sat, 14 Nov 2026 07:37:21 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>apache/couchdb</title>
+      <link>https://github.com/apache/couchdb</link>
+      <description>&lt;p&gt;Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/206417/767a9a00-cb2b-11ea-90b5-46d754c4ad3e" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>emqx/emqx</title>
+      <link>https://github.com/emqx/emqx</link>
+      <description>&lt;p&gt;The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/cd70dd8a408d358fbd34b2d655114e9225e91473410dec3d814119b1014e3da5/emqx/emqx" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>processone/ejabberd</title>
+      <link>https://github.com/processone/ejabberd</link>
+      <description>&lt;p&gt;Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/507610/6b3f4580-98fc-11e9-9b10-7b0745c99a2b" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>erlang/otp</title>
+      <link>https://github.com/erlang/otp</link>
+      <description>&lt;p&gt;Erlang/OTP&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/91dfa4acc8efebf0d03ede95c5091a5c05787e8653147c7ac4cbe5f713658878/erlang/otp" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

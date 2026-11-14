@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub BibTeX Style Weekly Trending</title>
+    <description>Weekly Trending of BibTeX Style in GitHub</description>
+    <pubDate>Sat, 14 Nov 2026 07:26:06 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>acl-org/acl-style-files</title>
+      <link>https://github.com/acl-org/acl-style-files</link>
+      <description>&lt;p&gt;Official style files for papers submitted to venues of the Association for Computational Linguistics&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/754323a143b2aee519ee0ec7c6a842b469ca83dc66dd53b57ff367b5b6c571f5/acl-org/acl-style-files" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

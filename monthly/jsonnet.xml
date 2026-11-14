@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Jsonnet Monthly Trending</title>
+    <description>Monthly Trending of Jsonnet in GitHub</description>
+    <pubDate>Sat, 14 Nov 2026 07:38:57 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>google/jsonnet</title>
+      <link>https://github.com/google/jsonnet</link>
+      <description>&lt;p&gt;Jsonnet - The data templating language&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/06407958f2f3cce4ace2db77bf473532a43db70a43572509857acdcdb06391fc/google/jsonnet" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>argoproj/argocd-example-apps</title>
+      <link>https://github.com/argoproj/argocd-example-apps</link>
+      <description>&lt;p&gt;Example Apps to Demonstrate Argo CD&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/11e86e2b57b36156be46ae0e5cbc087693d1b87797f294dda05798b771a04b28/argoproj/argocd-example-apps" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

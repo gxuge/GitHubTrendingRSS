@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Redscript Weekly Trending</title>
+    <description>Weekly Trending of Redscript in GitHub</description>
+    <pubDate>Sat, 14 Nov 2026 07:31:40 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>CDPR-Modding-Documentation/Cyberpunk-Modding-Docs</title>
+      <link>https://github.com/CDPR-Modding-Documentation/Cyberpunk-Modding-Docs</link>
+      <description>&lt;p&gt;Modding tutorials and documentation for Cyberpunk 2077&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/710dbfa00d2522f5b7509b83524a72f270b75748fc09e74b628c8c9ebc48abf4/CDPR-Modding-Documentation/Cyberpunk-Modding-Docs" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

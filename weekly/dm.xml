@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub DM Weekly Trending</title>
+    <description>Weekly Trending of DM in GitHub</description>
+    <pubDate>Sat, 14 Nov 2026 07:27:10 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>tgstation/tgstation</title>
+      <link>https://github.com/tgstation/tgstation</link>
+      <description>&lt;p&gt;The /tg/station branch of SS13.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f7f8107e8e162c573d949fb3126670bd7bfe44f54b0a3c93ba257a4505eb2e9f/tgstation/tgstation" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Monkestation/Monkestation2.0</title>
+      <link>https://github.com/Monkestation/Monkestation2.0</link>
+      <description>&lt;p&gt;A monkestation rebase to TG code&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e1e9cd46536fc01c1b32094006020c1c32397bef9d28394b027cb3002ad86d5b/Monkestation/Monkestation2.0" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

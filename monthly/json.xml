@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub JSON Monthly Trending</title>
+    <description>Monthly Trending of JSON in GitHub</description>
+    <pubDate>Sat, 14 Nov 2026 07:38:55 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>mdn/browser-compat-data</title>
+      <link>https://github.com/mdn/browser-compat-data</link>
+      <description>&lt;p&gt;Browser compatibility data for Web technologies as displayed on MDN&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/55001853/9320df00-b6f1-11ea-8655-8bbd5c4cff09" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Fyrd/caniuse</title>
+      <link>https://github.com/Fyrd/caniuse</link>
+      <description>&lt;p&gt;Raw browser/feature support data from caniuse.com&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/0b0f092f7121e0fe5ed10f93081f7aeb81087821d18ff9e7c0e5f3891daa12ae/Fyrd/caniuse" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

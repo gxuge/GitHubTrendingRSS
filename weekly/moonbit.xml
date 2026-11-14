@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub MoonBit Weekly Trending</title>
+    <description>Weekly Trending of MoonBit in GitHub</description>
+    <pubDate>Sat, 14 Nov 2026 07:30:08 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>moonbitlang/core</title>
+      <link>https://github.com/moonbitlang/core</link>
+      <description>&lt;p&gt;MoonBit&#39;s Core library&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a1345fb252ba3ac0e388ea3450aa912f52139d371d3b483d6123ef005d8a2660/moonbitlang/core" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

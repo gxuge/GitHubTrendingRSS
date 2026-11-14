@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Nim Daily Trending</title>
+    <description>Daily Trending of Nim in GitHub</description>
+    <pubDate>Sat, 14 Nov 2026 07:21:35 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>zedeus/nitter</title>
+      <link>https://github.com/zedeus/nitter</link>
+      <description>&lt;p&gt;Alternative Twitter front-end&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/154214595d2756c5f27c33080dc659aa6437a0eac3262efd2126580aeaeb1f74/zedeus/nitter" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>status-im/nimbus-eth2</title>
+      <link>https://github.com/status-im/nimbus-eth2</link>
+      <description>&lt;p&gt;Nim implementation of the Ethereum Beacon Chain&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/593de28fbfc6e877eab13bc9bf869315b48429b2382e8364c182981c218be792/status-im/nimbus-eth2" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

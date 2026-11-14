@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub ASL Daily Trending</title>
+    <description>Daily Trending of ASL in GitHub</description>
+    <pubDate>Sat, 14 Nov 2026 07:16:08 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>postgres-cn/pgdoc-cn</title>
+      <link>https://github.com/postgres-cn/pgdoc-cn</link>
+      <description>&lt;p&gt;PostgreSQL manual Chinese translation by China PostgreSQL Users Group&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/fd84510596a7cc4963fe2d26d603b1f58eb95b78e18730c93d324e6e4f02e806/postgres-cn/pgdoc-cn" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>
