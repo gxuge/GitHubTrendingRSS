@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Bikeshed Daily Trending</title>
+    <description>Daily Trending of Bikeshed in GitHub</description>
+    <pubDate>Sat, 21 Nov 2026 07:55:30 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>webmachinelearning/webmcp</title>
+      <link>https://github.com/webmachinelearning/webmcp</link>
+      <description>&lt;p&gt;🤖 WebMCP&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9691b0921b9858e40125e5becbbbfcdee778bee4c0aec5912a8098a53333bc50/webmachinelearning/webmcp" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>gpuweb/gpuweb</title>
+      <link>https://github.com/gpuweb/gpuweb</link>
+      <description>&lt;p&gt;Where the GPU for the Web work happens!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1afb9cb6d450154b90d75b095512f8f94268dd5ddf5088260c62ee20b61d8bd1/gpuweb/gpuweb" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

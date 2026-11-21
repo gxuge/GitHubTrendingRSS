@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub D Weekly Trending</title>
+    <description>Weekly Trending of D in GitHub</description>
+    <pubDate>Sat, 21 Nov 2026 08:05:39 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>abraunegg/onedrive</title>
+      <link>https://github.com/abraunegg/onedrive</link>
+      <description>&lt;p&gt;OneDrive Client for Linux&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/970eb05e3aa4375f67c0f6d62e4e2611f90d198a51ad4b1f9276551bfa2a458c/abraunegg/onedrive" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

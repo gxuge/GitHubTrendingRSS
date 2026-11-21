@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub ASL Weekly Trending</title>
+    <description>Weekly Trending of ASL in GitHub</description>
+    <pubDate>Sat, 21 Nov 2026 08:04:34 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>edk2-porting/edk2-msm</title>
+      <link>https://github.com/edk2-porting/edk2-msm</link>
+      <description>&lt;p&gt;Broken edk2 port for Qualcomm platforms xD&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a720494816cc13936da04cce3e1890eda04265b25125d62138ec0c1ac786252c/edk2-porting/edk2-msm" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>dortania/Getting-Started-With-ACPI</title>
+      <link>https://github.com/dortania/Getting-Started-With-ACPI</link>
+      <description>&lt;p&gt;Repo for Getting Started With ACPI&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/6e68468e48adfad99bf69201ffa929256c41d62ca5920db62f750a7e229e2375/dortania/Getting-Started-With-ACPI" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Standard ML Daily Trending</title>
+    <description>Daily Trending of Standard ML in GitHub</description>
+    <pubDate>Sat, 21 Nov 2026 08:02:44 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>pq-code-package/mldsa-native</title>
+      <link>https://github.com/pq-code-package/mldsa-native</link>
+      <description>&lt;p&gt;Secure, fast, and portable C90 implementation of ML-DSA / FIPS 204&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/02f2b2b3df3f842ff0add0f170a22b5a288301dcb9d403d1f7eda392711c6807/pq-code-package/mldsa-native" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

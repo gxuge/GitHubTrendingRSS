@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Cython Weekly Trending</title>
+    <description>Weekly Trending of Cython in GitHub</description>
+    <pubDate>Sat, 21 Nov 2026 08:05:39 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>TA-Lib/ta-lib-python</title>
+      <link>https://github.com/TA-Lib/ta-lib-python</link>
+      <description>&lt;p&gt;Python wrapper for TA-Lib (http://ta-lib.org/).&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/82e9fd2ae9e34391475ddac0a15567b0b19b53416b0df771bc4da4a680acb835/TA-Lib/ta-lib-python" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>NVIDIA/cuda-python</title>
+      <link>https://github.com/NVIDIA/cuda-python</link>
+      <description>&lt;p&gt;CUDA Python: Performance meets Productivity&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/257441b28450f0f28a9bcb5c6229521dabb2f4be640fe4a9d10a62c5a56d1d02/NVIDIA/cuda-python" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

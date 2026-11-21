@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub V Monthly Trending</title>
+    <description>Monthly Trending of V in GitHub</description>
+    <pubDate>Sat, 21 Nov 2026 08:24:10 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>vlang/vinix</title>
+      <link>https://github.com/vlang/vinix</link>
+      <description>&lt;p&gt;Vinix is an effort to write a modern, fast, and useful operating system in the V programming language&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/71e06b941f1ea798d054f5c5900277110015933591163d4590993db4e2936427/vlang/vinix" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

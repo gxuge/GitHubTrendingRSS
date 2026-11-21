@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub TSQL Daily Trending</title>
+    <description>Daily Trending of TSQL in GitHub</description>
+    <pubDate>Sat, 21 Nov 2026 08:03:23 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>DataWithBaraa/sql-data-warehouse-project</title>
+      <link>https://github.com/DataWithBaraa/sql-data-warehouse-project</link>
+      <description>&lt;p&gt;Build a data warehouse in SQL Server from two source systems, a CRM and an ERP, through bronze, silver and gold. The files and scripts of the free full project.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a00c613d988beb77d86be55d5f202bb6ec598ae52ecd5b29eaf2c601abc5913a/DataWithBaraa/sql-data-warehouse-project" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>DataWithBaraa/sql-ultimate-course</title>
+      <link>https://github.com/DataWithBaraa/sql-ultimate-course</link>
+      <description>&lt;p&gt;The materials of the free 30-hour SQL course: the databases for SQL Server, MySQL and PostgreSQL, every query of the 41 chapters, and the slides.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7755b63f007a4edcf60eda03f2c21bc2b6d3e54de813f4d00627a4b55ea5949e/DataWithBaraa/sql-ultimate-course" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>lerocha/chinook-database</title>
+      <link>https://github.com/lerocha/chinook-database</link>
+      <description>&lt;p&gt;Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/20b69025725fd044b229cf8866e407177d24ccdcb3b37201dc4284335e5f22ce/lerocha/chinook-database" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

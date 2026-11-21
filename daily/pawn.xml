@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Pawn Daily Trending</title>
+    <description>Daily Trending of Pawn in GitHub</description>
+    <pubDate>Sat, 21 Nov 2026 08:00:27 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>wc3mods/war3ft</title>
+      <link>https://github.com/wc3mods/war3ft</link>
+      <description>&lt;p&gt;Warcraft 3: Frozen Throne - Warcraft Mod for Counter Strike, Condition Zero, Day of Defeat and Half-life&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9f0479f7b68189a9c20b157b476d052ab0763226c148f5759436b16316c67e53/wc3mods/war3ft" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

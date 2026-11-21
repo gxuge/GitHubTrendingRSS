@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub AutoIt Weekly Trending</title>
+    <description>Weekly Trending of AutoIt in GitHub</description>
+    <pubDate>Sat, 21 Nov 2026 08:04:39 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>TheMythologist/GenP</title>
+      <link>https://github.com/TheMythologist/GenP</link>
+      <description>&lt;p&gt;Automatically builds GenP executables from source&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a2aafe3169b96d59fa3be94a5e3b56c71c92fa55a2a3b1055455e72cdc402678/TheMythologist/GenP" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Bioruebe/UniExtract2</title>
+      <link>https://github.com/Bioruebe/UniExtract2</link>
+      <description>&lt;p&gt;Universal Extractor 2 is a tool to extract files from any type of archive or installer.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/58821471061351964330c9295306e58c36c80476453c13c54cc0ceb907fb204f/Bioruebe/UniExtract2" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>SegoCode/AutoWall</title>
+      <link>https://github.com/SegoCode/AutoWall</link>
+      <description>&lt;p&gt;🌌 Live wallpapers on Windows 7/8/10/11 using open-source wallpaper engine&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/206883026/a66d9f69-b97e-4c13-869f-1ccd82b49efb" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>rcmaehl/WhyNotWin11</title>
+      <link>https://github.com/rcmaehl/WhyNotWin11</link>
+      <description>&lt;p&gt;Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a624b06f35cb1905f38a56c9753de8c6bbab154a17c3fd81505279164c9e85a9/rcmaehl/WhyNotWin11" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>rcmaehl/MSEdgeRedirect</title>
+      <link>https://github.com/rcmaehl/MSEdgeRedirect</link>
+      <description>&lt;p&gt;A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c7503a690c21066298818858e9da62a07cedd01015a88c693206e4edd881936f/rcmaehl/MSEdgeRedirect" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

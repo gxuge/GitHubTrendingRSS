@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub YAML Daily Trending</title>
+    <description>Daily Trending of YAML in GitHub</description>
+    <pubDate>Sat, 21 Nov 2026 08:04:02 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>KSP-CKAN/NetKAN</title>
+      <link>https://github.com/KSP-CKAN/NetKAN</link>
+      <description>&lt;p&gt;Metadata files used by the NetKAN/CKAN indexer for KSP&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/85511c683df6db19b578bc9de2d8ac2dc0c5fdc489c22ef85268a3e8c2572296/KSP-CKAN/NetKAN" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>web-platform-dx/web-features</title>
+      <link>https://github.com/web-platform-dx/web-features</link>
+      <description>&lt;p&gt;Exploring how to present Web platform features adoptability&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/161570d76821b8243ceb4fa6adcdc898e17515030ef38d349195f2e609f88394/web-platform-dx/web-features" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>GTFOBins/GTFOBins.github.io</title>
+      <link>https://github.com/GTFOBins/GTFOBins.github.io</link>
+      <description>&lt;p&gt;GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/bdea8220ba93f63bf886d395755981729352b50fd437f574973a68742361ab37/GTFOBins/GTFOBins.github.io" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>usnistgov/macos_security</title>
+      <link>https://github.com/usnistgov/macos_security</link>
+      <description>&lt;p&gt;macOS Security Compliance Project&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/024ba09a8c3b1f6d6e577adf4622d3bd588dc11bf07e1e886aa9ffcecb9ec37c/usnistgov/macos_security" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

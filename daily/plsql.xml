@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub PLSQL Daily Trending</title>
+    <description>Daily Trending of PLSQL in GitHub</description>
+    <pubDate>Sat, 21 Nov 2026 08:00:47 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>oracle-samples/db-sample-schemas</title>
+      <link>https://github.com/oracle-samples/db-sample-schemas</link>
+      <description>&lt;p&gt;Oracle Database Sample Schemas&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/3843a9e99b29a4d598120dbf99801fef755ce3c28ffdd3bbd4ae069aafd9a4de/oracle-samples/db-sample-schemas" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>NawfalMotii79/PLFM_RADAR</title>
+      <link>https://github.com/NawfalMotii79/PLFM_RADAR</link>
+      <description>&lt;p&gt;Open-source, low-cost 10.5 GHz PLFM phased array RADAR system&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/afb0bc663e69ede26395fccb43fd8eca4a95bd681f3fefccf456f8936d9fc42a/NawfalMotii79/PLFM_RADAR" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

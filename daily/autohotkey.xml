@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub AutoHotkey Daily Trending</title>
+    <description>Daily Trending of AutoHotkey in GitHub</description>
+    <pubDate>Sat, 21 Nov 2026 07:55:24 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>zhugecaomao/ALTRun</title>
+      <link>https://github.com/zhugecaomao/ALTRun</link>
+      <description>&lt;p&gt;A lightweight, open-source Alfred-style launcher for Windows.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4e8a23d61ff6cdaba98127fb363bffc9c1eeb6c36a09b02ee73ad7e968dfd1d3/zhugecaomao/ALTRun" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Tcl Daily Trending</title>
+    <description>Daily Trending of Tcl in GitHub</description>
+    <pubDate>Sat, 21 Nov 2026 08:03:10 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>analogdevicesinc/hdl</title>
+      <link>https://github.com/analogdevicesinc/hdl</link>
+      <description>&lt;p&gt;HDL libraries and projects&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c61ac24dee43c51035ba7facd0fd13c83229e1ff276ad430008756adec67892f/analogdevicesinc/hdl" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>macports/macports-ports</title>
+      <link>https://github.com/macports/macports-ports</link>
+      <description>&lt;p&gt;The MacPorts ports tree&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/3a4c1b929ec5ec7bf6209e9ba8af350abfcdfac3f4da83b4d7a8525ba23c9688/macports/macports-ports" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Digilent/digilent-xdc</title>
+      <link>https://github.com/Digilent/digilent-xdc</link>
+      <description>&lt;p&gt;A collection of Master XDC files for Digilent FPGA and Zynq boards.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/06efc2248a19e72480d4aeff22333822d584a533d50201bc134f66d9c84348fc/Digilent/digilent-xdc" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

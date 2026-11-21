@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Mojo Daily Trending</title>
+    <description>Daily Trending of Mojo in GitHub</description>
+    <pubDate>Sat, 21 Nov 2026 07:59:54 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>modular/modular</title>
+      <link>https://github.com/modular/modular</link>
+      <description>&lt;p&gt;The Modular Platform (includes MAX &amp; Mojo)&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c33daf3624382ac7495ae5068f3fec4021d69daeb0bcd1c42d6710a73f3bb4ff/modular/modular" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

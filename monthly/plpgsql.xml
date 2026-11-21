@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub PLpgSQL Monthly Trending</title>
+    <description>Monthly Trending of PLpgSQL in GitHub</description>
+    <pubDate>Sat, 21 Nov 2026 08:20:35 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>openmaptiles/openmaptiles</title>
+      <link>https://github.com/openmaptiles/openmaptiles</link>
+      <description>&lt;p&gt;OpenMapTiles Vector Tile Schema Implementation&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/7266a3a48094a26c40f242edf568e6d4d36b552842ec5fad60dd78ca14643bd8/openmaptiles/openmaptiles" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

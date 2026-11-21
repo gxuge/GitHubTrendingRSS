@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub ASL Daily Trending</title>
+    <description>Daily Trending of ASL in GitHub</description>
+    <pubDate>Sat, 21 Nov 2026 07:55:20 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>edk2-porting/edk2-msm</title>
+      <link>https://github.com/edk2-porting/edk2-msm</link>
+      <description>&lt;p&gt;Broken edk2 port for Qualcomm platforms xD&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/a720494816cc13936da04cce3e1890eda04265b25125d62138ec0c1ac786252c/edk2-porting/edk2-msm" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

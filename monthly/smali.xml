@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Smali Monthly Trending</title>
+    <description>Monthly Trending of Smali in GitHub</description>
+    <pubDate>Sat, 21 Nov 2026 08:22:44 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>AhMyth/AhMyth-Android-RAT</title>
+      <link>https://github.com/AhMyth/AhMyth-Android-RAT</link>
+      <description>&lt;p&gt;Android Remote Administration Tool&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/0559df1511fdeb8dac4d49050d2480b6589b8bc12e914aa207050e4f219ea737/AhMyth/AhMyth-Android-RAT" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>LittleSurvival/copymanga-copy20</title>
+      <link>https://github.com/LittleSurvival/copymanga-copy20</link>
+      <description>&lt;p&gt;Mihon/Tachiyomi系列 拷貝漫畫等中文資源的書源 相關社群見readme&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f9d5930ecc1b9d1e29f43e2b34177b583877e1004d7e50f0f51bdfa73d174b3b/LittleSurvival/copymanga-copy20" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

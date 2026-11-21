@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Nunjucks Weekly Trending</title>
+    <description>Weekly Trending of Nunjucks in GitHub</description>
+    <pubDate>Sat, 21 Nov 2026 08:09:08 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>jamstack/jamstack.org</title>
+      <link>https://github.com/jamstack/jamstack.org</link>
+      <description>&lt;p&gt;The official Jamstack site&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1248fa6095b4da8bb4ba84a2c464059ae83709e4a3033e606f2b14d1634167d1/jamstack/jamstack.org" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>GoogleChrome/web.dev</title>
+      <link>https://github.com/GoogleChrome/web.dev</link>
+      <description>&lt;p&gt;The frontend, backend, and content source code for web.dev&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/23cc63956e67eb4cd2d7929db2a24be85957edcd2887b521581c18b10daf06a7/GoogleChrome/web.dev" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

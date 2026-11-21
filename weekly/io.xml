@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Io Weekly Trending</title>
+    <description>Weekly Trending of Io in GitHub</description>
+    <pubDate>Sat, 21 Nov 2026 08:07:16 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ethereum/execution-apis</title>
+      <link>https://github.com/ethereum/execution-apis</link>
+      <description>&lt;p&gt;Collection of APIs provided by Ethereum execution layer clients&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/13edc85229a2238977c7043c5469421077bdad8d880eef4a032189748a9fc360/ethereum/execution-apis" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>
