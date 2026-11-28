@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub LLVM Weekly Trending</title>
+    <description>Weekly Trending of LLVM in GitHub</description>
+    <pubDate>Sat, 28 Nov 2026 08:53:18 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>intel/llvm</title>
+      <link>https://github.com/intel/llvm</link>
+      <description>&lt;p&gt;Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ff36b3b3a744b84677fd23ac36cdf568f395ea003804622db6063c2ba9535b9f/intel/llvm" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>llvm/llvm-project</title>
+      <link>https://github.com/llvm/llvm-project</link>
+      <description>&lt;p&gt;The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/98eb930885f17e392abd6bb9c84c2975ddd1b3991fff3adda6e1109ab38a967a/llvm/llvm-project" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

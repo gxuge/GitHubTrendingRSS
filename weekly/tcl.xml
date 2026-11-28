@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Tcl Weekly Trending</title>
+    <description>Weekly Trending of Tcl in GitHub</description>
+    <pubDate>Sat, 28 Nov 2026 08:57:21 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>macports/macports-ports</title>
+      <link>https://github.com/macports/macports-ports</link>
+      <description>&lt;p&gt;The MacPorts ports tree&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/6daa2ca087975040c63832f45027686fb5d5c187be22e425326039219381445e/macports/macports-ports" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Digilent/digilent-xdc</title>
+      <link>https://github.com/Digilent/digilent-xdc</link>
+      <description>&lt;p&gt;A collection of Master XDC files for Digilent FPGA and Zynq boards.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/f40aadeff80c0f8968f956f7426b623b7c357aee4e81c575e01559f3ab0fc726/Digilent/digilent-xdc" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

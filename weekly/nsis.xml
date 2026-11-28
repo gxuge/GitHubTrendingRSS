@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub NSIS Weekly Trending</title>
+    <description>Weekly Trending of NSIS in GitHub</description>
+    <pubDate>Sat, 28 Nov 2026 08:54:11 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>vim/vim-win32-installer</title>
+      <link>https://github.com/vim/vim-win32-installer</link>
+      <description>&lt;p&gt;Vim Win32 Installer&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/1cfb69e660c351162e515963db8b25f8110e113e7710c5122cf5f6a80721078a/vim/vim-win32-installer" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub G-code Monthly Trending</title>
+    <description>Monthly Trending of G-code in GitHub</description>
+    <pubDate>Sat, 28 Nov 2026 09:01:53 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>kliment/Printrun</title>
+      <link>https://github.com/kliment/Printrun</link>
+      <description>&lt;p&gt;Pronterface, Pronsole, and Printcore - Pure Python 3d printing host software&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5a1089c8c2c2330fb032dbb52bf46d31232ea7a9615c22963f2e2959ead5169e/kliment/Printrun" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

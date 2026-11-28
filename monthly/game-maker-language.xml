@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Game Maker Language Monthly Trending</title>
+    <description>Monthly Trending of Game Maker Language in GitHub</description>
+    <pubDate>Sat, 28 Nov 2026 09:01:54 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>LuwuDynamics/xgoduck_hardware</title>
+      <link>https://github.com/LuwuDynamics/xgoduck_hardware</link>
+      <description>&lt;p&gt;Build your own robot duck. XGO-Duck is a 3D-printable biped powered by Arduino UNO Q and 15 servos, adapted from Pollen Robotics&#39; Microduck. Includes mechanical models, PCB designs, a BOM, and an assembly guide. Build it, explore its motion, and make it your own.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/bc1955d2470517a1062ac8170bbaa747b5e9e05614b26d4f11bdd58d37e5c29f/LuwuDynamics/xgoduck_hardware" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

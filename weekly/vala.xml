@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Vala Weekly Trending</title>
+    <description>Weekly Trending of Vala in GitHub</description>
+    <pubDate>Sat, 28 Nov 2026 08:58:01 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>kem-a/AppManager</title>
+      <link>https://github.com/kem-a/AppManager</link>
+      <description>&lt;p&gt;MacOS style AppImage installer and management application&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ff7bdc80188e4ad707ee5e236c4611c00b788cb9985212479e2da97894f94a9a/kem-a/AppManager" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>alainm23/planify</title>
+      <link>https://github.com/alainm23/planify</link>
+      <description>&lt;p&gt;Task manager with Todoist, Nextcloud &amp; CalDAV support designed for GNOME&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/154173536/28a8522e-d0b4-4b03-9115-c2b41713e49d" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>tkashkin/GameHub</title>
+      <link>https://github.com/tkashkin/GameHub</link>
+      <description>&lt;p&gt;All your games in one place&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/135071605/bdd10b00-6d6c-11e9-97f1-d7bf54be19ce" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>linuxmint/timeshift</title>
+      <link>https://github.com/linuxmint/timeshift</link>
+      <description>&lt;p&gt;System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/c99948e2678d47a41f27c3cd63bace8734bca621b5fdf1fc317e457db1ef193d/linuxmint/timeshift" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Nu Weekly Trending</title>
+    <description>Weekly Trending of Nu in GitHub</description>
+    <pubDate>Sat, 28 Nov 2026 08:54:11 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>nushell/tree-sitter-nu</title>
+      <link>https://github.com/nushell/tree-sitter-nu</link>
+      <description>&lt;p&gt;A tree-sitter grammar for nu-lang, the language of nushell&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/e04f7229bc0181c8ba3ae16356950f69471a0e1360500493259641dab9f580ee/nushell/tree-sitter-nu" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

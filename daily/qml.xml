@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub QML Daily Trending</title>
+    <description>Daily Trending of QML in GitHub</description>
+    <pubDate>Sat, 28 Nov 2026 08:45:25 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>huacnlee/omamail</title>
+      <link>https://github.com/huacnlee/omamail</link>
+      <description>&lt;p&gt;Omarchy mail plugin with Gmail, HEY and IMAP supports.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1339459045/4ee238fa-c92b-44a7-afb1-bea9f3de7a81" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>andreumassanet/impasto</title>
+      <link>https://github.com/andreumassanet/impasto</link>
+      <description>&lt;p&gt;Arch Linux + Hyprland desktop: a Quickshell shell with a dynamic island, desktop widgets, notes and tasks, and a one-script installer&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://repository-images.githubusercontent.com/1346227733/70b18bc1-2c77-4717-8001-e6c26499e528" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>pctrade/end4-pC</title>
+      <link>https://github.com/pctrade/end4-pC</link>
+      <description>&lt;p&gt;Custom end4&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/ab7e054f54b77c9ceb83180b3f0c347b2e4727014471cba59c369e8822007199/pctrade/end4-pC" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>ilyamiro/serpantinum</title>
+      <link>https://github.com/ilyamiro/serpantinum</link>
+      <description>&lt;p&gt;A shell for wayland compositors&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/215d521efd2354a426fd83a49deb4249aa31f1625cf47973256fa3d5aa7fb4eb/ilyamiro/serpantinum" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

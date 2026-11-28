@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub MLIR Weekly Trending</title>
+    <description>Weekly Trending of MLIR in GitHub</description>
+    <pubDate>Sat, 28 Nov 2026 08:53:51 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>triton-lang/triton</title>
+      <link>https://github.com/triton-lang/triton</link>
+      <description>&lt;p&gt;Development repository for the Triton language and compiler&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5b68dd6c605f1716073cab48d307ae94fdfca32fee39ce0c0eec0789162c2580/triton-lang/triton" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>facebookexperimental/triton</title>
+      <link>https://github.com/facebookexperimental/triton</link>
+      <description>&lt;p&gt;Github mirror of trition-lang/triton repo.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/15506e5eea86c7978611ddab9c3593afdb4af90ffb9b40e51ec9b8498f7dfcdc/facebookexperimental/triton" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>triton-lang/triton-ascend</title>
+      <link>https://github.com/triton-lang/triton-ascend</link>
+      <description>&lt;p&gt;Triton language and compiler for Huawei Ascend NPU&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/4b13920b4ef68081624a03b4d5f8229e6b04206d846150ed7d0be69f37d90c3f/triton-lang/triton-ascend" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>

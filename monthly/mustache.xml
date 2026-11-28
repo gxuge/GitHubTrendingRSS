@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GitHub Mustache Monthly Trending</title>
+    <description>Monthly Trending of Mustache in GitHub</description>
+    <pubDate>Sat, 28 Nov 2026 09:05:01 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>prometheus-community/helm-charts</title>
+      <link>https://github.com/prometheus-community/helm-charts</link>
+      <description>&lt;p&gt;Prometheus community Helm charts&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/0e0cdd350da3ee9343860f1410ca9f04b512c9bcaa196fe5a8c02665046776db/prometheus-community/helm-charts" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>thmsgbrt/thmsgbrt</title>
+      <link>https://github.com/thmsgbrt/thmsgbrt</link>
+      <description>&lt;p&gt;My awesome README.md&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/254bd37c2f975b29b19732fe596190b6385c10c620378b00e021b50bebac889d/thmsgbrt/thmsgbrt" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>netbox-community/netbox-chart</title>
+      <link>https://github.com/netbox-community/netbox-chart</link>
+      <description>&lt;p&gt;A Helm chart for NetBox&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/0810b70f2824d6f4c93ecdbf6fc52f7b7f408b88086f80cbbc3c5bccdc4e317a/netbox-community/netbox-chart" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>argoproj/argo-helm</title>
+      <link>https://github.com/argoproj/argo-helm</link>
+      <description>&lt;p&gt;ArgoProj Helm Charts&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/20793d59c93de4a6b6ccb1f8f1eabafd00af9372cf83a094753bed9cea25b582/argoproj/argo-helm" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>goharbor/harbor-helm</title>
+      <link>https://github.com/goharbor/harbor-helm</link>
+      <description>&lt;p&gt;The helm chart to deploy Harbor&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/9c212e2fe378bbc2895436b20cbc0dd0d676d90ac2ff261b1ef38805ffa89ca4/goharbor/harbor-helm" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>
